@@ -3,24 +3,27 @@
 @theme {
   --color-background: #1F2026;
   --color-surface: #272932;
-  --color-primary: #10B981;
-  --primary-hover: #059669;
+  --color-primary: #5CA260;
+  --primary-hover: #4A824E;
   /* Mapping custom name if needed or just use color-primary-hover */
-  --color-primary-hover: #059669;
+  --color-primary-hover: #4A824E;
   --color-secondary: #6B7280;
+
+  --font-sans: 'Space Grotesk', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
   --radius-3xl: 1.5rem;
   --radius-4xl: 2rem;
 }
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Space Grotesk', system-ui, -apple-system, sans-serif;
   color-scheme: dark;
 }
 
 body {
   background-color: var(--color-background);
   color: white;
+  font-family: var(--font-sans);
 }
 
 /* Custom Scrollbar */
