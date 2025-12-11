@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #1F2026;
+  --color-surface: #272932;
+  --color-primary: #10B981;
+  --primary-hover: #059669;
+  /* Mapping custom name if needed or just use color-primary-hover */
+  --color-primary-hover: #059669;
+  --color-secondary: #6B7280;
+
+  --radius-3xl: 1.5rem;
+  --radius-4xl: 2rem;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--color-background);
+  color: white;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--color-background);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--color-surface);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #4B5563;
+}

@@ -1,0 +1,122 @@
+{
+    "name": "BBC Tech Watch RSS Fetcher",
+    "nodes": [
+        {
+            "parameters": {
+                "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+            },
+            "name": "RSS Feed Read",
+            "type": "n8n-nodes-base.rssFeedRead",
+            "typeVersion": 1,
+            "position": [
+                460,
+                300
+            ],
+            "id": "1"
+        },
+        {
+            "parameters": {
+                "mode": "jsonToXml",
+                "options": {
+                    "rootName": "rss",
+                    "header": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+                }
+            },
+            "name": "XML",
+            "type": "n8n-nodes-base.xml",
+            "typeVersion": 1,
+            "position": [
+                860,
+                300
+            ],
+            "id": "2"
+        },
+        {
+            "parameters": {
+                "keepOnlySet": true,
+                "values": {
+                    "string": [
+                        {
+                            "name": "title",
+                            "value": "={{$node[\"RSS Feed Read\"].json[\"title\"]}}"
+                        },
+                        {
+                            "name": "description",
+                            "value": "={{$node[\"RSS Feed Read\"].json[\"contentSnippet\"]}}"
+                        },
+                        {
+                            "name": "link",
+                            "value": "={{$node[\"RSS Feed Read\"].json[\"link\"]}}"
+                        },
+                        {
+                            "name": "pubDate",
+                            "value": "={{$node[\"RSS Feed Read\"].json[\"isoDate\"]}}"
+                        },
+                        {
+                            "name": "media:thumbnail",
+                            "value": "={{$node[\"RSS Feed Read\"].json[\"enclosure\"] && $node[\"RSS Feed Read\"].json[\"enclosure\"][\"url\"] ? $node[\"RSS Feed Read\"].json[\"enclosure\"][\"url\"] : ($node[\"RSS Feed Read\"].json[\"itunes\"] && $node[\"RSS Feed Read\"].json[\"itunes\"][\"image\"] ? $node[\"RSS Feed Read\"].json[\"itunes\"][\"image\"] : '')}}"
+                        }
+                    ]
+                },
+                "options": {}
+            },
+            "name": "Set",
+            "type": "n8n-nodes-base.set",
+            "typeVersion": 1,
+            "position": [
+                660,
+                300
+            ],
+            "id": "3"
+        },
+        {
+            "parameters": {
+                "fileName": "/Users/ronan/Antigravity/Veille IA n8n/public/temp_rss.xml",
+                "dataPropertyName": "data"
+            },
+            "name": "Write Binary File",
+            "type": "n8n-nodes-base.writeBinaryFile",
+            "typeVersion": 1,
+            "position": [
+                1060,
+                300
+            ],
+            "id": "4"
+        }
+    ],
+    "connections": {
+        "RSS Feed Read": {
+            "main": [
+                [
+                    {
+                        "node": "Set",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "Set": {
+            "main": [
+                [
+                    {
+                        "node": "XML",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        },
+        "XML": {
+            "main": [
+                [
+                    {
+                        "node": "Write Binary File",
+                        "type": "main",
+                        "index": 0
+                    }
+                ]
+            ]
+        }
+    }
+}
