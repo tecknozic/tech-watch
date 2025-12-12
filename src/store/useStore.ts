@@ -68,6 +68,12 @@ export const useStore = create<State>((set, get) => ({
             const xml = parser.parseFromString(text, 'text/xml');
             const items = xml.querySelectorAll('item');
 
+            const decodeHtml = (html: string) => {
+                const txt = document.createElement("textarea");
+                txt.innerHTML = html;
+                return txt.value;
+            };
+
             const newItems: ContentItem[] = Array.from(items)
                 .sort((a, b) => {
                     const dateA = new Date(a.querySelector('pubDate')?.textContent || '');
@@ -75,7 +81,8 @@ export const useStore = create<State>((set, get) => ({
                     return dateB.getTime() - dateA.getTime();
                 })
                 .map((item) => {
-                    const title = item.querySelector('title')?.textContent || 'No Title';
+                    const rawTitle = item.querySelector('title')?.textContent || 'No Title';
+                    const title = decodeHtml(rawTitle);
                     const link = item.querySelector('link')?.textContent || '#';
                     const description = item.querySelector('description')?.textContent || '';
                     const pubDate = item.querySelector('pubDate')?.textContent || new Date().toISOString();
@@ -152,6 +159,8 @@ export const useStore = create<State>((set, get) => ({
                     if (summary.length < 20 && contentEncoded) {
                         summary = contentEncoded.replace(/<[^>]*>/g, '').substring(0, 150) + '...';
                     }
+
+                    summary = decodeHtml(summary);
 
                     return {
                         id: crypto.randomUUID(),
