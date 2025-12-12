@@ -52,7 +52,7 @@ export default function DailyRecap() {
             }
 
             // Prepare prompt
-            const articlesText = relevantItems.map(item => `- ${item.title} (${item.source}): ${item.summary}`).join('\n');
+            const articlesText = relevantItems.map(item => `- ${item.title} (${item.source}): ${item.fullContent || item.summary}`).join('\n');
             const prompt = `
 Tu es un Expert en Automatisation et en Veille Technologique, spécialisé dans l'écosystème "No-Code/Low-Code" et l'Intelligence Artificielle.
 

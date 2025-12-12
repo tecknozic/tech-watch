@@ -157,13 +157,18 @@ export const useStore = create<State>((set, get) => ({
                         }
                     }
 
-                    // 3. Clean Summary
+                    // 3. Clean Summary & Full Content
                     // Prefer description, but clean HTML
                     let summary = description.replace(/<[^>]*>/g, '').substring(0, 150) + '...';
                     // If description is short/empty (often true if it was just an image), try contentEncoded
                     if (summary.length < 20 && contentEncoded) {
                         summary = contentEncoded.replace(/<[^>]*>/g, '').substring(0, 150) + '...';
                     }
+
+                    // Full Content for AI
+                    let fullContent = contentEncoded ? contentEncoded.replace(/<[^>]*>/g, '') : description.replace(/<[^>]*>/g, '');
+                    // Limit to a reasonable large size to avoid hitting prompt limits too easily (e.g. 5000 chars per article)
+                    if (fullContent.length > 5000) fullContent = fullContent.substring(0, 5000);
 
                     return {
                         id: crypto.randomUUID(),
@@ -174,6 +179,7 @@ export const useStore = create<State>((set, get) => ({
                         date: new Date(pubDate).toISOString().split('T')[0],
                         summary,
                         tags,
+                        fullContent,
                         type: 'web',
                     };
                 });
