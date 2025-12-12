@@ -21,14 +21,14 @@ export const useStore = create<State>((set, get) => ({
             url: 'https://feeds.bbci.co.uk/news/technology/rss.xml',
             type: 'web',
             name: 'BBC News - Technology',
-            active: true
+            active: false
         },
         {
             id: 'techcrunch-ai',
             url: 'https://techcrunch.com/category/artificial-intelligence/feed/',
             type: 'web',
             name: 'TechCrunch - AI',
-            active: true
+            active: false
         },
         {
             id: 'n8n-blog',
