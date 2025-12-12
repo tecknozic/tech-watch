@@ -7,6 +7,7 @@ const rssFiles = [
     'n8n_rss.xml',
     'cube_rss.xml',
     'ia_news_rss.xml',
+    'bdm_rss.xml',
 ];
 const target = 'public/temp_rss.xml';
 const baseFile = 'bbc_rss.xml';

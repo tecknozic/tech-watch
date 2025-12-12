@@ -5,7 +5,8 @@ import { execSync } from 'child_process';
 const feeds = [
     { url: 'https://feeds.bbci.co.uk/news/technology/rss.xml', file: 'bbc_rss.xml' },
     { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', file: 'tc_rss.xml' },
-    { url: 'https://blog.n8n.io/rss/', file: 'n8n_rss.xml' }
+    { url: 'https://blog.n8n.io/rss/', file: 'n8n_rss.xml' },
+    { url: 'https://www.blogdumoderateur.com/dossier/ia/feed/', file: 'bdm_rss.xml' }
 ];
 
 async function downloadFeed(url, filepath) {
