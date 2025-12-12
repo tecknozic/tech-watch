@@ -3,13 +3,13 @@ import fs from 'fs';
 import path from 'path';
 
 const rssFiles = [
-    // 'tc_rss.xml', // Disabled
+    'tc_rss.xml',
     'n8n_rss.xml',
     'cube_rss.xml',
-    // 'ia_news_rss.xml', // Now used as base
+    'ia_news_rss.xml',
 ];
 const target = 'public/temp_rss.xml';
-const baseFile = 'ia_news_rss.xml'; // Was bbc_rss.xml
+const baseFile = 'bbc_rss.xml';
 
 // Helper to extract items using basic string manipulation to avoid XML dependencies
 function extractItems(content) {

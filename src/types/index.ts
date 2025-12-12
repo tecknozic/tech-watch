@@ -16,7 +16,6 @@ export interface ContentItem {
     sourceUrl: string;
     date: string;
     summary: string;
-    fullContent?: string;
     tags: string[];
     type: SourceType;
 }
