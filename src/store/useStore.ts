@@ -90,7 +90,10 @@ export const useStore = create<State>((set, get) => ({
                         return null;
                     }
 
-                    if (link.includes('n8n.io')) {
+                    if (link.includes('blogdumoderateur.com')) {
+                        source = 'BDM';
+                        tags = ['Tech', 'News', 'BDM'];
+                    } else if (link.includes('n8n.io')) {
                         source = 'n8n Blog';
                         tags = ['Automation', 'n8n', 'Blog'];
                     } else if (link.includes('ecole.cube.fr')) {
