@@ -1,4 +1,4 @@
-import { LayoutDashboard, Settings, X } from 'lucide-react';
+import { LayoutDashboard, Settings, X, Sparkles } from 'lucide-react';
 import { NavLink } from 'react-router-dom';
 import { cn } from '../utils/cn';
 
@@ -43,6 +43,32 @@ export function Sidebar({ isOpen = false, onClose }: SidebarProps) {
 
                     {/* Navigation */}
                     <div className="flex-1 space-y-2">
+                        {/* Daily Recap Link */}
+                        <NavLink
+                            to="/recap"
+                            onClick={onClose} // Close sidebar on nav click on mobile
+                            className={({ isActive }) =>
+                                cn(
+                                    "group flex items-center px-4 py-3 text-sm font-medium rounded-2xl transition-all duration-200",
+                                    isActive
+                                        ? "bg-primary text-white shadow-lg shadow-primary/25"
+                                        : "text-gray-400 hover:text-white hover:bg-surface"
+                                )
+                            }
+                        >
+                            {({ isActive }) => (
+                                <>
+                                    <Sparkles
+                                        className={cn(
+                                            'mr-4 h-5 w-5 flex-shrink-0',
+                                            isActive ? 'text-white' : 'text-gray-400 group-hover:text-white'
+                                        )}
+                                    />
+                                    Daily Recap
+                                </>
+                            )}
+                        </NavLink>
+
                         {navigation.map((item) => (
                             <NavLink
                                 key={item.name}
