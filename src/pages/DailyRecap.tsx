@@ -3,13 +3,14 @@ import React, { useState } from 'react';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import ReactMarkdown from 'react-markdown';
 import { useStore } from '../store/useStore';
-import { Sparkles, Loader2, Calendar, AlertTriangle } from 'lucide-react';
+import { Sparkles, Loader2, Calendar, AlertTriangle, Volume2, StopCircle } from 'lucide-react';
 
 export default function DailyRecap() {
     const { contentItems, fetchContent } = useStore();
     const [summary, setSummary] = useState<string>('');
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState<string | null>(null);
+    const [isSpeaking, setIsSpeaking] = useState(false);
 
     // Fetch content on mount if empty
     React.useEffect(() => {
@@ -56,37 +57,40 @@ export default function DailyRecap() {
 Tu es un Expert en Automatisation et en Veille Technologique, spécialisé dans l'écosystème "No-Code/Low-Code" et l'Intelligence Artificielle.
 
 TA MISSION :
-À partir du lot d'articles (${relevantItems.length} articles) fournis ci-dessous, rédige une synthèse structurée et pédagogique. Ton objectif est de rendre ces informations techniques (IA et n8n) accessibles à un public non-expert, tout en conservant la précision du fond. Ne fais pas un résumé article par article, mais une fusion thématique des informations.
+À partir des articles ci-dessous, rédige une synthèse **très aérée** et **agréable à lire**. Ton but est d'informer un public tech non-expert sans l'ennuyer.
 
-FORMAT DE SORTIE REQUIS (Respecte scrupuleusement cette structure) :
+RÈGLES D'OR DE FORMATAGE :
+- Utilise des **emojis** pour chaque titre de section et pour les points importants.
+- Fais des **paragraphes courts** (max 3-4 lignes).
+- Saute des lignes entre chaque idée.
+- Utilise abondamment les **listes à puces** pour énumérer les nouveautés.
 
-1. CONTEXTE GLOBAL & ENJEUX
-- En 2-3 phrases simples, explique de quoi parlent ces articles globalement.
-- Pourquoi est-ce important maintenant ? (Le "Big Picture").
+STRUCTURE ATTENDUE :
 
-2. ANALYSE DES AVANCÉES & FONCTIONNALITÉS
-- Détaille les nouveautés ou concepts clés mentionnés.
-- Explique les termes techniques complexes (ex: nœuds, agents, LLM, API) entre parenthèses ou via des analogies simples.
-- Mets en **gras** les entités importantes (outils, entreprises, modèles d'IA).
+# 🌍 Contexte & Enjeux
+(2-3 phrases simples pour introduire le sujet global et son importance aujourd'hui)
 
-3. FAITS vs PERSPECTIVES
-- Distingue clairement les annonces concrètes (ce qui est sorti/prouvé) des promesses ou opinions (ce que l'on espère pour le futur).
-- Utilise une liste à puces pour cette section.
+# 🚀 Les Nouveautés à Retenir
 
-4. CONCLUSION & IMPACT PRATIQUE
-- Résume l'impact concret pour un utilisateur de n8n ou d'IA.
-- Une phrase de clôture engageante.
+### 🧠 Modèles & IA
+- Point clé 1
+- Point clé 2
 
-TON ET STYLE :
-- Vulgarisé et Éducatif : Parle comme un mentor bienveillant qui explique une nouveauté à un collègue curieux.
-- Engageant : Utilise des phrases actives. Évite le jargon corporatif froid.
-- Langue : Français impeccable.
+### 🛠️ Outils & NoCode (n8n, etc.)
+- Point clé 1
+- Point clé 2
+
+# 🔮 Ce qu'il faut en penser
+(Analyse rapide : Est-ce une révolution ou une évolution ? Qu'attendre pour la suite ?)
+
+# 💡 Conclusion Pratique
+(Une phrase d'impact pour l'utilisateur)
 
 CONTENU À ANALYSER :
 ${articlesText}
 `;
 
-            const modelsToTry = ["gemini-3-pro-preview", "gemini-1.5-flash"];
+            const modelsToTry = ["gemini-3-pro-preview", "gemini-2.5-flash"];
             let resultText = '';
             let lasterror = null;
 
@@ -120,6 +124,22 @@ ${articlesText}
         } finally {
             setLoading(false);
         }
+    };
+
+    const speakSummary = () => {
+        if (!summary) return;
+
+        if (isSpeaking) {
+            window.speechSynthesis.cancel();
+            setIsSpeaking(false);
+            return;
+        }
+
+        const utterance = new SpeechSynthesisUtterance(summary);
+        utterance.lang = 'fr-FR';
+        utterance.onend = () => setIsSpeaking(false);
+        window.speechSynthesis.speak(utterance);
+        setIsSpeaking(true);
     };
 
     return (
@@ -156,7 +176,14 @@ ${articlesText}
                 )}
 
                 {summary && (
-                    <div className="prose prose-invert max-w-none mt-6 bg-[#1F2026] p-6 rounded-2xl border border-white/5">
+                    <div className="prose prose-invert max-w-none mt-6 bg-[#1F2026] p-6 rounded-2xl border border-white/5 relative">
+                        <button
+                            onClick={speakSummary}
+                            className="absolute top-4 right-4 p-2 bg-white/10 hover:bg-white/20 rounded-lg text-gray-300 hover:text-white transition-colors"
+                            title={isSpeaking ? "Arrêter la lecture" : "Lire le résumé"}
+                        >
+                            {isSpeaking ? <StopCircle className="w-5 h-5" /> : <Volume2 className="w-5 h-5" />}
+                        </button>
                         <ReactMarkdown>{summary}</ReactMarkdown>
                     </div>
                 )}
