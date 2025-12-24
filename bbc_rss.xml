@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Dec 2025 00:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 06:15:26 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US denies visas to ex-EU commissioner and others over social media rules]]></title>
+            <description><![CDATA[Thierry Breton, the former top tech regulator at the European Commission, says a "witch hunt" is taking place.]]></description>
+            <link>https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp39kngz008o#0</guid>
+            <pubDate>Wed, 24 Dec 2025 00:45:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/5259b830-e05c-11f0-bdd6-e11ea3d501a5.jpg"/>
+        </item>
         <item>
             <title><![CDATA[TikTok removes AI weight loss ads from fake Boots account]]></title>
             <description><![CDATA[The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer.]]></description>
@@ -61,14 +69,6 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cgexp1q8wn1o#0</guid>
             <pubDate>Fri, 19 Dec 2025 07:27:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da55/live/b4d55230-dcf6-11f0-b67b-690eb873de1b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The showers and baths keeping data centre tech cool]]></title>
-            <description><![CDATA[Finding greener ways to keep giant new data centres cool is a challenge.]]></description>
-            <link>https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8zd176516o#0</guid>
-            <pubDate>Tue, 23 Dec 2025 00:04:45 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949d/live/c590f8c0-d032-11f0-9fb5-5f3a3703a365.jpg"/>
         </item>
         <item>
             <title><![CDATA[UK to ban deepfake AI 'nudification' apps]]></title>
@@ -325,6 +325,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002n4hn#4</guid>
             <pubDate>Sat, 29 Nov 2025 01:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0mkbrsc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The showers and baths keeping data centre tech cool]]></title>
+            <description><![CDATA[Finding greener ways to keep giant new data centres cool is a challenge.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8zd176516o#5</guid>
+            <pubDate>Tue, 23 Dec 2025 00:04:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949d/live/c590f8c0-d032-11f0-9fb5-5f3a3703a365.jpg"/>
         </item>
         <item>
             <title><![CDATA[Will tech trump tradition at bakers and biscuit makers?]]></title>
