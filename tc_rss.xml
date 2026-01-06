@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 05 Jan 2026 17:55:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Jan 2026 00:09:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,88 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>CES 2026: Follow live as NVIDIA, Lego, AMD, Amazon, and more make their big reveals</title>
+		<title>Microsoft&#8217;s Nadella wants us to stop thinking of AI as &#8216;slop&#8217;</title>
+		<link>https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2026 23:09:56 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Satya Nadella]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3079735</guid>
+
+					<description><![CDATA[Nadella wants us to think of AI as a human helper instead of a slop-generating job killer. New data for 2026 indicates he could be right.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia wants to be the Android of generalist robotics </title>
+		<link>https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2026 23:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ces 2026]]></category>
+		<category><![CDATA[cosmos]]></category>
+		<category><![CDATA[Groot]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[physical ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3080048</guid>
+
+					<description><![CDATA[Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia launches powerful new Rubin chip architecture</title>
+		<link>https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2026 22:16:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ai infrastructure]]></category>
+		<category><![CDATA[ces 2026]]></category>
+		<category><![CDATA[compute]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[Rubin architecture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3079726</guid>
+
+					<description><![CDATA[Nvidia CEO Jensen Huang officially launched the company’s new Rubin computing architecture, which he described as the state of the art in AI computing.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to &#8216;think like a human&#8217;</title>
+		<link>https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2026 21:52:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[alpamayo]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[ces 2026]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[physical ai]]></category>
+		<category><![CDATA[vision language models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3079883</guid>
+
+					<description><![CDATA[Nvidia unveiled Alpamayo at CES 2026, which includes a reasoning vision language action model that allows an autonomous vehicle to think more like a human and provide chain-of-thought reasoning.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals</title>
 		<link>https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/</link>
 		
 		<dc:creator><![CDATA[Kirsten Korosec, Sarah Perez]]></dc:creator>
@@ -44,7 +125,7 @@
 		<category><![CDATA[nvidia]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_storyline&#038;p=3079638</guid>
 
-					<description><![CDATA[CES 2026, the annual consumer tech conference held in Las Vegas is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird, and relevant (and some not so relevant) tech, and of course the people working on it. Even before the official kickoff of CES on January 6, there will be product reveals from Amazon, Nvidia, Hyundai, AMD, and more. AI is at the center of most of the action. But this year, we're hearing a lot more about the convergence of AI and the physical world, whether it's in factories, robotics, or autonomous vehicles. Follow our live updates as we share all the reveals and new hardware as it happens.]]></description>
+					<description><![CDATA[CES 2026, the annual consumer tech conference held in Las Vegas, is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird, and relevant (and some not so relevant) tech, and of course the people working on it. Even before the official kickoff of CES on January 6, there will be product reveals from Amazon, Nvidia, Hyundai, AMD, and more. AI is at the center of most of the action. But this year, we're hearing a lot more about the convergence of AI and the physical world, whether it's in factories, robotics, or autonomous vehicles. Follow our live updates as we share all the reveals and new hardware as it happens.]]></description>
 		
 		
 		
@@ -99,6 +180,7 @@
 		<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Commerce]]></category>
 		<category><![CDATA[DoorDash]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3079541</guid>
 
 					<description><![CDATA[DoorDash seems to have confirmed a viral story about a driver using an AI-generated photo to lie about making a delivery.]]></description>
@@ -113,8 +195,8 @@
 		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
 		<pubDate>Sun, 04 Jan 2026 16:50:19 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
 		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
 		<category><![CDATA[Elon Musk]]></category>
 		<category><![CDATA[India]]></category>
 		<category><![CDATA[malaysia]]></category>
@@ -135,10 +217,10 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[plaud]]></category>
 		<category><![CDATA[AI meeting]]></category>
 		<category><![CDATA[AI notetaker]]></category>
 		<category><![CDATA[ces 2026]]></category>
-		<category><![CDATA[plaud]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3079509</guid>
 
 					<description><![CDATA[Plaud is going after the likes of Granola to launch a desktop app that records online meetings.]]></description>
@@ -329,82 +411,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3078821</guid>
 
 					<description><![CDATA[The exact impact AI will have on the enterprise labor market is unclear but investors predict trends will start to emerge in 2026. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The phone is dead. Long live . . . what exactly?</title>
-		<link>https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Wed, 31 Dec 2025 05:37:03 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[True Ventures]]></category>
-		<category><![CDATA[fitbit]]></category>
-		<category><![CDATA[Ring]]></category>
-		<category><![CDATA[HashiCorp]]></category>
-		<category><![CDATA[jon callaghan]]></category>
-		<category><![CDATA[Peleton]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3079351</guid>
-
-					<description><![CDATA["We're not going to be using iPhones in 10 years," Callaghan says flatly. "I kind of don't think we'll be using them in five years."]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The best AI-powered dictation apps of 2025</title>
-		<link>https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 30 Dec 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[voice AI]]></category>
-		<category><![CDATA[Wispr flow]]></category>
-		<category><![CDATA[ai dictation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3076350</guid>
-
-					<description><![CDATA[AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VCs predict enterprises will spend more on AI in 2026 — through fewer vendors</title>
-		<link>https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 30 Dec 2025 15:30:24 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI startups]]></category>
-		<category><![CDATA[enterprise budgets]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3078811</guid>
-
-					<description><![CDATA[Enterprises have been experimenting with AI tools for a few years. Investors predict they will start to pick winners in 2026. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta just bought Manus, an AI startup everyone has been talking about</title>
-		<link>https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Tue, 30 Dec 2025 05:39:08 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Manus AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3079280</guid>
-
-					<description><![CDATA[Meta says it'll keep Manus running independently while weaving its agents into Facebook, Instagram, and WhatsApp, where Meta's own chatbot, Meta AI, is already available to users.]]></description>
 		
 		
 		
