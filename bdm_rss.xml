@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 05 Jan 2026 08:20:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Jan 2026 10:14:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ChatGPT Santé : comment fonctionne le nouvel assistant d&#8217;OpenAI</title>
+		<link>https://www.blogdumoderateur.com/chatgpt-sante-nouvel-assistant-openai/</link>
+					<comments>https://www.blogdumoderateur.com/chatgpt-sante-nouvel-assistant-openai/#respond</comments>
+		
+		<dc:creator><![CDATA[José Billon]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2026 10:14:27 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=197418</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/ChatGPT-Health-294x165.jpg" alt="ChatGPT Santé : comment fonctionne le nouvel assistant d&rsquo;OpenAI" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Le nouvel outil, "conçu pour la santé et le bien-être", a été construit en collaboration avec des médecins. Il est actuellement testé auprès d'un groupe restreint d'utilisateurs.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/chatgpt-sante-nouvel-assistant-openai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/ChatGPT-Health-294x165.jpg" type="image/jpeg" length="197140"/>
+		</item>
+		<item>
 		<title>5 formations pour apprendre à utiliser l’IA en entreprise</title>
 		<link>https://www.blogdumoderateur.com/selection-formation-ia-284/</link>
 					<comments>https://www.blogdumoderateur.com/selection-formation-ia-284/#respond</comments>
@@ -645,26 +664,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/Claude-Code-Slack-integration-294x165.jpg" type="image/jpeg" length="227487"/>
-		</item>
-		<item>
-		<title>IA générative : quels effets concrets sur la recherche en ligne ?</title>
-		<link>https://www.blogdumoderateur.com/ia-generative-effets-recherche-en-ligne/</link>
-					<comments>https://www.blogdumoderateur.com/ia-generative-effets-recherche-en-ligne/#respond</comments>
-		
-		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:01:48 +0000</pubDate>
-				<category><![CDATA[Web]]></category>
-		<category><![CDATA[Étude]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=196047</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2025/12/ia-chiffres-similarweb-etude-294x133.jpg" alt="IA générative : quels effets concrets sur la recherche en ligne ?" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">En 2025, l’IA générative s’est intégrée encore davantage au quotidien des internautes, sans toutefois prendre la place des moteurs de recherche, selon le dernier rapport de Similarweb.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/ia-generative-effets-recherche-en-ligne/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/ia-chiffres-similarweb-etude-294x133.jpg" type="image/jpeg" length="103543"/>
 		</item>
 	</channel>
 </rss>
