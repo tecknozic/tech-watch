@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Jan 2026 18:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 00:44:32 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -305,6 +305,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5bf/live/a7d6d590-d580-11f0-9fb5-5f3a3703a365.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Excel: The software that's hard to quit]]></title>
+            <description><![CDATA[Companies are trying to wean staff off Excel spreadsheets to centralise control of their data.]]></description>
+            <link>https://www.bbc.com/news/articles/cwyxkzjpp87o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyxkzjpp87o#5</guid>
+            <pubDate>Fri, 09 Jan 2026 00:07:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f8/live/912579e0-da95-11f0-aae2-2191c0e48a3b.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The showers and baths keeping data centre tech cool]]></title>
             <description><![CDATA[Finding greener ways to keep giant new data centres cool is a challenge.]]></description>
             <link>https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -426,6 +434,44 @@
         </item>
     
 <item>
+		<title>CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities </title>
+		<link>https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/</link>
+		
+		<dc:creator><![CDATA[Morgan Little]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2026 00:35:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[amd]]></category>
+		<category><![CDATA[boston dynamics]]></category>
+		<category><![CDATA[ces 2026]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3080516</guid>
+
+					<description><![CDATA[CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Governments grapple with the flood of non-consensual nudity on X</title>
+		<link>https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2026 22:08:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3081355</guid>
+
+					<description><![CDATA[For the past two weeks, X has been flooded with AI-manipulated nude images, created by the Grok AI chatbot — and governments around the world are promising to take action.]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>OpenAI to acquire the team behind executive coaching AI tool Convogo</title>
 		<link>https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/</link>
 		
@@ -435,7 +481,7 @@
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[acqui-hire]]></category>
 		<category><![CDATA[convogo]]></category>
-		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3081258</guid>
 
@@ -497,10 +543,11 @@
 		<category><![CDATA[Hardware]]></category>
 		<category><![CDATA[AI chips]]></category>
 		<category><![CDATA[h200]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[nvidia]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3081140</guid>
 
-					<description><![CDATA[Nvidia is now requiring its customers in China to pay upfront in full for its H200 AI chips even as approval Stateside and from Beijing remains uncertain.]]></description>
+					<description><![CDATA[Nvidia is now requiring its customers in China to pay upfront in full for its H200 AI chips even as approval stateside and from Beijing remains uncertain.]]></description>
 		
 		
 		
@@ -779,47 +826,7 @@
 		
 		
 			</item>
-<item>
-		<title>Intel spinout Articul8 raises more than half of $70M round at $500M valuation</title>
-		<link>https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Adara Ventures]]></category>
-		<category><![CDATA[Articul8]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[genAI]]></category>
-		<category><![CDATA[Intel]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3080536</guid>
-
-					<description><![CDATA[Articul8's valuation for its current funding round marks a roughly fivefold increase since its Series A.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>McKinsey and General Catalyst execs say the era of &#8216;learn once, work forever&#8217; is over</title>
-		<link>https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Wed, 07 Jan 2026 03:09:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[General Catalyst]]></category>
-		<category><![CDATA[Jason Calacanis]]></category>
-		<category><![CDATA[Jobs]]></category>
-		<category><![CDATA[labor]]></category>
-		<category><![CDATA[ces 2026]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3080615</guid>
-
-					<description><![CDATA[Calacanis, General Catalyst's Taneja, and McKinsey's Sternfels discussed how AI is reshaping technology and the labor force.]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[Security Advisory: Security Vulnerability in n8n Versions 1.65-1.120.4]]></title><description><![CDATA[Security update: Upgrade recommended for users on versions below 1.20.4]]></description><link>https://blog.n8n.io/security-advisory-20260108/</link><guid isPermaLink="false">69601ee7ac1dc90001fe4b9f</guid><category><![CDATA[security-advisory]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 08 Jan 2026 21:36:46 GMT</pubDate><media:content url="https://blog.n8n.io/content/images/2026/01/cve-ls.png" medium="image"/><content:encoded><![CDATA[<img src="https://blog.n8n.io/content/images/2026/01/cve-ls.png" alt="Security Advisory: Security Vulnerability in n8n Versions 1.65-1.120.4"><p>We were made aware in November of a critical security vulnerability affecting n8n version 1.65-1.120.4. This has been fixed in&#xA0;<strong>n8n version 1.121.0 and released to our entire customer base on November 18, 2025.</strong> We&apos;re reaching out to ensure self-hosted users have the information needed to secure their instances.</p><p><strong>What happened</strong>:&#xA0;The reported vulnerability affects certain form-based workflows. A vulnerable workflow could grant access to an unauthenticated remote attacker. This could potentially result in exposure of information stored on the system and may enable further compromise depending on deployment configuration and workflow usage.</p><p>An n8n instance is potentially vulnerable if it has an active workflow with a Form Submission trigger accepting a file element, and a Form Ending node returning a binary file. Due to improper input validation, such a workflow could, under specific limited conditions, theoretically be exploited to gain read access to the underlying file system. The vulnerable workflow could be exploited by an attacker who can access the form, including unauthenticated callers.</p><p><strong>Potential impact</strong></p><p><strong>Who is affected:</strong></p><ul><li>Self-hosted instances running versions 1.65-1.120.4</li><li>If you&apos;re running any 2.x version (including any RC/beta), you already have this security fix</li><li>Cloud instances are being upgraded. You can also <a href="https://docs.n8n.io/manage-cloud/update-cloud-version/#update-your-cloud-version">start the upgrade from your Cloud dashboard</a>.</li></ul><p>If this vulnerability were exploited, it could lead to:</p><ul><li>In certain configurations, privilege escalation within the n8n instance</li><li>Unauthorized access to sensitive information stored in your n8n instance</li></ul><p><strong>Required action</strong></p><p>If you&apos;re running version 1.65-1.120.4: Please update your n8n instance to version 1.121.0 (or later) as soon as possible. This version contains the necessary security fixes.</p><p>If you&apos;re running any 2.x version (including any RC/beta): No action needed - you already have this security fix.</p><p><strong>FAQ</strong></p><p><strong>Is my n8n instance affected?</strong><br>Your instance is affected if you&apos;re running <strong>version 1.65-1.120.4</strong> with an active workflow that has both:</p><ul><ul><li>A Form Submission trigger accepting a file element, AND</li><li>A Form Ending node returning a binary file</li></ul></ul><p>If you&apos;re running <strong>version 1.121.0 or later</strong>, or <strong>any 2.x version</strong>, you are not affected.</p><p>If you&apos;re a <strong>Cloud customer</strong>, we&apos;ll upgrade and secure your instance in the next 12 hours. You can also <a href="https://docs.n8n.io/manage-cloud/update-cloud-version/#update-your-cloud-version">start the upgrade from your Cloud dashboard</a>.</p><p><a href="https://community.n8n.io/uploads/short-url/cpAkGQqvp9xCkofHOVr7J8oSSvC.json">You can run this workflow template</a> to scan your instance for potentially vulnerable workflows.</p><p><strong>How can I keep track of n8n releases?</strong><br><a href="https://docs.n8n.io/release-notes/">Access our release notes here</a> - each one also links to the GitHub commits for detailed information.</p><p><strong>How can I keep track of n8n CVEs?</strong><br><a href="https://github.com/n8n-io/n8n/security/advisories">We disclose our CVEs on GitHub</a>.</p><p><strong>How is n8n addressing security?</strong><br>We take an active stance on security through our <a href="https://n8n.notion.site/n8n-vulnerability-disclosure-program">Vulnerability Disclosure Program</a>. We prioritize responding to reportsand things we find ourselves, and we&apos;re committed to transparent disclosure.</p><p><strong>Since this issue was patched on November 18, why was it not communicated until now?</strong><br>We wanted to ensure the patches had been released and offer our customers the opportunity to update on their own timing. We also wanted to reduce the risk of widespread attacks that would likely have occurred if we didn&#x2019;t have a mitigation in place. Responsible disclosure is something we take seriously, and this allowed us to be more proactive than reactive as we also respond to various other bug reports we&#x2019;ve received since starting our Vulnerability Disclosure Program</p><p>We appreciate your prompt attention to this security update. n8n maintains a proactive security standards through continuous monitoring, regular penetration testing, and a responsible disclosure program. This disclosure participates of our commitment to transparency.</p>]]></content:encoded></item>
 <item><title><![CDATA[15 best n8n practices for deploying AI agents in production]]></title><description><![CDATA[This guide walks you through the 15 best n8n practices for deploying production-ready AI Agents. Choose the best infrastructure, scale queue mode, handle errors, monitor, and deploy AI Agents reliably in n8n.]]></description><link>https://blog.n8n.io/best-practices-for-deploying-ai-agents-in-production/</link><guid isPermaLink="false">694ac8643a6d780001f7657c</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Thu, 08 Jan 2026 12:41:13 GMT</pubDate><media:content url="https://blog.n8n.io/content/images/2026/01/workflow-template--2-.png" medium="image"/><content:encoded><![CDATA[<img src="https://blog.n8n.io/content/images/2026/01/workflow-template--2-.png" alt="15 best n8n practices for deploying AI agents in production"><p>You&#x2019;ve spent weeks building your AI agent. You&#x2019;ve tuned prompts, connected APIs and handled edge cases. Everything works perfectly in your test environment.</p><p>Then you deploy to production. Your agent suddenly times out under real load, your API costs spike and error alerts flood your inbox. Users report inconsistent responses.</p><p>Sound familiar?</p><p>The gap between &#x201C;works on my machine&#x201D; and &#x201C;handles production traffic reliably&#x201D; is larger than most builders expect. Production-ready AI agents need more than functional workflows &#x2013; they need solid infrastructure, proper error handling, monitoring, and maintenance procedures.</p><p>This guide covers the 15 best n8n practices for deploying AI agents that run reliably in production. We&#x2019;ve organized them into 6 phases that roughly mirror the software development lifecycle: infrastructure, development, pre-deployment, deployment, maintenance, and retirement.</p><p>You&#x2019;ll learn:</p><ul><li>How to choose and configure n8n infrastructure that scales</li><li>Security and testing practices to implement before going live</li><li>Deployment strategies that minimize risk</li><li>Monitoring and optimization techniques for long-term stability</li></ul><p></p><blockquote>Trustworthy AI systems combine deterministic workflows, probabilistic models, &amp; human oversight. Automation ensures control, AI handles complexity, &amp; humans own risk, edge cases, and final responsibility.<a href="https://www.linkedin.com/posts/janoberhauser_agenticcalendar-activity-7409857115575607296-AjZD?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAADILxB0B_ype4AJ2RyIogj62MNyomP5LD1Q" rel="noreferrer"> - Jan Oberhauser, Founder and CEO of n8n</a></blockquote><p>Let&#x2019;s get started! Or feel free to jump straight to the section that interests you most:</p><p></p><ul>
 <li><a href="#infrastructure-setup">Infrastructure setup</a>
 <ul>
@@ -1442,7 +1449,7 @@
 </script>
 <!--kg-card-end: html-->
 <h2 id="ai-workflow-automation-tools-faqs">AI workflow automation tools: FAQs</h2><h3 id="what-is-the-most-customizable-ai-automation-tool">What is the most customizable AI automation tool?</h3><p>n8n tops the list as the most flexible option, offering source-available code, custom JavaScript and Python code steps, and the ability to self-host. While <a href="https://blog.n8n.io/open-source-zapier/">tools like Zapier</a>, Make, and Lindy are more closed down and abstract complexity behind the scenes &#x2014; making them suitable for beginners &#x2014; they lack the deep customization needed for advanced workflows.</p><p>For all-around needs and ultimate flexibility, choose n8n. If you&apos;re looking for niche tools, check out Gumloop, Agentforce, AirOps, and Workato.</p><h3 id="what-vendor-provides-the-most-extensible-ai-automation-platform">What vendor provides the most extensible AI automation platform?</h3><p>n8n leads in extensibility with custom coding options in addition to preconfigured nodes for major integration partners. Zapier offers the most pre-built connectors (8000+), but is more closed down. Most other tools on this list offer a mix of limited integrations alongside varying degrees of customization features.</p><h3 id="who-offers-the-best-pricing-for-ai-powered-workflow-tools">Who offers the best pricing for AI-powered workflow tools?</h3><p>n8n is the only tool that offers a free self-hosting option. Paid cloud plans start at $20/month for 2,500 workflow executions with unlimited steps &#x2014; <a href="https://blog.n8n.io/n8n-execution-advantage/">notably different from variable credit-based pricing</a>. Most tools on this list offer limited free plans, though ChatGPT Agent Builder requires a paid subscription.</p><p>Workato and Agentforce are priced for enterprise, with significantly higher costs. n8n and Zapier charge by workflow execution, while others charge by workflow steps, which can make budgeting challenging as costs scale unpredictably.</p><h3 id="what-platforms-support-visual-workflow-design-using-ai">What platforms support visual workflow design using AI?</h3><p>All tools on this list offer some level of visual workflow design, with n8n, Zapier, Make, Lindy, and Gumloop being the most approachable. Rather than hopping between platforms to leverage different strengths, you&apos;re better off choosing a tool flexible enough to handle both simple and advanced workflows &#x2014; this avoids the overhead of learning multiple platforms and UIs.</p><h3 id="what-is-the-most-flexible-ai-automation-solution-for-developers">What is the most flexible AI automation solution for developers?</h3><p>n8n is the clear choice for developers because it offers real code fallback in JavaScript and Python in addition to preconfigured integration nodes, plus source-available licensing. Unlike closed systems like Agentforce, n8n gives developers the freedom to customize at any level they need.</p><h3 id="what-is-the-most-secure-ai-workflow-automation-platform">What is the most secure AI workflow automation platform?</h3><p>Workato stands out for enterprise security with SOC 2 Type II compliance, comprehensive RBAC, centralized governance, and guaranteed SLAs. n8n also offers strong security features, including SOC 2 compliance, source-available code for auditing, secret management via AWS/GCP/Azure/Vault, and enterprise-grade RBAC.</p><h3 id="what-is-the-best-ai-workflow-automation-tool-for-enterprise-teams">What is the best AI workflow automation tool for enterprise teams?</h3><p>Workato is purpose-built for enterprise with robust security, compliance, and governance features. However, n8n is also an excellent choice for enterprise teams, offering the security features enterprises require while providing superior flexibility for cross-departmental workflows. Most tools on this list offer enterprise tiers, but features vary significantly.</p><h3 id="who-provides-the-best-scalable-ai-automation-for-technical-teams">Who provides the best scalable AI automation for technical teams?</h3><p>n8n and Workato both provide <a href="https://blog.n8n.io/the-n8n-scalability-benchmark/">excellent scalability</a> for technical teams, though Workato has a more narrow focus on sales and marketing use cases. n8n&apos;s combination of technical flexibility, execution-based pricing (vs. credit-per-step), and source-available code makes it ideal for technical teams building complex, scalable automations.</p><h2 id="wrap-up">Wrap up</h2><p>There are numerous AI workflow automation tools available on the market, catering to a wide range of specialty use cases, business types, and business sizes.</p><p>n8n offers the most flexibility, while Make, Zapier, Gumloop, and Lindy are good options for beginners and non-technical users seeking a more managed experience. AirOps, Workato, and Agentforce offer specialized solutions for sales and marketing needs, while ChatGPT Agent Builder is an exciting new option for existing ChatGPT paid subscribers.</p><p>Picking the right tool for your needs comes down to just a few factors:</p><ul><li>Your level of technical expertise and genuine interest in learning new technologies.</li><li>The specific tools you want to integrate and the amount of effort you&#x2019;re willing to put forth for the ideal setup.</li><li>The nature of your workflows and desired flexibility, as well as non-negotiable security and compliance features.</li><li>Your industry and the importance of using a tool tailored specifically for it.</li></ul><p>But most importantly: just get started! The best way to understand which tool fits your needs is hands-on experience.</p><p>Beyond each platform&apos;s native resources, explore third-party courses (like LinkedIn Learning&apos;s n8n course by Morten Rand-Hendriksen), join communities where builders share workflows and insights (such as Lenny&apos;s Community, which has an n8n partnership), and connect with fellow AI enthusiasts on LinkedIn or in tool-specific Slack channels. Sharing what you&apos;re building not only accelerates learning but often leads to unexpected opportunities and collaborations.</p><p><a href="https://app.n8n.cloud/register">Try n8n for free</a> and experience the difference in automation.</p>]]></content:encoded></item>
-<item><title><![CDATA[Build a fast, deep research automation flow with Oxylabs and n8n]]></title><description><![CDATA[Learn about web scraping and how to to build an automated web intelligence workflow.]]></description><link>https://blog.n8n.io/build-a-fast-deep-research-automation-flow-with-oxylabs-and-n8n/</link><guid isPermaLink="false">6911f229b522e10001500177</guid><category><![CDATA[By partners]]></category><dc:creator><![CDATA[Marketing team]]></dc:creator><pubDate>Mon, 24 Nov 2025 16:48:29 GMT</pubDate><media:content url="https://blog.n8n.io/content/images/2025/11/oxylabs-dl.png" medium="image"/><content:encoded><![CDATA[<figure class="kg-card kg-image-card"><img src="https://blog.n8n.io/content/images/2025/11/data-src-image-9c831db6-f6fe-4c6e-82e1-8f035a5cdf2a.png" class="kg-image" alt="Build a fast, deep research automation flow with Oxylabs and n8n" loading="lazy" width="1600" height="854" srcset="https://blog.n8n.io/content/images/size/w600/2025/11/data-src-image-9c831db6-f6fe-4c6e-82e1-8f035a5cdf2a.png 600w, https://blog.n8n.io/content/images/size/w1000/2025/11/data-src-image-9c831db6-f6fe-4c6e-82e1-8f035a5cdf2a.png 1000w, https://blog.n8n.io/content/images/2025/11/data-src-image-9c831db6-f6fe-4c6e-82e1-8f035a5cdf2a.png 1600w" sizes="(min-width: 720px) 720px"></figure><img src="https://blog.n8n.io/content/images/2025/11/oxylabs-dl.png" alt="Build a fast, deep research automation flow with Oxylabs and n8n"><p><strong><em>This Verified Node Spotlight was written by </em>Vytenis Kaubr&#x117;<em>, Content Researcher and Technical Copywriter for Oxylabs.</em></strong></p><p>Web scraping sounds simple until you hit anti-bot systems, CAPTCHA challenges, and IP blocks. Building reliable pipelines demands expertise HTTP request strategies, HTML parsing, and infrastructure scaling. The technical overhead can prevent many automation projects from launching.</p><p>Read this article to learn how to build a fast, deep research agent using Oxylabs AI Studio in n8n. No coding required. Automatically handle sophisticated anti-scraping systems, parse any website, and scale reliably for production use.</p><h2 id="what-is-web-scraping">What Is Web Scraping?</h2><p>Web scraping is the automated extraction of public data from websites. Instead of manually copying information, scripts or tools programmatically retrieve and structure the data you need. Traditionally, this is done by writing scripts in programming languages like Python, JavaScript, or C#, though modern solutions offer simpler approaches.</p><p><strong>Common use cases:</strong></p><ul><li><strong>E-commerce:</strong> Track competitor pricing and product availability in real-time</li><li><strong>AI development:</strong> Collect large datasets for training machine learning models</li><li><strong>Market research:</strong> Gather consumer behavior insights and industry trends</li><li><strong>Brand protection:</strong> Monitor online platforms for counterfeit products and trademark violations</li><li><strong>SEO monitoring:</strong> Track keyword rankings and analyze competitor performance</li><li><strong>Travel aggregation:</strong> Collect flight prices, hotel rates, and customer reviews</li><li><strong>Ad verification:</strong> Ensure ads display correctly across different platforms</li></ul><h2 id="top-challenges-of-web-scraping">Top Challenges of Web Scraping</h2><p>Extracting public data from the web presents several obstacles:</p><ul><li><strong>Technical expertise barrier:</strong> Requires proficiency in programming, HTTP protocols, and HTML/CSS selectors</li><li><strong>Anti-bot defenses:</strong> Websites deploy CAPTCHAs, IP blocking, and fingerprinting that require sophisticated bypassing techniques</li><li><strong>Data extraction complexity:</strong> Each website structures HTML differently, demanding custom parsers that break when sites redesign</li><li><strong>Infrastructure scaling:</strong> Large operations need distributed systems, proxy rotation, and monitoring that divert resources from core business goals</li></ul><h2 id="building-a-fast-deep-research-flow-in-n8n">Building a Fast Deep Research Flow in n8n</h2><figure class="kg-card kg-image-card"><img src="https://blog.n8n.io/content/images/2025/11/data-src-image-cb506111-6d45-4be3-ac19-278c81a9c552.png" class="kg-image" alt="Build a fast, deep research automation flow with Oxylabs and n8n" loading="lazy" width="1600" height="775" srcset="https://blog.n8n.io/content/images/size/w600/2025/11/data-src-image-cb506111-6d45-4be3-ac19-278c81a9c552.png 600w, https://blog.n8n.io/content/images/size/w1000/2025/11/data-src-image-cb506111-6d45-4be3-ac19-278c81a9c552.png 1000w, https://blog.n8n.io/content/images/2025/11/data-src-image-cb506111-6d45-4be3-ac19-278c81a9c552.png 1600w" sizes="(min-width: 720px) 720px"></figure><p>These challenges don&apos;t mean web scraping is impossible. The right tools can handle the complexity for you, which is exactly what this workflow does.</p><p><a href="https://oxylabs.go2cloud.org/aff_c?offer_id=7&amp;aff_id=1826&amp;url_id=176" rel="noreferrer"><u>Oxylabs AI Studio</u></a> is a <strong>low-code web scraping solution</strong> that eliminates technical barriers. Instead of writing code, you <strong>describe what data you need in plain English</strong>. It has built-in proxy servers, automatic data parsing, a headless browser, and scales on demand. Oxylabs AI Studio integrates with n8n as both a node and a tool, providing purpose-built resources for different scraping needs:</p><ul><li><a href="https://aistudio.oxylabs.io/apps/search"><strong><u>Search</u></strong></a><strong>:</strong> Scrape Google Search and optionally extract content from each result</li><li><a href="https://aistudio.oxylabs.io/apps/scrape"><strong><u>Scraper</u></strong></a><strong>:</strong> Scrape any website and get Markdown or structured JSON/CSV by describing your needs in plain English</li><li><a href="https://aistudio.oxylabs.io/apps/crawl"><strong><u>Crawler</u></strong></a><strong>:</strong> Crawl entire websites to find relevant pages using natural language prompts</li><li><a href="https://aistudio.oxylabs.io/apps/browser_agent"><strong><u>Browser Agent</u></strong></a><strong>: </strong>Control a web browser with natural language and extract data</li></ul><h3 id="project-overview">Project Overview</h3><p>This deep research workflow:</p><ol><li>Analyzes the user&apos;s question and generates 3 strategic Google search queries</li><li>Scrapes Google search results for each query</li><li>Identifies the most relevant and authoritative sources for analysis</li><li>Scrapes and summarizes each source in parallel</li><li>Produces a comprehensive analysis report combining all insights</li></ol><h3 id="prerequisites">Prerequisites</h3><p>You&apos;ll need just two things in addition to your n8n instance:</p><ul><li><strong>Oxylabs AI Studio API key</strong> &#x2013;<a href="https://aistudio.oxylabs.io/register"> <u>Get a free API key</u></a> with 1000 credits</li><li><strong>OpenAI API key</strong> (or alternatives like Claude, Gemini, or local Ollama LLMs)</li></ul><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    " data-layout="minimal">
+<item><title><![CDATA[Build a fast, deep research automation flow with Oxylabs and n8n]]></title><description><![CDATA[Learn about web scraping and how to to build an automated web intelligence workflow.]]></description><link>https://blog.n8n.io/build-a-fast-deep-research-automation-flow-with-oxylabs-and-n8n/</link><guid isPermaLink="false">6911f229b522e10001500177</guid><category><![CDATA[By partners]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Mon, 24 Nov 2025 16:48:29 GMT</pubDate><media:content url="https://blog.n8n.io/content/images/2025/11/oxylabs-dl.png" medium="image"/><content:encoded><![CDATA[<figure class="kg-card kg-image-card"><img src="https://blog.n8n.io/content/images/2025/11/data-src-image-9c831db6-f6fe-4c6e-82e1-8f035a5cdf2a.png" class="kg-image" alt="Build a fast, deep research automation flow with Oxylabs and n8n" loading="lazy" width="1600" height="854" srcset="https://blog.n8n.io/content/images/size/w600/2025/11/data-src-image-9c831db6-f6fe-4c6e-82e1-8f035a5cdf2a.png 600w, https://blog.n8n.io/content/images/size/w1000/2025/11/data-src-image-9c831db6-f6fe-4c6e-82e1-8f035a5cdf2a.png 1000w, https://blog.n8n.io/content/images/2025/11/data-src-image-9c831db6-f6fe-4c6e-82e1-8f035a5cdf2a.png 1600w" sizes="(min-width: 720px) 720px"></figure><img src="https://blog.n8n.io/content/images/2025/11/oxylabs-dl.png" alt="Build a fast, deep research automation flow with Oxylabs and n8n"><p><strong><em>This Verified Node Spotlight was written by </em>Vytenis Kaubr&#x117;<em>, Content Researcher and Technical Copywriter for Oxylabs.</em></strong></p><p>Web scraping sounds simple until you hit anti-bot systems, CAPTCHA challenges, and IP blocks. Building reliable pipelines demands expertise HTTP request strategies, HTML parsing, and infrastructure scaling. The technical overhead can prevent many automation projects from launching.</p><p>Read this article to learn how to build a fast, deep research agent using Oxylabs AI Studio in n8n. No coding required. Automatically handle sophisticated anti-scraping systems, parse any website, and scale reliably for production use.</p><h2 id="what-is-web-scraping">What Is Web Scraping?</h2><p>Web scraping is the automated extraction of public data from websites. Instead of manually copying information, scripts or tools programmatically retrieve and structure the data you need. Traditionally, this is done by writing scripts in programming languages like Python, JavaScript, or C#, though modern solutions offer simpler approaches.</p><p><strong>Common use cases:</strong></p><ul><li><strong>E-commerce:</strong> Track competitor pricing and product availability in real-time</li><li><strong>AI development:</strong> Collect large datasets for training machine learning models</li><li><strong>Market research:</strong> Gather consumer behavior insights and industry trends</li><li><strong>Brand protection:</strong> Monitor online platforms for counterfeit products and trademark violations</li><li><strong>SEO monitoring:</strong> Track keyword rankings and analyze competitor performance</li><li><strong>Travel aggregation:</strong> Collect flight prices, hotel rates, and customer reviews</li><li><strong>Ad verification:</strong> Ensure ads display correctly across different platforms</li></ul><h2 id="top-challenges-of-web-scraping">Top Challenges of Web Scraping</h2><p>Extracting public data from the web presents several obstacles:</p><ul><li><strong>Technical expertise barrier:</strong> Requires proficiency in programming, HTTP protocols, and HTML/CSS selectors</li><li><strong>Anti-bot defenses:</strong> Websites deploy CAPTCHAs, IP blocking, and fingerprinting that require sophisticated bypassing techniques</li><li><strong>Data extraction complexity:</strong> Each website structures HTML differently, demanding custom parsers that break when sites redesign</li><li><strong>Infrastructure scaling:</strong> Large operations need distributed systems, proxy rotation, and monitoring that divert resources from core business goals</li></ul><h2 id="building-a-fast-deep-research-flow-in-n8n">Building a Fast Deep Research Flow in n8n</h2><figure class="kg-card kg-image-card"><img src="https://blog.n8n.io/content/images/2025/11/data-src-image-cb506111-6d45-4be3-ac19-278c81a9c552.png" class="kg-image" alt="Build a fast, deep research automation flow with Oxylabs and n8n" loading="lazy" width="1600" height="775" srcset="https://blog.n8n.io/content/images/size/w600/2025/11/data-src-image-cb506111-6d45-4be3-ac19-278c81a9c552.png 600w, https://blog.n8n.io/content/images/size/w1000/2025/11/data-src-image-cb506111-6d45-4be3-ac19-278c81a9c552.png 1000w, https://blog.n8n.io/content/images/2025/11/data-src-image-cb506111-6d45-4be3-ac19-278c81a9c552.png 1600w" sizes="(min-width: 720px) 720px"></figure><p>These challenges don&apos;t mean web scraping is impossible. The right tools can handle the complexity for you, which is exactly what this workflow does.</p><p><a href="https://oxylabs.go2cloud.org/aff_c?offer_id=7&amp;aff_id=1826&amp;url_id=176" rel="noreferrer"><u>Oxylabs AI Studio</u></a> is a <strong>low-code web scraping solution</strong> that eliminates technical barriers. Instead of writing code, you <strong>describe what data you need in plain English</strong>. It has built-in proxy servers, automatic data parsing, a headless browser, and scales on demand. Oxylabs AI Studio integrates with n8n as both a node and a tool, providing purpose-built resources for different scraping needs:</p><ul><li><a href="https://aistudio.oxylabs.io/apps/search"><strong><u>Search</u></strong></a><strong>:</strong> Scrape Google Search and optionally extract content from each result</li><li><a href="https://aistudio.oxylabs.io/apps/scrape"><strong><u>Scraper</u></strong></a><strong>:</strong> Scrape any website and get Markdown or structured JSON/CSV by describing your needs in plain English</li><li><a href="https://aistudio.oxylabs.io/apps/crawl"><strong><u>Crawler</u></strong></a><strong>:</strong> Crawl entire websites to find relevant pages using natural language prompts</li><li><a href="https://aistudio.oxylabs.io/apps/browser_agent"><strong><u>Browser Agent</u></strong></a><strong>: </strong>Control a web browser with natural language and extract data</li></ul><h3 id="project-overview">Project Overview</h3><p>This deep research workflow:</p><ol><li>Analyzes the user&apos;s question and generates 3 strategic Google search queries</li><li>Scrapes Google search results for each query</li><li>Identifies the most relevant and authoritative sources for analysis</li><li>Scrapes and summarizes each source in parallel</li><li>Produces a comprehensive analysis report combining all insights</li></ol><h3 id="prerequisites">Prerequisites</h3><p>You&apos;ll need just two things in addition to your n8n instance:</p><ul><li><strong>Oxylabs AI Studio API key</strong> &#x2013;<a href="https://aistudio.oxylabs.io/register"> <u>Get a free API key</u></a> with 1000 credits</li><li><strong>OpenAI API key</strong> (or alternatives like Claude, Gemini, or local Ollama LLMs)</li></ul><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    " data-layout="minimal">
             
             <div class="kg-cta-content">
                 
@@ -1500,7 +1507,7 @@
                 
             </div>
         </div>]]></content:encoded></item>
-<item><title><![CDATA[n8n Expands What’s Possible in Enterprise Automation with Microsoft Agent 365]]></title><description><![CDATA[A new integration with Microsoft Agent 365 lets teams build agentic systems that connect n8n’s AI orchestration layer and automation ecosystem with Microsoft’s productivity suite.]]></description><link>https://blog.n8n.io/n8n-expands-whats-possible-in-enterprise-automation-with-microsoft-agent-365/</link><guid isPermaLink="false">6916137ef24a700001f9f87f</guid><dc:creator><![CDATA[Marketing team]]></dc:creator><pubDate>Tue, 18 Nov 2025 16:31:39 GMT</pubDate><media:content url="https://blog.n8n.io/content/images/2025/11/image--67-.png" medium="image"/><content:encoded><![CDATA[<img src="https://blog.n8n.io/content/images/2025/11/image--67-.png" alt="n8n Expands What&#x2019;s Possible in Enterprise Automation with Microsoft Agent 365"><p>n8n is expanding what&#x2019;s possible for AI orchestration and automation in the enterprise. Today, we&#x2019;re excited to announce a new integration with Microsoft Agent 365. Agents built on n8n will soon gain extended capabilities offered by Microsoft Agent 365 when developers include the Microsoft Agent 365 node in their workflows.&#xA0;&#xA0;</p><p><strong>Expanding the Boundaries of Enterprise Automation</strong></p><p>With this new integration, agents built on n8n can act within Microsoft environments such as Microsoft Word and Outlook using their own company-issued identity and permissions. Managed similarly to employee accounts, they can be provisioned to securely collaborate, assist, and perform actions within the Microsoft technology stack.</p><p>n8n agents can access a broad AI orchestration and automation layer that includes modular connections to LLMs, vector stores, and enterprise tools like Jira, PagerDuty, ServiceNow, and ElevenLabs, along with more than 1,200 built-in integrations and 6,000+ community workflow templates. Beyond these connections, agents can use advanced n8n capabilities such as invoking other agents as tools, launching sub-workflows, and combining reasoning, deterministic logic, and human steps to build intelligent systems with guardrails. Enterprises can further ensure reliability through built&#x2011;in evaluation and testing features, with error workflows that trigger automatically when something goes wrong. These capabilities help teams keep agentic workflows reliable, accountable, and scalable across environments.</p><blockquote>&#x201C;At n8n, we help teams put AI orchestration and automation to work reliably inside their businesses. Our platform connects agents to the business-critical tools and data they rely on, while enabling AI monitoring and human oversight. This integration with Microsoft Agent 365 allows developers using n8n capabilities to create agents that can be part of Microsoft agent management and identity ecosystem and collaborate more seamlessly with Microsoft offerings, where many enterprises already run their most important work.&#x201D; &#x2014; Jan Oberhauser, Founder and CEO of n8n</blockquote><p>For n8n builders, the integration also opens doors into Microsoft&#x2019;s enterprise ecosystem. Workflows can now reach end users directly in the tools they use every day, like Word and Outlook, enabling richer automations and agentic use cases that engage employees where work actually happens. This shift not only expands what builders can deliver but also reinforces Microsoft&#x2019;s focus on giving organizations choice, security, and control in how they extend automation and AI across their business.</p><blockquote>&#x201C;We&#x2019;re pleased to welcome n8n to the Microsoft Agent 365 ecosystem and collaborate to help customers innovate faster and stay secure, bringing agents into the same trusted environment as users with familiar infrastructure, apps, and protections.&#x201D; &#xA0;&#x2014; Nirav Shah, Corporate Vice President, Microsoft Agent 365</blockquote><p><strong>Where Agentic Workflows Meet Work</strong></p><p>The impact of agentic automation is clearest in daily work. By connecting directly into Microsoft 365 applications, agents built with n8n and enabled with Microsoft Agent 365 engage employees where they already collaborate, communicate, and make decisions. Workflows surface in Outlook, SharePoint, and Teams to deliver updates, trigger actions, and coordinate tasks in context, reducing the manual effort of tracking information across systems and ensuring that the right people see the right information at the right time.</p><p>Consider an engineering manager who once spent hours tracking customer reported incidents, high&#x2011;priority bugs, and upcoming releases across multiple systems. Each day began with digging through tickets, gathering updates, and chasing the right people for context. The work kept projects moving but left little time for improvement or strategy.</p><p>Now she deploys an agent enabled with Microsoft Agent 365 built with n8n. Acting as a digital colleague, the agent has permission to access relevant Microsoft 365 applications and internal data to stay on top of priorities. Through its n8n&#x2011;powered workflow, the agent connects to Jira and PagerDuty, combining deterministic logic with agentic reasoning to generate daily summaries and highlight long-standing incidents. It can then post updates in Teams, and schedule follow-up meetings with ticket owners. What once took hours of manual coordination is now managed automatically with context, intelligence, and the right level of autonomy.</p><p><strong>How It Works in n8n</strong></p><p>At this time, agents built with n8n are capable of being provisioned with a Microsoft Agent 365 license using the <strong>Webhook Trigger</strong> and <strong>AI Agent nodes</strong>. This setup authenticates the agent within a Microsoft tenant and enables communication between Microsoft 365 services. Once configured, the agent can securely exchange information between Microsoft 365 and n8n workflows.</p><p>Soon, a dedicated <strong>Microsoft A365 Agent Trigger node</strong> will simplify this process, removing the need for manual setup and bringing a more streamlined experience directly inside n8n.</p><p><a href="https://learn.microsoft.com/en-us/microsoft-agent-365/developer/samples?tabs=nodejs" rel="noreferrer">Learn more</a> and&#xA0;explore&#xA0;the <a href="https://github.com/microsoft/Agent365-Samples/tree/main/nodejs/n8n/sample-agent" rel="noreferrer">n8n Sample Agent</a>.</p><p><strong>Unlocking Value Where Work Happens</strong></p><p>This integration makes agents created with n8n&#x2019;s source available, code&#x2011;extensible AI orchestration and automation platform capable of being provisioned with a Microsoft Agent 365 license, enabling them to act directly within the Microsoft tools enterprises rely on. The result is agentic automation that fits naturally into the flow of everyday work while giving organizations greater value from their AI agents with governance and visibility built in. </p><p></p>]]></content:encoded></item>
+<item><title><![CDATA[n8n Expands What’s Possible in Enterprise Automation with Microsoft Agent 365]]></title><description><![CDATA[A new integration with Microsoft Agent 365 lets teams build agentic systems that connect n8n’s AI orchestration layer and automation ecosystem with Microsoft’s productivity suite.]]></description><link>https://blog.n8n.io/n8n-expands-whats-possible-in-enterprise-automation-with-microsoft-agent-365/</link><guid isPermaLink="false">6916137ef24a700001f9f87f</guid><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Tue, 18 Nov 2025 16:31:39 GMT</pubDate><media:content url="https://blog.n8n.io/content/images/2025/11/image--67-.png" medium="image"/><content:encoded><![CDATA[<img src="https://blog.n8n.io/content/images/2025/11/image--67-.png" alt="n8n Expands What&#x2019;s Possible in Enterprise Automation with Microsoft Agent 365"><p>n8n is expanding what&#x2019;s possible for AI orchestration and automation in the enterprise. Today, we&#x2019;re excited to announce a new integration with Microsoft Agent 365. Agents built on n8n will soon gain extended capabilities offered by Microsoft Agent 365 when developers include the Microsoft Agent 365 node in their workflows.&#xA0;&#xA0;</p><p><strong>Expanding the Boundaries of Enterprise Automation</strong></p><p>With this new integration, agents built on n8n can act within Microsoft environments such as Microsoft Word and Outlook using their own company-issued identity and permissions. Managed similarly to employee accounts, they can be provisioned to securely collaborate, assist, and perform actions within the Microsoft technology stack.</p><p>n8n agents can access a broad AI orchestration and automation layer that includes modular connections to LLMs, vector stores, and enterprise tools like Jira, PagerDuty, ServiceNow, and ElevenLabs, along with more than 1,200 built-in integrations and 6,000+ community workflow templates. Beyond these connections, agents can use advanced n8n capabilities such as invoking other agents as tools, launching sub-workflows, and combining reasoning, deterministic logic, and human steps to build intelligent systems with guardrails. Enterprises can further ensure reliability through built&#x2011;in evaluation and testing features, with error workflows that trigger automatically when something goes wrong. These capabilities help teams keep agentic workflows reliable, accountable, and scalable across environments.</p><blockquote>&#x201C;At n8n, we help teams put AI orchestration and automation to work reliably inside their businesses. Our platform connects agents to the business-critical tools and data they rely on, while enabling AI monitoring and human oversight. This integration with Microsoft Agent 365 allows developers using n8n capabilities to create agents that can be part of Microsoft agent management and identity ecosystem and collaborate more seamlessly with Microsoft offerings, where many enterprises already run their most important work.&#x201D; &#x2014; Jan Oberhauser, Founder and CEO of n8n</blockquote><p>For n8n builders, the integration also opens doors into Microsoft&#x2019;s enterprise ecosystem. Workflows can now reach end users directly in the tools they use every day, like Word and Outlook, enabling richer automations and agentic use cases that engage employees where work actually happens. This shift not only expands what builders can deliver but also reinforces Microsoft&#x2019;s focus on giving organizations choice, security, and control in how they extend automation and AI across their business.</p><blockquote>&#x201C;We&#x2019;re pleased to welcome n8n to the Microsoft Agent 365 ecosystem and collaborate to help customers innovate faster and stay secure, bringing agents into the same trusted environment as users with familiar infrastructure, apps, and protections.&#x201D; &#xA0;&#x2014; Nirav Shah, Corporate Vice President, Microsoft Agent 365</blockquote><p><strong>Where Agentic Workflows Meet Work</strong></p><p>The impact of agentic automation is clearest in daily work. By connecting directly into Microsoft 365 applications, agents built with n8n and enabled with Microsoft Agent 365 engage employees where they already collaborate, communicate, and make decisions. Workflows surface in Outlook, SharePoint, and Teams to deliver updates, trigger actions, and coordinate tasks in context, reducing the manual effort of tracking information across systems and ensuring that the right people see the right information at the right time.</p><p>Consider an engineering manager who once spent hours tracking customer reported incidents, high&#x2011;priority bugs, and upcoming releases across multiple systems. Each day began with digging through tickets, gathering updates, and chasing the right people for context. The work kept projects moving but left little time for improvement or strategy.</p><p>Now she deploys an agent enabled with Microsoft Agent 365 built with n8n. Acting as a digital colleague, the agent has permission to access relevant Microsoft 365 applications and internal data to stay on top of priorities. Through its n8n&#x2011;powered workflow, the agent connects to Jira and PagerDuty, combining deterministic logic with agentic reasoning to generate daily summaries and highlight long-standing incidents. It can then post updates in Teams, and schedule follow-up meetings with ticket owners. What once took hours of manual coordination is now managed automatically with context, intelligence, and the right level of autonomy.</p><p><strong>How It Works in n8n</strong></p><p>At this time, agents built with n8n are capable of being provisioned with a Microsoft Agent 365 license using the <strong>Webhook Trigger</strong> and <strong>AI Agent nodes</strong>. This setup authenticates the agent within a Microsoft tenant and enables communication between Microsoft 365 services. Once configured, the agent can securely exchange information between Microsoft 365 and n8n workflows.</p><p>Soon, a dedicated <strong>Microsoft A365 Agent Trigger node</strong> will simplify this process, removing the need for manual setup and bringing a more streamlined experience directly inside n8n.</p><p><a href="https://learn.microsoft.com/en-us/microsoft-agent-365/developer/samples?tabs=nodejs" rel="noreferrer">Learn more</a> and&#xA0;explore&#xA0;the <a href="https://github.com/microsoft/Agent365-Samples/tree/main/nodejs/n8n/sample-agent" rel="noreferrer">n8n Sample Agent</a>.</p><p><strong>Unlocking Value Where Work Happens</strong></p><p>This integration makes agents created with n8n&#x2019;s source available, code&#x2011;extensible AI orchestration and automation platform capable of being provisioned with a Microsoft Agent 365 license, enabling them to act directly within the Microsoft tools enterprises rely on. The result is agentic automation that fits naturally into the flow of everyday work while giving organizations greater value from their AI agents with governance and visibility built in. </p><p></p>]]></content:encoded></item>
 <item><title><![CDATA[Implementing Rerankers in Your AI Workflows]]></title><description><![CDATA[Boost your RAG pipeline’s accuracy with rerankers that reorder results by true semantic relevance—deliver smarter, faster, and more precise AI search!]]></description><link>https://blog.n8n.io/implementing-rerankers-in-your-ai-workflows/</link><guid isPermaLink="false">68f0ec722493b40001f20173</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[Andrew Green]]></dc:creator><pubDate>Thu, 16 Oct 2025 13:18:51 GMT</pubDate><media:content url="https://blog.n8n.io/content/images/2025/10/workflow-template--2---1-.png" medium="image"/><content:encoded><![CDATA[<img src="https://blog.n8n.io/content/images/2025/10/workflow-template--2---1-.png" alt="Implementing Rerankers in Your AI Workflows"><p>In a Retrieval-Augmented Generation (RAG) pipeline, a retriever fetches a set of candidate documents using a coarse filter via a vector similarity search. When these documents are retrieved, they are not ordered, so a less relevant document may be used before a more relevant one.&#xA0;</p><p>This is where we apply reranking models, which offer a second pass at the retrieval process to sort the retrieved text by semantic relevance with respect to the user&#x2019;s query.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://blog.n8n.io/content/images/2025/10/data-src-image-6fedfd5d-48f2-4ba0-8ae8-db93c5d2564b.png" class="kg-image" alt="Implementing Rerankers in Your AI Workflows" loading="lazy" width="1600" height="1131" srcset="https://blog.n8n.io/content/images/size/w600/2025/10/data-src-image-6fedfd5d-48f2-4ba0-8ae8-db93c5d2564b.png 600w, https://blog.n8n.io/content/images/size/w1000/2025/10/data-src-image-6fedfd5d-48f2-4ba0-8ae8-db93c5d2564b.png 1000w, https://blog.n8n.io/content/images/2025/10/data-src-image-6fedfd5d-48f2-4ba0-8ae8-db93c5d2564b.png 1600w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Source: https://www.pondhouse-data.com/blog/advanced-rag-colbert-reranker</em></i></figcaption></figure><p>You can get an intuitive understanding of rerankers by thinking of search engines. When searching for something on Google, we expect that the most relevant results will be displayed on the first page. As we go through the following pages, the relevance of the results with respect to the query would decrease.</p><h2 id="how-rerankers-improve-retrieval-quality">How rerankers improve retrieval quality</h2><p>The reranker can significantly improve the search quality because it operates at a sub-document and sub-query level. It uses a more precise model, such as a transformer that jointly reads the query and the document to scrutinize the candidate texts.&#xA0;</p><p>The reranking process is straightforward:</p><ul><li>Retrieve: First, a search system uses vector embeddings to find a broad set of potentially relevant documents based on the user&apos;s query.</li><li>Analyze: Then, the reranker takes these results and analyzes their semantic content considering the nuances of how the query terms interact with the document content.</li><li>Reorder: Lastly, the model reorders the search results, placing the ones it deems most relevant at the top, based on this deeper analysis.</li></ul><p>The AI ecosystem offers a range of open-source and commercial tools that can help improve RAG pipelines using rerankers. In the following section, we will present some options for deploying rerankers, followed by open-source and commercial tools.</p><h2 id="how-to-deploy-rerankers">How to deploy rerankers</h2><p>Rerankers are standalone models that must be run independently. You can either choose to deploy and run the model directly or consume it in an as-a-service fashion. As such, you have three options:</p><ol><li>An -aaS delivery via an API</li><li>A cloud-hosted option, or</li><li>A self-hosted option for local deployments.</li></ol><h3 id="option-1-as-a-service-aas">Option 1: as-a-Service (aaS)</h3><p><strong>The API model</strong> is perhaps the most straightforward approach to implementing rerankers. These are available from commercial solutions such as Cohere and Jina. This method allows developers to integrate reranking capabilities into their RAG pipelines with minimal infrastructure overhead. The commercial solutions expose API endpoints where users submit a query along with a list of retrieved documents, and the service returns these documents reordered from most to least semantically relevant. The underlying architecture typically processes user input by chunking documents and computing relevance scores for each segment, with the final document score determined by the highest-scoring chunk.&#xA0;</p><h3 id="option-2-cloud-hosted-deployments">Option 2: Cloud-hosted deployments</h3><p><strong>Cloud-hosted deploymen</strong>t involves deploying reranker models through major cloud providers&apos; AI platforms, combining the robustness and scalability of cloud infrastructure with the performance of commercial reranking models. This deployment method is particularly beneficial for organizations that require consistent performance, automatic scaling, and integration with existing cloud-based data pipelines. While not as convenient as the API option, hosting the model in your cloud minimizes dependency on the third-party vendor and can deliver on any security mandates, compliance certifications, and service level agreements.</p><h3 id="option-3-self-hosted-deployments">Option 3: Self-hosted deployments</h3><p><strong>Self-hosted deployments </strong>allow enterprises to run reranker models within their own infrastructure, such that no data has to be processed by a third party. It also offers flexibility to customize deployment configurations, optimize for specific hardware, and integrate with existing enterprise systems. While this approach requires more technical expertise and infrastructure management, it delivers the benefits of real-time reranking with minimal latency while maintaining full control over data privacy and security protocols.</p><h2 id="open-source-reranking-tools">Open source reranking tools</h2><p>Some of the most notable open source tools for reranking include the following:</p><p><a href="https://github.com/stanford-futuredata/ColBERT"><u>ColBERT</u></a> is a fast and accurate retrieval model, enabling scalable BERT-based search over large text collections in tens of milliseconds. It relies on fine-grained contextual late interaction, encoding each passage into a matrix of token-level embeddings. At search time, it embeds every query into another matrix and efficiently finds passages that contextually match the query using scalable vector-similarity (MaxSim) operators.</p><p><a href="https://github.com/PrithivirajDamodaran/FlashRank"><u>FlashRank</u></a> uses Pairwise or Listwise rerankers. It&#x2019;s a Python library that adds re-ranking to your existing search &amp; retrieval pipelines.&#xA0;</p><p><a href="https://arxiv.org/pdf/2312.02724"><u>RankZephyr</u></a> is an open-source large language model (LLM) for listwise zero-shot reranking. It&#x2019;s built on the 7-billion parameter Zephyr-&#x3B2; model (based on Mistral), and uses instruction fine-tuning to distill reranking capabilities from both RankGPT-3.5 and RankGPT-4 without requiring human-annotated query-passage relevance pairs.&#xA0;</p><h2 id="commercial-reranking-providers">Commercial reranking providers</h2><p>Some examples of commercial rerankers include Cohere and Jina.&#xA0;</p><p><strong>Cohere&apos;s</strong> reranker model employs cross-attention mechanisms for fine-grained ranking, enabling direct query-document comparison that significantly improves result quality for complex and under-specified queries. The model offers multilingual capabilities, supporting over 100 languages and delivering accurate retrieval across language boundaries from international and multilingual datasets. It can handle complex enterprise data formats, ranking multi-aspect and semi-structured documents&#x2014;including emails, tables, JSON, and code&#x2014;with the same precision as traditional long-form text. The solution is designed for enterprise deployment flexibility, offering private deployment options in virtual private clouds or on-premises environments for maximum data privacy and security control, while also being available through Cohere&apos;s platform and trusted cloud providers.&#xA0;</p><p><strong>Jina Reranke</strong>r offers comprehensive multilingual retrieval capabilities across over 100 languages, enabling effective document retrieval regardless of the query language used. The model features specialized function-calling support and advanced code search capabilities, allowing it to rank code snippets and function signatures based on natural language queries, making it particularly well-suited for Agentic RAG applications. Additionally, Jina Reranker v2 provides robust tabular and structured data support, effectively ranking the most relevant tables based on natural language queries and helping to sort different table schemas to identify the most appropriate one before SQL query generation, making it a versatile solution for enterprise environments with diverse data formats and multilingual requirements.</p><h2 id="how-reranking-works">How reranking works</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://blog.n8n.io/content/images/2025/10/data-src-image-507fecff-dde2-4a7b-b7a2-cdfee0c26a48.png" class="kg-image" alt="Implementing Rerankers in Your AI Workflows" loading="lazy" width="479" height="267"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Source: https://www.sbert.net/examples/cross_encoder/applications/README.html</em></i></figcaption></figure><p>Bi-encoders and cross-encoders are two architectures used in natural language processing (NLP) for tasks like text similarity, retrieval, or ranking.<strong> Cross-Encoders can be used</strong> whenever you have a pre-defined set of sentence pairs you want to score. For example, you have 100 sentence pairs and you want to get similarity scores for these 100 pairs.</p><p><strong>Bi-Encoders are used</strong> whenever you need a sentence embedding in a vector space for efficient comparison. Applications are for example, Information Retrieval / Semantic Search or Clustering.&#xA0;</p><p><strong>Cross-Encoder achieve higher performance than Bi-Encoders</strong>, however, they do not scale well for large datasets. Clustering 10,000 sentences with CrossEncoders would require computing similarity scores for about 50 million sentence combinations, which takes about 65 hours. With a Bi-Encoder, you compute the embedding for each sentence, which takes only 5 seconds.</p><p>You can <strong>combine Cross- and Bi-Encoders</strong>. For example, you can use an efficient Bi-Encoder to retrieve the top-100 most similar sentences for a query, then a Cross-Encoder to re-rank these 100 hits by computing the score for every (query, hit) combination.</p><h3 id="llm-based-reranking">LLM-based reranking</h3><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://blog.n8n.io/content/images/2025/10/data-src-image-d2afe3ea-21be-4aa7-9e58-fe5e54e8178d.png" class="kg-image" alt="Implementing Rerankers in Your AI Workflows" loading="lazy" width="1600" height="1544" srcset="https://blog.n8n.io/content/images/size/w600/2025/10/data-src-image-d2afe3ea-21be-4aa7-9e58-fe5e54e8178d.png 600w, https://blog.n8n.io/content/images/size/w1000/2025/10/data-src-image-d2afe3ea-21be-4aa7-9e58-fe5e54e8178d.png 1000w, https://blog.n8n.io/content/images/2025/10/data-src-image-d2afe3ea-21be-4aa7-9e58-fe5e54e8178d.png 1600w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Source: </em></i><a href="https://www.llamaindex.ai/blog/using-llms-for-retrieval-and-reranking-23cf2d3a14b6"><u><i><em class="italic underline" style="white-space: pre-wrap;">https://www.llamaindex.ai/blog/using-llms-for-retrieval-and-reranking-23cf2d3a14b6</em></i></u></a></figcaption></figure><p>Just as when evaluating RAG, you can use an LLM to rerank retrieved documents. LLM-powered retrieval can return more relevant documents than embedding-based retrieval, with the tradeoff being much higher latency and cost.&#xA0; At a high-level, this approach uses the LLM to decide which documents and chunks are relevant to the given query. The input prompt would consist of a set of candidate documents, and the LLM is tasked with selecting the relevant set of documents as well as scoring their relevance with an internal metric.</p><p>If you are using LlamaInde, the LLMRerank is a module baked framework as part of the NodePostprocessor abstraction.</p><h2 id="reranking-in-n8n">Reranking in n8n</h2><p>You can easily implement reranking in n8n using<a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.rerankercohere/"><u> the Reranker Cohere node.</u></a> It allows users to rerank the resulting chunks from a vector store. You can connect this node to a vector store. The reranker reorders the list of documents retrieved from a vector store for a given query in order of descending relevance.</p><p>This<a href="https://n8n.io/workflows/6401-document-based-ai-chatbot-with-rag-openai-and-cohere-reranker/"><u> Intelligent AI chatbot with RAG and Cohere Reranker</u></a> workflow template creates an intelligent AI assistant that combines RAG with Cohere&apos;s reranking technology to ensure the most relevant information is prioritized.</p>
 <!--kg-card-begin: html-->
 <div class="content-banner">
@@ -1737,21 +1744,11 @@
             </div>
             <div class="kg-toggle-content"><p><span style="white-space: pre-wrap;">Multi-model RAG is an approach where different, specialized AI models are used at various stages of the RAG pipeline to improve performance and handle complex tasks. This can involve several strategies:</span></p><p><span style="white-space: pre-wrap;">Diverse LLM utilization: In complex applications, a &quot;multi-LLM strategy&quot; can be used to assign different Large Language Models (LLMs) to the jobs they perform best. This might involve specialized task-specific models like:</span><br><span style="white-space: pre-wrap;">1. Named Entity Recognition (NER) models to extract specific entities for metadata filtering.</span><br><span style="white-space: pre-wrap;">2. Hallucination-detection and moderation models to ensure the quality and safety of the final answer.</span></p><p><span style="white-space: pre-wrap;">Agentic RAG is a great example of a multi-model approach. This setup uses multiple LLM agents that work together to solve a problem. These agents can have specific &quot;profiles&quot; (like a &quot;coder&quot; agent and a &quot;tester&quot; agent), coordinate their actions, and provide feedback to each other to tackle complex, multi-step tasks.</span></p></div>
         </div><h2 id="wrap-up">Wrap up</h2><p>As we&apos;ve covered, Agentic RAG is a big step up from traditional RAG systems. It moves away from the simple &quot;retrieve-then-read&quot; process and uses AI agents to create a smarter, more flexible workflow.</p><p>This shift means that agents make their own decisions at every step of the information lifecycle. In the storage phase, they can intelligently figure out how to index information, choosing the best chunking strategy or metadata to make the knowledge base more effective. During retrieval, they act as a smart router, choosing the best tool for a specific query, whether that&apos;s a vector database, a SQL database, or a live web search. Finally, in the generation phase, they don&apos;t just give an answer, they can also review their own work for accuracy, triggering more search rounds if the first answer isn&apos;t good enough.</p><p>As the <a href="https://n8n.io/workflows/categories/ai-rag/" rel="noreferrer">n8n RAG workflow examples</a> have shown, these capabilities are not just theories but are practical tools you can use today to build the next generation of powerful and trustworthy AI applications.</p><h2 id="what%E2%80%99s-next">What&#x2019;s next?</h2><p>The next step is to move from theory to practice. Think about your own data and the challenges you face. Could an agent that chooses between a database and a web search improve your results? Could adapting the retrieval strategy based on a user&apos;s query provide more relevant answers?</p><p>Check out these step-by-step video guides on how to build Agentic RAG systems with n8n:</p><ul><li><a href="https://www.youtube.com/watch?v=mQt1hOjBH9o" rel="noopener">I Built the ULTIMATE n8n RAG AI Agent Template</a></li><li><a href="https://www.youtube.com/watch?v=BhGaGFH0jR4" rel="noopener">Store All Data Types with Agentic RAG in n8n</a></li><li><a href="https://www.youtube.com/watch?v=BTxghC1qHbw" rel="noopener">The ULTIMATE n8n Agentic RAG System (SQL + GraphRAG)</a></li><li><a href="https://www.youtube.com/watch?v=rh2JRWsLGfg" rel="noopener">Building with Reasoning LLMs | n8n Agentic RAG Demo + Template</a></li></ul><p>For a deeper look into the fundamentals, explore this tutorial on <a href="https://blog.n8n.io/rag-chatbot/" rel="noreferrer">building a custom knowledge RAG chatbot using n8n</a>. You don&apos;t have to start from scratch, browse the <a href="https://n8n.io/workflows/categories/ai/" rel="noopener">pre-built AI workflows from the n8n community</a> to use as a starting point for your own projects.</p>]]></content:encoded></item>
-<item><title><![CDATA[Evaluating RAG, aka Optimizing the Optimization]]></title><description><![CDATA[RAG isn’t foolproof. Explore common hallucinations, evaluation metrics, and how to improve RAG accuracy in n8n.]]></description><link>https://blog.n8n.io/evaluating-rag-aka-optimizing-the-optimization/</link><guid isPermaLink="false">68a6ef54d319380001f37695</guid><category><![CDATA[AI]]></category><dc:creator><![CDATA[Andrew Green]]></dc:creator><pubDate>Thu, 21 Aug 2025 10:17:35 GMT</pubDate><media:content url="https://blog.n8n.io/content/images/2025/08/workflow-template--1-.png" medium="image"/><content:encoded><![CDATA[<img src="https://blog.n8n.io/content/images/2025/08/workflow-template--1-.png" alt="Evaluating RAG, aka Optimizing the Optimization"><p>Retrieval augmented generation is often positioned as the <a href="https://platform.openai.com/docs/guides/optimizing-llm-accuracy/"><u>go-to solution for optimizing LLMs</u></a>. But despite the integration of RAG in agentic systems, LLMs may still present unsupported or contradictory claims to the retrieved contents.</p><p>Imagine a business analyst at a logistics company using an internal AI assistant powered by RAG to interact with financial reports. When the analyst asks, <em>&#x201C;What is our Q2 performance?&#x201D;</em>, the assistant responds: <em>&#x201C;Our Q2 revenue decreased by 15% compared to Q1 due to supply chain disruptions following the Suez Canal blockage.&#x201D;</em> </p><p>While the system correctly retrieved the financial report, noting a 15% revenue drop, it fabricated a justification by attributing the decline to the Suez Canal blockage&#x2014;an explanation not present in the source material.</p><p>Retrieving documents doesn&#x2019;t guarantee accuracy, so RAG itself must be optimized. This means tuning the search to return the right results, including less noise, and aligning the LLM response with the context retrieved.</p><p>That&#x2019;s why in this article, we&#x2019;ll discuss how RAG systems can still hallucinate, and provide a framework for evaluating RAG applications using the Ragas framework. Lastly, we&#x2019;ll present how to implement RAG evaluations in n8n.</p><h2 id="four-types-of-rag-hallucinations">Four types of RAG hallucinations</h2><p>Hallucinations have a slightly different definition in the context of RAG. We use the term to indicate a response is not supported by or aligned with the retrieved context. It is considered a hallucination when the LLM does not generate content based on the textual data provided to it as part of the RAG retrieval process, but rather generates content based on its pre-trained knowledge.</p><p><a href="https://www.vectara.com/blog/hhem-2-1-a-better-hallucination-detection-model"><u>Vectara, the creators of the HHEM evaluation models</u></a>, give the following example: if the retrieved context states <em>&quot;The capital of France is Berlin&quot;</em>, and the LLM outputs <em>&quot;The capital of France is Paris&quot;</em>, then the LLM response is hallucinated, despite it being correct.</p><p>We can categorize RAG-specific hallucinations into four categories, as described in the paper titled <a href="https://arxiv.org/pdf/2401.00396"><u>RAGTruth</u></a>:</p><ul><li><strong>Evident Conflict:</strong> for when generative content presents direct contraction or opposition to the provided information. These conflicts are easily verifiable without extensive context, often involving clear factual errors, misspelled names, incorrect numbers, etc.</li><li><strong>Subtle Conflict</strong>: for when generative content presents a departure or divergence from the provided information, altering the intended contextual meaning. These conflicts often involve substitution of terms that carry different implications or severity, requiring a deeper understanding of their contextual applications.&#xA0;</li><li><strong>Evident Introduction of Baseless Information:</strong> for when generated content includes information not substantiated in the provided information. It involves the creation of hypothetical, fabricated, or hallucinatory details lacking evidence or support.&#xA0;</li><li><strong>Subtle Introduction of Baseless Information</strong>: is when generated content extends beyond the provided information by incorporating inferred details, insights, or sentiments. This additional information lacks verifiability and might include subjective assumptions or commonly observed norms rather than explicit facts.&#xA0;</li></ul><h2 id="the-two-pillar-rag-evaluation-framework">The two-pillar RAG evaluation framework</h2><p>A good RAG implementation can validate two things:</p><ol><li>Making sure RAG retrieves the right information. This is RAG Document Relevance.</li><li>Ensuring LLM answers are consistent with the context retrieved via RAG. This is RAG Groundedness</li></ol><p>Most tools available today use the <a href="https://docs.ragas.io/en/stable/concepts/metrics/overview/"><u>Ragas library</u></a>, which provides a set of RAG-specific evaluation functions. We use the evaluations available in the Ragas library in the descriptions below.</p><h3 id="rag-document-relevance-retrieving-the-right-context">RAG Document Relevance: Retrieving the right context</h3><p>The<strong> Context Recall </strong>evaluation measures how many of the relevant documents were successfully retrieved. Higher recall means fewer relevant documents were left out.<strong> Context Precision</strong> is a metric that measures the proportion of relevant chunks in the retrieved contexts. Calculating context recall always requires a reference to compare against.&#xA0;</p><p>Both recall and precision can be calculated using a judge LLM or by using deterministic calculations.</p><p><strong>LLM-based Context Recall</strong> is computed using three variables - the user input, the reference and the retrieved contexts.&#xA0; To estimate context recall from the reference, the reference is broken down into claims, each claim in the reference answer is analyzed to determine whether it can be attributed to the retrieved context or not.&#xA0;</p><p><strong>LLM-based Context Precision</strong> is used to estimate if a retrieved context is relevant or not by having an LLM compare each of the retrieved contexts or chunks present in retrieved contexts with the response.</p><p><strong>Non-LLM-Based</strong>the <strong> Context Recall</strong> <strong>and Precision</strong> compare retrieved contexts or chunks with the reference contexts. These metrics use measures such as semantic similarity, Levenshtein Similarity Ratio and string comparison metrics to determine if a retrieved context is relevant or not.&#xA0;</p><h3 id="rag-groundedness-evaluating-responses-against-retrieved-context">RAG Groundedness: Evaluating responses against retrieved context</h3><p><strong>Faithfulness </strong>determines how factually consistent a response is with the retrieved context. A response is considered faithful if all its claims can be supported by the retrieved context. <a href="https://huggingface.co/vectara/hallucination_evaluation_model"><u>Vectara&apos;s HHEM-2.1-Open</u></a> is an open source classifier model that is trained to detect hallucinations from LLM generated text. It can be used to cross-check claims with the given context to determine if it can be inferred from the context.&#xA0;</p><p><strong>Response Relevancy</strong> measures how relevant a response is to the user input. An answer is considered relevant if it directly and appropriately addresses the original question. This metric focuses on how well the answer matches the intent of the question, without evaluating factual accuracy. It penalizes answers that are incomplete or include unnecessary details.</p><h2 id="rag-evaluations-in-n8n">RAG Evaluations in n8n</h2><p>You can evaluate RAG performance in n8n without external libraries or calls. The evaluations natively available include both RAG document relevance and answer groundedness. These calculate whether the documents retrieved are relevant to the question and if the answer is grounded in the documents retrieved. RAG evaluations are run against a test dataset, and results can be compared across runs to see how the metrics change and drill down into the reasons for those changes.</p><p>The<a href="https://n8n.io/workflows/4426-evaluate-rag-response-accuracy-with-openai-document-groundedness-metric/"><u> Evaluate RAG Response Accuracy with OpenAI workflow</u></a> template uses LLM-based response relevancy to assess whether the response is based on the retrieved documents. A high score indicates LLM adherence and alignment whereas a low score could signal inadequate prompt or model hallucination.</p><p>The <a href="https://n8n.io/workflows/4273-evaluation-metric-example-rag-document-relevance/"><u>RAG document relevance</u></a> workflow uses an LLM-based context recall to calculate a retrieval score for each input and determine whether the workflow is performing well or not.</p><p>To understand more about evaluation in n8n, check out the <a href="https://blog.n8n.io/introducing-evaluations-for-ai-workflows/"><u>Introducing Evaluations for AI Workflows blog post</u></a>, and our<a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.evaluation/"><u> technical documentation on the evaluation node.</u></a></p>
-<!--kg-card-begin: html-->
-<script>
-  workflowBanner([4271, 5523, 4424, 4428], document.currentScript, { 
-      workflowsHeader: "More n8n workflows for AI Evaluations"
-  });
-</script>
-
-<!--kg-card-end: html-->
-]]></content:encoded></item>
 <item>
   <title><![CDATA[Top 18 des meilleurs outils IA en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/outils-ia</link>
   <description><![CDATA[Création de contenus, génération d’images, de vidéos, … L’intelligence artificielle est partout. Découvrez les meilleurs outils IA pour en tirer parti.]]></description>
-  <pubDate>Sat, 03 Jan 2026 15:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 18:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/682338273f8b3c121c393962_Frame%2034470%20(5).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/682338273f8b3c121c393962_Frame%2034470%20(5).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/682338273f8b3c121c393962_Frame%2034470%20(5).webp" /> Création de contenus, génération d’images, de vidéos, … L’intelligence artificielle est partout. Découvrez les meilleurs outils IA pour en tirer parti.]]></content:encoded>
@@ -1760,7 +1757,7 @@
   <title><![CDATA[Consultant SEO - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/consultant-seo-fiche-metier</link>
   <description><![CDATA[Le consultant SEO est expert en référencement naturel des sites]]></description>
-  <pubDate>Fri, 02 Jan 2026 08:13:15 GMT</pubDate>
+  <pubDate>Thu, 08 Jan 2026 14:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695001515b99b9825ec4020c_consultant%20seo%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695001515b99b9825ec4020c_consultant%20seo%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695001515b99b9825ec4020c_consultant%20seo%20cube.avif" /> Le consultant SEO est expert en référencement naturel des sites]]></content:encoded>
@@ -1769,7 +1766,7 @@
   <title><![CDATA[Meilleures formations Growth Marketing en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-growth-marketing</link>
   <description><![CDATA[Apprenez le Growth Marketing avec la meilleure formation 2026]]></description>
-  <pubDate>Mon, 29 Dec 2025 20:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 22:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695000efc041982ad71bcf3c_formation%20growth%20marketing%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695000efc041982ad71bcf3c_formation%20growth%20marketing%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695000efc041982ad71bcf3c_formation%20growth%20marketing%20cube.avif" /> Apprenez le Growth Marketing avec la meilleure formation 2026]]></content:encoded>
@@ -1778,7 +1775,7 @@
   <title><![CDATA[Meilleures formations Lovable en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-lovable</link>
   <description><![CDATA[Découvrez les meilleures formations Lovable en 2026]]></description>
-  <pubDate>Mon, 05 Jan 2026 07:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 15:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694fff478952a5222e7c2088_lovable-cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694fff478952a5222e7c2088_lovable-cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694fff478952a5222e7c2088_lovable-cube.avif" /> Découvrez les meilleures formations Lovable en 2026]]></content:encoded>
@@ -1787,7 +1784,7 @@
   <title><![CDATA[Meilleures formations n8n en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-n8n</link>
   <description><![CDATA[Formez-vous à n8n : automatiser vos process avec des agents IA]]></description>
-  <pubDate>Thu, 08 Jan 2026 11:13:15 GMT</pubDate>
+  <pubDate>Tue, 30 Dec 2025 17:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6950001d35635180561f4417_n8n%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6950001d35635180561f4417_n8n%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6950001d35635180561f4417_n8n%20cube.avif" /> Formez-vous à n8n : automatiser vos process avec des agents IA]]></content:encoded>
@@ -1796,7 +1793,7 @@
   <title><![CDATA[Interview Alumni - Augustin Maillet]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-cube-augustin-maillet</link>
   <description><![CDATA[Quand une curiosité devient une passion et un métier]]></description>
-  <pubDate>Fri, 02 Jan 2026 13:13:15 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 17:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694592abe4c4d1da2bb7cd46_alumni%20cube%20augustin.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694592abe4c4d1da2bb7cd46_alumni%20cube%20augustin.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694592abe4c4d1da2bb7cd46_alumni%20cube%20augustin.png" /> Quand une curiosité devient une passion et un métier]]></content:encoded>
@@ -1805,7 +1802,7 @@
   <title><![CDATA[Comment éviter les biais dans les algorithmes IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-eviter-biais-dans-algorithmes-ia</link>
   <description><![CDATA[Soyez sûrs d&#x27;éviter les biais des IA !]]></description>
-  <pubDate>Sun, 04 Jan 2026 20:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 14:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694138fba875e65685397012_biais%20IA%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694138fba875e65685397012_biais%20IA%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694138fba875e65685397012_biais%20IA%20cube.png" /> Soyez sûrs d&#x27;éviter les biais des IA !]]></content:encoded>
@@ -1814,7 +1811,7 @@
   <title><![CDATA[Comment utiliser l’IA pour créer des logos ou visuels ?]]></title>
   <link>https://www.ecole.cube.fr/blog/utiliser-ia-pour-logos-ou-visuels</link>
   <description><![CDATA[Utiliser l&#x27;IA pour des visuels et logo professionnels]]></description>
-  <pubDate>Thu, 08 Jan 2026 10:13:15 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 06:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d9e28f1c73b1ac2191c_logo%20avec%20l%27IA%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d9e28f1c73b1ac2191c_logo%20avec%20l%27IA%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d9e28f1c73b1ac2191c_logo%20avec%20l%27IA%20cube.avif" /> Utiliser l&#x27;IA pour des visuels et logo professionnels]]></content:encoded>
@@ -1823,7 +1820,7 @@
   <title><![CDATA[Traffic Manager - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/traffic-manager-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Traffic Manager en 2026 ?]]></description>
-  <pubDate>Mon, 05 Jan 2026 12:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 19:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ed74583e70c2c33f6b3_traffic%20manager%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ed74583e70c2c33f6b3_traffic%20manager%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ed74583e70c2c33f6b3_traffic%20manager%20cube.avif" /> Quelles sont les missions du Traffic Manager en 2026 ?]]></content:encoded>
@@ -1832,7 +1829,7 @@
   <title><![CDATA[Head of Growth - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/head-of-growth-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Head of Growth en 2026 ?]]></description>
-  <pubDate>Mon, 05 Jan 2026 11:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 06:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69414040559ca7b5f3c5c461_head%20of%20growth%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69414040559ca7b5f3c5c461_head%20of%20growth%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69414040559ca7b5f3c5c461_head%20of%20growth%20cube.avif" /> Quelles sont les missions du Head of Growth en 2026 ?]]></content:encoded>
@@ -1841,7 +1838,7 @@
   <title><![CDATA[Creative Strategist - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/creative-strategist-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Creative Strategist en 2026 ?]]></description>
-  <pubDate>Thu, 01 Jan 2026 17:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 06:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d0f6aed6783fae48cfc_creative%20strategist%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d0f6aed6783fae48cfc_creative%20strategist%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d0f6aed6783fae48cfc_creative%20strategist%20cube.avif" /> Quelles sont les missions du Creative Strategist en 2026 ?]]></content:encoded>
@@ -1850,7 +1847,7 @@
   <title><![CDATA[Growth Marketer - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/growth-marketer-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Growth Marketer en 2026 ?]]></description>
-  <pubDate>Wed, 07 Jan 2026 16:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 19:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ca986028828c504c154_growth%20marketer%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ca986028828c504c154_growth%20marketer%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ca986028828c504c154_growth%20marketer%20cube.avif" /> Quelles sont les missions du Growth Marketer en 2026 ?]]></content:encoded>
@@ -1859,7 +1856,7 @@
   <title><![CDATA[Content Manager - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/content-manager-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Content Manager en 2026 ?]]></description>
-  <pubDate>Fri, 02 Jan 2026 17:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 15:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413c45a36eff62f7ea0c7f_content%20manager%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413c45a36eff62f7ea0c7f_content%20manager%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413c45a36eff62f7ea0c7f_content%20manager%20cube.avif" /> Quelles sont les missions du Content Manager en 2026 ?]]></content:encoded>
@@ -1868,7 +1865,7 @@
   <title><![CDATA[L’IA va-t-elle remplacer les humains ?]]></title>
   <link>https://www.ecole.cube.fr/blog/ia-remplacer-les-humains</link>
   <description><![CDATA[L&#x27;IA peut bientôt remplacer les humains ?]]></description>
-  <pubDate>Sat, 03 Jan 2026 12:13:15 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 07:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413bca27d6b60f0d47491a_ia%20humain%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413bca27d6b60f0d47491a_ia%20humain%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413bca27d6b60f0d47491a_ia%20humain%20cube.avif" /> L&#x27;IA peut bientôt remplacer les humains ?]]></content:encoded>
@@ -1877,7 +1874,7 @@
   <title><![CDATA[L’IA va-t-elle remplacer les designers ?]]></title>
   <link>https://www.ecole.cube.fr/blog/ia-remplacer-designer</link>
   <description><![CDATA[Les designers sont-ils menacés par l&#x27;IA ?]]></description>
-  <pubDate>Thu, 08 Jan 2026 00:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 04:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ad427d6b60f0d4705c9_ia%20designer%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ad427d6b60f0d4705c9_ia%20designer%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ad427d6b60f0d4705c9_ia%20designer%20cube.avif" /> Les designers sont-ils menacés par l&#x27;IA ?]]></content:encoded>
@@ -1886,7 +1883,7 @@
   <title><![CDATA[Interview Alumni - Perrine Soulier]]></title>
   <link>https://www.ecole.cube.fr/blog/alumni-cube-perrine-soulier</link>
   <description><![CDATA[D’un parcours littéraire à l’IA appliquée au RH : Perrine Soulier]]></description>
-  <pubDate>Sun, 04 Jan 2026 17:13:15 GMT</pubDate>
+  <pubDate>Thu, 08 Jan 2026 23:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d875441f136804b4ac864_bannie%CC%80re%20alumni%20cube%20perrine.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d875441f136804b4ac864_bannie%CC%80re%20alumni%20cube%20perrine.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d875441f136804b4ac864_bannie%CC%80re%20alumni%20cube%20perrine.avif" /> D’un parcours littéraire à l’IA appliquée au RH : Perrine Soulier]]></content:encoded>
@@ -1895,7 +1892,7 @@
   <title><![CDATA[Quels métiers utilisent déjà l’IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/quels-metiers-utilisent-ia</link>
   <description><![CDATA[Quels métier utilisent le plus l&#x27;IA ?]]></description>
-  <pubDate>Fri, 02 Jan 2026 06:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 02:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d77421aec2cc936436452_IA%20e%CC%81cole%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d77421aec2cc936436452_IA%20e%CC%81cole%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d77421aec2cc936436452_IA%20e%CC%81cole%20cube.avif" /> Quels métier utilisent le plus l&#x27;IA ?]]></content:encoded>
@@ -1904,7 +1901,7 @@
   <title><![CDATA[Qu’est-ce que l’intelligence artificielle ?]]></title>
   <link>https://www.ecole.cube.fr/blog/definition-intelligence-artificielle</link>
   <description><![CDATA[Comprenez simplement ce qu&#x27;est l&#x27;intelligence artificielle]]></description>
-  <pubDate>Tue, 06 Jan 2026 01:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 16:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d674790f4d788314f9580_gemini%20ia%20e%CC%81cole%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d674790f4d788314f9580_gemini%20ia%20e%CC%81cole%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d674790f4d788314f9580_gemini%20ia%20e%CC%81cole%20cube.avif" /> Comprenez simplement ce qu&#x27;est l&#x27;intelligence artificielle]]></content:encoded>
@@ -1913,7 +1910,7 @@
   <title><![CDATA[Comment fonctionne une IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-fonctionne-l-ia</link>
   <description><![CDATA[Découvrez comment fonctionne une IA sans jargon]]></description>
-  <pubDate>Fri, 02 Jan 2026 16:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 15:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d6693eddeb614e8b6be1f_fonction%20ia%20e%CC%81cole%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d6693eddeb614e8b6be1f_fonction%20ia%20e%CC%81cole%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d6693eddeb614e8b6be1f_fonction%20ia%20e%CC%81cole%20cube.avif" /> Découvrez comment fonctionne une IA sans jargon]]></content:encoded>
@@ -1922,7 +1919,7 @@
   <title><![CDATA[À quoi sert l’IA dans la vie quotidienne ?]]></title>
   <link>https://www.ecole.cube.fr/blog/utilisation-ia-au-quotidien-exemples</link>
   <description><![CDATA[Comment l’IA peut vous aider au quotidien ? Exemples concrets]]></description>
-  <pubDate>Sat, 03 Jan 2026 16:13:15 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 17:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d65e76414c49b004566d8_IA%20quotidien%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d65e76414c49b004566d8_IA%20quotidien%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d65e76414c49b004566d8_IA%20quotidien%20cube.avif" /> Comment l’IA peut vous aider au quotidien ? Exemples concrets]]></content:encoded>
@@ -1931,7 +1928,7 @@
   <title><![CDATA[10 exemples d’applications concrètes de l’IA pour les freelances]]></title>
   <link>https://www.ecole.cube.fr/blog/applications-concretes-ia-pour-freelances</link>
   <description><![CDATA[Quels exemples d&#x27;applications IA pour les freelances ?]]></description>
-  <pubDate>Tue, 30 Dec 2025 03:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 20:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923827e5071e090e15fc8cf_utilisation%20ia%20freelance.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923827e5071e090e15fc8cf_utilisation%20ia%20freelance.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923827e5071e090e15fc8cf_utilisation%20ia%20freelance.webp" /> Quels exemples d&#x27;applications IA pour les freelances ?]]></content:encoded>
@@ -1940,7 +1937,7 @@
   <title><![CDATA[Glossaire Marketing Digital]]></title>
   <link>https://www.ecole.cube.fr/blog/glossaire-marketing-digital</link>
   <description><![CDATA[Comprenez les termes de marketing digital avec notre glossaire]]></description>
-  <pubDate>Tue, 30 Dec 2025 21:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 16:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237ec69bc25dc35bf3a1fe_e%CC%81cole%20cube%20glossaire%20marketing.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237ec69bc25dc35bf3a1fe_e%CC%81cole%20cube%20glossaire%20marketing.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237ec69bc25dc35bf3a1fe_e%CC%81cole%20cube%20glossaire%20marketing.webp" /> Comprenez les termes de marketing digital avec notre glossaire]]></content:encoded>
@@ -1949,7 +1946,7 @@
   <title><![CDATA[AAARR : le modèle de croissance pour faire décoller votre business]]></title>
   <link>https://www.ecole.cube.fr/blog/aaarr-framework</link>
   <description><![CDATA[AAARR, le framework pour la croissance de votre business]]></description>
-  <pubDate>Thu, 01 Jan 2026 19:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 01:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d651fa37a36a03ddf2cd1_ecole-cube-arrr.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d651fa37a36a03ddf2cd1_ecole-cube-arrr.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d651fa37a36a03ddf2cd1_ecole-cube-arrr.avif" /> AAARR, le framework pour la croissance de votre business]]></content:encoded>
@@ -1958,7 +1955,7 @@
   <title><![CDATA[OpenAI AgentKit - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/openai-agentkit-guide-avis</link>
   <description><![CDATA[Et si vos outils pouvaient travailler à votre place ?]]></description>
-  <pubDate>Mon, 05 Jan 2026 22:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 02:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923819191f8af50a9c2c0d0_agent%20kit%20open%20ai.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923819191f8af50a9c2c0d0_agent%20kit%20open%20ai.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923819191f8af50a9c2c0d0_agent%20kit%20open%20ai.webp" /> Et si vos outils pouvaient travailler à votre place ?]]></content:encoded>
@@ -1967,7 +1964,7 @@
   <title><![CDATA[ChatGPT Atlas  - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/chatgpt-atlas-guide-avis</link>
   <description><![CDATA[Et si votre navigateur web devenait votre assistant personnel ?]]></description>
-  <pubDate>Wed, 31 Dec 2025 03:13:15 GMT</pubDate>
+  <pubDate>Thu, 08 Jan 2026 19:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692380ca7315f7d2155e9a9b_chatgpt%20atlas%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692380ca7315f7d2155e9a9b_chatgpt%20atlas%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692380ca7315f7d2155e9a9b_chatgpt%20atlas%20cube.webp" /> Et si votre navigateur web devenait votre assistant personnel ?]]></content:encoded>
@@ -1976,7 +1973,7 @@
   <title><![CDATA[11 exemples d’applications concrètes de l’IA pour les PME]]></title>
   <link>https://www.ecole.cube.fr/blog/exemples-applications-ia-pme</link>
   <description><![CDATA[Découvrez comment les PME utilisent l’IA pour gagner temps et ROI]]></description>
-  <pubDate>Tue, 06 Jan 2026 21:13:15 GMT</pubDate>
+  <pubDate>Thu, 08 Jan 2026 00:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237f55ef3188ca4d0a360a_IA%20PME%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237f55ef3188ca4d0a360a_IA%20PME%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237f55ef3188ca4d0a360a_IA%20PME%20cube.webp" /> Découvrez comment les PME utilisent l’IA pour gagner temps et ROI]]></content:encoded>
@@ -1985,7 +1982,7 @@
   <title><![CDATA[Guide SEO - Les meilleures ressources pour débuter]]></title>
   <link>https://www.ecole.cube.fr/blog/guide-seo-meilleures-ressources</link>
   <description><![CDATA[Les meilleures ressources pour apprendre le SEO, version débutant]]></description>
-  <pubDate>Tue, 30 Dec 2025 15:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 12:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a77a295131300795e3c7_guide%20seo%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a77a295131300795e3c7_guide%20seo%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a77a295131300795e3c7_guide%20seo%20cube.webp" /> Les meilleures ressources pour apprendre le SEO, version débutant]]></content:encoded>
@@ -1994,7 +1991,7 @@
   <title><![CDATA[Outils de scraping : Notre classement des meilleurs outils en 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-scraping</link>
   <description><![CDATA[Découvrez les top outils pour collecter des données sur le web]]></description>
-  <pubDate>Mon, 05 Jan 2026 00:13:15 GMT</pubDate>
+  <pubDate>Thu, 08 Jan 2026 14:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a7a7d4c78c57f34220e2_meilleur%20scraper%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a7a7d4c78c57f34220e2_meilleur%20scraper%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a7a7d4c78c57f34220e2_meilleur%20scraper%20cube.webp" /> Découvrez les top outils pour collecter des données sur le web]]></content:encoded>
@@ -2003,7 +2000,7 @@
   <title><![CDATA[Lovable vs Cursor - Quel outil choisir pour coder ?]]></title>
   <link>https://www.ecole.cube.fr/blog/lovable-vs-cursor</link>
   <description><![CDATA[Lovable ou Cursor, que choisir pour dev avec l&#x27;IA ?]]></description>
-  <pubDate>Wed, 07 Jan 2026 13:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 15:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a803266d2dc482f4f798_cursor%20cube%20(1).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a803266d2dc482f4f798_cursor%20cube%20(1).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a803266d2dc482f4f798_cursor%20cube%20(1).webp" /> Lovable ou Cursor, que choisir pour dev avec l&#x27;IA ?]]></content:encoded>
@@ -2012,7 +2009,7 @@
   <title><![CDATA[Outils d’inbound marketing : Notre classement 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-inbound-marketing</link>
   <description><![CDATA[Et si vos prospects venaient à vous sans démarchage ni publicité?]]></description>
-  <pubDate>Thu, 08 Jan 2026 13:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 14:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a82141d25af05a49b3f8_outils%20inbound%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a82141d25af05a49b3f8_outils%20inbound%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a82141d25af05a49b3f8_outils%20inbound%20cube.webp" /> Et si vos prospects venaient à vous sans démarchage ni publicité?]]></content:encoded>
@@ -2021,7 +2018,7 @@
   <title><![CDATA[Automatisation de la prospection sur LinkedIn - Guide complet]]></title>
   <link>https://www.ecole.cube.fr/blog/automatisation-prospection-linkedin</link>
   <description><![CDATA[Personnalisez vos messages linkedin et trouvez vos futurs clients]]></description>
-  <pubDate>Wed, 07 Jan 2026 19:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 04:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a85de0c61d62e4bc1cc4_prospection%20linkedin%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a85de0c61d62e4bc1cc4_prospection%20linkedin%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a85de0c61d62e4bc1cc4_prospection%20linkedin%20cube.webp" /> Personnalisez vos messages linkedin et trouvez vos futurs clients]]></content:encoded>
@@ -2030,7 +2027,7 @@
   <title><![CDATA[Interview Alumni - Pierre-Jean Abasq]]></title>
   <link>https://www.ecole.cube.fr/blog/experience-alumni-pierre-jean-abasqr</link>
   <description><![CDATA[Apprendre à créer sans coder peut redonner du sens à sa carrière]]></description>
-  <pubDate>Thu, 08 Jan 2026 15:13:15 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 23:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d863dbc5ca848efe47fe6_bannie%CC%80re%20alumni%20cube%20Pierre%20Jean%202.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d863dbc5ca848efe47fe6_bannie%CC%80re%20alumni%20cube%20Pierre%20Jean%202.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d863dbc5ca848efe47fe6_bannie%CC%80re%20alumni%20cube%20Pierre%20Jean%202.png" /> Apprendre à créer sans coder peut redonner du sens à sa carrière]]></content:encoded>
@@ -2039,7 +2036,7 @@
   <title><![CDATA[SEO Shopify : comment bien référencer sa boutique en ligne ?]]></title>
   <link>https://www.ecole.cube.fr/blog/seo-sur-shopify</link>
   <description><![CDATA[Boostez votre visibilité et vos conversions sur Shopify]]></description>
-  <pubDate>Tue, 06 Jan 2026 08:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 21:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5d8d60b2b46674a32f5d_shopify%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5d8d60b2b46674a32f5d_shopify%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5d8d60b2b46674a32f5d_shopify%20cube.webp" /> Boostez votre visibilité et vos conversions sur Shopify]]></content:encoded>
@@ -2048,7 +2045,7 @@
   <title><![CDATA[SEO IA : guide complet 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/guide-du-seo-ia</link>
   <description><![CDATA[Comment l’IA redéfinit les stratégies de référencement ?]]></description>
-  <pubDate>Mon, 05 Jan 2026 11:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 22:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a8f837a81e77bd179483_seo%20IA%20cube%20(1).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a8f837a81e77bd179483_seo%20IA%20cube%20(1).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a8f837a81e77bd179483_seo%20IA%20cube%20(1).webp" /> Comment l’IA redéfinit les stratégies de référencement ?]]></content:encoded>
@@ -2057,7 +2054,7 @@
   <title><![CDATA[Clay IA - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/clay-ia-guide-avis</link>
   <description><![CDATA[Vos campagnes commerciales peuvent se construire avec l&#x27;IA !]]></description>
-  <pubDate>Tue, 06 Jan 2026 20:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 05:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5882493bcd68659fcf5f_clay%20ai%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5882493bcd68659fcf5f_clay%20ai%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5882493bcd68659fcf5f_clay%20ai%20cube.webp" /> Vos campagnes commerciales peuvent se construire avec l&#x27;IA !]]></content:encoded>
@@ -2066,7 +2063,7 @@
   <title><![CDATA[SEO LLM - Comment se référencer sur les LLM ?]]></title>
   <link>https://www.ecole.cube.fr/blog/seo-llm-referencement</link>
   <description><![CDATA[Développez votre visibilité sur les intelligences artificielles]]></description>
-  <pubDate>Tue, 30 Dec 2025 13:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 20:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5b659963d44806cc16f6_LLM%20seo%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5b659963d44806cc16f6_LLM%20seo%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5b659963d44806cc16f6_LLM%20seo%20cube.png" /> Développez votre visibilité sur les intelligences artificielles]]></content:encoded>
@@ -2075,7 +2072,7 @@
   <title><![CDATA[Formation Canva]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-canva</link>
   <description><![CDATA[Vous pouvez créer des visuels professionnels sans graphiste !]]></description>
-  <pubDate>Thu, 08 Jan 2026 08:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 21:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5a34abc5faa6f3735166_formation%20canva%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5a34abc5faa6f3735166_formation%20canva%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5a34abc5faa6f3735166_formation%20canva%20cube.webp" /> Vous pouvez créer des visuels professionnels sans graphiste !]]></content:encoded>
@@ -2084,7 +2081,7 @@
   <title><![CDATA[Formation Agent IA]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-se-former</link>
   <description><![CDATA[Déléguer vos tâches répétitives à un collègue numérique IA]]></description>
-  <pubDate>Sat, 03 Jan 2026 13:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 18:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0b547b6ef3f24428205c_formation%20agent%20IA%20cube%20(1).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0b547b6ef3f24428205c_formation%20agent%20IA%20cube%20(1).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0b547b6ef3f24428205c_formation%20agent%20IA%20cube%20(1).webp" /> Déléguer vos tâches répétitives à un collègue numérique IA]]></content:encoded>
@@ -2093,7 +2090,7 @@
   <title><![CDATA[Quelles sont les meilleures formations IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-ia</link>
   <description><![CDATA[Formez-vous à l’IA et maîtrisez la technologie du futur]]></description>
-  <pubDate>Tue, 06 Jan 2026 03:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 14:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36b8e2795000a45283468_68e36b2d0fa91a57975e7e04_Formation%20gratuite%20(1).avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36b8e2795000a45283468_68e36b2d0fa91a57975e7e04_Formation%20gratuite%20(1).avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36b8e2795000a45283468_68e36b2d0fa91a57975e7e04_Formation%20gratuite%20(1).avif" /> Formez-vous à l’IA et maîtrisez la technologie du futur]]></content:encoded>
@@ -2102,7 +2099,7 @@
   <title><![CDATA[Adobe Firefly - Guide, Présentation, Avis]]></title>
   <link>https://www.ecole.cube.fr/blog/adobe-firefly-avis</link>
   <description><![CDATA[Et si vos idées prenaient forme en quelques secondes grâce à l’IA]]></description>
-  <pubDate>Thu, 01 Jan 2026 06:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 06:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0a3d4a33a9ba7630b3bd_adobe%20firefly%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0a3d4a33a9ba7630b3bd_adobe%20firefly%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0a3d4a33a9ba7630b3bd_adobe%20firefly%20cube%201.webp" /> Et si vos idées prenaient forme en quelques secondes grâce à l’IA]]></content:encoded>
@@ -2111,7 +2108,7 @@
   <title><![CDATA[Les 7 meilleurs Notion Widget]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-notion-widget</link>
   <description><![CDATA[Votre espace Notion peut devenir un tableau de bord vivant!]]></description>
-  <pubDate>Tue, 06 Jan 2026 00:13:15 GMT</pubDate>
+  <pubDate>Tue, 30 Dec 2025 16:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09f3d75c3789ee064e65_notion%20widget%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09f3d75c3789ee064e65_notion%20widget%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09f3d75c3789ee064e65_notion%20widget%20cube%201.webp" /> Votre espace Notion peut devenir un tableau de bord vivant!]]></content:encoded>
@@ -2120,7 +2117,7 @@
   <title><![CDATA[Formation Lovable : Devenez expert du vibe-coding]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-lovable</link>
   <description><![CDATA[Envie de créer une application en quelques jours avec Lovable ?]]></description>
-  <pubDate>Wed, 07 Jan 2026 19:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 22:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc083fd17b639f2829dfe7_formation%20lovable%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc083fd17b639f2829dfe7_formation%20lovable%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc083fd17b639f2829dfe7_formation%20lovable%20cube%201.webp" /> Envie de créer une application en quelques jours avec Lovable ?]]></content:encoded>
@@ -2129,7 +2126,7 @@
   <title><![CDATA[Quelles sont les meilleures formations No Code ?]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-no-code</link>
   <description><![CDATA[Créez sans coder, formez-vous dès aujourd’hui au No-Code]]></description>
-  <pubDate>Wed, 07 Jan 2026 10:13:15 GMT</pubDate>
+  <pubDate>Thu, 08 Jan 2026 08:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c23489d43d06d9de7f6_68e36b6c06d641fb7c0ef813_Formation%20gratuite%20(2).avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c23489d43d06d9de7f6_68e36b6c06d641fb7c0ef813_Formation%20gratuite%20(2).avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c23489d43d06d9de7f6_68e36b6c06d641fb7c0ef813_Formation%20gratuite%20(2).avif" /> Créez sans coder, formez-vous dès aujourd’hui au No-Code]]></content:encoded>
@@ -2138,7 +2135,7 @@
   <title><![CDATA[Quelles sont les meilleures écoles IA en 2025 ?]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-ecoles-ia</link>
   <description><![CDATA[La meilleure façon de comprendre l’IA avec la meilleure école]]></description>
-  <pubDate>Fri, 02 Jan 2026 17:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 06:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c4b4cf66c2ee80eea98_68e36c0b4052126003787b4a_Formation%20gratuite%20(3).avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c4b4cf66c2ee80eea98_68e36c0b4052126003787b4a_Formation%20gratuite%20(3).avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c4b4cf66c2ee80eea98_68e36c0b4052126003787b4a_Formation%20gratuite%20(3).avif" /> La meilleure façon de comprendre l’IA avec la meilleure école]]></content:encoded>
@@ -2147,7 +2144,7 @@
   <title><![CDATA[Trello vs Notion - Quel outil choisir pour gérer vos projets ?]]></title>
   <link>https://www.ecole.cube.fr/blog/trello-vs-notion</link>
   <description><![CDATA[Gérez vos projets avec un outil adapté à vos besoins]]></description>
-  <pubDate>Fri, 02 Jan 2026 03:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 05:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09c5d17b639f282a9eab_trello%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09c5d17b639f282a9eab_trello%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09c5d17b639f282a9eab_trello%20cube%201.webp" /> Gérez vos projets avec un outil adapté à vos besoins]]></content:encoded>
@@ -2156,7 +2153,7 @@
   <title><![CDATA[Framer VS Webflow - Quel outil choisir pour créer son site ?]]></title>
   <link>https://www.ecole.cube.fr/blog/framer-vs-webflow</link>
   <description><![CDATA[Créez votre site web sans prise de tête]]></description>
-  <pubDate>Thu, 01 Jan 2026 10:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 23:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc088ecf3f07ac2ec52e1a_framer%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc088ecf3f07ac2ec52e1a_framer%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc088ecf3f07ac2ec52e1a_framer%20cube%201.webp" /> Créez votre site web sans prise de tête]]></content:encoded>
@@ -2165,7 +2162,7 @@
   <title><![CDATA[Formation Meta Ads - Mettez en place des campagnes Meta Ads performantes]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-meta-ads</link>
   <description><![CDATA[Gagnez en visibilité grâce à la publicité sur les réseaux sociaux]]></description>
-  <pubDate>Tue, 06 Jan 2026 18:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 19:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" /> Gagnez en visibilité grâce à la publicité sur les réseaux sociaux]]></content:encoded>
@@ -2174,7 +2171,7 @@
   <title><![CDATA[Formation Google Ads - Transformez les clics en vente]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-google-ads</link>
   <description><![CDATA[Formez-vous au SEA pour faire décoller votre visibilité en ligne]]></description>
-  <pubDate>Sat, 03 Jan 2026 02:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 22:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9674fdf0dfd5b7cbf6b1e_formation-google-ads-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9674fdf0dfd5b7cbf6b1e_formation-google-ads-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9674fdf0dfd5b7cbf6b1e_formation-google-ads-cube.webp" /> Formez-vous au SEA pour faire décoller votre visibilité en ligne]]></content:encoded>
@@ -2183,7 +2180,7 @@
   <title><![CDATA[Fiche métier Média buyer : missions, salaire, formation]]></title>
   <link>https://www.ecole.cube.fr/blog/media-buyer-fiche-metier</link>
   <description><![CDATA[Découvrez le métier de média buyer augmenté avec l&#x27;IA en 2025]]></description>
-  <pubDate>Thu, 08 Jan 2026 15:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 11:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" /> Découvrez le métier de média buyer augmenté avec l&#x27;IA en 2025]]></content:encoded>
@@ -2192,7 +2189,7 @@
   <title><![CDATA[Votre glossaire IA]]></title>
   <link>https://www.ecole.cube.fr/blog/glossaire-ia</link>
   <description><![CDATA[Découvrez notre glossaire complet sur l&#x27;IA]]></description>
-  <pubDate>Tue, 30 Dec 2025 16:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 14:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c959d531b112b202e97793_glossaire-IA-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c959d531b112b202e97793_glossaire-IA-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c959d531b112b202e97793_glossaire-IA-cube.webp" /> Découvrez notre glossaire complet sur l&#x27;IA]]></content:encoded>
@@ -2201,7 +2198,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour la productivité]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-productivite</link>
   <description><![CDATA[Boostez votre productivité avec l’IA]]></description>
-  <pubDate>Tue, 06 Jan 2026 22:13:15 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 07:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95fc86c015320f5c11ae4_outil-ia-productivite%CC%81-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95fc86c015320f5c11ae4_outil-ia-productivite%CC%81-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95fc86c015320f5c11ae4_outil-ia-productivite%CC%81-cube.webp" /> Boostez votre productivité avec l’IA]]></content:encoded>
@@ -2210,7 +2207,7 @@
   <title><![CDATA[Google Nano Banana - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/google-nano-banana-avis</link>
   <description><![CDATA[Et si vous pouviez transformer une simple idée en image réaliste?]]></description>
-  <pubDate>Tue, 30 Dec 2025 00:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 02:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c962877ec10db4a6616be5_google-nano-banana-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c962877ec10db4a6616be5_google-nano-banana-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c962877ec10db4a6616be5_google-nano-banana-cube.webp" /> Et si vous pouviez transformer une simple idée en image réaliste?]]></content:encoded>
@@ -2219,7 +2216,7 @@
   <title><![CDATA[Votre glossaire NoCode]]></title>
   <link>https://www.ecole.cube.fr/blog/glossaire-no-code</link>
   <description><![CDATA[Découvrez notre glossaire complet sur le No-Code]]></description>
-  <pubDate>Tue, 06 Jan 2026 04:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 17:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c96117e48e83f3634727a6_glossaire-no-code-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c96117e48e83f3634727a6_glossaire-no-code-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c96117e48e83f3634727a6_glossaire-no-code-cube.webp" /> Découvrez notre glossaire complet sur le No-Code]]></content:encoded>
@@ -2228,7 +2225,7 @@
   <title><![CDATA[Que vaut ChatGPT gratuit ?]]></title>
   <link>https://www.ecole.cube.fr/blog/chatgpt-gratuit</link>
   <description><![CDATA[La version gratuite de ChatGPT est-elle performante ?]]></description>
-  <pubDate>Sat, 03 Jan 2026 15:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 14:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95e3f599e9d703ad7aa02_chatgpt-gratuit-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95e3f599e9d703ad7aa02_chatgpt-gratuit-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95e3f599e9d703ad7aa02_chatgpt-gratuit-cube.webp" /> La version gratuite de ChatGPT est-elle performante ?]]></content:encoded>
@@ -2237,7 +2234,7 @@
   <title><![CDATA[Quelles sont les limites de l’IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/limites-ia</link>
   <description><![CDATA[Dépassez les limites de l’intelligence artificielle]]></description>
-  <pubDate>Sun, 04 Jan 2026 07:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 23:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95d4831b112b202ecc3ce_limites-IA-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95d4831b112b202ecc3ce_limites-IA-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95d4831b112b202ecc3ce_limites-IA-cube.webp" /> Dépassez les limites de l’intelligence artificielle]]></content:encoded>
@@ -2246,7 +2243,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour le marketing]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-marketing</link>
   <description><![CDATA[Redéfinissez et décuplez votre marketing avec l’IA]]></description>
-  <pubDate>Tue, 06 Jan 2026 11:13:15 GMT</pubDate>
+  <pubDate>Tue, 30 Dec 2025 13:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cb39b2d44c392740b2d_AI%20marketing%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cb39b2d44c392740b2d_AI%20marketing%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cb39b2d44c392740b2d_AI%20marketing%20cube.webp" /> Redéfinissez et décuplez votre marketing avec l’IA]]></content:encoded>
@@ -2255,7 +2252,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour les designers]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[Concevez plus vite et repoussez les limites de la créativité]]></description>
-  <pubDate>Tue, 30 Dec 2025 22:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 04:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a2fc602f221df20ff19_outils-IA-pour-designers.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a2fc602f221df20ff19_outils-IA-pour-designers.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a2fc602f221df20ff19_outils-IA-pour-designers.webp" /> Concevez plus vite et repoussez les limites de la créativité]]></content:encoded>
@@ -2264,7 +2261,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour les développeurs]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[Codez plus vite, réduisez les erreurs et améliorez l’UX]]></description>
-  <pubDate>Sun, 04 Jan 2026 12:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 06:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cdb4178f952ca60aa48_AI%20dev%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cdb4178f952ca60aa48_AI%20dev%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cdb4178f952ca60aa48_AI%20dev%20cube.webp" /> Codez plus vite, réduisez les erreurs et améliorez l’UX]]></content:encoded>
@@ -2273,7 +2270,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour les entrepreneurs]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-entrepreneurs</link>
   <description><![CDATA[Créez, gérez et développez votre activité simplement avec l’IA]]></description>
-  <pubDate>Mon, 05 Jan 2026 23:13:15 GMT</pubDate>
+  <pubDate>Tue, 30 Dec 2025 13:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d06c602f221df22516d_ai%20entrepreneur%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d06c602f221df22516d_ai%20entrepreneur%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d06c602f221df22516d_ai%20entrepreneur%20cube.webp" /> Créez, gérez et développez votre activité simplement avec l’IA]]></content:encoded>
@@ -2282,7 +2279,7 @@
   <title><![CDATA[Stack AI - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/stack-ai-guide-avis</link>
   <description><![CDATA[Créez, déployez et pilotez vos agents IA… sans écrire du code]]></description>
-  <pubDate>Mon, 05 Jan 2026 15:13:15 GMT</pubDate>
+  <pubDate>Tue, 30 Dec 2025 22:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ac08c85247517383dc6_stack-ia-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ac08c85247517383dc6_stack-ia-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ac08c85247517383dc6_stack-ia-cube.webp" /> Créez, déployez et pilotez vos agents IA… sans écrire du code]]></content:encoded>
@@ -2291,7 +2288,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour les freelances]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-freelances</link>
   <description><![CDATA[Pilotez votre activité de freelance de A à Z avec l&#x27;IA]]></description>
-  <pubDate>Tue, 30 Dec 2025 19:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 23:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d247d6cac48184698eb_AI%20freelance%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d247d6cac48184698eb_AI%20freelance%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d247d6cac48184698eb_AI%20freelance%20cube.webp" /> Pilotez votre activité de freelance de A à Z avec l&#x27;IA]]></content:encoded>
@@ -2300,7 +2297,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour les product managers]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-product-managers</link>
   <description><![CDATA[Créez des produits alignés sur les besoins réels avec l&#x27;IA]]></description>
-  <pubDate>Thu, 01 Jan 2026 18:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 21:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72bcbaa11058752bf07c9_IA-product-manager-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72bcbaa11058752bf07c9_IA-product-manager-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72bcbaa11058752bf07c9_IA-product-manager-cube.webp" /> Créez des produits alignés sur les besoins réels avec l&#x27;IA]]></content:encoded>
@@ -2309,7 +2306,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour les RH]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-rh</link>
   <description><![CDATA[Boostez la gestion des ressources humaines avec l’IA]]></description>
-  <pubDate>Thu, 08 Jan 2026 07:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 02:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d43bce3b5d212985610_AI%20rh%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d43bce3b5d212985610_AI%20rh%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d43bce3b5d212985610_AI%20rh%20cube.webp" /> Boostez la gestion des ressources humaines avec l’IA]]></content:encoded>
@@ -2318,7 +2315,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour les Sales]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-sales</link>
   <description><![CDATA[Prospectez plus vite et signez plus de deals grâce à l’IA]]></description>
-  <pubDate>Wed, 31 Dec 2025 14:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 00:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a74289d426d269a0545_IA-sales-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a74289d426d269a0545_IA-sales-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a74289d426d269a0545_IA-sales-cube.webp" /> Prospectez plus vite et signez plus de deals grâce à l’IA]]></content:encoded>
@@ -2327,7 +2324,7 @@
   <title><![CDATA[Notre classement des meilleurs outils IA pour les formateurs]]></title>
   <link>https://www.ecole.cube.fr/blog/notre-classement-des-meilleurs-outils-ia-pour-les-formateurs</link>
   <description><![CDATA[Libérez du temps pour enseigner, confiez le reste à l’IA]]></description>
-  <pubDate>Thu, 08 Jan 2026 14:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 19:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b799b2d44c392730d76_IA-formateur-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b799b2d44c392730d76_IA-formateur-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b799b2d44c392730d76_IA-formateur-cube.webp" /> Libérez du temps pour enseigner, confiez le reste à l’IA]]></content:encoded>
@@ -2336,7 +2333,7 @@
   <title><![CDATA[Base 44 - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/base-44-guide</link>
   <description><![CDATA[Créez une application complète sans coder avec Base 44]]></description>
-  <pubDate>Tue, 06 Jan 2026 21:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 16:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d7142b8451aff16f25f_base%2044%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d7142b8451aff16f25f_base%2044%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d7142b8451aff16f25f_base%2044%20cube.webp" /> Créez une application complète sans coder avec Base 44]]></content:encoded>
@@ -2345,7 +2342,7 @@
   <title><![CDATA[Google AI Overview - Fonctionnement, impact et bonnes pratiques]]></title>
   <link>https://www.ecole.cube.fr/blog/google-ai-overview</link>
   <description><![CDATA[Ne perdez plus de temps à cliquer sur des liens]]></description>
-  <pubDate>Thu, 01 Jan 2026 08:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 11:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ed0a61325e9a326d946_Google-AI-Overviews%20cube%20(1).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ed0a61325e9a326d946_Google-AI-Overviews%20cube%20(1).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ed0a61325e9a326d946_Google-AI-Overviews%20cube%20(1).webp" /> Ne perdez plus de temps à cliquer sur des liens]]></content:encoded>
@@ -2354,7 +2351,7 @@
   <title><![CDATA[Chat GPT 5 - Qu’est-ce qui change ?]]></title>
   <link>https://www.ecole.cube.fr/blog/chat-gpt-5-avis</link>
   <description><![CDATA[Et si la nouvelle génération d’IA comprenait vraiment vos besoins]]></description>
-  <pubDate>Fri, 02 Jan 2026 05:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 11:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d9ed03e3eec71d4a0f0_chatgpt%205.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d9ed03e3eec71d4a0f0_chatgpt%205.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d9ed03e3eec71d4a0f0_chatgpt%205.webp" /> Et si la nouvelle génération d’IA comprenait vraiment vos besoins]]></content:encoded>
@@ -2363,7 +2360,7 @@
   <title><![CDATA[Replit - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/replit-guide-presentation-avis</link>
   <description><![CDATA[Et si coder devenait aussi simple qu’ouvrir un onglet ?]]></description>
-  <pubDate>Wed, 07 Jan 2026 05:13:15 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 04:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b08c6a5ee0a2aac535f_replit-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b08c6a5ee0a2aac535f_replit-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b08c6a5ee0a2aac535f_replit-cube.webp" /> Et si coder devenait aussi simple qu’ouvrir un onglet ?]]></content:encoded>
@@ -2372,7 +2369,7 @@
   <title><![CDATA[Agence IA : les meilleures agences IA en 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/agence-ia-les-meilleures-en-2025</link>
   <description><![CDATA[Intégrez intelligemment l’IA avec un accompagnement sur-mesure]]></description>
-  <pubDate>Thu, 01 Jan 2026 18:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 06:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6880a630d095cbfec53c4080_business_meeting.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6880a630d095cbfec53c4080_business_meeting.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6880a630d095cbfec53c4080_business_meeting.webp" /> Intégrez intelligemment l’IA avec un accompagnement sur-mesure]]></content:encoded>
@@ -2381,7 +2378,7 @@
   <title><![CDATA[Bubble Mobile : Créez des applications mobile natives dans Bubble]]></title>
   <link>https://www.ecole.cube.fr/blog/bubble-mobile-creer-des-apps-natives</link>
   <description><![CDATA[Bubble permet enfin de créer des applications mobile natives !]]></description>
-  <pubDate>Tue, 06 Jan 2026 13:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 13:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687771fd4010326ed8aef7ee_capture-ecran-bubble-app.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687771fd4010326ed8aef7ee_capture-ecran-bubble-app.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687771fd4010326ed8aef7ee_capture-ecran-bubble-app.webp" /> Bubble permet enfin de créer des applications mobile natives !]]></content:encoded>
@@ -2390,7 +2387,7 @@
   <title><![CDATA[Hedra IA : Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/hedra-ia-guide-presentation-avis</link>
   <description><![CDATA[Donnez vie à vos vidéos, sans passer par un studio]]></description>
-  <pubDate>Mon, 05 Jan 2026 10:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 17:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6877713d65531389ecf929aa_capture-ecran-character3.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6877713d65531389ecf929aa_capture-ecran-character3.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6877713d65531389ecf929aa_capture-ecran-character3.webp" /> Donnez vie à vos vidéos, sans passer par un studio]]></content:encoded>
@@ -2399,7 +2396,7 @@
   <title><![CDATA[Veo3 : Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/veo3-guide-presentation-avis</link>
   <description><![CDATA[Fini le montage et les équipes chères pour créer vos vidéos]]></description>
-  <pubDate>Mon, 05 Jan 2026 19:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 16:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68776fcfc27fbabf2efed44a_capture-ecran-gemini-veo3.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68776fcfc27fbabf2efed44a_capture-ecran-gemini-veo3.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68776fcfc27fbabf2efed44a_capture-ecran-gemini-veo3.webp" /> Fini le montage et les équipes chères pour créer vos vidéos]]></content:encoded>
@@ -2408,7 +2405,7 @@
   <title><![CDATA[Agent IA : notre classement des meilleurs en 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[Déléguez vos tâches fastidieuses aux agents intelligents]]></description>
-  <pubDate>Thu, 01 Jan 2026 16:13:15 GMT</pubDate>
+  <pubDate>Sun, 04 Jan 2026 01:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68776a28c27fbabf2efb1b99_agent-ia.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68776a28c27fbabf2efb1b99_agent-ia.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68776a28c27fbabf2efb1b99_agent-ia.webp" /> Déléguez vos tâches fastidieuses aux agents intelligents]]></content:encoded>
@@ -2417,7 +2414,7 @@
   <title><![CDATA[Podcasts IA : notre classement en 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[Maîtrisez l’IA, où que vous soyez]]></description>
-  <pubDate>Thu, 08 Jan 2026 08:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 17:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687768691d5366faee8cc4ee_side-view-people-streaming-podcast.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687768691d5366faee8cc4ee_side-view-people-streaming-podcast.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687768691d5366faee8cc4ee_side-view-people-streaming-podcast.webp" /> Maîtrisez l’IA, où que vous soyez]]></content:encoded>
@@ -2426,7 +2423,7 @@
   <title><![CDATA[Certification IA : pourquoi et comment l’obtenir ?]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia-pourquoi-et-comment-lobtenir</link>
   <description><![CDATA[Saisissez la vague de l’IA dès maintenant]]></description>
-  <pubDate>Mon, 29 Dec 2025 19:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 12:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/686520095b64efda824f4688_certification%20ia.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/686520095b64efda824f4688_certification%20ia.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/686520095b64efda824f4688_certification%20ia.webp" /> Saisissez la vague de l’IA dès maintenant]]></content:encoded>
@@ -2435,7 +2432,7 @@
   <title><![CDATA[Shadow AI : Une utilisation non autorisée des modèles intelligents]]></title>
   <link>https://www.ecole.cube.fr/blog/shadow-ai-une-utilisation-non-autorisee</link>
   <description><![CDATA[Protégez vos données des LLM]]></description>
-  <pubDate>Thu, 08 Jan 2026 00:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 20:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651df65df82f4eeb9b5dfa_Shadow%20AI.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651df65df82f4eeb9b5dfa_Shadow%20AI.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651df65df82f4eeb9b5dfa_Shadow%20AI.webp" /> Protégez vos données des LLM]]></content:encoded>
@@ -2444,7 +2441,7 @@
   <title><![CDATA[Claude 4 : Les innovations qui changent la donne]]></title>
   <link>https://www.ecole.cube.fr/blog/claude-4-les-innovations-qui-changent-tout</link>
   <description><![CDATA[Et si l&#x27;IA conversationnelle franchissait un nouveau cap ?]]></description>
-  <pubDate>Tue, 06 Jan 2026 23:13:15 GMT</pubDate>
+  <pubDate>Tue, 30 Dec 2025 08:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651d48ec756cc639a46d54_claude%204.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651d48ec756cc639a46d54_claude%204.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651d48ec756cc639a46d54_claude%204.webp" /> Et si l&#x27;IA conversationnelle franchissait un nouveau cap ?]]></content:encoded>
@@ -2453,7 +2450,7 @@
   <title><![CDATA[Google AI Studio - Guide, Présentation Avis]]></title>
   <link>https://www.ecole.cube.fr/blog/google-ai-studio-guide-presentation-avis</link>
   <description><![CDATA[Expérimentez avec les modèles d&#x27;IA les plus avancés de Google]]></description>
-  <pubDate>Tue, 06 Jan 2026 09:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 03:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651bfa038d2f7b64b1ed39_google%20ai%20studio.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651bfa038d2f7b64b1ed39_google%20ai%20studio.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68651bfa038d2f7b64b1ed39_google%20ai%20studio.webp" /> Expérimentez avec les modèles d&#x27;IA les plus avancés de Google]]></content:encoded>
@@ -2462,7 +2459,7 @@
   <title><![CDATA[Arcads.ai : créez des publicités UGC avec des acteurs IA]]></title>
   <link>https://www.ecole.cube.fr/blog/arcads-ai-guide-presentation-avis</link>
   <description><![CDATA[Des pubs gagnantes avec des acteurs IA ? C’est Arcads.ai.]]></description>
-  <pubDate>Thu, 01 Jan 2026 16:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 19:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c8d82914489178e2749e_arcads%20ai.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c8d82914489178e2749e_arcads%20ai.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c8d82914489178e2749e_arcads%20ai.webp" /> Des pubs gagnantes avec des acteurs IA ? C’est Arcads.ai.]]></content:encoded>
@@ -2471,7 +2468,7 @@
   <title><![CDATA[Open AI Codex : codez plus vite avec l&#x27;IA]]></title>
   <link>https://www.ecole.cube.fr/blog/open-ai-codex-guide-presentation-avis</link>
   <description><![CDATA[Et si coder devenait aussi simple que parler à un expert ?]]></description>
-  <pubDate>Wed, 07 Jan 2026 18:13:15 GMT</pubDate>
+  <pubDate>Thu, 08 Jan 2026 17:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c72844b5a1887817d7e7_Openia%20codex.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c72844b5a1887817d7e7_Openia%20codex.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c72844b5a1887817d7e7_Openia%20codex.webp" /> Et si coder devenait aussi simple que parler à un expert ?]]></content:encoded>
@@ -2480,7 +2477,7 @@
   <title><![CDATA[Figma sites : la nouvelle fonctionnalité pour créer un site web]]></title>
   <link>https://www.ecole.cube.fr/blog/fonctionnalite-figma-pour-creer-un-site-web</link>
   <description><![CDATA[Créez vos sites de A à Z sans dépendre d’un dév’]]></description>
-  <pubDate>Wed, 31 Dec 2025 15:13:15 GMT</pubDate>
+  <pubDate>Tue, 06 Jan 2026 13:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c587684d02c1ca90c3e8_figma%20sites.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c587684d02c1ca90c3e8_figma%20sites.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c587684d02c1ca90c3e8_figma%20sites.webp" /> Créez vos sites de A à Z sans dépendre d’un dév’]]></content:encoded>
@@ -2489,7 +2486,7 @@
   <title><![CDATA[IA Hubspot : tout savoir sur la nouvelle Breeze]]></title>
   <link>https://www.ecole.cube.fr/blog/tout-savoir-sur-la-nouvelle-ia-dhubspot-breeze</link>
   <description><![CDATA[Transformez votre approche grâce à l&#x27;IA de Hubspot]]></description>
-  <pubDate>Thu, 01 Jan 2026 13:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 04:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c54050c954de3c76b245_IA%20Hubspot.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c54050c954de3c76b245_IA%20Hubspot.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c54050c954de3c76b245_IA%20Hubspot.webp" /> Transformez votre approche grâce à l&#x27;IA de Hubspot]]></content:encoded>
@@ -2498,7 +2495,7 @@
   <title><![CDATA[Avatar IA : comment en créer un facilement ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-creer-un-avatar-ia</link>
   <description><![CDATA[Transformez une simple photographie en ambassadeur numérique]]></description>
-  <pubDate>Wed, 07 Jan 2026 16:13:15 GMT</pubDate>
+  <pubDate>Tue, 30 Dec 2025 19:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c437206cf88cc73f0327_avatar%20IA.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c437206cf88cc73f0327_avatar%20IA.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6863c437206cf88cc73f0327_avatar%20IA.webp" /> Transformez une simple photographie en ambassadeur numérique]]></content:encoded>
@@ -2507,7 +2504,7 @@
   <title><![CDATA[Comparateur d’IA : Choisissez intelligemment votre outil IA]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[Ne restez plus perdu face à toutes les IA]]></description>
-  <pubDate>Wed, 07 Jan 2026 19:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 21:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6853920fdb90b766ab3cb308_Comparateur%20IA.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6853920fdb90b766ab3cb308_Comparateur%20IA.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6853920fdb90b766ab3cb308_Comparateur%20IA.webp" /> Ne restez plus perdu face à toutes les IA]]></content:encoded>
@@ -2516,7 +2513,7 @@
   <title><![CDATA[Chat IA : les meilleurs outils du moment]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[Révolutionnez votre façon de travailler en quelques clics]]></description>
-  <pubDate>Sat, 03 Jan 2026 12:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 11:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6853915789586ba09301876f_meilleur%20chat%20IA.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6853915789586ba09301876f_meilleur%20chat%20IA.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6853915789586ba09301876f_meilleur%20chat%20IA.webp" /> Révolutionnez votre façon de travailler en quelques clics]]></content:encoded>
@@ -2525,7 +2522,7 @@
   <title><![CDATA[Rag IA -  Retrieval-Augmented Generation, qu&#x27;est ce que c&#x27;est ?]]></title>
   <link>https://www.ecole.cube.fr/blog/rag-ia</link>
   <description><![CDATA[Et si l&#x27;intelligence artificielle pouvait dépasser ses limites ?]]></description>
-  <pubDate>Sat, 03 Jan 2026 04:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 05:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/685390ca7f42b096659548d2_Rag%20IA.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/685390ca7f42b096659548d2_Rag%20IA.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/685390ca7f42b096659548d2_Rag%20IA.webp" /> Et si l&#x27;intelligence artificielle pouvait dépasser ses limites ?]]></content:encoded>
@@ -2534,7 +2531,7 @@
   <title><![CDATA[v0 : le nouvel outil de développement IA à suivre]]></title>
   <link>https://www.ecole.cube.fr/blog/v0</link>
   <description><![CDATA[Révolutionnez votre processus de développement web.]]></description>
-  <pubDate>Sat, 03 Jan 2026 06:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 21:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68538edb7f42b0966593f8d1_v0.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68538edb7f42b0966593f8d1_v0.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68538edb7f42b0966593f8d1_v0.webp" /> Révolutionnez votre processus de développement web.]]></content:encoded>
@@ -2543,7 +2540,7 @@
   <title><![CDATA[Tout savoir sur le MCP IA - Model Context Protocol]]></title>
   <link>https://www.ecole.cube.fr/blog/mcp</link>
   <description><![CDATA[Connectez enfin l’IA à vos bases de données]]></description>
-  <pubDate>Mon, 05 Jan 2026 08:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 08:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68538e1d0ec9be6a2ead7c42_mcp.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68538e1d0ec9be6a2ead7c42_mcp.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68538e1d0ec9be6a2ead7c42_mcp.webp" /> Connectez enfin l’IA à vos bases de données]]></content:encoded>
@@ -2552,7 +2549,7 @@
   <title><![CDATA[Formation designer]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-designer-ui</link>
   <description><![CDATA[Sublimez l’identité de marque avec des interfaces]]></description>
-  <pubDate>Wed, 07 Jan 2026 06:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 10:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e90866b04b072c4af14_formation%20designer%20ui.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e90866b04b072c4af14_formation%20designer%20ui.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e90866b04b072c4af14_formation%20designer%20ui.webp" /> Sublimez l’identité de marque avec des interfaces]]></content:encoded>
@@ -2561,7 +2558,7 @@
   <title><![CDATA[Airtable Template - Notre classement des meilleurs modèles]]></title>
   <link>https://www.ecole.cube.fr/blog/airtable-templates</link>
   <description><![CDATA[Utilisez les modèles Airtable et gagnez du temps au quotidien]]></description>
-  <pubDate>Tue, 06 Jan 2026 15:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 14:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e69a2e7dc860dcf1346_airtable%20templates.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e69a2e7dc860dcf1346_airtable%20templates.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e69a2e7dc860dcf1346_airtable%20templates.webp" /> Utilisez les modèles Airtable et gagnez du temps au quotidien]]></content:encoded>
@@ -2570,7 +2567,7 @@
   <title><![CDATA[Découvrez les 12 meilleurs plugins Figma]]></title>
   <link>https://www.ecole.cube.fr/blog/plugins-figma</link>
   <description><![CDATA[Découvrez notre guide des 12 meilleurs plugins sur Figma]]></description>
-  <pubDate>Fri, 02 Jan 2026 23:13:15 GMT</pubDate>
+  <pubDate>Thu, 08 Jan 2026 07:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e48a2e7dc860dceed13_plugin%20figma.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e48a2e7dc860dceed13_plugin%20figma.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e48a2e7dc860dceed13_plugin%20figma.webp" /> Découvrez notre guide des 12 meilleurs plugins sur Figma]]></content:encoded>
@@ -2579,7 +2576,7 @@
   <title><![CDATA[Les biais IA - Quand l’intelligence artificielle vous trompe …]]></title>
   <link>https://www.ecole.cube.fr/blog/biais-ia</link>
   <description><![CDATA[Ne vous laissez plus tromper par l’IA]]></description>
-  <pubDate>Wed, 07 Jan 2026 20:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 02:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e26c193d9177274ac27_biais%20ia.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e26c193d9177274ac27_biais%20ia.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395e26c193d9177274ac27_biais%20ia.webp" /> Ne vous laissez plus tromper par l’IA]]></content:encoded>
@@ -2588,7 +2585,7 @@
   <title><![CDATA[Fiche métier Expert IA - Mission, salaire, formation]]></title>
   <link>https://www.ecole.cube.fr/blog/expert-ia</link>
   <description><![CDATA[Découvrez le métier d’expert IA]]></description>
-  <pubDate>Wed, 07 Jan 2026 15:13:15 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 23:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395dfb869083b51bbe51ad_expert%20ia.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395dfb869083b51bbe51ad_expert%20ia.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395dfb869083b51bbe51ad_expert%20ia.webp" /> Découvrez le métier d’expert IA]]></content:encoded>
@@ -2597,7 +2594,7 @@
   <title><![CDATA[Les avantages de l’IA pour l’individu, l’entreprise et la société dans son ensemble]]></title>
   <link>https://www.ecole.cube.fr/blog/avantage-ia</link>
   <description><![CDATA[Découvrez tous les bénéfices de l’intelligence artificielle]]></description>
-  <pubDate>Sat, 03 Jan 2026 22:13:15 GMT</pubDate>
+  <pubDate>Wed, 07 Jan 2026 06:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395dc7a2e7dc860dce6fe5_avantage%20ia.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395dc7a2e7dc860dce6fe5_avantage%20ia.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395dc7a2e7dc860dce6fe5_avantage%20ia.webp" /> Découvrez tous les bénéfices de l’intelligence artificielle]]></content:encoded>
@@ -2606,7 +2603,7 @@
   <title><![CDATA[Les 4 grands types IA]]></title>
   <link>https://www.ecole.cube.fr/blog/types-ia</link>
   <description><![CDATA[Explorez l’IA sous toutes les coutures]]></description>
-  <pubDate>Sun, 04 Jan 2026 20:13:15 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 00:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d91f700adac5491ecd4_Types%20ia.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d91f700adac5491ecd4_Types%20ia.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d91f700adac5491ecd4_Types%20ia.webp" /> Explorez l’IA sous toutes les coutures]]></content:encoded>
@@ -2615,7 +2612,7 @@
   <title><![CDATA[La création de votre IA à portée de main]]></title>
   <link>https://www.ecole.cube.fr/blog/developpement-ia</link>
   <description><![CDATA[Créez votre propre intelligence artificielle]]></description>
-  <pubDate>Wed, 31 Dec 2025 13:13:15 GMT</pubDate>
+  <pubDate>Wed, 31 Dec 2025 09:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d604b621d6c45aceb3b_d%C3%A9veloppement%20ia.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d604b621d6c45aceb3b_d%C3%A9veloppement%20ia.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d604b621d6c45aceb3b_d%C3%A9veloppement%20ia.webp" /> Créez votre propre intelligence artificielle]]></content:encoded>
@@ -2624,7 +2621,7 @@
   <title><![CDATA[Le marché de l’emploi IA, de la destruction à la création]]></title>
   <link>https://www.ecole.cube.fr/blog/emploi-ia</link>
   <description><![CDATA[L’IA ne va pas remplacer nos métiers, elle les fait évoluer]]></description>
-  <pubDate>Wed, 07 Jan 2026 20:13:15 GMT</pubDate>
+  <pubDate>Fri, 02 Jan 2026 22:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d281b3e5116cc078324_emploi%20ia.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d281b3e5116cc078324_emploi%20ia.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395d281b3e5116cc078324_emploi%20ia.webp" /> L’IA ne va pas remplacer nos métiers, elle les fait évoluer]]></content:encoded>
@@ -2633,7 +2630,7 @@
   <title><![CDATA[Notre comparatif des meilleures IA open source]]></title>
   <link>https://www.ecole.cube.fr/blog/ia-open-source</link>
   <description><![CDATA[Découvrez les meilleurs modèles des IA open source]]></description>
-  <pubDate>Sat, 03 Jan 2026 18:13:15 GMT</pubDate>
+  <pubDate>Mon, 05 Jan 2026 22:44:47 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395ce6c193d91772744592_ia%20open%20source.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395ce6c193d91772744592_ia%20open%20source.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68395ce6c193d91772744592_ia%20open%20source.webp" /> Découvrez les meilleurs modèles des IA open source]]></content:encoded>
@@ -2990,58 +2987,40 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/Intelligence-artificielle-IA-AI-4.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L&rsquo;ANALYSE CONVERSATIONNELLE EN ACTION]]></title>
-  <link>https://www.ia-news.fr/lanalyse-conversationnelle-en-action/</link>
+  <title><![CDATA[Synapse Développement, lauréat de la thématique Numérique Deeptech du concours i-Nov avec son projet BOT CYCLE]]></title>
+  <link>https://www.ia-news.fr/synapse-developpement-laureat-de-la-thematique-numerique-deeptech-du-concours-i-nov-avec-son-projet-bot-cycle/</link>
   <description><![CDATA[]]></description>
   <pubDate>Fri, 09 Dec 2022 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Intelligence artificielle : Doctolib lance l’Assistant de consultation]]></title>
-  <link>https://www.ia-news.fr/intelligence-artificielle-doctolib-lance-lassistant-de-consultation/</link>
+  <title><![CDATA[Ctoutvert investit dans l’IA pour enrichir les outils d’aide à la décision des gestionnaires de campings]]></title>
+  <link>https://www.ia-news.fr/intelligence-artificielle-ou-es-tu/</link>
   <description><![CDATA[]]></description>
   <pubDate>Fri, 09 Dec 2022 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Progress nomme Ed Keisling au poste de Chief AI Officer]]></title>
-  <link>https://www.ia-news.fr/progress-nomme-ed-keisling-au-poste-de-chief-ai-officer/</link>
+  <title><![CDATA[Rocket School lance une formation à l’IA pour les professionnels du droit]]></title>
+  <link>https://www.ia-news.fr/rocket-school-lance-une-formation-a-lia-pour-les-professionnels-du-droit/</link>
   <description><![CDATA[]]></description>
   <pubDate>Fri, 09 Dec 2022 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/02/Progress_Ed-Keisling.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/02/Progress_Ed-Keisling.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/02/Progress_Ed-Keisling.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/rocket-school.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/rocket-school.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/rocket-school.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Stelliant Expertise optimise ses processus de gestion avec l’IA de confiance de Golem.ai]]></title>
-  <link>https://www.ia-news.fr/stelliant-expertise-optimise-ses-processus-de-gestion-avec-lia-de-confiance-de-golem-ai/</link>
+  <title><![CDATA[Camunda présente ses nouvelles capacités IA pour rationaliser la transformation de l’entreprise]]></title>
+  <link>https://www.ia-news.fr/camunda-presente-ses-nouvelles-capacites-ia-pour-rationaliser-la-transformation-de-lentreprise/</link>
   <description><![CDATA[]]></description>
   <pubDate>Fri, 09 Dec 2022 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Medius annonce son intention d&rsquo;acquérir Expensya]]></title>
-  <link>https://www.ia-news.fr/medius-annonce-son-intention-dacquerir-expensya/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Fri, 09 Dec 2022 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/team-event-egypt.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/team-event-egypt.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/team-event-egypt.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[IA et analytique : quelles implications pour les solutions ECM  ?]]></title>
-  <link>https://www.ia-news.fr/ia-et-analytique-quelles-implications-pour-les-solutions-ecm/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Fri, 09 Dec 2022 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
 		<title>ChatGPT Santé : comment fonctionne le nouvel assistant d&#8217;OpenAI</title>
