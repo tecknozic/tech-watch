@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 13 Jan 2026 11:20:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Jan 2026 10:28:41 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vidéos verticales, cohérence visuelle et 4K : Google renforce Veo 3.1</title>
+		<link>https://www.blogdumoderateur.com/videos-verticales-coherence-visuelle-4k-google-renforce-veo-3-1/</link>
+					<comments>https://www.blogdumoderateur.com/videos-verticales-coherence-visuelle-4k-google-renforce-veo-3-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2026 10:28:41 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Vidéo]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=197709</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/Google-Veo-3-1-ingredients-to-video-294x166.jpg" alt="Vidéos verticales, cohérence visuelle et 4K : Google renforce Veo 3.1" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">D'importantes optimisations ont été apportées par Google à "Ingredients to Video", fonction qui permet de générer des vidéos via des images de référence avec Veo.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/videos-verticales-coherence-visuelle-4k-google-renforce-veo-3-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/Google-Veo-3-1-ingredients-to-video-294x166.jpg" type="image/jpeg" length="233102"/>
+		</item>
+		<item>
 		<title>Slack transforme son Slackbot en agent IA conversationnel d&#8217;entreprise</title>
 		<link>https://www.blogdumoderateur.com/slack-slackbot-agent-ia-conversationnel-entreprise/</link>
 					<comments>https://www.blogdumoderateur.com/slack-slackbot-agent-ia-conversationnel-entreprise/#respond</comments>
@@ -639,26 +660,6 @@
 <enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/Surfing-1.mp4" length="3227770" type="video/mp4" />
 
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/Gemini2-cas-usage-google-294x172.jpg" type="image/jpeg" length="214795"/>
-		</item>
-		<item>
-		<title>IA : les meilleurs modèles pour le code et le développement web en décembre 2025</title>
-		<link>https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-decembre-2025/</link>
-					<comments>https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-decembre-2025/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 09:14:58 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[Développement]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=196517</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2025/12/webdev-arena-classement-ia-decembre-2025-294x149.jpg" alt="IA : les meilleurs modèles pour le code et le développement web en décembre 2025" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">GPT.5-2 répond-il aux attentes ? Anthropic peut-il voir ses modèles Claude être détrônés ? Où en est Gemini ? Réponse dans le classement de la WebDev Arena, qui évalue les modèles d'IA selon leurs performances en code et développement.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-decembre-2025/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/webdev-arena-classement-ia-decembre-2025-294x149.jpg" type="image/jpeg" length="257661"/>
 		</item>
 	</channel>
 </rss>
