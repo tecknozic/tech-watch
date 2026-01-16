@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 15 Jan 2026 11:35:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Jan 2026 10:04:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google dévoile TranslateGemma, des modèles de traduction open source</title>
+		<link>https://www.blogdumoderateur.com/google-devoile-translategemma-modeles-traduction-open-source/</link>
+					<comments>https://www.blogdumoderateur.com/google-devoile-translategemma-modeles-traduction-open-source/#respond</comments>
+		
+		<dc:creator><![CDATA[José Billon]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2026 10:04:51 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=197915</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/TranslateGemma-google-annonce-294x166.jpg" alt="Google dévoile TranslateGemma, des modèles de traduction open source" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">La suite de modèles couvre 55 langues et cible des déploiements variés, du mobile au cloud.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/google-devoile-translategemma-modeles-traduction-open-source/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/TranslateGemma-google-annonce-294x166.jpg" type="image/jpeg" length="171959"/>
+		</item>
+		<item>
 		<title>OpenAI déploie ChatGPT Translate pour concurrencer Google Traduction</title>
 		<link>https://www.blogdumoderateur.com/openai-deploie-chatgpt-translate/</link>
 					<comments>https://www.blogdumoderateur.com/openai-deploie-chatgpt-translate/#respond</comments>
@@ -624,31 +644,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/cc-google-agent-ia-productivite-294x197.jpg" type="image/jpeg" length="192901"/>
-		</item>
-		<item>
-		<title>8 livres blancs pour préparer 2026 : IA, social media, SEO, gamification…</title>
-		<link>https://www.blogdumoderateur.com/livres-blancs-preparer-2026/</link>
-					<comments>https://www.blogdumoderateur.com/livres-blancs-preparer-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[Alexandra Patard]]></dc:creator>
-		<pubDate>Wed, 17 Dec 2025 09:08:21 +0000</pubDate>
-				<category><![CDATA[Web]]></category>
-		<category><![CDATA[Business]]></category>
-		<category><![CDATA[Community management]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Livres blancs]]></category>
-		<category><![CDATA[SEO]]></category>
-		<category><![CDATA[Stratégie digitale]]></category>
-		<category><![CDATA[Vidéo]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=196664</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2025/12/livres-blancs-preparer-2026-294x160.jpg" alt="8 livres blancs pour préparer 2026 : IA, social media, SEO, gamification…" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Une sélection de livres blancs, à télécharger gratuitement, pour anticiper les évolutions du marketing digital et garder une longueur d’avance sur vos concurrents en 2026.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/livres-blancs-preparer-2026/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/livres-blancs-preparer-2026-294x160.jpg" type="image/jpeg" length="208572"/>
 		</item>
 	</channel>
 </rss>
