@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Jan 2026 12:02:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jan 2026 15:14:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Anthropic étend la disponibilité de Cowork et Claude dans Excel</title>
+		<link>https://www.blogdumoderateur.com/anthropic-etend-disponibilite-cowork-claude-dans-excel/</link>
+					<comments>https://www.blogdumoderateur.com/anthropic-etend-disponibilite-cowork-claude-dans-excel/#respond</comments>
+		
+		<dc:creator><![CDATA[José Billon]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 15:13:36 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198338</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/Claude-Excel-Pro-Plan-294x147.jpg" alt="Anthropic étend la disponibilité de Cowork et Claude dans Excel" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Anthropic étend deux fonctionnalités professionnelles annoncées récemment : Claude in Excel et Cowork. Voici comment y accéder. ]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/anthropic-etend-disponibilite-cowork-claude-dans-excel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/Claude-Excel-Pro-Plan-294x147.jpg" type="image/jpeg" length="189137"/>
+		</item>
+		<item>
 		<title>IA : les 10 générateurs d’images les plus performants en janvier 2026</title>
 		<link>https://www.blogdumoderateur.com/ia-10-generateurs-images-plus-performants-janvier-2026/</link>
 					<comments>https://www.blogdumoderateur.com/ia-10-generateurs-images-plus-performants-janvier-2026/#respond</comments>
@@ -625,25 +644,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/noms-IA-anecdotes-294x196.jpeg" type="image/jpeg" length="206759"/>
-		</item>
-		<item>
-		<title>ChatGPT : comment ajuster son enthousiasme ou l&#8217;usage des emojis</title>
-		<link>https://www.blogdumoderateur.com/chatgpt-comment-ajuster-enthousiasme-usage-emojis/</link>
-					<comments>https://www.blogdumoderateur.com/chatgpt-comment-ajuster-enthousiasme-usage-emojis/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Wed, 24 Dec 2025 07:30:03 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=196955</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2025/12/chatgpt-enthousiasme-emoji-listes-294x198.jpg" alt="ChatGPT : comment ajuster son enthousiasme ou l&rsquo;usage des emojis" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">OpenAI déploie de nouveaux paramètres de personnalisation. Vous pouvez notamment ajuster la chaleur et l'enthousiasme de ChatGPT plus finement.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/chatgpt-comment-ajuster-enthousiasme-usage-emojis/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/12/chatgpt-enthousiasme-emoji-listes-294x198.jpg" type="image/jpeg" length="182730"/>
 		</item>
 	</channel>
 </rss>
