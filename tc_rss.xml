@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 26 Jan 2026 18:06:43 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jan 2026 22:41:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,15 +28,51 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>YouTubers sue Snap for alleged copyright infringement in training its AI models</title>
+		<link>https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 21:43:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[Snap]]></category>
+		<category><![CDATA[Youtubers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3086257</guid>
+
+					<description><![CDATA[The YouTubers claim Snap, like others, used AI datasets meant for research and academic use to train its AI models. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI startup CVector raises $5M for its industrial &#8216;nervous system&#8217;</title>
+		<link>https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 19:10:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[cvector]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[industrial ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3085867</guid>
+
+					<description><![CDATA[Now, founders Richard Zhang and Tyler Ruggles are tasked with a bigger challenge: showing customers and investors how this AI-powered software layer translates to real savings on an industrial scale. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Anthropic launches interactive Claude apps, including Slack and other workplace tools</title>
 		<link>https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/</link>
 		
 		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
 		<pubDate>Mon, 26 Jan 2026 18:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[agentic ai]]></category>
 		<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[agentic ai]]></category>
 		<category><![CDATA[Cowork]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3085959</guid>
 
@@ -51,10 +87,10 @@
 		
 		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
 		<pubDate>Mon, 26 Jan 2026 18:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Obvious Ventures]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3086074</guid>
 
@@ -210,12 +246,13 @@
 		<pubDate>Sun, 25 Jan 2026 22:35:53 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[xAI]]></category>
-		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[grokipedia]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[xAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3085903</guid>
 
-					<description><![CDATA[Information from the conservative-leaning, AI-generated encyclopedia developed by Elon Musk’s xAI is beginning to appear in answers from ChatGPT.]]></description>
+					<description><![CDATA[xAI launched Grokipedia in October, after Musk had been complaining that Wikipedia was biased against conservatives.]]></description>
 		
 		
 		
@@ -265,10 +302,11 @@
 		<category><![CDATA[Apple]]></category>
 		<category><![CDATA[gemini]]></category>
 		<category><![CDATA[Google]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[siri]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3085862</guid>
 
-					<description><![CDATA[We’re about to get our first real look at the results of the recently announced AI partnership between Apple and Google.]]></description>
+					<description><![CDATA[Using Google’s Gemini AI models, this Siri update will reportedly be the first to live up to the promises Apple made in June 2024, with the ability to complete tasks by accessing user’s personal data and on-screen content.]]></description>
 		
 		
 		
@@ -296,7 +334,7 @@
 			</item>
 		<item>
 		<title>Former Googlers seek to captivate kids with an AI-powered learning app</title>
-		<link>https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/</link>
+		<link>https://techcrunch.com/2026/01/24/former-googlers-seek-to-captivate-kids-with-an-ai-powered-learning-app/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Sat, 24 Jan 2026 18:21:21 +0000</pubDate>
@@ -319,14 +357,14 @@
 		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
 		<pubDate>Sat, 24 Jan 2026 17:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[safe superintelligence]]></category>
-		<category><![CDATA[World Labs]]></category>
-		<category><![CDATA[Thinking Machines Lab]]></category>
 		<category><![CDATA[foundation models]]></category>
 		<category><![CDATA[humans&]]></category>
+		<category><![CDATA[safe superintelligence]]></category>
+		<category><![CDATA[Thinking Machines Lab]]></category>
+		<category><![CDATA[World Labs]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3085833</guid>
 
-					<description><![CDATA[It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.]]></description>
+					<description><![CDATA[It’s getting hard to tell which AI labs are actually trying to make money. We created a rating system to help sort it out.]]></description>
 		
 		
 		
@@ -361,46 +399,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3085799</guid>
 
 					<description><![CDATA[Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How did Davos turn into a tech conference?</title>
-		<link>https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/</link>
-		
-		<dc:creator><![CDATA[Theresa Loconsolo]]></dc:creator>
-		<pubDate>Fri, 23 Jan 2026 20:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Davos 2026]]></category>
-		<category><![CDATA[Equity Video]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[metaverse]]></category>
-		<category><![CDATA[Serve Robotics]]></category>
-		<category><![CDATA[World Economic Forum]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=3085516</guid>
-
-					<description><![CDATA[The World Economic Forum&#8217;s annual meeting in Davos&#160;felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.&#160;AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs&#160;weren&#8217;t&#160;holding back. There was public criticism of trade policy, warnings about AI [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Photos&#8217; latest feature lets you meme yourself</title>
-		<link>https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Fri, 23 Jan 2026 17:02:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Photos]]></category>
-		<category><![CDATA[Memes]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3085504</guid>
-
-					<description><![CDATA[The addition is meant to just be a fun way to explore your photos and experiment with Google's Gemini AI technology, and specifically Nano Banana. ]]></description>
 		
 		
 		
