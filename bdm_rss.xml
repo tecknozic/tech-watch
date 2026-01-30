@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Jan 2026 10:11:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Jan 2026 08:29:43 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Quiz : avez-vous bien suivi l&#8217;actualité digitale en janvier 2026 ?</title>
+		<link>https://www.blogdumoderateur.com/quiz-actualite-digitale-janvier-2026/</link>
+					<comments>https://www.blogdumoderateur.com/quiz-actualite-digitale-janvier-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2026 07:00:42 +0000</pubDate>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Pinterest]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198493</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/quiz-bdm-actu-janvier-2026-294x172.jpeg" alt="Quiz : avez-vous bien suivi l&rsquo;actualité digitale en janvier 2026 ?" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Testez vos connaissances sur les temps forts du numérique en ce début d'année 2026 !]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/quiz-actualite-digitale-janvier-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/quiz-bdm-actu-janvier-2026-294x172.jpeg" type="image/jpeg" length="190926"/>
+		</item>
+		<item>
 		<title>Google Chrome intègre un nouveau panneau latéral pour Gemini et Nano Banana</title>
 		<link>https://www.blogdumoderateur.com/google-chrome-nouveau-panneau-lateral-gemini-nano-banana/</link>
 					<comments>https://www.blogdumoderateur.com/google-chrome-nouveau-panneau-lateral-gemini-nano-banana/#respond</comments>
@@ -621,26 +646,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/webdev-arena-janvier-2026-294x144.jpg" type="image/jpeg" length="263708"/>
-		</item>
-		<item>
-		<title>Le trafic de Gemini fait un bond, celui de ChatGPT ralentit</title>
-		<link>https://www.blogdumoderateur.com/trafic-gemini-bond-chatgpt-ralentit/</link>
-					<comments>https://www.blogdumoderateur.com/trafic-gemini-bond-chatgpt-ralentit/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Fri, 09 Jan 2026 09:36:06 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[Étude]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=197483</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/trafic-chatgpt-gemini-similarweb-294x203.jpg" alt="Le trafic de Gemini fait un bond, celui de ChatGPT ralentit" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Selon les dernières données de Similarweb, ChatGPT perd du terrain face à un Gemini dont le trafic web progresse fortement.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/trafic-gemini-bond-chatgpt-ralentit/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/trafic-chatgpt-gemini-similarweb-294x203.jpg" type="image/jpeg" length="278684"/>
 		</item>
 	</channel>
 </rss>
