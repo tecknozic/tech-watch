@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 18:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 00:53:18 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Netflix and Warner Bros struggle to defend merger]]></title>
+            <description><![CDATA[Concerns were raised by a subcommittee including potential price rises and the future of cinemas.]]></description>
+            <link>https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydndkmvy2o#0</guid>
+            <pubDate>Tue, 03 Feb 2026 23:42:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d7/live/642fb430-0152-11f1-8083-f16316d6e48a.jpg"/>
+        </item>
         <item>
             <title><![CDATA[X offices raided in France as UK opens fresh investigation into Grok]]></title>
             <description><![CDATA[Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.]]></description>
@@ -66,7 +74,7 @@
             <title><![CDATA[Musk's SpaceX applies to launch a million satellites into orbit]]></title>
             <description><![CDATA[The firm wants to create a network of "orbital data centres" to power artificial intelligence.]]></description>
             <link>https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv5l24mrjmo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv5l24mrjmo#1</guid>
             <pubDate>Sat, 31 Jan 2026 16:19:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/647e/live/2eac0410-febb-11f0-9972-d3f265c101c6.jpg"/>
         </item>
