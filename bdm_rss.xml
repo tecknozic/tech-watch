@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 05 Feb 2026 10:02:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Feb 2026 16:10:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI lance Frontier, sa plateforme de gestion d&#8217;agents IA pour les entreprises</title>
+		<link>https://www.blogdumoderateur.com/openai-lance-frontier-plateforme-gestion-agents-ia-entreprises/</link>
+					<comments>https://www.blogdumoderateur.com/openai-lance-frontier-plateforme-gestion-agents-ia-entreprises/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 16:10:35 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Productivité]]></category>
+		<category><![CDATA[Stratégie digitale]]></category>
+		<category><![CDATA[Transformation digitale]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199000</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/OpenAI-Frontier-exemple-294x166.jpg" alt="OpenAI lance Frontier, sa plateforme de gestion d&rsquo;agents IA pour les entreprises" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">OpenAI lance Frontier pour les entreprises souhaitant construire, déployer et gérer des agents IA à grande échelle. L'objectif est de centraliser la gestion de ces "collaborateurs numériques" et les intégrer aux systèmes existants.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/openai-lance-frontier-plateforme-gestion-agents-ia-entreprises/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/OpenAI-Frontier-exemple-294x166.jpg" type="image/jpeg" length="241479"/>
+		</item>
+		<item>
 		<title>GitHub accélère sur l’IA en intégrant Claude et Codex</title>
 		<link>https://www.blogdumoderateur.com/github-accelere-ia-claude-codex/</link>
 					<comments>https://www.blogdumoderateur.com/github-accelere-ia-claude-codex/#respond</comments>
@@ -629,26 +651,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/j-peux-pas-j-ai-ia-mbadmb-efap-294x165.jpg" type="image/jpeg" length="178424"/>
-		</item>
-		<item>
-		<title>La publicité arrive dans ChatGPT : ce qui va changer</title>
-		<link>https://www.blogdumoderateur.com/publicite-chatgpt/</link>
-					<comments>https://www.blogdumoderateur.com/publicite-chatgpt/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Mon, 19 Jan 2026 09:47:05 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Publicité]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=197988</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/Publicite-chatgpt-294x165.jpg" alt="La publicité arrive dans ChatGPT : ce qui va changer" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">OpenAI va tester la publicité dans ChatGPT dès les prochaines semaines aux États-Unis, marquant un tournant dans sa stratégie de monétisation.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/publicite-chatgpt/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/Publicite-chatgpt-294x165.jpg" type="image/jpeg" length="282873"/>
 		</item>
 	</channel>
 </rss>

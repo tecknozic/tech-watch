@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 05 Feb 2026 01:36:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Feb 2026 18:30:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,99 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI launches a way for enterprises to build and manage AI agents</title>
+		<link>https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 18:09:50 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Agent Management Platforms]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3090000</guid>
+
+					<description><![CDATA[OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic releases Opus 4.6 with new &#8216;agent teams&#8217;</title>
+		<link>https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 17:51:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[Opus]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3089523</guid>
+
+					<description><![CDATA[The newest version of Anthropic's model is designed to broaden its appeal. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta tests a standalone app for its AI-generated &#8216;Vibes&#8217; videos</title>
+		<link>https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 17:19:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3089950</guid>
+
+					<description><![CDATA[Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fundamental raises $255 million Series A with a new take on big data analysis</title>
+		<link>https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 15:00:02 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[big data]]></category>
+		<category><![CDATA[fundamental]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3089914</guid>
+
+					<description><![CDATA[Fundamental has built a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ElevenLabs CEO: Voice is the next interface for AI</title>
+		<link>https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 14:41:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI voice model]]></category>
+		<category><![CDATA[ElevenLabs]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3089899</guid>
+
+					<description><![CDATA[ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Sam Altman got exceptionally testy over Claude Super Bowl ads</title>
 		<link>https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/</link>
 		
@@ -308,104 +401,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3089319</guid>
 
 					<description><![CDATA[Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations</title>
-		<link>https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 18:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[agentic]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[coding]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[xcode]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3089115</guid>
-
-					<description><![CDATA[Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lotus Health nabs $35M for AI doctor that sees patients for free</title>
-		<link>https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 17:14:27 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI Medical Service]]></category>
-		<category><![CDATA[CRV]]></category>
-		<category><![CDATA[Kleiner Perkins]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3089121</guid>
-
-					<description><![CDATA[This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fitbit founders launch AI platform to help families monitor their health</title>
-		<link>https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 15:53:36 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[fitbit]]></category>
-		<category><![CDATA[heath]]></category>
-		<category><![CDATA[luffu]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3089083</guid>
-
-					<description><![CDATA[Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Peak XV says internal disagreement led to partner exits as it doubles down on AI</title>
-		<link>https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 14:14:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Ashish Agrawal]]></category>
-		<category><![CDATA[Ishaan Mittal]]></category>
-		<category><![CDATA[Peak XV Partners]]></category>
-		<category><![CDATA[shailendra singh]]></category>
-		<category><![CDATA[Tejeshwi Sharma]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3089057</guid>
-
-					<description><![CDATA[Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk&#8217;s SpaceX officially acquires Elon Musk&#8217;s xAI, with plan to build data centers in space</title>
-		<link>https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 22:21:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3088937</guid>
-
-					<description><![CDATA[The merger creates the world's most valuable private company and paves the way for Musk to try and prove out the usefulness of space-based data centers.]]></description>
 		
 		
 		
