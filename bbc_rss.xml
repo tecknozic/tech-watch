@@ -9,11 +9,20 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 06:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 12:29:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK's £8bn research fund faces 'hard decisions' as it pauses new grants]]></title>
+            <description><![CDATA[UKRI boss Ian Chapman said it had been told by the government to "focus and do fewer things better".
+]]></description>
+            <link>https://www.bbc.com/news/articles/c8e50x1r237o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8e50x1r237o#0</guid>
+            <pubDate>Thu, 05 Feb 2026 12:00:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1823/live/7566ee40-0282-11f1-853d-351197b9900b.jpg"/>
+        </item>
         <item>
             <title><![CDATA[US launches plan to tackle China's critical minerals dominance]]></title>
             <description><![CDATA[The event was attended by representatives of more than 50 countries, the White House said.]]></description>
@@ -66,7 +75,7 @@
             <title><![CDATA[What is the 'social media network for AI' Moltbook?]]></title>
             <description><![CDATA[The Reddit-like website which launched in late January allows AI bots to speak to each other.]]></description>
             <link>https://www.bbc.com/news/articles/c62n410w5yno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62n410w5yno#0</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62n410w5yno#1</guid>
             <pubDate>Mon, 02 Feb 2026 13:59:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef1/live/6df7a720-0026-11f1-a507-573696841dbb.jpg"/>
         </item>
@@ -106,33 +115,9 @@
             <title><![CDATA[He calls me sweetheart and winks at me - but he's not my boyfriend, he's AI]]></title>
             <description><![CDATA[George is an avatar on my mobile but claims to know  what makes me tick. ]]></description>
             <link>https://www.bbc.com/news/articles/c62njv82n0wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62njv82n0wo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62njv82n0wo#2</guid>
             <pubDate>Fri, 30 Jan 2026 11:39:15 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c1c/live/45907680-fc3f-11f0-851f-553096e4fe99.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK bans Coinbase ads implying crypto can ease cost of living concerns]]></title>
-            <description><![CDATA[The ASA upheld complaints that Coinbase's adverts trivialised the risks of investing in cryptocurrency.]]></description>
-            <link>https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2yv31482vo#1</guid>
-            <pubDate>Thu, 29 Jan 2026 11:40:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Driverless taxis set to launch in UK as soon as September]]></title>
-            <description><![CDATA[Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April.]]></description>
-            <link>https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/czej9n578k9o#1</guid>
-            <pubDate>Wed, 28 Jan 2026 23:22:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e4/live/62fabfc0-fcf6-11f0-b7e1-afb6d0884c18.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tesla cuts car models in shift to robots and AI]]></title>
-            <description><![CDATA[Multi-billionaire Elon Musk's electric car maker also said its annual revenue had fallen for the first time.]]></description>
-            <link>https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c620177qdg5o#1</guid>
-            <pubDate>Thu, 29 Jan 2026 02:35:07 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c066/live/b36a52b0-fcc2-11f0-be2d-7b4b1a60e9bc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Facebook-owner Meta to nearly double AI spending]]></title>
@@ -143,12 +128,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/556e/live/03e662c0-fcd1-11f0-a3f3-217c0d974672.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Government offers UK adults free AI training for work]]></title>
-            <description><![CDATA[The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.]]></description>
-            <link>https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp37prvp072o#2</guid>
-            <pubDate>Wed, 28 Jan 2026 11:50:21 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c9/live/c2700050-fc3d-11f0-851f-553096e4fe99.jpg"/>
+            <title><![CDATA[Tesla cuts car models in shift to robots and AI]]></title>
+            <description><![CDATA[Multi-billionaire Elon Musk's electric car maker also said its annual revenue had fallen for the first time.]]></description>
+            <link>https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c620177qdg5o#2</guid>
+            <pubDate>Thu, 29 Jan 2026 02:35:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c066/live/b36a52b0-fcc2-11f0-be2d-7b4b1a60e9bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK bans Coinbase ads implying crypto can ease cost of living concerns]]></title>
+            <description><![CDATA[The ASA upheld complaints that Coinbase's adverts trivialised the risks of investing in cryptocurrency.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2yv31482vo#2</guid>
+            <pubDate>Thu, 29 Jan 2026 11:40:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Driverless taxis set to launch in UK as soon as September]]></title>
+            <description><![CDATA[Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April.]]></description>
+            <link>https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czej9n578k9o#2</guid>
+            <pubDate>Wed, 28 Jan 2026 23:22:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e4/live/62fabfc0-fcf6-11f0-b7e1-afb6d0884c18.jpg"/>
         </item>
         <item>
             <title><![CDATA[Amazon confirms 16,000 job cuts after accidental email]]></title>
@@ -157,6 +158,14 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2ywzxlxnlo#2</guid>
             <pubDate>Wed, 28 Jan 2026 13:11:09 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceca/live/1b3c5410-faf7-11f0-8d99-4d63080b9583.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government offers UK adults free AI training for work]]></title>
+            <description><![CDATA[The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.]]></description>
+            <link>https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp37prvp072o#2</guid>
+            <pubDate>Wed, 28 Jan 2026 11:50:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c9/live/c2700050-fc3d-11f0-851f-553096e4fe99.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pornhub to restrict access for UK users from next week]]></title>
@@ -261,38 +270,6 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/c86v52gv726o#2</guid>
             <pubDate>Fri, 23 Jan 2026 22:31:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/8a085560-f77d-11f0-b7ec-55c1cb544783.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caribbean cannabis growers eye budding domestic sales and exports]]></title>
-            <description><![CDATA[Producers in Jamaica and Antigua hope that increasing liberalisation will lead to higher revenues.]]></description>
-            <link>https://www.bbc.com/news/articles/c62ndp17jv0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ndp17jv0o#2</guid>
-            <pubDate>Mon, 26 Jan 2026 06:49:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6b/live/93434f40-f77d-11f0-b385-5f48925de19a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI ready: The advantages of being a young entrepreneur]]></title>
-            <description><![CDATA[The latest generation of entrepreneurs have a head-start with AI but also face familiar challenges.]]></description>
-            <link>https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c058d4nvz1go#2</guid>
-            <pubDate>Fri, 23 Jan 2026 00:02:43 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cbb/live/b804e3f0-f202-11f0-b385-5f48925de19a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What does a new US TikTok deal mean for users?]]></title>
-            <description><![CDATA[While TikTok's future in the US has been secured, questions remain about exactly what changes US users will see.]]></description>
-            <link>https://www.bbc.com/news/articles/cq5yynydvgzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5yynydvgzo#2</guid>
-            <pubDate>Fri, 23 Jan 2026 18:15:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef1a/live/6bfa98b0-f851-11f0-8ab6-81a112385ec5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TikTok closes deal to split US app from global business]]></title>
-            <description><![CDATA[The app was due to be banned in the US a year ago if its Chinese owner didn't sell its business in America.]]></description>
-            <link>https://www.bbc.com/news/articles/c3edd1l328lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3edd1l328lo#2</guid>
-            <pubDate>Fri, 23 Jan 2026 05:17:48 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d23/live/14849d90-f821-11f0-b5f7-49f0357294ff.jpg"/>
         </item>
         <item>
             <title><![CDATA[How would a social media ban for under-16s work?]]></title>
