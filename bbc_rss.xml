@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Feb 2026 18:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 01:07:35 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -352,6 +352,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0mnwhqh.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why food fraud persists, even with improving tech]]></title>
+            <description><![CDATA[Even with sophisticated technology it is still difficult to detect fake foods.]]></description>
+            <link>https://www.bbc.com/news/articles/c2e102vw1z2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2e102vw1z2o#5</guid>
+            <pubDate>Tue, 10 Feb 2026 00:03:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/966e/live/f6d5bbd0-001d-11f1-a8b8-bdd2c5f9bcad.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Can robots ever be graceful?]]></title>
             <description><![CDATA[Firms are working to make the motors that drive robots more efficient and cheaper.]]></description>
             <link>https://www.bbc.com/news/articles/c5y46356zzyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -502,14 +510,6 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9pwgqvr7go#5</guid>
             <pubDate>Fri, 14 Nov 2025 15:47:29 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabc/live/b392cee0-c151-11f0-ae46-bd64331f0fd4.png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Kenyan start-up aiming to electrify African transport]]></title>
-            <description><![CDATA[From fleets of e-bikes to individual riders, eWaka aims to sell across Africa's delivery market.]]></description>
-            <link>https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/videos/c0kpel4y4g7o#5</guid>
-            <pubDate>Tue, 11 Nov 2025 00:03:14 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5017/live/8440cf40-bec5-11f0-ae46-bd64331f0fd4.png"/>
         </item>
     </channel>
 </rss>
