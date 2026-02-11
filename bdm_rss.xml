@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Feb 2026 10:33:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Feb 2026 14:43:55 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gemini CLI : Google simplifie enfin la configuration des extensions</title>
+		<link>https://www.blogdumoderateur.com/gemini-cli-google-simplifie-configuration-extensions/</link>
+					<comments>https://www.blogdumoderateur.com/gemini-cli-google-simplifie-configuration-extensions/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 14:43:55 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Développement]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199301</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Gemini-CLI-extension-settings-294x154.jpg" alt="Gemini CLI : Google simplifie enfin la configuration des extensions" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Google lance "Extension Settings", une fonctionnalité qui automatise la configuration des extensions Gemini CLI. Fini les variables d'environnement à exporter manuellement.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/gemini-cli-google-simplifie-configuration-extensions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Gemini-CLI-extension-settings-294x154.jpg" type="image/jpeg" length="98861"/>
+		</item>
+		<item>
 		<title>ChatGPT : Deep Research permet désormais de limiter la recherche à des sites spécifiques</title>
 		<link>https://www.blogdumoderateur.com/chatgpt-deep-research-permet-limiter-recherche-sites-specifiques/</link>
 					<comments>https://www.blogdumoderateur.com/chatgpt-deep-research-permet-limiter-recherche-sites-specifiques/#respond</comments>
@@ -632,25 +653,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/GEO-LLM-Fonctionnement-294x196.jpg" type="image/jpeg" length="192997"/>
-		</item>
-		<item>
-		<title>Claude peut désormais interagir avec Slack, Figma, Canva ou d’autres outils pros</title>
-		<link>https://www.blogdumoderateur.com/claude-interagir-slack-figma-canva/</link>
-					<comments>https://www.blogdumoderateur.com/claude-interagir-slack-figma-canva/#respond</comments>
-		
-		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
-		<pubDate>Tue, 27 Jan 2026 10:16:38 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198407</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/claude-applications-interactives-mise-a-jour-294x165.jpg" alt="Claude peut désormais interagir avec Slack, Figma, Canva ou d’autres outils pros" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Disponible sur web et desktop pour les abonnés Pro, Max, Team et Enterprise, cette mise à jour transforme Claude en "super app" pour les professionnels. ]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/claude-interagir-slack-figma-canva/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/claude-applications-interactives-mise-a-jour-294x165.jpg" type="image/jpeg" length="155768"/>
 		</item>
 	</channel>
 </rss>
