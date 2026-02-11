@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 10 Feb 2026 09:37:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Feb 2026 10:33:13 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ChatGPT : Deep Research permet désormais de limiter la recherche à des sites spécifiques</title>
+		<link>https://www.blogdumoderateur.com/chatgpt-deep-research-permet-limiter-recherche-sites-specifiques/</link>
+					<comments>https://www.blogdumoderateur.com/chatgpt-deep-research-permet-limiter-recherche-sites-specifiques/#respond</comments>
+		
+		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 10:33:13 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199268</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/chatgpt-deepresearch-mise-a-jour-294x165.jpeg" alt="ChatGPT : Deep Research permet désormais de limiter la recherche à des sites spécifiques" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Deep Research, désormais alimentée par le modèle GPT-5.2, propose un nouvel outil de visualisation ainsi que la possibilité de restreindre les recherches à des sources ou applications spécifiques.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/chatgpt-deep-research-permet-limiter-recherche-sites-specifiques/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/chatgpt-deepresearch-mise-a-jour-294x165.jpeg" type="image/jpeg" length="120803"/>
+		</item>
+		<item>
+		<title>94 % des étudiants français ont déjà utilisé l&#8217;IA : entre usage massif et dérives inquiétantes</title>
+		<link>https://www.blogdumoderateur.com/etudiants-francais-ia-usage-massif-derives-inquietantes/</link>
+					<comments>https://www.blogdumoderateur.com/etudiants-francais-ia-usage-massif-derives-inquietantes/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 10:05:44 +0000</pubDate>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Étude]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199269</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/usages-ia-etudiants-adoption-294x165.jpg" alt="94 % des étudiants français ont déjà utilisé l&rsquo;IA : entre usage massif et dérives inquiétantes" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Selon une étude Ipsos pour l'EPITA, l'IA générative est devenue incontournable pour les étudiants français. Mais certains usages soulèvent aussi des questions.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/etudiants-francais-ia-usage-massif-derives-inquietantes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/usages-ia-etudiants-adoption-294x165.jpg" type="image/jpeg" length="218810"/>
+		</item>
+		<item>
 		<title>IA générative : 48 % des Français l&#8217;utilisent, une adoption record</title>
 		<link>https://www.blogdumoderateur.com/ia-generative-francais-utilisent-adoption-record/</link>
 					<comments>https://www.blogdumoderateur.com/ia-generative-francais-utilisent-adoption-record/#respond</comments>
@@ -612,46 +651,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/claude-applications-interactives-mise-a-jour-294x165.jpg" type="image/jpeg" length="155768"/>
-		</item>
-		<item>
-		<title>L&#8217;IA en chiffres : ChatGPT perd du terrain face à la concurrence</title>
-		<link>https://www.blogdumoderateur.com/ia-chiffres-chatgpt-perd-terrain-concurrence/</link>
-					<comments>https://www.blogdumoderateur.com/ia-chiffres-chatgpt-perd-terrain-concurrence/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Tue, 27 Jan 2026 06:00:41 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[Culture web]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Transformation digitale]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=197893</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/BDM-evolution-mensuelle-du-classement-du-meilleur-modele-de-chaque-editeur-dans-la-lmarena-4-294x156.jpg" alt="L&rsquo;IA en chiffres : ChatGPT perd du terrain face à la concurrence" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Au premier trimestre 2024 est apparue la LMArena, appelée alors Chatbot Arena. L'idée : classer les modèles d'IA selon leurs performances en se basant sur les retours utilisateurs. Près de deux ans plus tard, quels enseignements en tirer ?]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/ia-chiffres-chatgpt-perd-terrain-concurrence/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/BDM-evolution-mensuelle-du-classement-du-meilleur-modele-de-chaque-editeur-dans-la-lmarena-4-294x156.jpg" type="image/jpeg" length="360139"/>
-		</item>
-		<item>
-		<title>Anthropic étend la disponibilité de Cowork et Claude dans Excel</title>
-		<link>https://www.blogdumoderateur.com/anthropic-etend-disponibilite-cowork-claude-dans-excel/</link>
-					<comments>https://www.blogdumoderateur.com/anthropic-etend-disponibilite-cowork-claude-dans-excel/#respond</comments>
-		
-		<dc:creator><![CDATA[José Billon]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 15:13:36 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198338</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/Claude-Excel-Pro-Plan-294x147.jpg" alt="Anthropic étend la disponibilité de Cowork et Claude dans Excel" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Anthropic étend deux fonctionnalités professionnelles annoncées récemment : Claude in Excel et Cowork. Voici comment y accéder. ]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/anthropic-etend-disponibilite-cowork-claude-dans-excel/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/Claude-Excel-Pro-Plan-294x147.jpg" type="image/jpeg" length="189137"/>
 		</item>
 	</channel>
 </rss>
