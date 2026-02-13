@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 18:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 01:01:56 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[AI coding platform's flaws allow BBC reporter to be hacked ]]></title>
+            <description><![CDATA[Vibe-coding tools - which let people without coding skills create apps using AI - are exploding in popularity.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4wnw04e8wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4wnw04e8wo#0</guid>
+            <pubDate>Fri, 13 Feb 2026 00:19:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e2/live/d92dd230-080a-11f1-b56b-bf8bb0174edb.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Porn site fined £800,000 for not rolling out age checks]]></title>
             <description><![CDATA[Separately, message board 4chan says it will refuse to pay an expected £520,000 fine from the media regulator.]]></description>
@@ -66,7 +74,7 @@
             <title><![CDATA[Apple and Google agree to change app stores after 'effective duopoly' claim]]></title>
             <description><![CDATA[The UK's markets regulator says the proposed commitments "will boost the UK's app economy".]]></description>
             <link>https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c626rng1v63o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c626rng1v63o#1</guid>
             <pubDate>Tue, 10 Feb 2026 12:44:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8b/live/d74d0660-066c-11f1-87d9-7f781b3ca3ad.jpg"/>
         </item>
@@ -106,7 +114,7 @@
             <title><![CDATA[Baldur's Gate to be turned into TV series - without the game's developers]]></title>
             <description><![CDATA[The show will be made by Craig Mazin, who co-created the acclaimed game adaptation The Last Of Us.]]></description>
             <link>https://www.bbc.com/news/articles/c24g457y534o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24g457y534o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24g457y534o#2</guid>
             <pubDate>Fri, 06 Feb 2026 16:26:08 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6a1/live/73114c20-034b-11f1-a423-8bf34c43c5e3.jpg"/>
         </item>
@@ -304,6 +312,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0mtlsbq.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Get a grip: Robotics firms struggle to develop hands]]></title>
+            <description><![CDATA[Developing a durable and affordable hand is one of the biggest challenges in robotics.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7y45kxvp9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7y45kxvp9o#5</guid>
+            <pubDate>Fri, 13 Feb 2026 00:04:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f447/live/01d68d40-036e-11f1-b5e2-dd58fc65f0f6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why food fraud persists, even with improving tech]]></title>
             <description><![CDATA[Even with sophisticated technology it is still difficult to detect fake foods.]]></description>
             <link>https://www.bbc.com/news/articles/c2e102vw1z2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -454,14 +470,6 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cjekg1pd9j4o#5</guid>
             <pubDate>Sat, 15 Nov 2025 04:03:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c22/live/d34583d0-c08f-11f0-924c-87dcfe4462ba.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Call of Duty is back, and it's got a battle on its hands]]></title>
-            <description><![CDATA[The annual instalment of the massive series faces new challenges from competitor Battlefield 6.]]></description>
-            <link>https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9pwgqvr7go#5</guid>
-            <pubDate>Fri, 14 Nov 2025 15:47:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabc/live/b392cee0-c151-11f0-ae46-bd64331f0fd4.png"/>
         </item>
     </channel>
 </rss>
