@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 18 Feb 2026 10:03:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Feb 2026 14:58:05 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Figma intègre Claude Code : le code généré par IA devient un design modifiable</title>
+		<link>https://www.blogdumoderateur.com/figma-integre-claude-code/</link>
+					<comments>https://www.blogdumoderateur.com/figma-integre-claude-code/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2026 14:58:05 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Développement]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199732</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Claude-Code-to-Figma-294x165.jpg" alt="Figma intègre Claude Code : le code généré par IA devient un design modifiable" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Les interfaces web créées avec Claude Code peuvent désormais être converties en calques Figma éditables, grâce à une nouvelle intégration entre les deux outils.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/figma-integre-claude-code/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Claude-Code-to-Figma-294x165.jpg" type="image/jpeg" length="173972"/>
+		</item>
+		<item>
 		<title>Google modifie ses résultats IA pour rediriger plus de trafic vers les sites web</title>
 		<link>https://www.blogdumoderateur.com/google-modifie-resultats-ia-rediriger-trafic-sites-web/</link>
 					<comments>https://www.blogdumoderateur.com/google-modifie-resultats-ia-rediriger-trafic-sites-web/#respond</comments>
@@ -618,25 +639,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/Claude-tarifs-comparatif-294x189.jpg" type="image/jpeg" length="102425"/>
-		</item>
-		<item>
-		<title>OpenAI lance une application macOS pour Codex</title>
-		<link>https://www.blogdumoderateur.com/openai-lance-application-macos-codex/</link>
-					<comments>https://www.blogdumoderateur.com/openai-lance-application-macos-codex/#respond</comments>
-		
-		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 10:34:05 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198710</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/codex-application-mac-294x165.jpg" alt="OpenAI lance une application macOS pour Codex" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">L'application macOS de Codex permet de piloter plusieurs agents en parallèle dans des environnements distincts, mais aussi d'automatiser des tâches de programmation répétitives. ]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/openai-lance-application-macos-codex/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/codex-application-mac-294x165.jpg" type="image/jpeg" length="102782"/>
 		</item>
 	</channel>
 </rss>
