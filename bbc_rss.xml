@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Feb 2026 00:59:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 06:45:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA['I do not trust them' - top streamers left concerned by Discord age checks]]></title>
+            <description><![CDATA[The platform's plan to roll out global age checks has caused concern in streaming communities.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4g8ynpwl8o#0</guid>
+            <pubDate>Wed, 18 Feb 2026 01:47:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9013/live/2ce5caf0-0b5c-11f1-addc-a972ce4af6c2.jpg"/>
+        </item>
         <item>
             <title><![CDATA[How dark web agent spotted bedroom wall clue to rescue girl from years of harm]]></title>
             <description><![CDATA[Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.
@@ -65,14 +73,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9107/live/ed515dc0-08ed-11f1-94dc-adc7436c6c75.jpg"/>
         </item>
         <item>
-            <title><![CDATA[John Wick game starring Keanu Reeves unveiled at PlayStation showcase]]></title>
-            <description><![CDATA[It's not the first time the iconic hitman has appeared in games, but Saber's will be the first voiced by Reeves.]]></description>
-            <link>https://www.bbc.com/news/articles/cp8533g3201o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8533g3201o#0</guid>
-            <pubDate>Fri, 13 Feb 2026 12:48:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/91dff9a0-08df-11f1-961c-5b7d58c0375b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[AI coding platform's flaws allow BBC reporter to be hacked ]]></title>
             <description><![CDATA[Vibe-coding tools - which let people without coding skills create apps using AI - are exploding in popularity.]]></description>
             <link>https://www.bbc.com/news/articles/cy4wnw04e8wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,6 +111,14 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8ln4l0wq4o#1</guid>
             <pubDate>Thu, 12 Feb 2026 10:19:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661b/live/13026050-07f9-11f1-b7e1-afb6d0884c18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Wick game starring Keanu Reeves unveiled at PlayStation showcase]]></title>
+            <description><![CDATA[It's not the first time the iconic hitman has appeared in games, but Saber's will be the first voiced by Reeves.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8533g3201o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8533g3201o#2</guid>
+            <pubDate>Fri, 13 Feb 2026 12:48:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/91dff9a0-08df-11f1-961c-5b7d58c0375b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Amazon's Ring ends deal with surveillance firm after backlash]]></title>

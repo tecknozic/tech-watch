@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Feb 2026 08:34:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Feb 2026 16:11:37 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le monde n’a pas besoin de Vibes, mais Meta s’en moque</title>
+		<link>https://www.blogdumoderateur.com/le-monde-pas-besoin-vibes/</link>
+					<comments>https://www.blogdumoderateur.com/le-monde-pas-besoin-vibes/#respond</comments>
+		
+		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2026 06:00:01 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199595</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2025/11/meta-ai-vibes-294x165.jpg" alt="Le monde n’a pas besoin de Vibes, mais Meta s’en moque" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Échec cuisant en termes d'audience, l'usine à AI slop de Meta pourrait bientôt disposer de sa propre application et basculer sur un modèle freemium. La preuve, s'il en fallait une, qu'on vit dans une drôle d'époque.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/le-monde-pas-besoin-vibes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/11/meta-ai-vibes-294x165.jpg" type="image/jpeg" length="121122"/>
+		</item>
+		<item>
 		<title>6 prompts testés et approuvés par les professionnels du digital</title>
 		<link>https://www.blogdumoderateur.com/ia-prompts-professionnels-digital/</link>
 					<comments>https://www.blogdumoderateur.com/ia-prompts-professionnels-digital/#respond</comments>
@@ -618,29 +638,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/nicolas-bouchand-expert-seo-alumni-mbadmb-efap-294x154.jpg" type="image/jpeg" length="211641"/>
-		</item>
-		<item>
-		<title>9 événements web à ne pas manquer en février 2026</title>
-		<link>https://www.blogdumoderateur.com/evenements-digital-fevrier-2026/</link>
-					<comments>https://www.blogdumoderateur.com/evenements-digital-fevrier-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[Alexandra Patard]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 06:00:50 +0000</pubDate>
-				<category><![CDATA[Web]]></category>
-		<category><![CDATA[E-commerce]]></category>
-		<category><![CDATA[Événements web]]></category>
-		<category><![CDATA[Formation]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Stratégie digitale]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198392</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/evenements-digital-fevrier-2026-294x154.jpg" alt="9 événements web à ne pas manquer en février 2026" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Retrouvez dans cette sélection : quatre webinars pour se former au marketing digital en France et à l'international, Social Jam, Tech&#038;Fest, Retail Data Day, AI Day et TEDxParis. ]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/evenements-digital-fevrier-2026/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/evenements-digital-fevrier-2026-294x154.jpg" type="image/jpeg" length="104322"/>
 		</item>
 	</channel>
 </rss>
