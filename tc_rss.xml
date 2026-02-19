@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 18 Feb 2026 18:27:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Feb 2026 21:20:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,49 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Amazon halts Blue Jay robotics project after less than six months</title>
+		<title>Is your startup&#8217;s check engine light on? Google Cloud&#8217;s VP explains what to do</title>
+		<link>https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/</link>
+		
+		<dc:creator><![CDATA[Theresa Loconsolo]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2026 21:07:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[google cloud]]></category>
+		<category><![CDATA[startup building]]></category>
+		<category><![CDATA[Cloud credits]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=3094123</guid>
+
+					<description><![CDATA[Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Cloud&#8217;s VP for startups on reading your &#8216;check engine light&#8217; before it&#8217;s too late</title>
+		<link>https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan, Theresa Loconsolo]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2026 20:22:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI startup]]></category>
+		<category><![CDATA[Darren Mowry]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[google cloud]]></category>
+		<category><![CDATA[Google Global Startups]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&#038;p=3094010</guid>
+
+					<description><![CDATA[Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon halts Blue Jay robotics project after less than 6 months</title>
 		<link>https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/</link>
 		
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
@@ -36,8 +78,6 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Robotics]]></category>
 		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[robotics]]></category>
 		<category><![CDATA[warehouse robotics]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3094024</guid>
 
@@ -148,13 +188,13 @@
 		
 			</item>
 		<item>
-		<title>India&#8217;s Sarvam wants to bring its AI models to feature phones, cars and smart glasses</title>
+		<title>India&#8217;s Sarvam wants to bring its AI models to feature phones, cars, and smart glasses</title>
 		<link>https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Wed, 18 Feb 2026 13:01:04 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
 		<category><![CDATA[India AI Impact Summit 2026]]></category>
 		<category><![CDATA[Qualcomm]]></category>
 		<category><![CDATA[Sarvam]]></category>
@@ -209,9 +249,9 @@
 		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
 		<pubDate>Tue, 17 Feb 2026 18:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Sonnet]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Sonnet]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3093500</guid>
 
 					<description><![CDATA[Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.]]></description>
@@ -368,41 +408,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3093412</guid>
 
 					<description><![CDATA[India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Just 8 months in, India&#8217;s vibe-coding startup Emergent claims ARR of over $100M</title>
-		<link>https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh, Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 17 Feb 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[emergent]]></category>
-		<category><![CDATA[vibe coding]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3093287</guid>
-
-					<description><![CDATA[Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SpendRule raises $2M, emerges from stealth to help hospitals track spending</title>
-		<link>https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 17 Feb 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Health tech]]></category>
-		<category><![CDATA[VC]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3093229</guid>
-
-					<description><![CDATA[SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.]]></description>
 		
 		
 		
