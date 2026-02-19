@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 19 Feb 2026 09:42:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Feb 2026 15:54:44 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NotebookLM permet l&#8217;édition individuelle de slides et l&#8217;export au format PowerPoint</title>
+		<link>https://www.blogdumoderateur.com/notebooklm-permet-edition-individuelle-slides-export-powerpoint/</link>
+					<comments>https://www.blogdumoderateur.com/notebooklm-permet-edition-individuelle-slides-export-powerpoint/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 15:54:44 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Productivité]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199816</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/NotebookLM-edition-slide-294x171.jpg" alt="NotebookLM permet l&rsquo;édition individuelle de slides et l&rsquo;export au format PowerPoint" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Deux nouveautés attendues arrivent dans NotebookLM : la révision individuelle de slides par prompt et l'export au format PowerPoint.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/notebooklm-permet-edition-individuelle-slides-export-powerpoint/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/NotebookLM-edition-slide-294x171.jpg" type="image/jpeg" length="293188"/>
+		</item>
+		<item>
 		<title>Gemini permet désormais de générer de la musique avec Lyria 3</title>
 		<link>https://www.blogdumoderateur.com/gemini-generer-musique-lyria-3/</link>
 					<comments>https://www.blogdumoderateur.com/gemini-generer-musique-lyria-3/#respond</comments>
@@ -620,26 +641,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/BDM-404-ChatGPT-294x195.jpg" type="image/jpeg" length="235445"/>
-		</item>
-		<item>
-		<title>Shadow IA &#038; cybersécurité : « Il faut pouvoir encadrer les usages de l’IA, sans freiner l’innovation »</title>
-		<link>https://www.blogdumoderateur.com/shadow-ia-cybersecurite-encadrer-usages-ia-sans-freiner-innovation/</link>
-					<comments>https://www.blogdumoderateur.com/shadow-ia-cybersecurite-encadrer-usages-ia-sans-freiner-innovation/#respond</comments>
-		
-		<dc:creator><![CDATA[José Billon]]></dc:creator>
-		<pubDate>Wed, 04 Feb 2026 10:33:42 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Travailler dans le digital]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198818</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Shadow-IA-cybersecurite-294x181.jpg" alt="Shadow IA &#038; cybersécurité : « Il faut pouvoir encadrer les usages de l’IA, sans freiner l’innovation »" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">L'usage informel de l'IA en entreprise progresse. S'il permet des gains de productivité, il entraîne avec lui son lot de risques pour la sécurité informatique. ]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/shadow-ia-cybersecurite-encadrer-usages-ia-sans-freiner-innovation/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Shadow-IA-cybersecurite-294x181.jpg" type="image/jpeg" length="195913"/>
 		</item>
 	</channel>
 </rss>
