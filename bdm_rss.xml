@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 18 Feb 2026 14:58:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Feb 2026 09:42:05 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gemini permet désormais de générer de la musique avec Lyria 3</title>
+		<link>https://www.blogdumoderateur.com/gemini-generer-musique-lyria-3/</link>
+					<comments>https://www.blogdumoderateur.com/gemini-generer-musique-lyria-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 09:42:05 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199759</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Gemini-Lyria-3-generation-musique-294x169.jpg" alt="Gemini permet désormais de générer de la musique avec Lyria 3" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Google intègre la génération musicale dans son application Gemini. Le modèle Lyria 3 permet de créer des morceaux de 30 secondes à partir d'un simple prompt ou d'une image.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/gemini-generer-musique-lyria-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/BDM_Anthem.mp4" length="5590362" type="video/mp4" />
+
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Gemini-Lyria-3-generation-musique-294x169.jpg" type="image/jpeg" length="162523"/>
+		</item>
+		<item>
+		<title>ChatGPT en déclin ? Ce qu&#8217;en pensent nos lecteurs</title>
+		<link>https://www.blogdumoderateur.com/chatgpt-declin-pensent-lecteurs/</link>
+					<comments>https://www.blogdumoderateur.com/chatgpt-declin-pensent-lecteurs/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 09:17:38 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Étude]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199607</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/BDM-IA-performances-chatgpt-remplacement-294x180.jpg" alt="ChatGPT en déclin ? Ce qu&rsquo;en pensent nos lecteurs" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Fin janvier, nous analysions l'évolution du classement LMArena sur près de deux ans, au sein duquel les modèles d'OpenAI dégringolent. Mais qu'en pensent les utilisateurs ? Nous avons posé la question à nos lecteurs.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/chatgpt-declin-pensent-lecteurs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/BDM-IA-performances-chatgpt-remplacement-294x180.jpg" type="image/jpeg" length="106783"/>
+		</item>
+		<item>
 		<title>Figma intègre Claude Code : le code généré par IA devient un design modifiable</title>
 		<link>https://www.blogdumoderateur.com/figma-integre-claude-code/</link>
 					<comments>https://www.blogdumoderateur.com/figma-integre-claude-code/#respond</comments>
@@ -599,46 +640,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Shadow-IA-cybersecurite-294x181.jpg" type="image/jpeg" length="195913"/>
-		</item>
-		<item>
-		<title>PlayPlay Design, un nouvel outil pour créer des visuels de marque en quelques secondes</title>
-		<link>https://www.blogdumoderateur.com/playplay-design-nouvel-outil-creer-visuels-marque-quelques-secondes/</link>
-					<comments>https://www.blogdumoderateur.com/playplay-design-nouvel-outil-creer-visuels-marque-quelques-secondes/#respond</comments>
-		
-		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
-		<pubDate>Wed, 04 Feb 2026 10:18:50 +0000</pubDate>
-				<category><![CDATA[Marketing]]></category>
-		<category><![CDATA[Design]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Productivité]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198750</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/playplay-design-apercu-plateforme-294x160.jpg" alt="PlayPlay Design, un nouvel outil pour créer des visuels de marque en quelques secondes" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Déployée ce mardi 3 février, la plateforme de PlayPlay s’appuie sur l’IA générative pour permettre aux équipes de produire rapidement des visuels alignés avec leur identité de marque.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/playplay-design-nouvel-outil-creer-visuels-marque-quelques-secondes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/playplay-design-apercu-plateforme-294x160.jpg" type="image/jpeg" length="188398"/>
-		</item>
-		<item>
-		<title>Claude Pro, Max, Team : quelles différences avec la version gratuite ?</title>
-		<link>https://www.blogdumoderateur.com/claude-pro-max-team-quelles-differences-version-gratuite/</link>
-					<comments>https://www.blogdumoderateur.com/claude-pro-max-team-quelles-differences-version-gratuite/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Wed, 04 Feb 2026 09:07:48 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=197859</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/Claude-tarifs-comparatif-294x189.jpg" alt="Claude Pro, Max, Team : quelles différences avec la version gratuite ?" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Anthropic propose plusieurs formules pour Claude, de la version gratuite aux plans entreprise. Comparatif complet des prix, limites d'usage et fonctionnalités en 2026.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/claude-pro-max-team-quelles-differences-version-gratuite/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/Claude-tarifs-comparatif-294x189.jpg" type="image/jpeg" length="102425"/>
 		</item>
 	</channel>
 </rss>
