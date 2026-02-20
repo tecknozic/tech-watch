@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 19 Feb 2026 15:54:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Feb 2026 09:14:54 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google lance Gemini 3.1 Pro, son nouveau modèle d&#8217;IA qui domine (encore) les benchmarks</title>
+		<link>https://www.blogdumoderateur.com/google-lance-gemini-3-1-pro-nouveau-modele-ia/</link>
+					<comments>https://www.blogdumoderateur.com/google-lance-gemini-3-1-pro-nouveau-modele-ia/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 09:14:54 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199854</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Gemini-3-1-Pro-Google-294x166.jpg" alt="Google lance Gemini 3.1 Pro, son nouveau modèle d&rsquo;IA qui domine (encore) les benchmarks" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Google déploie Gemini 3.1 Pro, une mise à jour de son modèle phare, encore plus puissant en raisonnement.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/google-lance-gemini-3-1-pro-nouveau-modele-ia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Gemini-3-1-Pro-Google-294x166.jpg" type="image/jpeg" length="260519"/>
+		</item>
+		<item>
 		<title>NotebookLM permet l&#8217;édition individuelle de slides et l&#8217;export au format PowerPoint</title>
 		<link>https://www.blogdumoderateur.com/notebooklm-permet-edition-individuelle-slides-export-powerpoint/</link>
 					<comments>https://www.blogdumoderateur.com/notebooklm-permet-edition-individuelle-slides-export-powerpoint/#respond</comments>
@@ -621,26 +641,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Docuware-GED-IDP-294x157.jpeg" type="image/jpeg" length="137847"/>
-		</item>
-		<item>
-		<title>Quand ChatGPT invente des URL : comment l&#8217;IA envoie nos lecteurs vers des pages 404</title>
-		<link>https://www.blogdumoderateur.com/chatgpt-invente-url-ia-envoie-lecteurs-404/</link>
-					<comments>https://www.blogdumoderateur.com/chatgpt-invente-url-ia-envoie-lecteurs-404/#comments</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 06:00:50 +0000</pubDate>
-				<category><![CDATA[Web]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Médias]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198834</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/BDM-404-ChatGPT-294x195.jpg" alt="Quand ChatGPT invente des URL : comment l&rsquo;IA envoie nos lecteurs vers des pages 404" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Les IA génératives inventent (aussi) des URL crédibles mais fictives. Résultat : des pages 404 à répétition. Pourquoi ce phénomène ? Et si c'était un signal éditorial à exploiter ?]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/chatgpt-invente-url-ia-envoie-lecteurs-404/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/BDM-404-ChatGPT-294x195.jpg" type="image/jpeg" length="235445"/>
 		</item>
 	</channel>
 </rss>
