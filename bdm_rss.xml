@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 23 Feb 2026 09:18:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Feb 2026 09:25:02 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les conseils de Google pour générer de la musique dans Gemini</title>
+		<link>https://www.blogdumoderateur.com/conseils-google-generer-musique-gemini/</link>
+					<comments>https://www.blogdumoderateur.com/conseils-google-generer-musique-gemini/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 09:25:02 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199983</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Generer-musique-lyria-3-gemini-294x166.jpg" alt="Les conseils de Google pour générer de la musique dans Gemini" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Gemini intègre désormais la génération musicale avec Lyria 3. Pour obtenir des résultats précis et créatifs, Google partage 6 conseils de prompting.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/conseils-google-generer-musique-gemini/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/UI_Asset_Audio_16x9_v04_WnPlyIc-1.mp4" length="4362437" type="video/mp4" />
+
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Generer-musique-lyria-3-gemini-294x166.jpg" type="image/jpeg" length="186315"/>
+		</item>
+		<item>
+		<title>Texte par IA : comment humaniser vos écrits ?</title>
+		<link>https://www.blogdumoderateur.com/texte-ia-comment-humaniser-ecrits/</link>
+					<comments>https://www.blogdumoderateur.com/texte-ia-comment-humaniser-ecrits/#respond</comments>
+		
+		<dc:creator><![CDATA[José Billon]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 08:36:28 +0000</pubDate>
+				<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Travailler dans le digital]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198553</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Humaniser-textes-IA-294x154.jpg" alt="Texte par IA : comment humaniser vos écrits ?" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Si l’IA sait produire des textes propres et structurés, elle peine encore à éviter l’effet de déjà-lu qui affaiblit l’impact éditorial des contenus. Voici comment vous en prémunir. ]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/texte-ia-comment-humaniser-ecrits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Humaniser-textes-IA-294x154.jpg" type="image/jpeg" length="91563"/>
+		</item>
+		<item>
 		<title>IA : les 10 générateurs d&#8217;images les plus performants en février 2026</title>
 		<link>https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-fevrier-2026/</link>
 					<comments>https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-fevrier-2026/#respond</comments>
@@ -595,48 +636,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/google-API-developer-knowledge-mcp-serveur-294x164.jpg" type="image/jpeg" length="215541"/>
-		</item>
-		<item>
-		<title>OpenAI lance Frontier, sa plateforme de gestion d&#8217;agents IA pour les entreprises</title>
-		<link>https://www.blogdumoderateur.com/openai-lance-frontier-plateforme-gestion-agents-ia-entreprises/</link>
-					<comments>https://www.blogdumoderateur.com/openai-lance-frontier-plateforme-gestion-agents-ia-entreprises/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 16:10:35 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Productivité]]></category>
-		<category><![CDATA[Stratégie digitale]]></category>
-		<category><![CDATA[Transformation digitale]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199000</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/OpenAI-Frontier-exemple-294x166.jpg" alt="OpenAI lance Frontier, sa plateforme de gestion d&rsquo;agents IA pour les entreprises" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">OpenAI lance Frontier pour les entreprises souhaitant construire, déployer et gérer des agents IA à grande échelle. L'objectif est de centraliser la gestion de ces "collaborateurs numériques" et les intégrer aux systèmes existants.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/openai-lance-frontier-plateforme-gestion-agents-ia-entreprises/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/OpenAI-Frontier-exemple-294x166.jpg" type="image/jpeg" length="241479"/>
-		</item>
-		<item>
-		<title>GitHub accélère sur l’IA en intégrant Claude et Codex</title>
-		<link>https://www.blogdumoderateur.com/github-accelere-ia-claude-codex/</link>
-					<comments>https://www.blogdumoderateur.com/github-accelere-ia-claude-codex/#respond</comments>
-		
-		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 10:02:14 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[Développement]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198940</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/github-claude-codex-294x154.jpg" alt="GitHub accélère sur l’IA en intégrant Claude et Codex" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Agent HQ, la plateforme de GitHub qui permet de confier des tâches de programmation à des agents d'intelligence artificielle, accueille désormais les solutions d'Anthropic et d'OpenAI en plus de Copilot.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/github-accelere-ia-claude-codex/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/github-claude-codex-294x154.jpg" type="image/jpeg" length="285778"/>
 		</item>
 	</channel>
 </rss>
