@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 24 Feb 2026 09:25:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Feb 2026 16:04:01 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Connecteurs, plugins, marketplace : Claude Cowork fait le plein de nouveautés</title>
+		<link>https://www.blogdumoderateur.com/connecteurs-plugins-marketplace-claude-cowork-nouveautes/</link>
+					<comments>https://www.blogdumoderateur.com/connecteurs-plugins-marketplace-claude-cowork-nouveautes/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 16:04:01 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Développement]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Productivité]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=200052</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Claude-Cowork-plugin-connecteurs-294x154.jpg" alt="Connecteurs, plugins, marketplace : Claude Cowork fait le plein de nouveautés" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Marketplace privée de plugins, connecteurs pour Google Workspace ou DocuSign, agents spécialisés par département… Anthropic déploie une mise à jour majeure de Claude Cowork à destination des entreprises.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/connecteurs-plugins-marketplace-claude-cowork-nouveautes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Claude-Cowork-plugin-connecteurs-294x154.jpg" type="image/jpeg" length="81277"/>
+		</item>
+		<item>
 		<title>Les conseils de Google pour générer de la musique dans Gemini</title>
 		<link>https://www.blogdumoderateur.com/conseils-google-generer-musique-gemini/</link>
 					<comments>https://www.blogdumoderateur.com/conseils-google-generer-musique-gemini/#respond</comments>
@@ -615,27 +636,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/anthropic-claude-opus-4-6-294x164.jpg" type="image/jpeg" length="120447"/>
-		</item>
-		<item>
-		<title>Google déploie l&#8217;API Developer Knowledge et son serveur MCP associé</title>
-		<link>https://www.blogdumoderateur.com/google-deploie-developer-knowledge-api-serveur-mcp-associe/</link>
-					<comments>https://www.blogdumoderateur.com/google-deploie-developer-knowledge-api-serveur-mcp-associe/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 09:19:25 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[Développement]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199042</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/google-API-developer-knowledge-mcp-serveur-294x164.jpg" alt="Google déploie l&rsquo;API Developer Knowledge et son serveur MCP associé" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Google lance en preview publique une API et un serveur MCP pour donner aux assistants IA un accès direct et actualisé à sa documentation développeur officielle.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/google-deploie-developer-knowledge-api-serveur-mcp-associe/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/google-API-developer-knowledge-mcp-serveur-294x164.jpg" type="image/jpeg" length="215541"/>
 		</item>
 	</channel>
 </rss>
