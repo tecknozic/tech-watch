@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 27 Feb 2026 09:36:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Feb 2026 13:43:23 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mais d’où vient le nom Nano Banana ?</title>
+		<link>https://www.blogdumoderateur.com/histoire-nom-nano-banana/</link>
+					<comments>https://www.blogdumoderateur.com/histoire-nom-nano-banana/#respond</comments>
+		
+		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2026 13:43:23 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=200339</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2025/08/nano-banana-gemini-2-5-flash-image-294x193.jpeg" alt="Mais d’où vient le nom Nano Banana ?" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Ce jeudi, Google a dévoilé Nano Banana 2, la dernière itération de son modèle de génération d'images. L'occasion de retracer la genèse d'un nom aussi déconcertant qu'efficace, improvisé en pleine nuit par une cheffe de produit pressée par le temps.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/histoire-nom-nano-banana/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2025/08/nano-banana-gemini-2-5-flash-image-294x193.jpeg" type="image/jpeg" length="149635"/>
+		</item>
+		<item>
 		<title>Google dévoile Nano Banana 2, successeur de son modèle d&#8217;image phare</title>
 		<link>https://www.blogdumoderateur.com/google-devoile-nano-banana-2-successeur-modele-image-phare/</link>
 					<comments>https://www.blogdumoderateur.com/google-devoile-nano-banana-2-successeur-modele-image-phare/#respond</comments>
@@ -624,27 +643,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/claude-fonctionnalites-gratuites-skills-connecteurs-creation-documents-294x165.jpeg" type="image/jpeg" length="180858"/>
-		</item>
-		<item>
-		<title>La France compte 1 114 startups IA en 2026, dont moins d&#8217;un tiers rentable</title>
-		<link>https://www.blogdumoderateur.com/france-1114-startups-ia-2026-moins-tiers-rentable/</link>
-					<comments>https://www.blogdumoderateur.com/france-1114-startups-ia-2026-moins-tiers-rentable/#respond</comments>
-		
-		<dc:creator><![CDATA[José Billon]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 10:17:28 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[Business]]></category>
-		<category><![CDATA[Étude]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199367</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Secteurs-startups-ia-2026-294x171.jpg" alt="La France compte 1 114 startups IA en 2026, dont moins d&rsquo;un tiers rentable" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">En 2026, 1 114 startups composent l’écosystème français, selon France Digitale, qui souligne un leadership européen. Mais moins d'un tiers d'entre elles sont rentables. ]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/france-1114-startups-ia-2026-moins-tiers-rentable/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Secteurs-startups-ia-2026-294x171.jpg" type="image/jpeg" length="98819"/>
 		</item>
 	</channel>
 </rss>
