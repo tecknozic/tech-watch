@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 02 Mar 2026 09:37:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Mar 2026 15:17:05 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Anthropic facilite la migration de ChatGPT à Claude avec une option pratique</title>
+		<link>https://www.blogdumoderateur.com/anthropic-facilite-migration-chatgpt-claude/</link>
+					<comments>https://www.blogdumoderateur.com/anthropic-facilite-migration-chatgpt-claude/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 15:17:05 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=200436</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/03/Claude-import-memory-294x165.jpg" alt="Anthropic facilite la migration de ChatGPT à Claude avec une option pratique" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Anthropic déploie Import Memory, une fonctionnalité qui permet aux abonnés payants de Claude de transférer facilement les souvenirs accumulés sur un autre assistant IA.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/anthropic-facilite-migration-chatgpt-claude/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/03/Claude-import-memory-294x165.jpg" type="image/jpeg" length="153810"/>
+		</item>
+		<item>
 		<title>IA : les meilleurs modèles pour le code et le développement web en mars 2026</title>
 		<link>https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-mars-2026/</link>
 					<comments>https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-mars-2026/#respond</comments>
@@ -633,26 +652,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/meilleur-prompt-pros-digital-294x165.jpg" type="image/jpeg" length="133882"/>
-		</item>
-		<item>
-		<title>Google AI Plus, Pro, Ultra : quelles différences avec la version gratuite de Gemini ?</title>
-		<link>https://www.blogdumoderateur.com/comparatif-google-ai-plus-pro-ultra-gemini/</link>
-					<comments>https://www.blogdumoderateur.com/comparatif-google-ai-plus-pro-ultra-gemini/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Tue, 17 Feb 2026 08:32:18 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=198548</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/01/Google-AI-offres-tarifs-fonctionnalites-Gemini-294x162.jpg" alt="Google AI Plus, Pro, Ultra : quelles différences avec la version gratuite de Gemini ?" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Prix, fonctionnalités, limitations : tour d'horizon des quatre formules proposées par Google pour accéder à Gemini et à l'ensemble de ses outils IA.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/comparatif-google-ai-plus-pro-ultra-gemini/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/01/Google-AI-offres-tarifs-fonctionnalites-Gemini-294x162.jpg" type="image/jpeg" length="202528"/>
 		</item>
 	</channel>
 </rss>
