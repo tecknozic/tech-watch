@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 06:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 12:27:50 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[OpenAI changes deal with US military after backlash]]></title>
+            <description><![CDATA[Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.]]></description>
+            <link>https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rz1nd0egro#0</guid>
+            <pubDate>Tue, 03 Mar 2026 11:51:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7073/live/0c673370-16f3-11f1-a694-e5c2b699acf9.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amazon says drones damaged three facilities in UAE and Bahrain]]></title>
             <description><![CDATA[The incidents highlight the vulnerability of key technology infrastructure during military conflicts.]]></description>
@@ -21,6 +29,14 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cgk28nj0lrjo#0</guid>
             <pubDate>Tue, 03 Mar 2026 03:59:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5baa/live/a5e55a50-16b1-11f1-bf96-b78779c3b393.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deepfake attack: 'Many people could have been cheated']]></title>
+            <description><![CDATA[The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem.]]></description>
+            <link>https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0j59vydxj9o#0</guid>
+            <pubDate>Mon, 02 Mar 2026 06:47:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d627/live/d8cc3a80-122c-11f1-87fc-7d3b323315e3.jpg"/>
         </item>
         <item>
             <title><![CDATA[UK launches consultation asking for views on under-16s social media ban]]></title>
@@ -58,7 +74,7 @@
             <title><![CDATA['I was on Instagram all day' - woman tells landmark trial]]></title>
             <description><![CDATA[The young woman, who accuses Meta and Google of making addictive social media platforms, has been speaking in court.]]></description>
             <link>https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89kdpjn7eqo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89kdpjn7eqo#1</guid>
             <pubDate>Fri, 27 Feb 2026 09:57:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5a/live/c9586ed0-13cf-11f1-9120-a910fc22c6ac.jpg"/>
         </item>
@@ -66,7 +82,7 @@
             <title><![CDATA[Anthropic boss rejects Pentagon demand to drop AI safeguards]]></title>
             <description><![CDATA[Defense Secretary Pete Hegseth previously threatened to remove the firm from the department's supply chain.]]></description>
             <link>https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg3vlzzkqeo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg3vlzzkqeo#1</guid>
             <pubDate>Fri, 27 Feb 2026 10:57:28 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7142/live/8c4d2350-136b-11f1-986d-69868da76563.jpg"/>
         </item>
@@ -98,7 +114,7 @@
             <title><![CDATA[Not even potholes will hold up self-driving cars, UK firm predicts]]></title>
             <description><![CDATA[Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment.]]></description>
             <link>https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2drw12z51o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2drw12z51o#2</guid>
             <pubDate>Wed, 25 Feb 2026 12:27:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/67ea1e90-1231-11f1-801d-ed3cff6bf876.jpg"/>
         </item>
@@ -106,7 +122,7 @@
             <title><![CDATA[Gucci criticised for 'AI slop' images ahead of major fashion show]]></title>
             <description><![CDATA[Users of social media - where the marketing campaign has been launched - say it is out of keeping with Gucci's reputation for luxury.]]></description>
             <link>https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwz6yzn5jqo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwz6yzn5jqo#2</guid>
             <pubDate>Wed, 25 Feb 2026 10:55:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b950/live/385c3880-1244-11f1-801d-ed3cff6bf876.png"/>
         </item>
@@ -114,7 +130,7 @@
             <title><![CDATA[Discord delays age verification plans after user outcry]]></title>
             <description><![CDATA[Users were unhappy about plans for age verification to require facial or ID scans.]]></description>
             <link>https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgv0yg4n9lo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgv0yg4n9lo#2</guid>
             <pubDate>Tue, 24 Feb 2026 22:43:26 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8855/live/2be49530-11cb-11f1-9e62-fdfd27f5d401.jpg"/>
         </item>
