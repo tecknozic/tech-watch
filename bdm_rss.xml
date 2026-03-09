@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 09 Mar 2026 10:02:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Mar 2026 15:53:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Non, l&#8217;IA n&#8217;a pas cassé le SEO : 8 conseils concrets pour s&#8217;adapter</title>
+		<link>https://www.blogdumoderateur.com/ia-pas-casse-seo-8-conseils-concrets-adapter/</link>
+					<comments>https://www.blogdumoderateur.com/ia-pas-casse-seo-8-conseils-concrets-adapter/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Mon, 09 Mar 2026 15:47:33 +0000</pubDate>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Moteurs de recherche]]></category>
+		<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=200871</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/03/8-conseils-SEO-adaptation-294x196.jpeg" alt="Non, l&rsquo;IA n&rsquo;a pas cassé le SEO : 8 conseils concrets pour s&rsquo;adapter" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Carolyn Shelby, experte SEO chez Yoast, a présenté à SMX Paris 8 recommandations concrètes pour adapter sa stratégie SEO aux systèmes de recherche pilotés par l'IA.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/ia-pas-casse-seo-8-conseils-concrets-adapter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/03/8-conseils-SEO-adaptation-294x196.jpeg" type="image/jpeg" length="144861"/>
+		</item>
+		<item>
 		<title>Le trafic vers Claude a bondi de 297 % en un an, ChatGPT marque le pas</title>
 		<link>https://www.blogdumoderateur.com/trafic-claude-bondi-chatgpt-marque-pas/</link>
 					<comments>https://www.blogdumoderateur.com/trafic-claude-bondi-chatgpt-marque-pas/#respond</comments>
@@ -643,28 +664,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Claude-Cowork-plugin-connecteurs-294x154.jpg" type="image/jpeg" length="81277"/>
-		</item>
-		<item>
-		<title>Les conseils de Google pour générer de la musique dans Gemini</title>
-		<link>https://www.blogdumoderateur.com/conseils-google-generer-musique-gemini/</link>
-					<comments>https://www.blogdumoderateur.com/conseils-google-generer-musique-gemini/#respond</comments>
-		
-		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 09:25:02 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[IA]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199983</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Generer-musique-lyria-3-gemini-294x166.jpg" alt="Les conseils de Google pour générer de la musique dans Gemini" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Gemini intègre désormais la génération musicale avec Lyria 3. Pour obtenir des résultats précis et créatifs, Google partage 6 conseils de prompting.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/conseils-google-generer-musique-gemini/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/UI_Asset_Audio_16x9_v04_WnPlyIc-1.mp4" length="4362437" type="video/mp4" />
-
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Generer-musique-lyria-3-gemini-294x166.jpg" type="image/jpeg" length="186315"/>
 		</item>
 	</channel>
 </rss>
