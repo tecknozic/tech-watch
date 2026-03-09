@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 06 Mar 2026 10:25:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Mar 2026 16:26:08 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GEO : 6 idées reçues déconstruites par un expert</title>
+		<link>https://www.blogdumoderateur.com/idees-recues-geo/</link>
+					<comments>https://www.blogdumoderateur.com/idees-recues-geo/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Mon, 09 Mar 2026 06:00:01 +0000</pubDate>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Moteurs de recherche]]></category>
+		<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=200387</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/03/GEO-idees-recues-294x184.jpeg" alt="GEO : 6 idées reçues déconstruites par un expert" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Le GEO suscite autant d'enthousiasme que de malentendus. Michael Beresin, directeur Innovation et IA du groupe Cosmo5, passe au crible six affirmations courantes et explique pourquoi elles sont fausses.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/idees-recues-geo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/03/GEO-idees-recues-294x184.jpeg" type="image/jpeg" length="174557"/>
+		</item>
+		<item>
 		<title>Mais au fait, c&#8217;est quoi le Model Context Protocol (MCP) ?</title>
 		<link>https://www.blogdumoderateur.com/model-context-protocol-mcp/</link>
 					<comments>https://www.blogdumoderateur.com/model-context-protocol-mcp/#respond</comments>
@@ -641,27 +662,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/classement-modeles-generation-images-fevrier-2026-294x140.jpg" type="image/jpeg" length="162007"/>
-		</item>
-		<item>
-		<title>Pourquoi les IA ne font jamais les mêmes recommandations</title>
-		<link>https://www.blogdumoderateur.com/pourquoi-ia-jamais-memes-recommandations/</link>
-					<comments>https://www.blogdumoderateur.com/pourquoi-ia-jamais-memes-recommandations/#respond</comments>
-		
-		<dc:creator><![CDATA[José Billon]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 08:28:18 +0000</pubDate>
-				<category><![CDATA[Web]]></category>
-		<category><![CDATA[Étude]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[SEO]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=199781</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/Etude-IA-Reponses-Marques-Rand-Frishkin-294x165.jpg" alt="Pourquoi les IA ne font jamais les mêmes recommandations" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Peut-on vraiment suivre sa visibilité dans ChatGPT ou l'IA de Google ? Une étude de Rand Fishkin révèle l’instabilité des classements.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/pourquoi-ia-jamais-memes-recommandations/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Etude-IA-Reponses-Marques-Rand-Frishkin-294x165.jpg" type="image/jpeg" length="189591"/>
 		</item>
 	</channel>
 </rss>
