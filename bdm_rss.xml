@@ -12,7 +12,7 @@
 	<atom:link href="https://www.blogdumoderateur.com/dossier/ia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.blogdumoderateur.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Mar 2026 10:20:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Mar 2026 14:18:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cloudflare permet de crawler un site entier avec une seule requête API</title>
+		<link>https://www.blogdumoderateur.com/cloudflare-permet-crawler-site-entier-une-requete-api/</link>
+					<comments>https://www.blogdumoderateur.com/cloudflare-permet-crawler-site-entier-une-requete-api/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthieu Eugène]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2026 14:18:11 +0000</pubDate>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[Développement]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=201377</guid>
+
+					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/03/cloudflare-crawl-api-294x196.jpeg" alt="Cloudflare permet de crawler un site entier avec une seule requête API" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Cloudflare déploie un nouveau endpoint /crawl dans son service Browser Rendering. L'outil permet de parcourir un site complet et d'en extraire le contenu en HTML, Markdown ou JSON structuré.]]></description>
+		
+					<wfw:commentRss>https://www.blogdumoderateur.com/cloudflare-permet-crawler-site-entier-une-requete-api/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/03/cloudflare-crawl-api-294x196.jpeg" type="image/jpeg" length="114857"/>
+		</item>
+		<item>
 		<title>Anthropic dresse un classement des métiers les plus menacés par l&#8217;IA</title>
 		<link>https://www.blogdumoderateur.com/anthropic-classement-metiers-menaces-ia/</link>
 					<comments>https://www.blogdumoderateur.com/anthropic-classement-metiers-menaces-ia/#respond</comments>
@@ -642,26 +662,6 @@
 		
 		
 		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/Codex-to-Figma-294x186.jpg" type="image/jpeg" length="150769"/>
-		</item>
-		<item>
-		<title>Perplexity franchit un nouveau cap dans l&#8217;IA agentique avec Computer</title>
-		<link>https://www.blogdumoderateur.com/perplexity-franchit-nouveau-cap-ia-agentique-computer/</link>
-					<comments>https://www.blogdumoderateur.com/perplexity-franchit-nouveau-cap-ia-agentique-computer/#respond</comments>
-		
-		<dc:creator><![CDATA[Étienne Caillebotte]]></dc:creator>
-		<pubDate>Thu, 26 Feb 2026 10:06:01 +0000</pubDate>
-				<category><![CDATA[Tech]]></category>
-		<category><![CDATA[IA]]></category>
-		<category><![CDATA[Perplexity]]></category>
-		<guid isPermaLink="false">https://www.blogdumoderateur.com/?p=200177</guid>
-
-					<description><![CDATA[<img src="https://f.hellowork.com/blogdumoderateur/2026/02/perplexity-computer-presentation-294x165.jpg" alt="Perplexity franchit un nouveau cap dans l&rsquo;IA agentique avec Computer" style="display: block; margin-bottom: 5px; clear:both; width: 100%; height:auto">Pour l'instant réservé aux abonnés Max, Computer est capable de piloter un projet de A à Z, en distribuant automatiquement chaque tâche à un agent propulsé par le modèle le plus performant dans son domaine.]]></description>
-		
-					<wfw:commentRss>https://www.blogdumoderateur.com/perplexity-franchit-nouveau-cap-ia-agentique-computer/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<enclosure url="https://f.hellowork.com/blogdumoderateur/2026/02/perplexity-computer-presentation-294x165.jpg" type="image/jpeg" length="181509"/>
 		</item>
 	</channel>
 </rss>
