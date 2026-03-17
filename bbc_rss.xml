@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 00:57:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 06:46:00 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[AI firm Anthropic seeks weapons expert to stop users from 'misuse']]></title>
+            <description><![CDATA[The artificial intelligence firm says it wants to prevent "catastrophic misuse" of its systems.]]></description>
+            <link>https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74721xyd1wo#0</guid>
+            <pubDate>Tue, 17 Mar 2026 00:08:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42cd/live/06b29cc0-215d-11f1-b539-43e5d7f861d2.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Firms urged to check if other users edited their data on Companies House]]></title>
             <description><![CDATA[The glitch meant logged-in users could view and edit other companies' details without their consent.]]></description>
@@ -66,7 +74,7 @@
             <title><![CDATA[Grammarly pulls AI author-impersonation tool after backlash]]></title>
             <description><![CDATA[Writers criticised the feature which used their names and styles as "AI personas" without consent.]]></description>
             <link>https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28v08jpe7o#0</guid>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28v08jpe7o#1</guid>
             <pubDate>Thu, 12 Mar 2026 17:49:43 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d730/live/8994bc30-1e02-11f1-abaa-852583acb905.jpg"/>
         </item>
