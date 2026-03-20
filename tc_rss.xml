@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 19 Mar 2026 18:11:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Mar 2026 22:40:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI</title>
+		<link>https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2026 22:09:24 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[jeff bezos]]></category>
+		<category><![CDATA[project prometheus]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3104201</guid>
+
+					<description><![CDATA[The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says</title>
+		<link>https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2026 19:09:02 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai bots]]></category>
+		<category><![CDATA[cloudflare]]></category>
+		<category><![CDATA[genAI]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Matthew Prince]]></category>
+		<category><![CDATA[SXSW]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3104097</guid>
+
+					<description><![CDATA[AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors</title>
 		<link>https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/</link>
 		
@@ -187,12 +225,12 @@
 		<pubDate>Wed, 18 Mar 2026 20:01:19 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[networking]]></category>
-		<category><![CDATA[nvidia gtc]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Nvidia GTC 2026]]></category>
 		<category><![CDATA[Nvidia Networking]]></category>
+		<category><![CDATA[Nvidia GTC 2026]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[nvidia gtc]]></category>
+		<category><![CDATA[networking]]></category>
+		<category><![CDATA[nvidia]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3102415</guid>
 
 					<description><![CDATA[Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming. ]]></description>
@@ -376,44 +414,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3103537</guid>
 
 					<description><![CDATA[The Defense Department said concerns that Anthropic might "attempt to disable its technology" during "warfighting operations" validate its decision to label the AI firm a supply-chain risk. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise</title>
-		<link>https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/</link>
-		
-		<dc:creator><![CDATA[Anna Heim, Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 21:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[ai models]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Mistral AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103168</guid>
-
-					<description><![CDATA[Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why Garry Tan&#8217;s Claude Code setup has gotten so much love, and hate</title>
-		<link>https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 20:50:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[garry tan]]></category>
-		<category><![CDATA[sxsw 2026]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103004</guid>
-
-					<description><![CDATA[Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.]]></description>
 		
 		
 		
