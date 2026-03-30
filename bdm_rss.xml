@@ -1148,14 +1148,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue-dark ">
+<section class="newsletter-container bg-blue ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">On filtre, on vérifie, on rédige.</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous pour recevoir nos articles&nbsp;:</div>
+					<div class="h2">Enfin une newsletter efficace&nbsp;!</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Gagnez du temps, abonnez-vous&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1164,9 +1164,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Authenticité">
-						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
-						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
+						<input type="hidden" name="cord_theme" value="Efficacité">
+						<input type="hidden" name="cord_title" value="Enfin une newsletter efficace&nbsp;!">
+						<input type="hidden" name="cord_bg_color" value="bg-blue">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1202,8 +1202,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-bgd.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-bgd.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1214,8 +1214,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"

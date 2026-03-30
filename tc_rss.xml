@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Sun, 29 Mar 2026 16:35:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2026 04:24:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Why OpenAI really shut down Sora</title>
+		<link>https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 03:09:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sora]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3107404</guid>
+
+					<description><![CDATA[OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Sora’s shutdown could be a reality check moment for AI video</title>
 		<link>https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/</link>
 		
@@ -211,8 +228,8 @@
 		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
 		<pubDate>Fri, 27 Mar 2026 01:26:40 +0000</pubDate>
 				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[david sacks]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3106899</guid>
 
@@ -296,9 +313,9 @@
 		
 		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
 		<pubDate>Thu, 26 Mar 2026 18:23:31 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
+				<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Climate]]></category>
 		<category><![CDATA[data centers]]></category>
 		<category><![CDATA[electrical grid]]></category>
 		<category><![CDATA[elizabeth warren]]></category>
@@ -373,32 +390,14 @@
 		<pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[mark warner]]></category>
 		<category><![CDATA[ai data centers]]></category>
 		<category><![CDATA[axios ai summit]]></category>
 		<category><![CDATA[ai job loss]]></category>
-		<category><![CDATA[mark warner]]></category>
-		<category><![CDATA[Exclusive]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3106400</guid>
 
 					<description><![CDATA[Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mistral releases a new open source model for speech generation</title>
-		<link>https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 11:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[voice AI]]></category>
-		<category><![CDATA[Mistral AI]]></category>
-		<category><![CDATA[ElevenLabs]]></category>
-		<category><![CDATA[text to speech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3105891</guid>
-
-					<description><![CDATA[The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.]]></description>
 		
 		
 		
