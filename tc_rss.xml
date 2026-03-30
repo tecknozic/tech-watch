@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 30 Mar 2026 11:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2026 18:16:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,110 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Starcloud raises $170 million Series Ato build data centers in space</title>
+		<title>Mantis Biotech is making &#8216;digital twins&#8217; of humans to help solve medicine&#8217;s data availability problem</title>
+		<link>https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Decibel VC]]></category>
+		<category><![CDATA[digital twins]]></category>
+		<category><![CDATA[Mantis Biotech]]></category>
+		<category><![CDATA[sportstech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3105222</guid>
+
+					<description><![CDATA[Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called "digital twins" of the human body, representing anatomy, physiology and behavior. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ScaleOps raises $130M to improve computing efficiency amid AI demand</title>
+		<link>https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 13:52:02 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[GPU optimization]]></category>
+		<category><![CDATA[Insight Partners]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<category><![CDATA[ScaleOps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3107417</guid>
+
+					<description><![CDATA[ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round</title>
+		<link>https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[Mirae Asset]]></category>
+		<category><![CDATA[Rebellions]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3107196</guid>
+
+					<description><![CDATA[The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mistral AI raises $830M in debt to set up a data center near Paris</title>
+		<link>https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 12:49:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Mistral AI]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3107422</guid>
+
+					<description><![CDATA[Mistral aims to start operating the data center by the second quarter of 2026.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Qodo raises $70M for code verification as AI coding scales</title>
+		<link>https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[code verification]]></category>
+		<category><![CDATA[qodo]]></category>
+		<category><![CDATA[visualead]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3107381</guid>
+
+					<description><![CDATA[As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Starcloud raises $170 million Series A to build data centers in space</title>
 		<link>https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/</link>
 		
 		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
 		<pubDate>Mon, 30 Mar 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Benchmark]]></category>
+		<category><![CDATA[eqt ventures]]></category>
+		<category><![CDATA[Starcloud]]></category>
+		<category><![CDATA[Y Combinator]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3107081</guid>
 
 					<description><![CDATA[Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.]]></description>
@@ -50,11 +147,12 @@
 		<pubDate>Mon, 30 Mar 2026 03:09:38 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[TC]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[sora]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3107404</guid>
 
-					<description><![CDATA[OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? ]]></description>
+					<description><![CDATA[OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? ]]></description>
 		
 		
 		
@@ -65,8 +163,8 @@
 		
 		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
 		<pubDate>Sun, 29 Mar 2026 16:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Equity podcast]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3107375</guid>
@@ -243,8 +341,8 @@
 		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
 		<pubDate>Fri, 27 Mar 2026 01:26:40 +0000</pubDate>
 				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[david sacks]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3106899</guid>
 
@@ -301,98 +399,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3106729</guid>
 
 					<description><![CDATA[The site, whose policies are subject to change, has struggled with the issue of AI-generated writing. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI abandons yet another side quest: ChatGPT&#8217;s erotic mode</title>
-		<link>https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 18:34:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3106537</guid>
-
-					<description><![CDATA[It's only the latest of several side projects that the AI startup has ditched over the past week. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data centers get ready — the Senate wants to see your power bills</title>
-		<link>https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 18:23:31 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[electrical grid]]></category>
-		<category><![CDATA[elizabeth warren]]></category>
-		<category><![CDATA[Josh Hawley]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3106568</guid>
-
-					<description><![CDATA[Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ByteDance&#8217;s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut</title>
-		<link>https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 15:25:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[bytedance]]></category>
-		<category><![CDATA[capcut]]></category>
-		<category><![CDATA[seedance 2.0]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3106467</guid>
-
-					<description><![CDATA[The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems</title>
-		<link>https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 13:41:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[General Catalyst]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<category><![CDATA[Conntour]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3106434</guid>
-
-					<description><![CDATA[Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cohere launches an open source voice model specifically for transcription</title>
-		<link>https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 13:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Automatic speech recognition]]></category>
-		<category><![CDATA[Cohere]]></category>
-		<category><![CDATA[text to speech]]></category>
-		<category><![CDATA[voice AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3106435</guid>
-
-					<description><![CDATA[Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.]]></description>
 		
 		
 		
