@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 01 Apr 2026 22:42:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Apr 2026 17:13:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft takes on AI rivals with three new foundational models</title>
+		<link>https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 16:48:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Mustafa Suleyman]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3108825</guid>
+
+					<description><![CDATA[MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google now lets you direct avatars through prompts in its Vids app</title>
+		<link>https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Vids]]></category>
+		<category><![CDATA[Video Editing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3108782</guid>
+
+					<description><![CDATA[Google is adding a way to customize and instruct avatars for video creation in the Vids app.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident</title>
 		<link>https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/</link>
 		
@@ -165,9 +202,9 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Andreessen Horowitz]]></category>
-		<category><![CDATA[Softbank]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[openai fundraise]]></category>
+		<category><![CDATA[Softbank]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3108232</guid>
 
 					<description><![CDATA[OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.]]></description>
@@ -237,14 +274,14 @@
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
 		<pubDate>Tue, 31 Mar 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[runway]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[world models]]></category>
 		<category><![CDATA[AI video generation]]></category>
+		<category><![CDATA[world models]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[runway]]></category>
+		<category><![CDATA[Exclusive]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3107677</guid>
 
 					<description><![CDATA[Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.]]></description>
@@ -360,42 +397,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3107417</guid>
 
 					<description><![CDATA[ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round</title>
-		<link>https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[chips]]></category>
-		<category><![CDATA[Mirae Asset]]></category>
-		<category><![CDATA[Rebellions]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3107196</guid>
-
-					<description><![CDATA[The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mistral AI raises $830M in debt to set up a data center near Paris</title>
-		<link>https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 12:49:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[Mistral AI]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3107422</guid>
-
-					<description><![CDATA[Mistral aims to start operating the data center by the second quarter of 2026.]]></description>
 		
 		
 		
