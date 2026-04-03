@@ -113,7 +113,7 @@ var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
 			'theme' : 'ia',
 			'tag' : '',
 			'category_list' : '',
-			'search_result' : '1014',
+			'search_result' : '1015',
 			'article_publication_date' :  ''
 		}];
 	</script>
@@ -333,8 +333,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 						<header class="page-header">
 							<h1 class="archive-title pb-3"><span>IA</span></h1><h2 class="archive-description"><p>Les dernières actualités de l’intelligence artificielle et des conseils pour mieux utiliser ChatGPT, Claude, Gemini, Le Chat, Perplexity&#8230;</p>
 </h2>								<div class="popular-topics pt-4 pb-md-1">
-																			<a href="https://www.blogdumoderateur.com/dossier/openai/" class="badge">OpenAI</a>
 																			<a href="https://www.blogdumoderateur.com/dossier/anthropic/" class="badge">Anthropic</a>
+																			<a href="https://www.blogdumoderateur.com/dossier/openai/" class="badge">OpenAI</a>
 																			<a href="https://www.blogdumoderateur.com/dossier/developpement/" class="badge">Développement</a>
 																			<a href="https://www.blogdumoderateur.com/dossier/gemini/" class="badge">Gemini</a>
 																	</div>
@@ -345,6 +345,41 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			</div>
 
 			<div class="archive-list row justify-content-center">
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Adoption inégale, cadre flou, compétences attendues&nbsp;: l’impact de l’IA dans le commerce et le marketing" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-202805" class="d-flex my-md-5 my-4 post-202805 post type-post status-publish format-standard has-post-thumbnail category-ia tag-etude tag-formation tag-travailler-digital">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Adoption inégale, cadre flou, compétences attendues&nbsp;: l’impact de l’IA dans le commerce et le marketing" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-510x267.png 510w, https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-370x194.png 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-276x144.png" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-276x144.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Adoption inégale, cadre flou, compétences attendues&nbsp;: l’impact de l’IA dans le commerce et le marketing" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-510x267.png 510w, https://f.hellowork.com/blogdumoderateur/2026/03/synthese-outils-ia-metiers-commercial-marketing-etude-apec-370x194.png 370w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+							<span class="favtag color-b">Étude</span>
+			
+			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-03T07:00:46+02:00">3 avril 2026</time></span>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/adoption-inegale-cadre-flou-competences-attendues-impact-ia-commerce-marketing/" >
+					<h3 class="entry-title">Adoption inégale, cadre flou, compétences attendues&nbsp;: l’impact de l’IA dans le commerce et le marketing</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Quels outils les cadres utilisent-ils au quotidien ? Comment former les équipes, et quelles sont les compétences attendues ? Éléments de réponse dans une récente [...]</div>
+			
+		</div>
+
+	</article><!-- #post-202805 -->
+
+</div>
+					</div><!-- .col -->
 
 				
 					<div class="col-xl-12">
@@ -837,41 +872,6 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					</div><!-- .col -->
 
 				
-					<div class="col-xl-12">
-						<div aria-label="IA au travail&nbsp;: 70 % des dirigeants voient des gains de productivité, les salariés restent prudents" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-202511" class="d-flex my-md-5 my-4 post-202511 post type-post status-publish format-standard has-post-thumbnail category-ia tag-etude tag-google tag-productivite tag-strategie-digitale">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="IA au travail&nbsp;: 70 % des dirigeants voient des gains de productivité, les salariés restent prudents" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-370x194.jpg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="IA au travail&nbsp;: 70 % des dirigeants voient des gains de productivité, les salariés restent prudents" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/03/Ipsos-bva-google-ia-travail-diffusion-370x194.jpg 370w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-							<span class="favtag color-b">Étude</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-03-25T16:58:58+01:00">25 mars 2026</time></span>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/ia-au-travail-70-pourcent-dirigeants-voient-gains-productivite-salaries-restent-prudents/" >
-					<h3 class="entry-title">IA au travail&nbsp;: 70 % des dirigeants voient des gains de productivité, les salariés restent prudents</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Perception, usages, formation... Un rapport Ipsos pour Google passe au crible la transition IA des entreprises françaises, entre optimisme des dirigeants et prudence des salariés.</div>
-			
-		</div>
-
-	</article><!-- #post-202511 -->
-
-</div>
-					</div><!-- .col -->
-
-				
 				<div class="col-xl-12 pager">
 					<div class="pt-md-5 pt-4 bt-1">
 						<div class='wp-pagenavi' role='navigation'>
@@ -1051,9 +1051,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 											<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge badge-blue">Productivité</a>
 											<a href="https://www.blogdumoderateur.com/dossier/design/" class="badge badge-blue">Design</a>
 											<a href="https://www.blogdumoderateur.com/dossier/seo/" class="badge badge-blue">SEO</a>
+											<a href="https://www.blogdumoderateur.com/dossier/travailler-digital/" class="badge badge-blue">Travailler dans le digital</a>
 											<a href="https://www.blogdumoderateur.com/dossier/transformation-digitale/" class="badge badge-blue">Transformation digitale</a>
 											<a href="https://www.blogdumoderateur.com/dossier/perplexity/" class="badge badge-blue">Perplexity</a>
-											<a href="https://www.blogdumoderateur.com/dossier/business/" class="badge badge-blue">Business</a>
 									</div>
 			</div>
 
@@ -1098,9 +1098,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 									<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge">Formation</a>
 									<a href="https://www.blogdumoderateur.com/dossier/strategie-digitale/" class="badge">Stratégie digitale</a>
 									<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge">Interviews</a>
-									<a href="https://www.blogdumoderateur.com/dossier/travailler-digital/" class="badge">Travailler dans le digital</a>
 									<a href="https://www.blogdumoderateur.com/dossier/culture-web/" class="badge">Culture web</a>
 									<a href="https://www.blogdumoderateur.com/dossier/instagram/" class="badge">Instagram</a>
+									<a href="https://www.blogdumoderateur.com/dossier/meta/" class="badge">Meta</a>
 				
 			</div>
 
@@ -1148,14 +1148,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue ">
+<section class="newsletter-container bg-green ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">Enfin une newsletter efficace&nbsp;!</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Gagnez du temps, abonnez-vous&nbsp;:</div>
+					<div class="h2">Chaque jour, l&#039;essentiel du digital</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Directement dans votre boîte mail&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1164,9 +1164,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Efficacité">
-						<input type="hidden" name="cord_title" value="Enfin une newsletter efficace&nbsp;!">
-						<input type="hidden" name="cord_bg_color" value="bg-blue">
+						<input type="hidden" name="cord_theme" value="Veille">
+						<input type="hidden" name="cord_title" value="Chaque jour, l'essentiel du digital">
+						<input type="hidden" name="cord_bg_color" value="bg-green">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1202,8 +1202,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1214,8 +1214,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
