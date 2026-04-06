@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 07:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 12:39:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -557,6 +557,25 @@
 		
 		
 			</item>
+<item><title><![CDATA[RAG System Architecture: Components, How To Implement, Challenges, and Best Practices]]></title><description><![CDATA[Build a production-ready RAG system architecture. Understand core components, how to implement, challenges, and best practices.]]></description><link>https://blog.n8n.io/rag-system-architecture/</link><guid isPermaLink="false">69ca299b489834000147a067</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Mon, 06 Apr 2026 10:57:41 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/Cover-image-for-the-blog-post----RAG-System-Architecture-1.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/Cover-image-for-the-blog-post----RAG-System-Architecture-1.jpg" alt="RAG System Architecture: Components, How To Implement, Challenges, and Best Practices"><p>A simple retrieval augmented generation architecture (RAG) setup usually works fine with a few documents and a basic retriever, but those setups fall apart quickly once you try to run them in production. Small issues that don&#x2019;t matter much in controlled settings &#x2014; slightly off chunks or slow lookups &#x2014; turn into high latency, dangerous AI hallucinations, and spiraling API costs in real-world use.</p><p>In this guide, we&#x2019;ll break down the RAG system architecture components and the trade-offs to consider when implementing production-ready RAG architecture, challenges, and best practices.&#xA0;</p><h2 id="what-is-rag-architecture">What is RAG architecture?</h2><p>RAG architecture refers to how you design your retrieval system: which embedding models and vector types to use, how to chunk and index documents, and whether to add reranking. This is different from the <a href="https://blog.n8n.io/rag-pipeline/"><u>RAG pipeline</u></a> (the step-by-step data ingestion) and RAG application (the complete end-user solution).</p><p>The RAG process itself combines large language model (LLM) capabilities with information retrieval. When a user submits a prompt, the model goes beyond its pretraining data to retrieve relevant information. A retriever selects relevant data. This can be chunks loaded from a vector store or even data extracts from an SQL database.&#xA0;</p><p>The LLM then uses these chunks as context to produce grounded answers that match user intent.&#xA0;</p><p>In this article, we focus on the RAG architecture with vector stores, showing you how different design choices impact retrieval quality and when to use each approach.</p><h2 id="rag-system-architecture-components">RAG system architecture components</h2><p>When building a production-grade RAG system, engineers must manage the trade-offs between accuracy, latency, and scaling costs. Here&apos;s a look at the main components needed and how they shape a reliable RAG architecture.</p><h3 id="data-sources-and-ingestion">Data sources and ingestion</h3><p>In production, RAG sources are rarely static PDFs. Instead, engineers use dynamic internal datasets or live API feeds. These sources require cleaning to prevent inaccurate chunks from entering the index.&#xA0;</p><p>Engineers must also choose between data freshness requirements and cost-effectiveness. While push-based ingestion provides real-time updates, it&#x2019;s more complex and costly than pull-based batch processing.&#xA0;</p><h3 id="vector-type-selection">Vector type selection</h3><p>When you set up your RAG architecture, you can use different vector types for retrieval:</p><ul><li><strong>Dense vectors:</strong> They capture semantic meaning and work best for conceptual similarity. Most developers are familiar with the naive RAG - single vector dense embeddings.</li></ul><p>This approach works when you have small document sets, however it may be not enough once you scale.</p><ul><li><strong>Sparse vectors</strong> <strong>(keyword-based like BM25):</strong> They focus on exact term matching and perform well for specific keyword queries.</li></ul><p>Sparse vectors are especially effective for domains with specialized vocabulary (legal, medical, technical documentation) where exact phrase matching matters more than semantic understanding.&#xA0;</p><ul><li><strong>Hybrid: </strong>Combine both dense and sparse vectors for better query coverage</li></ul><p>Hybrid approaches use dense vectors for semantic search and sparse vectors for keyword precision, then merge the results.&#xA0;</p><p>This gives you the best of both worlds: catching semantically related content and making sure that you don&#x2019;t miss chunks with exact matches. The trade-off is increased complexity and storage requirements: you have to maintain two indexes instead of one.</p><h3 id="embedding-model-selection">Embedding model selection</h3><p>Choosing an embedding model starts with understanding how each option affects retrieval quality and overhead.&#xA0;</p><p>A cloud-hosted model like one built by OpenAI offers strong semantic search performance but often results in higher costs. Alternatively, a self-hosted model better preserves data privacy and helps to avoid ongoing API costs over time but requires infrastructure investment, maintenance and may need fine-tuning for your use case.</p><p>Model dimensionality also matters: higher-dimensional embeddings (1536-dim, 3072-dim) can improve retrieval precision and better catch semantic similarity. But they take up additional space in your vector database and can slow information retrieval when the index grows.</p><p>Popular embedding models include OpenAI&#x2019;s text-embedding-3-small and text-embedding-3-large. They offer high-dimensional accuracy but rely on external APIs, which adds both costs and latency.</p><p>Beyond text-only embeddings, multimodal embeddings can encode images, audio, or documents alongside text. This enables retrieval across different content types. Models like OpenAI&apos;s CLIP or Google&apos;s multimodal embeddings support this functionality.</p><p>The choice depends on whether you prefer ease of use and performance or cost control and data privacy.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">The LLM you choose matters, too &#x2014; some models perform better than others. See how different LLMs perform on <a href="https://n8n.io/ai-benchmark/" rel="noreferrer"><u>hallucination, tool use, and structured output in n8n, an AI workflow automation platform.</u></a></div></div><h3 id="vector-database-architecture">Vector database architecture</h3><p>Your vector database works like a specialized storage layer that facilitates high-speed search across embeddings. It determines how fast the retriever can locate relevant chunks and how well the system scales.&#xA0;</p><p><strong>Dedicated vector databases</strong> use different indexing algorithms to organize embeddings for fast similarity search. HNSW (used by Weaviate, Qdrant) offers an excellent speed-accuracy balance. IVF trades some accuracy for faster search at scale. Your choice depends on the dataset size and latency requirements.</p><p><strong>Database extensions</strong> like Pgvector add vector capabilities to existing PostgreSQL databases. This is simpler if you already use PostgreSQL and have smaller datasets, but with performance limitations compared to dedicated solutions.</p><p>Some of the top options on the market include:</p><ul><li><strong>Pinecone:</strong> Offers a fully managed and serverless experience that scales easily, but it can become expensive if your dataset grows</li><li><strong>Qdrant</strong>: open-source vector database built for similarity search at scale. Works best for complex metadata filtering and deployment flexibility: cloud for simplicity or self-host for control, though self-hosting means you handle the infrastructure.</li><li><strong>Weaviate:</strong> Positions itself as an open-source platform that excels at multi-tenancy and hybrid search, but the HNSW indexing can increase memory use at scale</li><li><strong>Pgvector: </strong>Keeps your architecture simple by allowing you to keep vectors alongside your relational data in PostgreSQL, but it can create performance bottlenecks</li></ul><p>Consider whether you need hybrid search (combining vector + keyword), metadata filtering, multitenancy, or distributed deployment across regions.&#xA0;</p><p>Dedicated vector databases offer these features with better performance, while extensions like Pgvector work well for smaller datasets or when keeping vectors alongside relational data simplifies your architecture.</p><h3 id="reranking-layers">Reranking layers</h3><p>The initial retrieval system uses vectors to find potentially relevant text excerpts, but doesn&apos;t order them by true relevance. Reranking solves this by reordering results with the use of deeper semantic analysis.</p><p>After vector retrieval returns candidate chunks, a reranker model analyzes each chunk against the query to compute precise relevance scores, pushing the best matches to the top.</p><p><strong>API-based services</strong> like Cohere and Jina offer the easiest integration with minimal infrastructure but add per-request costs. Self-hosted<strong> deployments</strong> let you run rerankers in your own environment, reducing vendor dependency while maintaining scalability, full control and data privacy.</p><p>Reranking improves precision significantly but adds latency and cost. For high-value queries or when accuracy is critical, the trade-off is worth it. For simple keyword searches or high-volume applications, you might skip reranking to optimize for speed.&#xA0;</p><h3 id="chunking-strategy">Chunking strategy</h3><p>How you split documents into chunks directly impacts retrieval quality and system performance. Chunks need to be rather small for precise retrieval but not too small to contain meaningful context.</p><p>There are various chunking approaches that you can apply depending on how you want to split the data:</p><ul><li>Fixed-size chunking splits documents by character or token count (e.g., 512 tokens with 50-token overlap). Simple to implement and predictable, but can break sentences mid-thought or split related information across chunks.</li><li>Semantic chunking uses paragraphs, sections, or sentence groups to preserve context. More accurate retrieval but harder to implement and creates variable-sized chunks.</li><li>Hierarchical chunking maintains parent-child relationships, retrieving small precise chunks with surrounding context when needed. Offers the best of fixed-size and semantic chunking but adds complexity.</li></ul><p>Most systems start with fixed-size chunking and iterate based on retrieval quality. Move to semantic or hierarchical approaches when dealing with structured documents or when precision matters more than simplicity.</p><h2 id="how-to-implement-a-rag-architecture">How to implement a RAG architecture&#xA0;</h2><p>By implementing a RAG system architecture, you can build something powerful that does more than pull random text from a public search index. But each step in the process depends on the quality of data, consistent retrieval, and components that scale without breaking. These steps outline the core workflow.</p><h3 id="define-the-retrieval-contract">Define the retrieval contract</h3><p>Before writing the code, set clear rules for metadata and relevant thresholds to prevent retrieval mismatch. This ensures the retriever only passes high-quality chunks to the LLM and minimizes the risk of GenAI hallucinations and other output inaccuracies.&#xA0;</p><h3 id="design-the-ingestion-pipeline-for-scale">Design the ingestion pipeline for scale</h3><p>Ingestion pipelines take raw data, break it down into manageable chunks, add extra metadata and convert it into searchable embeddings. If the raw data changes (i.e. the documentation website is updated) the ingestion process repeats for the updated parts to preserve freshness and integrity.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text"><a href="https://n8n.io/rag/" rel="noreferrer"><u>n8n</u></a> is a workflow automation platform that lets you build the RAG pipeline end-to-end: fetch documents from external sources (APIs, databases, Google Drive), chunk them according to various rules, generate embeddings via <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/"><u>OpenAI</u></a>, <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.googlegemini/"><u>Google </u></a>or other providers, and load them into your vector database. All in one visual canvas with built-in scheduling, error handling, and monitoring.</div></div><h3 id="lock-down-the-embedding-model">Lock down the embedding model</h3><p>Your chosen vector type and embedding model become a long-term commitment.&#xA0;</p><p>If you&#x2019;re using dense vectors, switching models later requires re-indexing the entire vector database, which is expensive and slows development.&#xA0;</p><p>When working with sparse vectors, you&#x2019;d need to rebuild the index if you change the keyword extraction method (e.g., BM25 &#x2192; SPLADE).</p><p>For hybrid systems (with dense + sparse vectors), you commit to maintaining two parallel indexes, doubling the migration effort.</p><p>You can reduce this risk by adding a versioning layer. Create separate indexes for testing new models or approaches, then gradually migrate traffic once validated. This way, you can A/B test new embedding models without disrupting your production knowledge base.</p><p>You can reduce this risk by adding a versioning layer. It lets you A/B test new embedding models without disrupting your production knowledge base.</p><h3 id="implement-multi-stage-retrieval">Implement multi-stage retrieval</h3><p>Standard semantic search often returns high-similarity results that don&#x2019;t match the user&#x2019;s intent. Developers add a re-ranking step to double-check the results. This extra layer evaluates the context of the retrieved chunks to make sure it improves relevance. The two-stage information retrieval process is the most effective way to ensure accurate answers and to reduce hallucinations in complex RAG applications.</p><h3 id="monitor-and-iterate-on-retrieval-quality">Monitor and iterate on retrieval quality</h3><p>RAG performance can degrade over time as your project expands. Implement logging to track retrieval quality: are the right chunks being retrieved?&#xA0;</p><p>Monitor what percentage of retrieved chunks are actually relevant, whether you&apos;re missing important information, and user feedback signals (thumbs up/down, query reformulations). Use this data to tune chunk sizes, adjust embedding models, or add reranking layers.</p><h2 id="challenges-in-rag-system-architecture-deployment">Challenges in RAG system architecture deployment</h2><p>Scaling your RAG architecture from initial implementation to a production-level deployment can introduce some technical friction. Here are some of the most common challenges to look out for:</p><h3 id="ai-hallucinations">AI hallucinations</h3><ul><li><strong>Root cause: </strong>The retriever pulls low-relevance chunks, which compels the LLM to fill in the gaps with its initial training data or online searches instead of the data provided.&#xA0;</li><li><strong>Solution: </strong><a href="https://blog.n8n.io/implementing-rerankers-in-your-ai-workflows/"><u>Use the re-ranking layer</u></a> and strict relevance scoring. For example, n8n provides native Cohere reranker nodes. After your vector database returns candidates, the reranker analyzes each chunk&apos;s semantic relevance to the query and reorders them, ensuring the LLM sees only the most relevant context.&#xA0;</li></ul>
+<!--kg-card-begin: html-->
+<script>
+  workflowBanner([6542, 8008], document.currentScript, { 
+      workflowsHeader: "Explore these n8n templates to speed up your implementation:"
+  });
+</script>
+<!--kg-card-end: html-->
+<h3 id="context-window-limitations">Context window limitations&#xA0;</h3><ul><li><strong>Root cause:</strong> Inefficient chunking or embeddings that are too large and exceed LLMs&#x2019; token limits.&#xA0;</li><li><strong>Solution:</strong> Use recursive chunking and prioritize the most specific information to maximize use of the available context.</li></ul><h3 id="retrieval-quality-degradation">Retrieval quality degradation</h3><ul><li><strong>Root cause:</strong> Semantic drift happens when the vector database grows and redundant data or outdated embeddings make query results less accurate.</li><li><strong>Solution:</strong> Schedule regular index audits and implement an <a href="https://blog.n8n.io/rag-pipeline/" rel="noreferrer"><u>ingestion pipeline</u></a> that keeps knowledge bases lean and updated. Additionally, implement filtering that subsets database items before the vector search.</li></ul><h3 id="security-exposure-risks">Security exposure risks</h3><ul><li><strong>Root cause:</strong> Centralized RAG architecture might expose internal data to unauthorized users because it often lacks granular permissions.</li><li><strong>Solution:</strong> Use tools like <a href="https://blog.n8n.io/self-hosted-ai/"><u>n8n&#x2019;s self-hosted deployment</u></a> option, which provides role-based access control (RBAC) and audit logging to ensure transparency and strict data governance.</li></ul><h2 id="best-practices-for-rag-deployment">Best practices for RAG deployment</h2><p>Designing a RAG system for high-volume production traffic requires managing several moving parts. Teams need to excel at planning as well as execution to keep it accurate and resilient. These best practices can help.</p><h3 id="automate-data-ingestion-and-keep-indexes-fresh">Automate data ingestion and keep indexes fresh</h3><p>Static documentation goes stale and your RAG system should know when it gets updated. Production systems need ingestion pipelines that run automatically when source content changes: updated Confluence pages, new support tickets, modified Google Docs, or refreshed API schemas.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">n8n handles the entire ingestion workflow - from detecting changes to indexing vectors. Set up triggers to monitor data sources (Google Drive folders, Notion pages, databases) or configure webhooks for external systems to notify n8n when content updates. You can trigger the ingestion process on a regular basis or run it on-demand when specific events occur.</div></div><h3 id="decouple-the-retrieval-layer-from-the-generation-layer">Decouple the retrieval layer from the generation layer</h3><p>Treat the retrieval layer and generation layer as independent services connected via an API. This separation avoids vendor lock-in and makes it easier to swap out a retriever. Teams can also update their vector database without rewriting logic, retraining the model, or breaking the RAG system.</p><h3 id="treat-evaluation-as-a-first-class-system-component">Treat evaluation as a first-class system component</h3><p>You can&#x2019;t properly maintain or improve what you aren&#x2019;t measuring. Integrate evaluation into your pipeline and focus on frameworks that prioritize score accuracy, relevance, and context precision. Ongoing reviews prevent gradual degradation that would otherwise go unnoticed.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">Unlike external monitoring tools, <a href="https://blog.n8n.io/llm-evaluation-framework/"><u>n8n allows you to implement evaluation</u></a> in the same workflow where your production RAG system lives. </div></div><p>Using the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.evaluation/"><u>Evaluation node </u></a>and <a href="https://docs.n8n.io/data/data-tables/"><u>Data Tables</u></a>, you can:</p><ul><li>Store test cases directly in n8n (no external databases needed)</li><li>Run evaluations using the &quot;Check if Evaluating&quot; node</li><li>Track metrics over time with dashboards and charts</li><li>Compare different models or prompt versions side-by-side</li></ul><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/03/data-src-image-460ae1eb-ccdb-4077-89d6-c7dcec5bfd18.png" class="kg-image" alt="RAG System Architecture: Components, How To Implement, Challenges, and Best Practices" loading="lazy" width="1600" height="539" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/03/data-src-image-460ae1eb-ccdb-4077-89d6-c7dcec5bfd18.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/03/data-src-image-460ae1eb-ccdb-4077-89d6-c7dcec5bfd18.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/03/data-src-image-460ae1eb-ccdb-4077-89d6-c7dcec5bfd18.png 1600w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">An example of the RAG evaluation</em></i></figcaption></figure><p><em>An example of the RAG evaluation: when the user interacts with the agent, it reacts in a normal way. The evaluation trigger initiates the checks only when started manually. Source: original workflow</em></p><h3 id="design-for-embedding-model-replaceability-from-day-one">Design for embedding model replaceability from day one</h3><p>Avoid unnecessary downtime by ensuring your architecture supports dual-indexing. A <a href="https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment"><u>Blue-Green development strategy</u></a> lets you test new models for accuracy without risking your existing one or taking it offline.</p><h2 id="build-the-ultimate-rag-architecture">Build the ultimate RAG architecture</h2><p>You can build a RAG system architecture prototype in an afternoon, but a resilient system with long-term maintainability requires careful decisions. You&#x2019;ll have to consider tradeoffs between speed, accuracy, and scalability.&#xA0;</p><p>Whether a RAG system holds up to production scrutiny ultimately depends on three main factors:</p><ul><li><strong>Modularity:</strong> Can you swap out your LLM or vector database without re-engineering everything in your RAG pipeline?</li><li><strong>Data integrity:</strong> Did your team spend adequate time cleaning up data and has it followed best practices to prevent hallucinations and failed updates?</li><li><strong>Observability:</strong> Are you tracking performance in real-time so that you can spot model degradation &#x2014; or improvement &#x2014; as soon as possible?</li></ul><p>With its workflow automation capabilities, n8n helps teams connect data sources, manage ingestion pipelines, and coordinate multi-stage retrieval workflows without complex custom infrastructure. By automating these processes, engineers can turn a simple RAG prototype into a scalable, production-ready architecture.</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Create your own RAG workflows</h3>
+    <p>Let us help you take your RAG system from demo to production.</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n now</a>
+</div>
+<!--kg-card-end: html-->
+<h2 id="what%E2%80%99s-next">What&#x2019;s next</h2><p>Now that you have a good understanding of the core RAG architecture concepts, explore how to apply them in practice. We provide a number of resources to help you implement your RAG concepts.</p><ul><li>Start by checking our <a href="https://blog.n8n.io/rag-pipeline/"><u>practical guide to building your RAG pipeline in n8n</u></a>. It walks you through a complete RAG workflow setup from data ingestion to query handling.</li><li>Take it further by exploring how to <a href="https://blog.n8n.io/rag-chatbot/"><u>build custom RAG chatbots with n8n</u></a>.</li><li>After you&#x2019;ve built your RAG system, learn how to measure and optimize its performance with our <a href="https://blog.n8n.io/evaluating-rag-aka-optimizing-the-optimization/"><u>Evaluating RAG systems</u></a> guide.&#xA0;</li><li>For a deep dive into specific technical blocks, <a href="https://docs.n8n.io/advanced-ai/rag-in-n8n/"><u>read our docs</u></a>.</li></ul><p>The best way to build your RAG automation is to create, experiment and iterate yourself. These resources are your starting point. Start with a small dataset and dense embeddings. Add advanced functionality with hybrid search, multimodal embeddings and rerankers as your project grows.</p>]]></content:encoded></item>
 <item><title><![CDATA[Production AI Playbook: Deterministic Steps & AI Steps]]></title><description><![CDATA[Using AI for every workflow step isn't just unnecessary — it's slower, costlier, and less reliable when rule-based logic fits. This post covers practical patterns for combining deterministic and AI steps in n8n, with downloadable templates and hands-on exercises for each.]]></description><link>https://blog.n8n.io/production-ai-playbook-deterministic-steps-ai-steps/</link><guid isPermaLink="false">69a72880301d4f0001c6e80e</guid><category><![CDATA[Production AI Playbook]]></category><dc:creator><![CDATA[Elvis Saravia]]></dc:creator><pubDate>Thu, 02 Apr 2026 12:33:40 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/Det-AI-Blog-Header-1--1200x675---2-.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/Det-AI-Blog-Header-1--1200x675---2-.jpg" alt="Production AI Playbook: Deterministic Steps &amp; AI Steps"><p><em>This post is part of a series that explores proven strategies and practical examples for building reliable AI systems. New to n8n? </em><a href="https://blog.n8n.io/production-ai-playbook-introduction/" rel="noreferrer"><em>Start with the introduction</em></a><em>.</em>  </p><p><em>Find out when new topics are added to the Production AI Playbook via </em><a href="https://blog.n8n.io/tag/production-ai-playbook/rss/" rel="noreferrer"><em>RSS</em></a><em>,&#xA0;</em><a href="https://www.linkedin.com/company/n8n/" rel="noopener"><em>LinkedIn</em></a><em>&#xA0;or&#xA0;</em><a href="https://x.com/n8n_io" rel="noopener"><em>X</em></a><em>.</em></p><h2 id="the-reliability-gap-in-ai-workflows">The Reliability Gap in AI Workflows</h2><p>Here&apos;s a pattern that plays out across teams building with AI. You connect an LLM to your workflow, feed it some data, and get impressive results. At a glance, the summaries are sharp. The classifications generated by the AI system feel right. The generated content sounds natural. So the team ships it.</p><p>Then the edge cases start showing up everywhere. A customer name with special characters breaks the parsing. A support ticket written in sarcasm gets classified as positive feedback. An LLM generates a perfectly worded email but hallucinates a product feature that doesn&apos;t exist. The AI was never wrong about its task. It was wrong about the data it received, the structure it was expected to follow, or the boundaries it was supposed to respect.</p><p>This is known as the AI reliability gap, and it rarely comes from the AI model itself. It comes from everything around it. Messy inputs, missing validation, ambiguous routing, poor context, and a lack of structure between what goes into the model and what comes out of it.</p><p>The fix isn&apos;t more AI. It&apos;s less of it. Specifically, it&apos;s wrapping your AI steps in <strong><em>deterministic logic or steps </em></strong>that handle the parts of the workflow where predictability isn&apos;t optional. Examples could include:</p><ul><li>Clean the data before the model sees it.</li><li>Validate the output before it moves downstream.</li><li>Route decisions through explicit rules, not probabilistic guesses.</li></ul><p>Beyond reliability, there&apos;s a practical cost argument. Every LLM call costs tokens and adds latency. A Code node that validates an email address is instant and free. An LLM doing the same thing is slower, costs money, and might still get it wrong. When you multiply that across thousands of workflow executions, the unnecessary costs add up fast.</p><p>Let AI handle interpretation and generation, the things it&apos;s genuinely good at because it was trained at it, and let traditional automation handle everything else. n8n is an extremely versatile tool with a comprehensive set of primitives to build exactly this type of workflow to address the reliability problem.&#xA0;</p><h2 id="heres-what-well-cover">Here&apos;s what we&apos;ll cover</h2><ul>
 <li><a href="#the-reliability-gap-in-ai-workflows">The Reliability Gap in AI Workflows</a></li>
 <li><a href="#the-hybrid-principle-deterministic--ai">The Hybrid Principle: Deterministic + AI</a></li>
@@ -1124,12 +1143,11 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
 <h2 id="best-practices-for-hitl-automation-in-n8n">Best practices for HITL automation in n8n</h2><p>You&#x2019;ve now seen HITL automation in action with real n8n examples, so let&#x2019;s get tactical.</p><p>These best practices come from builders across industries who&#x2019;ve implemented HITL successfully, backed by measurable results like fewer errors, faster workflows, and smarter automations over time.</p><h3 id="build-around-decision-points-not-process-steps">Build around decision points, not process steps</h3><p>One of the most common HITL mistakes is placing human approval nodes too early or too often in the automation. Instead, review steps should appear only at irreversible decision points &#x2014; moments like publishing content, updating customer records, processing payments, or deleting data.</p><p>As Adam Yong, Founder and CEO of <a href="https://brandpeek.ai/">BrandPeek</a>, explains: <em>&#x201C;Only irreversible points in decision making should be reviewed by humans&#x2026; publishing content, updating customer records, or spending would be good. All that should precede that should be left to run freely.&#x201D;</em></p><p>This model works because it lets AI run autonomously through data gathering, analysis, enrichment, and draft generation without interruption, then pauses only when a real human decision is needed.</p><p>A strong example of this comes from Anthony May, Co-Founder and CMO of <a href="http://needanattorney.net">NeedAnAttorney.net</a>, who built an n8n workflow that matches legal cases to attorneys. AI handles classification and urgency scoring automatically, but humans only intervene when the confidence score drops or when conflicting signals appear. <em>&#x201C;We cut response time from hours to seconds, without losing the quality that attorneys expect,&#x201D;</em> May explains.</p><p>Rahul Jaiswal, Senior SEO Consultant at<a href="https://geeksprogramming.com/"> </a><a href="https://geeksprogramming.com/">GeeksProgramming</a>, also applies this as a &quot;timing control system&quot;: &quot;<em>I will only add human checkpoints where I know that the judgment actually brings a better outcome.</em>&quot;</p><p>In n8n, this pattern is easy to build: route high-confidence outputs directly using IF nodes, and send only edge cases to human review. That approach keeps automations fast, efficient, and reliable while guarding high-stakes moments with human oversight. Depending on the nature of the workflow and the outcome you&#x2019;re after, you may want to consider designing sensible fallback options in case a human isn&#x2019;t able to respond in a timely manner.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/workflow-with-IF-node-and-one-of-them-requiring-HITL.png" class="kg-image" alt="Human in the loop automation: Build AI workflows that keep humans in control" loading="lazy" width="760" height="768" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/workflow-with-IF-node-and-one-of-them-requiring-HITL.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/workflow-with-IF-node-and-one-of-them-requiring-HITL.png 760w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">A workflow with IF node and one of them requiring HITL</span></figcaption></figure><h3 id="use-the-wait-node-with-smart-notifications">Use the Wait node with smart notifications</h3><p>In n8n, the Wait node is the core building block for HITL review steps, but it&#x2019;s only effective when combined with notification tools that surface decisions in the places people already work. Slack, Gmail or email, Telegram, Microsoft Teams, and Discord are all ideal options depending on team size, urgency, and context.</p><p>You&#x2019;ll find all compatible <a href="https://n8n.io/integrations/categories/hitl/">HITL integrations</a> listed in n8n&#x2019;s integration category.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/n8n---s-HITL-integrations.png" class="kg-image" alt="Human in the loop automation: Build AI workflows that keep humans in control" loading="lazy" width="384" height="703"><figcaption><span style="white-space: pre-wrap;">n8n&#x2019;s HITL integrations</span></figcaption></figure><p>A great real-world illustration comes from Dennis Vong, Founder and Owner of <a href="http://www.inlandpowerwash.com">Inland Powerwash</a>, who uses Telegram approval steps for quoting. When a customer request comes in, his n8n workflow scrapes the address, pulls Google Street View imagery, generates a cleaning recommendation, and drafts pricing.</p><p>That output is then paused and sent to a technician through Telegram so they can adjust or approve before it reaches the customer. Vong highlights why this matters: <em>&#x201C;You should not be making decisions using the automation&#x2026; human control is extra insurance to your margins and reputation, especially in home services.&#x201D;</em></p><p>To make these checkpoints effective, always include meaningful context in notifications. As Taimur Ijlal, Information Security Leader at <a href="https://proxy.coupons/">Proxy Coupons</a>, puts it: <em>&#x201C;I always provide the context that the reviewer needs: what has changed, why it was flagged, the effect it has, and the safe choices.&#x201D;</em> Full context leads to faster decisions and fewer errors, especially when approvals happen on mobile devices.</p><h3 id="design-clear-single-action-approval-gates">Design clear, single-action approval gates</h3><p>HITL checkpoints should streamline judgment, not complicate it. The most effective approval steps offer a concise context summary followed by a binary choice: accept, reject, or minimally edit. Anthony May describes this well: <em>&#x201C;The human step should be binary: approve, correct, or re-route. The more open-ended it is, the more likely the step will become a bottleneck.&#x201D;</em></p><p>Clarity is the theme here. Approval screens should explain why the item was flagged, what outcome the choice drives, and what happens if no response arrives within a certain timeframe. Aziz Bekishov, CEO of <a href="https://www.dcmobilenotary.com/">DC Mobile Notary</a>, stresses this principle: <em>&#x201C;I build HITL workflows with clear branching, so that the humans see straightforward tasks rather than the clutter of the whole workflow.&#x201D;</em></p><p>A perfect example comes from Taimur Ijlal&#x2019;s phishing <a href="https://n8n.io/workflows/6588-automated-email-triage-with-gmail-gpt-4o-and-slack-urgency-notifications/">email triage workflow</a> email triage workflow. n8n nodes parse suspicious emails, extract security indicators, and let AI suggest a verdict.</p><p>The HITL step then presents investigators with key evidence and a simple decision: approve, quarantine, or escalate. Ijlal structures this using layered data-quality, policy, and final-approval gates: short, context-rich, binary decisions that keep the entire workflow moving.</p><h3 id="build-in-timeout-and-escalation-paths">Build in timeout and escalation paths</h3><p>Every HITL checkpoint needs a safety net. Human reviewers sometimes miss notifications, and workflows can&#x2019;t sit idle indefinitely. In n8n, combining a Wait node timeout with IF branching allows tasks to auto-escalate, shelve for later review, notify backup owners, or default to the safest outcome.</p><p>This structure is widely used in production. Adam Yong&#x2019;s team employs approval nodes with strict time limits to avoid stalled workflows: <em>&#x201C;In case of no reply, the workflow leaves in a graceful manner or shelves the task.&#x201D;</em> This approach reduced processing mistakes in one AI monitoring pipeline by 30%.</p><p>Timeouts also handle real customer unpredictability. For instance, Douglas Van Soest, Owner of <a href="http://www.storologystorage.com">Storology Storage</a>, noted that before adding timeout logic, edge-case reservations were slipping through on weekends.</p><p>His n8n workflow now inspects incoming requests, checks unit capacity and keywords, then pauses whenever uncertainty is detected. A manager receives the scenario and must approve, deny, or redirect. <em>&#x201C;The pause is the secret,&#x201D;</em> Van Soest explains. Standard reservations run automatically, while unusual cases wait, escalate, or branch safely when no timely reply is available. From the human perspective, it&#x2019;s important to monitor escalation rates, as high rates may indicate the agent needs improvement and fine-tuning.</p><h3 id="create-audit-trails-for-every-decision">Create audit trails for every decision</h3><p>Every human interaction in your workflow is valuable data, and logging it unlocks insight into both system accuracy and future automation opportunities. Taimur Ijlal recommends tracking every decision into a datastore because <em>&#x201C;you will require it in a post-incident review.&#x201D;</em> His phishing triage system records verdicts, timestamps, outcomes, and reasoning for each HITL step.</p><p>This philosophy is shared by David Hunt, COO of <a href="https://versysmedia.com/">Versys Media</a>, who suggests logging decisions into Postgres, Notion, Airtable, or other n8n-friendly stores to build a feedback loop, eventually reducing the need for human review as patterns emerge.</p><p>A strong example comes from Wojciech Jagla from <a href="https://store.windoorfull.com/">Windoorfull Imports</a>, who uses an audit trail within his custom window quote system. The automation calculates pricing automatically, but quotes above $5,000 require manual review. By logging every override reason, his team discovered recurring dimension issues.</p><p>That dataset led them to add a &#x201C;rough opening compatibility check,&#x201D; allowing the system to auto-flag 70% of these cases before review. Audit logs transformed manual oversight into a training asset and significantly improved workflow accuracy over time.</p><h2 id="human-in-the-loop-ai-faqs">Human in the loop AI FAQs</h2><h3 id="what-platform-enables-human-approval-checkpoints">What platform enables human approval checkpoints?</h3><p>Several automation platforms support human approval checkpoints, including n8n, Zapier, Make, Workato, and LangGraph. n8n stands out for its flexibility and transparency: you can see exactly how data flows through your workflow, customize approval logic with conditional branches, and integrate with virtually any tool via its extensive node library or custom webhooks.</p><p>Unlike black-box solutions, n8n gives you complete control over when, where, and how approval checkpoints work.</p><h3 id="what-tools-support-human-in-the-loop-with-ai-agents">What tools support human-in-the-loop with AI agents?</h3><p>AI agents with HITL checkpoints can be built on platforms like n8n and Zapier. These tools allow agents to branch, pause, or change course based on human approval rather than running fully autonomously.</p><p>n8n is particularly well-suited for agentic workflows because of its visual workflow canvas, which makes it easy to see decision trees and approval paths, and its AI Agent node, which can be configured to require human approval before executing high-risk actions or when confidence thresholds aren&apos;t met.</p><h3 id="what-solution-enables-human-fallback-in-chatbot-workflows">What solution enables human fallback in chatbot workflows?</h3><p>In n8n, human fallback in chatbot workflows can be implemented using the Wait node combined with webhook triggers or the Respond to Chat node. These allow the workflow to pause and route the conversation to a human when automated responses aren&apos;t sufficient, or confidence is low.</p><p>You can also set conditions based on sentiment analysis, confidence scores, or specific keywords to determine when to escalate. This aligns with HITL use cases involving ambiguity or risk.</p><h3 id="what-solution-supports-human-review-of-llm-output-before-continuing-workflows">What solution supports human review of LLM output before continuing workflows?</h3><p>Many <a href="https://blog.n8n.io/best-ai-workflow-automation-tools/">AI workflow automation tools</a> now support HITL approval checkpoints. In n8n, this is commonly implemented with the Wait node combined with integrations like Slack, Gmail, Discord, or Send Email to surface outputs for review before the workflow proceeds.</p><h3 id="how-do-you-route-ai-outputs-to-human-review-in-real-time">How do you route AI outputs to human review in real time?</h3><p>Use an AI workflow tool like n8n to build your desired approach, including the ideal notification mechanism that makes it convenient to add human judgment at critical decision points. The key is routing outputs to tools you already use (Slack, email, Telegram, or even SMS) so approvals don&apos;t require context switching.</p><p>Combine a Wait node with your preferred notification integration, include relevant context in the message (like confidence scores or preview links), and provide clear approve/reject options.</p><h2 id="wrap-up">Wrap up</h2><p>When it comes to AI and HITL, at this point in time, it&#x2019;s better to err on the side of more approval checkpoints than necessary. From there, test workflows and make adjustments, dropping checkpoints if output is consistently reliable for your purposes.</p><p>To build your ideal automations, including human in the loop checkpoints wherever you need them and the ability to review outputs in the most convenient way for how you work, you need a flexible AI automation platform that doesn&apos;t force you into rigid templates.</p><p>n8n gives you that flexibility. With 1,200+ integrations, a visual workflow builder, and powerful nodes like Wait and AI Agent, you can design HITL checkpoints that work exactly how you need them to &#x2014; whether that&apos;s a Slack approval button, an email review loop, or a custom form for detailed feedback. You get full transparency into how your workflows operate, complete control over approval logic, and the ability to iterate quickly as AI capabilities improve.</p><p>Experience the difference in automation and try HITL with a <a href="https://app.n8n.cloud/register">free trial of n8n</a>.</p><h2 id="what%E2%80%99s-next">What&#x2019;s next?</h2><p>Want to dive deeper into AI automation and HITL best practices? Check out these resources:</p><ul><li><a href="https://docs.n8n.io/advanced-ai/"><strong>n8n&#x2019;s advanced AI documentation</strong></a> - Learn how to build AI-powered workflows with n8n&apos;s AI nodes</li><li><a href="https://n8n.io/workflows/"><strong>n8n&#x2019;s workflow templates library</strong></a> - Explore pre-built HITL workflows you can customize</li><li><a href="https://community.n8n.io/"><strong>n8n&#x2019;s community forum</strong></a> - Connect with other builders and share HITL strategies</li><li><a href="https://www.ibm.com/think/topics/human-in-the-loop"><strong>IBM&apos;s Guide to Human in the Loop</strong></a> - Technical deep-dive into HITL concepts and applications</li><li><a href="https://www.langchain.com/state-of-agent-engineering"><strong>LangChain&apos;s State of Agent Engineering</strong></a> - Industry research on how teams are implementing AI with human oversight</li><li><a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai"><strong>McKinsey&apos;s State of AI Report</strong></a> - Enterprise perspective on AI adoption and governance</li></ul>]]></content:encoded></item>
 <item><title><![CDATA[Announcing Autosave & More!]]></title><description><![CDATA[We're introducing a safer and more reliable way to manage your workflow development lifecycle with the arrival of Autosave, Versioned Publishing, and Concurrency Protection.]]></description><link>https://blog.n8n.io/announcing-autosave/</link><guid isPermaLink="false">696179973054500001660530</guid><dc:creator><![CDATA[Ophir Prusak]]></dc:creator><pubDate>Tue, 13 Jan 2026 18:28:04 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/Autosave_blog_image.jpg" medium="image"/><content:encoded><![CDATA[<h3 id="were-introducing-a-safer-and-more-reliable-way-to-manage-your-workflow-development-lifecycle-with-the-arrival-of-autosave-versioned-publishing-and-concurrency-protection">We&apos;re introducing a safer and more reliable way to manage your workflow development lifecycle with the arrival of Autosave, Versioned Publishing, and Concurrency Protection.</h3><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/Autosave_blog_image.jpg" alt="Announcing Autosave &amp; More!"><p></p><p>For a long time, Autosave has been the <a href="https://community.n8n.io/t/autosave-for-workflows/234" rel="noreferrer">most requested feature</a> from the community. But implementing it wasn&apos;t as simple as just removing the &quot;Save&quot; button. In previous versions of n8n, &quot;Saving&quot; an active workflow was synonymous with &quot;Deploying&quot; it. If we had simply enabled Autosave in that environment, every half-finished node configuration or temporary break in logic would have been pushed live to production instantly.</p><p>To give you Autosave, we first had to fundamentally change how n8n handles workflow states. We had to decouple the act of <em>saving your work</em> from the act of <em>deploying it live</em>.</p><p>This post explains how Autosave and Publishing work together to provide a safety net for mission-critical automations.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-text"><b><strong style="white-space: pre-wrap;">TL;DR</strong></b><br>&#xE006F;&#x2022;&#xE004F;&#xE004F; Autosave launched in Beta with version 2.4.0<br>&#xE006F;&#x2022;&#xE004F;&#xE004F; Available for <b><strong style="white-space: pre-wrap;">everyone</strong></b> - free self hosted, cloud, and Enterprise.<br>&#x2022;&#xE004F;&#xE004F; No migration or actions required to start using.<br>&#xE006F;&#x2022;&#xE004F;&#xE004F; The save button is no more.</div></div><h2 id="how-it-works">How It Works:</h2><p>Let&#x2019;s look at the key mechanics that power the new workflow lifecycle.</p><h3 id="autosave">Autosave</h3><p>This is the headline change. You no longer have a save button. The editor now checks for changes every two seconds and saves them automatically. No need to worry about browser crashes, accidental tab closures, or plain simple &#x201C;I forgot to save this&#x201D; situations.</p><h3 id="versioned-publishing">Versioned Publishing</h3><p>In the past, Saving an activated workflow meant instant changes to live. Now, you have explicit control over which version of your workflow is live. You can continue to make changes and iterate on your workflow for days while the <strong>Published</strong> version continues to run the old, stable logic.<br><em>Note: Publishing was added in v2.0.0</em></p><h3 id="version-history-your-new-control-center">Version History (your new control center)</h3><p>The History panel is now a mini &quot;Command Center&quot; for your workflow. Track changes, perform instant rollbacks, or publish any previous version.</p><h3 id="concurrency-protection">Concurrency Protection </h3><p>n8n now detects when a colleague is editing a workflow and temporarily locks the canvas in Read-Only mode for everyone else, ensuring you never accidentally overwrite each other&#x2019;s active work.</p><p></p><h2 id="the-workflow-lifecycle-in-action"><strong>The Workflow Lifecycle in Action</strong></h2><p>The best way to understand this new lifecycle is to see it in practice.<br>Let&#x2019;s walk through the following scenario:</p><ol><li>Creating a new workflow</li><li>Publishing it (making it live)</li><li>Safe updates (updating an already published workflow)</li><li>Publishing a new version</li><li>Rolling back to a previous version</li></ol><h3 id="1-creating-a-new-workflow">1. Creating a new workflow</h3><p>From the moment you start editing, <strong>Autosave is active</strong>. </p><p>As you make changes to your workflow, the <strong>History Icon</strong> (the clock) in the top right of the screen occasionally spins to confirm it&apos;s constantly being saved in the background. Your work is safe. </p><p>At this stage, if we look at the <strong>Publish</strong> button, it has <strong>no status icon</strong>. This means the workflow is not currently published -  <strong>nothing is live yet</strong>. </p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-3-1-1.png" class="kg-image" alt="Announcing Autosave &amp; More!" loading="lazy" width="1198" height="268" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/image-3-1-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/01/image-3-1-1.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-3-1-1.png 1198w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Publish button and spinning save icon</span></figcaption></figure><h3 id="2-publishing-itthe-first-deploy">2. Publishing it - the first deploy</h3><p>Once you&apos;ve finished building the initial flow and tested it successfully, it&#x2019;s time to make it live (previously called Activate).</p><p>When you click the <strong>Publish</strong> button in the top right, you&apos;ll be asked for a version name and optional description. Now, any webhooks or other triggers in this workflow are active and listening.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-4.png" class="kg-image" alt="Announcing Autosave &amp; More!" loading="lazy" width="1064" height="776" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/image-4.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/01/image-4.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-4.png 1064w" sizes="(min-width: 720px) 720px"></figure><p>The button now says [Published] and we have a <strong>green status icon</strong>, meaning your current view is now the active, production version. Yay!</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-5-1-1.png" class="kg-image" alt="Announcing Autosave &amp; More!" loading="lazy" width="1182" height="268" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/image-5-1-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/01/image-5-1-1.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-5-1-1.png 1182w" sizes="(min-width: 720px) 720px"></figure><h3 id="3-safe-updates">3. Safe updates</h3><p>Now that it&apos;s published, we want to make improvements, but without impacting the live published version.</p><p>We can simply go ahead and make changes to the workflow. It will only impact the version in the editor, <strong>not the published version.</strong></p><p>The icon next to the Publish button turns Yellow when you make your first change. This signals that the current version has diverged from Production.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-6-1-1.png" class="kg-image" alt="Announcing Autosave &amp; More!" loading="lazy" width="1178" height="228" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/image-6-1-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/01/image-6-1-1.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-6-1-1.png 1178w" sizes="(min-width: 720px) 720px"></figure><h3 id="4-publishing-a-new-version">4. Publishing a new version</h3><p>Once you are ready to push the new changes to production, click the [Publish]  button, you&#x2019;ll be asked for a name (lets call it &#x201C;Version 2&#x201D;). The status icon turns <strong>Green</strong> again. The current version is now Published and the new logic is live.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-5-1-1.png" class="kg-image" alt="Announcing Autosave &amp; More!" loading="lazy" width="1182" height="268" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/image-5-1-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/01/image-5-1-1.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-5-1-1.png 1182w" sizes="(min-width: 720px) 720px"></figure><h3 id="5-rolling-back-to-a-previous-version">5. Rolling back to a previous version</h3><p>Five minutes later, you realize Version 2 introduced a nasty bug and need to fix production immediately.</p><p>Instead of frantically undoing changes, you can now roll back and publish (or re-publish) any version from the <strong>Version History</strong> panel:</p><ol><li>Find the previous version (version 1.0 - the one that was working previously).</li><li>Click the <strong>Three Dots</strong> menu next to that version.</li><li>Select <strong>Publish this version</strong>.</li></ol><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-9.png" class="kg-image" alt="Announcing Autosave &amp; More!" loading="lazy" width="1136" height="838" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/image-9.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/01/image-9.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-9.png 1136w" sizes="(min-width: 720px) 720px"></figure><p>Production is instantly reverted to the safe version, buying us time to fix the bugs. Crisis averted!</p><hr><h2 id="collaboration-and-concurrency-protection">Collaboration and Concurrency Protection</h2><p>Finally, Autosave introduces a new challenge: in a collaborative environment, how do we ensure teammates don&apos;t accidentally overwrite each other&apos;s work?</p><p>To solve this, we are introducing <strong>Concurrency Protection</strong>.</p><h3 id="1-working-with-teammates-read-only-mode">1. Working with Teammates (Read-Only Mode)</h3><p>When you open a workflow that a teammate is currently editing, n8n will detect the activity and automatically load the editor in <strong>Read-Only Mode</strong> (the diagonal lines) and you&apos;ll get a message letting you know exactly who is currently working on the workflow.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-10-2.png" class="kg-image" alt="Announcing Autosave &amp; More!" loading="lazy" width="1908" height="1002" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/image-10-2.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/01/image-10-2.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/01/image-10-2.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-10-2.png 1908w" sizes="(min-width: 720px) 720px"></figure><p><strong>Real-Time Updates</strong><br>In Read-Only mode, you aren&apos;t just looking at a static snapshot. As your teammate adds nodes or changes parameters, your screen will update in near real-time. This allows you to watch their progress live as they build.</p><p>Once your teammate leaves the workflow or goes inactive for a short period, the edit lock releases and the canvas changes from read-only to edit mode. Because your screen has been updating live, you can simply take over and start editing exactly where they left off.</p><h3 id="2-protecting-you-from-yourself-multi-tab-safety">2. Protecting You From Yourself (Multi-Tab Safety)</h3><p>We also added safeguards for those times when you accidentally (or not) have the same workflow open in multiple tabs, or even different browsers.</p><p>Let&#x2019;s say you make edits in <strong>Tab A</strong>, and then switch back to the outdated <strong>Tab B</strong> to try and make a change, n8n will still catch the conflict.</p><p>Instead of silently saving (and potentially losing the work you did in Tab A), you will see a popup alerting you that the workflow has been modified elsewhere. You are then given a choice:</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-11.png" class="kg-image" alt="Announcing Autosave &amp; More!" loading="lazy" width="1130" height="460" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/01/image-11.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/01/image-11.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/image-11.png 1130w" sizes="(min-width: 720px) 720px"></figure><p>This ensures that even if you get your tabs crossed, you never accidentally lose code without making a conscious decision to do so.</p><hr><h3 id="coming-very-soonnaming-versions-enhanced-history">Coming Very Soon - Naming Versions &amp; Enhanced History</h3><p>Autosave Beta (v2.4.0) delivers the core functionality for Autosave, Publishing and Concurrency Protection and we have a &quot;fast-follow&quot; update coming in the next couple of weeks that adds a few key capabilities:</p><ul><li><strong>Custom Version Names:</strong> Soon, you will be able to assign a name to any version <em>without</em> publishing it. This is perfect for marking your progress or identifying a specific state while you iterate on complex logic.</li><li><strong>Visual History Improvements:</strong> We are refining the Version History panel to make it even easier to distinguish at a glance which versions have been published versus those that haven&apos;t.</li><li><strong>Renaming:</strong> You will also gain the ability to rename past versions to keep your history organized.</li></ul><p>These updates are right around the corner.</p><hr><p>We&#x2019;re super excited to <strong>finally</strong> provide you with Autosave as part of the updates to provide a <strong>reliable and safe</strong> environment where you can build complex automations with confidence.</p><p>Autosave, improved Versioned Publishing, and Concurrency Protection are now available in Beta (version 2.4.0).</p><p><strong>As with all Beta features,&#xA0;<em>please avoid using this on mission-critical production instances until the Stable version is released.</em></strong></p><h3 id="questions-or-comments"><strong>Questions or comments?</strong></h3><p>Join the <a href="https://community.n8n.io/t/announcing-autosave/246161" rel="noreferrer">discussion in the community forum</a><br></p>]]></content:encoded></item>
 <item><title><![CDATA[AI Workflow Builder Best Practices]]></title><description><![CDATA[<p>We recently released <a href="https://docs.n8n.io/advanced-ai/ai-workflow-builder/">AI Workflow Builder</a> for Starter, Pro and Enterprise Cloud customers, turning your natural language prompts into working automations.</p><p>Instead of launching into building a new workflow from scratch with a blank canvas, you can easily get your automation ideas out of your head and into a functioning</p>]]></description><link>https://blog.n8n.io/ai-workflow-builder-best-practices/</link><guid isPermaLink="false">695d2fcc0ca9df0001e664e9</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[Paul Gordon]]></dc:creator><pubDate>Mon, 12 Jan 2026 12:57:19 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/aiwb-best-actices2.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/aiwb-best-actices2.jpg" alt="AI Workflow Builder Best Practices"><p>We recently released <a href="https://docs.n8n.io/advanced-ai/ai-workflow-builder/">AI Workflow Builder</a> for Starter, Pro and Enterprise Cloud customers, turning your natural language prompts into working automations.</p><p>Instead of launching into building a new workflow from scratch with a blank canvas, you can easily get your automation ideas out of your head and into a functioning workflow in minutes. You can even use it to debug and refine your existing workflows, all with real-time feedback of what AI Workflow Builder is doing at every stage.</p><p>Think of AI Workflow Builder as a thought partner, there to be used as a sounding board for validating ideas, a way of exploring nodes that you might not have considered, and an n8n expert ready to help fix or improve your workflows.</p><p>Building workflows with prompts is a natural and intuitive process, but getting the most of AI Workflow Builder can take time and a few iterations to find what works best for you.</p><p>Getting the most from AI Workflow Builder is a personal experience. Here are proven ways to improve your AI Workflow Builder prompts, based on feedback from the n8n community and our AI engineering team.</p><h2 id="best-practices-examples">Best practices &amp; examples</h2><p></p><h3 id="think-in-iterations">Think in iterations</h3><p>Having a full plan of how you want the workflow to be triggered, what data and logic needs to be processed, and how it end is fantastic. However, giving AI Workflow Builder all of this in a single huge prompt might not get the best outcomes.</p><p>Think in iterations, especially for large, complex automations. Use AI Workflow builder to create a rough &#x201C;map&#x201D; of the finished workflow, then run, prompt, refine, and repeat.</p><h3 id="prepare-for-required-parameters-and-credentials">Prepare for required parameters and credentials</h3><p>When sending the first prompt to kick-start the workflow building process, almost all workflows will need you to manually enter additional parameters and credentials, especially if using APIs and tools that need access to data via a specific account.</p><p>When AI Workflow Builder finishes after your prompt, it will detail all manual steps you need to carry out to make sure this iteration works correctly.</p><p>As you&#x2019;re planning your overall workflow, think about the tools and services you plan on connecting to and plan for any login information or required access in advance to cut down on delays in your workflow building.</p><h3 id="don%E2%80%99t-rely-on-prompts-created-with-other-ai-chat">Don&#x2019;t rely on prompts created with other AI chat</h3><p>It might be tempting to use another AI tool for helping build the perfect prompt, but in reality this can lead to overly-long prompts that might still face the same challenges as a much shorter prompt that lacks good planning for triggers, outputs and data flow.</p><p>Creating a prompt using another chat tool isn&#x2019;t a bad thing, but don&#x2019;t rely on it to create a single, comprehensive prompt that creates the perfect workflow in one go. Treat it in the same iterative way of prompting, testing, and refining, with a clear vision of what you are wanting the workflow to achieve.</p><h3 id="be-specific-about-integrations-and-nodes">Be specific about integrations and nodes</h3><p>Don&#x2019;t just say &#x201C;<em>get my emails</em>&#x201D; or &#x201C;<em>send results to a table</em>&#x201D;, get ready to be specific with exactly what you want AI Workflow Builder to make for you: vague prompts = vague workflows that will need more iterations and potential manual work to get them working.</p><p>Instead, use prompt language like &#x201C;<em>get the latest 10 emails from my </em><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.gmail/"><em>Gmail</em></a><em> account</em>&#x201D; and &#x201C;<em>send to a </em><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets/"><em>Google Sheet</em></a><em> called XXX</em>&#x201D; which will help AI Workflow Builder create exactly what you were meaning, reduce build iterations, and return back more helpful responses for required next steps.</p><h3 id="clearly-describe-the-flow-of-data">Clearly describe the flow of data</h3><p>Just like being specific about integrations, try to be as specific as possible about the way you expect data to flow in your workflow.</p><p>In your prompts, tell AI Workflow Builder where it should find data, what it should do with it and where it should send it.</p><p>Rather than &#x201C;<em>Get the latest sales calls, summarize them, then save the summary</em>&#x201D;, use more specific prompting like &#x201C;<em>Get the last 100 sales call text summaries from </em><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.gong/"><em>Gong</em></a><em>, then send them to </em><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/"><em>OpenAI</em></a><em> to summarize each one in 2-3 bullet points. Save the summaries in an </em><a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.datatable/"><em>n8n Data Table</em></a><em> with the date of the call, company name and AI summary</em>&#x201D;.</p><p>Be clear about how the data should be formatted, and which fields should be sent from one node to another.</p><h3 id="no-need-to-role-play">No need to role play</h3><p>Unlike some general purpose AI chat tools that require you to explain to the agent how it should operate to get the best results, there&#x2019;s no need to do that with AI Workflow Builder.</p><p>Don&#x2019;t worry about telling it &#x201C;You are an expert n8n workflow builder&#x201D; - it already is, and will create the best possible workflows based on your prompts.</p><h2 id="a-deeper-look-into-why-a-good-prompt-works-well">A deeper look into why a good prompt works well</h2><p></p><blockquote><em>Create an automation that checks the weather for my location every morning at 5 a.m using OpenWeather. Send me a short weather report by email using Gmail. Use OpenAI to write a short, fun formatted email body by adding personality when describing the weather and how the day might feel. Include all details relevant to decide on my plans and clothes for the day.</em></blockquote><h3 id="it-calls-out-specific-integrations">It calls out specific integrations</h3><p>Here, the prompt is calling out specific tools like <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.gmail/">Gmail</a> and <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/">OpenAI</a> rather then &#x201C;email&#x201D; and &#x201C;AI model&#x201D;, helping it to create the right nodes for the task.</p><h3 id="it-clearly-describes-the-flow-from-start-to-finish">It clearly describes the flow from start to finish</h3><p>Nothing is left for AI Workflow Builder to work out, the prompt clearly states what should happen at each stage of the automation.</p><h3 id="no-fuss-straight-to-the-point-instructions">No-fuss, straight to the point instructions</h3><p>We don&#x2019;t need to include additional AI-related instructions or &#x201C;scene setting&#x201D; to help with context, here the prompt is instructing AI Workflow Builder what to do with comprehensive instructions.</p><h3 id="a-small-iteration-ready-for-the-next-step">A small iteration ready for the next step</h3><p>The prompt is &lt;400 characters rather than a 1,000+ character input, giving you the ability to quickly validate ideas and make small changes as your workflow idea evolves.</p><h2 id="key-takeaways">Key takeaways</h2><p>With AI Workflow Builder you really do get out what you put in: clear, well-defined, and specific prompts will create well-built workflows with clear flows from trigger to output. External tools to help you write your prompts might just add confusion and extra build time.</p><p>Have a idea in mind of what you want the workflow to achieve and which nodes and integrations you might want, helping you plan for other requirements like parameters, credentials and API endpoints.</p><p>Lastly, don&#x2019;t be afraid to build in iterations: use AI Workflow Builder to create workflows in clear, short prompts rather than trying to achieve everything in one go. This allows you to quickly validate ideas and quickly change direction if needed. Being specific about your nodes, integrations and flow of data will help reduce the number of iterations needed to get to your perfect workflow.</p><p>Got any tips on how you&apos;re building with AI Workflow Builder? <a href="https://community.n8n.io/t/how-are-you-using-ai-workflow-builder/248757">Let other community members know your best tips, tricks and prompts</a>.</p><p>Now, check out the <a href="https://docs.n8n.io/advanced-ai/ai-workflow-builder/">docs</a> and get building with AI Workflow Builder!</p>]]></content:encoded></item>
-<item><title><![CDATA[Security Advisory: Security Vulnerability in n8n Versions 1.65-1.120.4]]></title><description><![CDATA[Security update: Upgrade recommended for users on versions below 1.20.4]]></description><link>https://blog.n8n.io/security-advisory-20260108/</link><guid isPermaLink="false">69601ee7ac1dc90001fe4b9f</guid><category><![CDATA[security-advisory]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 08 Jan 2026 21:36:46 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/cve-ls.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/01/cve-ls.png" alt="Security Advisory: Security Vulnerability in n8n Versions 1.65-1.120.4"><p>We were made aware in November of a critical security vulnerability affecting n8n version 1.65-1.120.4. This has been fixed in&#xA0;<strong>n8n version 1.121.0 and released to our entire customer base on November 18, 2025.</strong> We&apos;re reaching out to ensure self-hosted users have the information needed to secure their instances.</p><p><strong>What happened</strong>:&#xA0;The reported vulnerability affects certain form-based workflows. A vulnerable workflow could grant access to an unauthenticated remote attacker. This could potentially result in exposure of information stored on the system and may enable further compromise depending on deployment configuration and workflow usage.</p><p>An n8n instance is potentially vulnerable if it has an active workflow with a Form Submission trigger, and a Form Ending node returning a binary file. Due to improper input validation, such a workflow could, under specific limited conditions, theoretically be exploited to gain read access to the underlying file system. The vulnerable workflow could be exploited by an attacker who can access the form, including unauthenticated callers.</p><p><strong>Potential impact</strong></p><p><strong>Who is affected:</strong></p><ul><li>Self-hosted instances running versions 1.65-1.120.4</li><li>If you&apos;re running any 2.x version (including any RC/beta), you already have this security fix</li><li>Cloud instances have already been automatically upgraded and are secure</li></ul><p>If this vulnerability were exploited, it could lead to:</p><ul><li>In certain configurations, privilege escalation within the n8n instance</li><li>Unauthorized access to sensitive information stored in your n8n instance</li></ul><p><strong>Required action</strong></p><p>If you&apos;re running version 1.65-1.120.4: Please update your n8n instance to version 1.121.0 (or later) as soon as possible. This version contains the necessary security fixes.</p><p>If you&apos;re running any 2.x version (including any RC/beta): No action needed - you already have this security fix.</p><p><strong>FAQ</strong></p><p><strong>Is my n8n instance affected?</strong><br>Your instance is affected if you&apos;re running <strong>version 1.65-1.120.4</strong> with an active workflow that has both:</p><ul><ul><li>A Form Submission trigger, AND</li><li>A Form Ending node returning a binary file</li></ul></ul><p>If you&apos;re running <strong>version 1.121.0 or later</strong>, or <strong>any 2.x version</strong>, you are not affected.</p><p>If you&apos;re a <strong>Cloud customer</strong>, we&apos;ll upgrade and secure your instance in the next 12 hours. You can also <a href="https://docs.n8n.io/manage-cloud/update-cloud-version/#update-your-cloud-version">start the upgrade from your Cloud dashboard</a>.</p><p><a href="https://community.n8n.io/uploads/short-url/gQTK38TBhg4RjdhNJQxgSeccsGm.json" rel="noreferrer">You can run this workflow template</a> to scan your instance for potentially vulnerable workflows.</p><p><strong>How can I keep track of n8n releases?</strong><br><a href="https://docs.n8n.io/release-notes/">Access our release notes here</a> - each one also links to the GitHub commits for detailed information.</p><p><strong>How can I keep track of n8n CVEs?</strong><br><a href="https://github.com/n8n-io/n8n/security/advisories">We disclose our CVEs on GitHub</a>.</p><p><strong>How is n8n addressing security?</strong><br>We take an active stance on security through our <a href="https://n8n.notion.site/n8n-vulnerability-disclosure-program">Vulnerability Disclosure Program</a>. We prioritize responding to reportsand things we find ourselves, and we&apos;re committed to transparent disclosure.</p><p><strong>Since this issue was patched on November 18, why was it not communicated until now?</strong><br>We wanted to ensure the patches had been released and offer our customers the opportunity to update on their own timing. We also wanted to reduce the risk of widespread attacks that would likely have occurred if we didn&#x2019;t have a mitigation in place. Responsible disclosure is something we take seriously, and this allowed us to be more proactive than reactive as we also respond to various other bug reports we&#x2019;ve received since starting our Vulnerability Disclosure Program</p><p>We appreciate your prompt attention to this security update. n8n maintains a proactive security standards through continuous monitoring, regular penetration testing, and a responsible disclosure program. This disclosure participates of our commitment to transparency.</p>]]></content:encoded></item>
 <item>
   <title><![CDATA[Top 18 des meilleurs outils IA en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/outils-ia</link>
   <description><![CDATA[Création de contenus, génération d’images, de vidéos, … L’intelligence artificielle est partout. Découvrez les meilleurs outils IA pour en tirer parti.]]></description>
-  <pubDate>Mon, 30 Mar 2026 12:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 11:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/682338273f8b3c121c393962_Frame%2034470%20(5).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/682338273f8b3c121c393962_Frame%2034470%20(5).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/682338273f8b3c121c393962_Frame%2034470%20(5).webp" /> Création de contenus, génération d’images, de vidéos, … L’intelligence artificielle est partout. Découvrez les meilleurs outils IA pour en tirer parti.]]></content:encoded>
@@ -1138,7 +1156,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Retour d’une ancienne alumni - Aurore Kassambara]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-aurore-kassambara</link>
   <description><![CDATA[Découvrez le parcours d&#x27;Aurore: d&#x27;athlète à product builder IA]]></description>
-  <pubDate>Sat, 04 Apr 2026 01:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 04:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c11a4f36fa9a6300ca90ae_aurore%20Kassambara%20-%20alumni%20Cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c11a4f36fa9a6300ca90ae_aurore%20Kassambara%20-%20alumni%20Cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c11a4f36fa9a6300ca90ae_aurore%20Kassambara%20-%20alumni%20Cube.png" /> Découvrez le parcours d&#x27;Aurore: d&#x27;athlète à product builder IA]]></content:encoded>
@@ -1147,7 +1165,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Retour d’un ancien alumni - Saad Raznaoui]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-saad-raznaoui</link>
   <description><![CDATA[Découvrez le parcours de l&#x27;alumni Saad Raznaoui, expert No-Code]]></description>
-  <pubDate>Tue, 31 Mar 2026 08:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 21:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c117693daf618749e6fbb2_Saad%20Raznaoui%20alumni%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c117693daf618749e6fbb2_Saad%20Raznaoui%20alumni%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c117693daf618749e6fbb2_Saad%20Raznaoui%20alumni%20cube.png" /> Découvrez le parcours de l&#x27;alumni Saad Raznaoui, expert No-Code]]></content:encoded>
@@ -1156,7 +1174,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Comment débuter une carrière dans l&#x27;IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-debuter-carriere-dans-ia</link>
   <description><![CDATA[Découvrez les métiers pour débuter une carrière dans l&#x27;IA !]]></description>
-  <pubDate>Sat, 28 Mar 2026 10:13:42 GMT</pubDate>
+  <pubDate>Tue, 31 Mar 2026 00:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c10d61f96c2c89cf994680_de%CC%81buter%20une%20carrie%CC%80re%20dans%20l%27IA%20-%20e%CC%81cole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c10d61f96c2c89cf994680_de%CC%81buter%20une%20carrie%CC%80re%20dans%20l%27IA%20-%20e%CC%81cole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c10d61f96c2c89cf994680_de%CC%81buter%20une%20carrie%CC%80re%20dans%20l%27IA%20-%20e%CC%81cole%20cube.png" /> Découvrez les métiers pour débuter une carrière dans l&#x27;IA !]]></content:encoded>
@@ -1165,7 +1183,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Windsurf AI - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/windsurf-ai</link>
   <description><![CDATA[Découvrez Windsurf, cet éditeur de code propulsé par l&#x27;IA !]]></description>
-  <pubDate>Sun, 05 Apr 2026 22:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 20:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c10911475bcba4e294aa1d_windsurf%20AI.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c10911475bcba4e294aa1d_windsurf%20AI.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69c10911475bcba4e294aa1d_windsurf%20AI.png" /> Découvrez Windsurf, cet éditeur de code propulsé par l&#x27;IA !]]></content:encoded>
@@ -1174,7 +1192,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Mammouth AI - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/mammouth-ai</link>
   <description><![CDATA[Découvrez Mammouth AI, cet agrégateur d’intelligence artificielle]]></description>
-  <pubDate>Wed, 01 Apr 2026 08:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 22:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbe2ab0fd17fc01bcdda2c_mammouth%20ai%20ecole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbe2ab0fd17fc01bcdda2c_mammouth%20ai%20ecole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbe2ab0fd17fc01bcdda2c_mammouth%20ai%20ecole%20cube.png" /> Découvrez Mammouth AI, cet agrégateur d’intelligence artificielle]]></content:encoded>
@@ -1183,7 +1201,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Hugging face - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/hugging-face</link>
   <description><![CDATA[Découvrez Hugging Face, plateforme considérée comme le Github IA]]></description>
-  <pubDate>Sun, 29 Mar 2026 23:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 00:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbccde61ab8c018813d409_hugging%20face%20ecole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbccde61ab8c018813d409_hugging%20face%20ecole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbccde61ab8c018813d409_hugging%20face%20ecole%20cube.png" /> Découvrez Hugging Face, plateforme considérée comme le Github IA]]></content:encoded>
@@ -1192,7 +1210,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Kling AI - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/kling-ai</link>
   <description><![CDATA[Découvrez Kling AI, générateur réaliste de vidéos IA !]]></description>
-  <pubDate>Mon, 30 Mar 2026 07:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 15:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbcac7fc15cf163c6f79ba_kling%20ai%20ecole%20cub%20e.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbcac7fc15cf163c6f79ba_kling%20ai%20ecole%20cub%20e.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69bbcac7fc15cf163c6f79ba_kling%20ai%20ecole%20cub%20e.png" /> Découvrez Kling AI, générateur réaliste de vidéos IA !]]></content:encoded>
@@ -1201,7 +1219,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Dust IA - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/dust-ia</link>
   <description><![CDATA[Découvrez Dust IA ! Fonctionnalités clés pour créer des agents IA]]></description>
-  <pubDate>Mon, 30 Mar 2026 05:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 16:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba833e32c2335c32278e80_Dust%20IA%20e%CC%81cole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba833e32c2335c32278e80_Dust%20IA%20e%CC%81cole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba833e32c2335c32278e80_Dust%20IA%20e%CC%81cole%20cube.png" /> Découvrez Dust IA ! Fonctionnalités clés pour créer des agents IA]]></content:encoded>
@@ -1210,7 +1228,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Pletor AI - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/pletor-ai</link>
   <description><![CDATA[Découvrez Pletor AI pour automatiser vos contenus visuels]]></description>
-  <pubDate>Mon, 30 Mar 2026 02:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 07:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba7fca0ea925326f214c8a_pletor%20ai%20e%CC%81cole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba7fca0ea925326f214c8a_pletor%20ai%20e%CC%81cole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba7fca0ea925326f214c8a_pletor%20ai%20e%CC%81cole%20cube.png" /> Découvrez Pletor AI pour automatiser vos contenus visuels]]></content:encoded>
@@ -1219,7 +1237,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Wispr - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/wispr</link>
   <description><![CDATA[Découvrez les fonctionnalités sans saisie textuelle de Wispr]]></description>
-  <pubDate>Wed, 01 Apr 2026 22:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 13:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba7e2348ac424ec4238a3b_wispr%20e%CC%81cole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba7e2348ac424ec4238a3b_wispr%20e%CC%81cole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69ba7e2348ac424ec4238a3b_wispr%20e%CC%81cole%20cube.png" /> Découvrez les fonctionnalités sans saisie textuelle de Wispr]]></content:encoded>
@@ -1228,7 +1246,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Interview Alumni - Camille Pouyot]]></title>
   <link>https://www.ecole.cube.fr/blog/temoignage-alumni-camille-pouyot</link>
   <description><![CDATA[Découvrez le parcours inspirant de freelance de Camille Pouyot]]></description>
-  <pubDate>Tue, 31 Mar 2026 11:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 09:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a57008bdd9d6b3d4f6a272_alumni%20cube%20Camille%20Pouyat.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a57008bdd9d6b3d4f6a272_alumni%20cube%20Camille%20Pouyat.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a57008bdd9d6b3d4f6a272_alumni%20cube%20Camille%20Pouyat.png" /> Découvrez le parcours inspirant de freelance de Camille Pouyot]]></content:encoded>
@@ -1237,7 +1255,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Générer une image avec l&#x27;IA : Meilleurs outils 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[Découvrez notre classement des outils de génération d&#x27;image IA]]></description>
-  <pubDate>Sat, 28 Mar 2026 07:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 07:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a56bcc05766d3e61e446d7_ge%CC%81ne%CC%81rateur%20image%20IA%20Ecole%20Cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a56bcc05766d3e61e446d7_ge%CC%81ne%CC%81rateur%20image%20IA%20Ecole%20Cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a56bcc05766d3e61e446d7_ge%CC%81ne%CC%81rateur%20image%20IA%20Ecole%20Cube.png" /> Découvrez notre classement des outils de génération d&#x27;image IA]]></content:encoded>
@@ -1246,7 +1264,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Générateur de vidéos IA : Notre meilleur classement par l&#x27;Ecole Cube]]></title>
   <link>https://www.ecole.cube.fr/blog/generateur-videos-ia</link>
   <description><![CDATA[Les meilleurs générateurs de vidéos IA classés par l&#x27;Ecole Cube]]></description>
-  <pubDate>Sat, 28 Mar 2026 23:13:42 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 10:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a5644becabe07a1d1fd66f_ge%CC%81ne%CC%81rateur%20vide%CC%81o%20IA%20Ecole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a5644becabe07a1d1fd66f_ge%CC%81ne%CC%81rateur%20vide%CC%81o%20IA%20Ecole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69a5644becabe07a1d1fd66f_ge%CC%81ne%CC%81rateur%20vide%CC%81o%20IA%20Ecole%20cube.png" /> Les meilleurs générateurs de vidéos IA classés par l&#x27;Ecole Cube]]></content:encoded>
@@ -1255,7 +1273,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[UGC IA - Le guide pour créer des vidéos qui convertissent]]></title>
   <link>https://www.ecole.cube.fr/blog/ugc-ia</link>
   <description><![CDATA[Comment créer des vidéos UGC réalistes avec l&#x27;IA ?]]></description>
-  <pubDate>Sat, 28 Mar 2026 22:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 07:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b39d20121966134bd87f9_ugc%20ia%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b39d20121966134bd87f9_ugc%20ia%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b39d20121966134bd87f9_ugc%20ia%20cube.png" /> Comment créer des vidéos UGC réalistes avec l&#x27;IA ?]]></content:encoded>
@@ -1264,7 +1282,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Open Claw - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/open-claw</link>
   <description><![CDATA[OpenClaw, l&#x27;assistant IA travaille directement sur vos dossiers !]]></description>
-  <pubDate>Mon, 30 Mar 2026 05:13:42 GMT</pubDate>
+  <pubDate>Tue, 31 Mar 2026 22:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b37a17ef090aa933e7273_openclaw%20ecole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b37a17ef090aa933e7273_openclaw%20ecole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b37a17ef090aa933e7273_openclaw%20ecole%20cube.png" /> OpenClaw, l&#x27;assistant IA travaille directement sur vos dossiers !]]></content:encoded>
@@ -1273,7 +1291,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Claude Code - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/claude-code</link>
   <description><![CDATA[Claude code, votre copilote et assistant de développement]]></description>
-  <pubDate>Tue, 31 Mar 2026 15:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 10:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b351af844539da7661589_claude%20code%20e%CC%81cole%20cube.jpg" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b351af844539da7661589_claude%20code%20e%CC%81cole%20cube.jpg" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699b351af844539da7661589_claude%20code%20e%CC%81cole%20cube.jpg" /> Claude code, votre copilote et assistant de développement]]></content:encoded>
@@ -1282,7 +1300,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Claude Cowork - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/claude-cowork</link>
   <description><![CDATA[Découvrez Claude cowork, l&#x27;outil qui agit en agent IA personnel]]></description>
-  <pubDate>Thu, 02 Apr 2026 12:13:42 GMT</pubDate>
+  <pubDate>Fri, 27 Mar 2026 21:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6999695194e27c0ed0c3c1ab_claude%20cowork%20Cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6999695194e27c0ed0c3c1ab_claude%20cowork%20Cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6999695194e27c0ed0c3c1ab_claude%20cowork%20Cube.png" /> Découvrez Claude cowork, l&#x27;outil qui agit en agent IA personnel]]></content:encoded>
@@ -1291,7 +1309,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Lead generation - Construire une stratégie efficace en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/lead-generation</link>
   <description><![CDATA[Construire une stratégie Lead Generation différenciante en 2026]]></description>
-  <pubDate>Tue, 31 Mar 2026 21:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 10:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69974a026f7cbe54a71c248d_lead%20gen%20e%CC%81cole%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69974a026f7cbe54a71c248d_lead%20gen%20e%CC%81cole%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69974a026f7cbe54a71c248d_lead%20gen%20e%CC%81cole%20cube.png" /> Construire une stratégie Lead Generation différenciante en 2026]]></content:encoded>
@@ -1300,7 +1318,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Comment choisir une formation en intelligence artificielle adaptée à mes besoins ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-choisir-formation-intelligence-artificielle-adaptee</link>
   <description><![CDATA[Bien choisir sa formation en IA adaptée à votre situation]]></description>
-  <pubDate>Fri, 03 Apr 2026 18:13:42 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 22:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699746ecc664a7890a96a263_formation%20ia%20adapte%CC%81e%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699746ecc664a7890a96a263_formation%20ia%20adapte%CC%81e%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/699746ecc664a7890a96a263_formation%20ia%20adapte%CC%81e%20cube.png" /> Bien choisir sa formation en IA adaptée à votre situation]]></content:encoded>
@@ -1309,7 +1327,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Demand Gen - Guide complet]]></title>
   <link>https://www.ecole.cube.fr/blog/demand-gen</link>
   <description><![CDATA[Réussissez vos campagnes marketing avec la Demand Gen]]></description>
-  <pubDate>Fri, 27 Mar 2026 21:13:42 GMT</pubDate>
+  <pubDate>Tue, 31 Mar 2026 14:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6997448989c84499b6c0832f_demand%20gen.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6997448989c84499b6c0832f_demand%20gen.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6997448989c84499b6c0832f_demand%20gen.png" /> Réussissez vos campagnes marketing avec la Demand Gen]]></content:encoded>
@@ -1318,7 +1336,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Interview Alumni - Tiotis Ruis]]></title>
   <link>https://www.ecole.cube.fr/blog/interview-alumni-tiotis-ruis</link>
   <description><![CDATA[Découvrez le parcours de Tiotis après le bootcamp product builder]]></description>
-  <pubDate>Fri, 03 Apr 2026 02:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 15:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69973cccae1b9b1d0baeff6f_Tiotis%20alumni%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69973cccae1b9b1d0baeff6f_Tiotis%20alumni%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69973cccae1b9b1d0baeff6f_Tiotis%20alumni%20cube.png" /> Découvrez le parcours de Tiotis après le bootcamp product builder]]></content:encoded>
@@ -1327,7 +1345,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Quels sont les débouchés après une formation en intelligence artificielle ?]]></title>
   <link>https://www.ecole.cube.fr/blog/debouches-apres-une-formation-intelligence-artificielle</link>
   <description><![CDATA[Une formation IA ouvre des opportunités professionnelles uniques]]></description>
-  <pubDate>Fri, 03 Apr 2026 01:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 02:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a05911bc25f65732e78fa_de%CC%81bouche%CC%81%20formation%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a05911bc25f65732e78fa_de%CC%81bouche%CC%81%20formation%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a05911bc25f65732e78fa_de%CC%81bouche%CC%81%20formation%20cube.avif" /> Une formation IA ouvre des opportunités professionnelles uniques]]></content:encoded>
@@ -1336,7 +1354,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Comment financer sa formation en intelligence artificielle en 2026 ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-financer-formation-intelligence-artificielle</link>
   <description><![CDATA[Découvrez les financements possibles pour une formation en IA]]></description>
-  <pubDate>Tue, 31 Mar 2026 23:13:42 GMT</pubDate>
+  <pubDate>Sat, 28 Mar 2026 09:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07342bbb8c4fd9c6f379_financer%20formation%20ia%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07342bbb8c4fd9c6f379_financer%20formation%20ia%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07342bbb8c4fd9c6f379_financer%20formation%20ia%20cube.avif" /> Découvrez les financements possibles pour une formation en IA]]></content:encoded>
@@ -1345,7 +1363,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Quelle est la différence entre le Growth Hacking et le Growth Marketing ?]]></title>
   <link>https://www.ecole.cube.fr/blog/difference-growth-hacking-et-growth-marketing</link>
   <description><![CDATA[Growth Marketing et Growth Hacking, 2 métiers complémentaires ?]]></description>
-  <pubDate>Sat, 28 Mar 2026 16:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 08:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07f13985ba8f653e30a3_growth%20hacker%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07f13985ba8f653e30a3_growth%20hacker%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07f13985ba8f653e30a3_growth%20hacker%20cube.avif" /> Growth Marketing et Growth Hacking, 2 métiers complémentaires ?]]></content:encoded>
@@ -1354,7 +1372,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Meilleurs experts en IA pour vous former en intelligence artificielle]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-experts-ia</link>
   <description><![CDATA[Notre classement des meilleurs experts IA en 2026]]></description>
-  <pubDate>Sat, 04 Apr 2026 07:13:42 GMT</pubDate>
+  <pubDate>Sat, 28 Mar 2026 16:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07f13985ba8f653e30a3_growth%20hacker%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07f13985ba8f653e30a3_growth%20hacker%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a07f13985ba8f653e30a3_growth%20hacker%20cube.avif" /> Notre classement des meilleurs experts IA en 2026]]></content:encoded>
@@ -1363,7 +1381,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Product Manager AI - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/product-manager-ai-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Product Manager AI ?]]></description>
-  <pubDate>Sun, 05 Apr 2026 14:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 05:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1aae1bccc0a8781fb5cb_product%20manager%20AI%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1aae1bccc0a8781fb5cb_product%20manager%20AI%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1aae1bccc0a8781fb5cb_product%20manager%20AI%20cube.avif" /> Quelles sont les missions du Product Manager AI ?]]></content:encoded>
@@ -1372,7 +1390,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Meta Andromeda, le modèle qui change les règles du social ads]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-andromeda</link>
   <description><![CDATA[Meta Andromeda, nouveau modèle pour vos ads sur Meta]]></description>
-  <pubDate>Tue, 31 Mar 2026 11:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 09:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1b3fbe537d3c45f4dadf_Meta-Andromeda%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1b3fbe537d3c45f4dadf_Meta-Andromeda%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1b3fbe537d3c45f4dadf_Meta-Andromeda%20cube.webp" /> Meta Andromeda, nouveau modèle pour vos ads sur Meta]]></content:encoded>
@@ -1381,7 +1399,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Comment choisir la meilleure formation en Growth Marketing pour débuter ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-choisir-meilleure-formation-growth-marketing</link>
   <description><![CDATA[Choisir la meilleure formation en Growth Marketing]]></description>
-  <pubDate>Tue, 31 Mar 2026 02:13:42 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 09:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1d845d3221d8df4e59a2_meilleures%20formations%20GM%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1d845d3221d8df4e59a2_meilleures%20formations%20GM%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a1d845d3221d8df4e59a2_meilleures%20formations%20GM%20cube.avif" /> Choisir la meilleure formation en Growth Marketing]]></content:encoded>
@@ -1390,7 +1408,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Meilleurs outils de growth marketing en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-growth-marketing</link>
   <description><![CDATA[Notre classement des top outils de Growth Marketing en 2026]]></description>
-  <pubDate>Wed, 01 Apr 2026 01:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 18:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a0318a35c7f967b157768_meilleur%20outil%20GM%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a0318a35c7f967b157768_meilleur%20outil%20GM%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/697a0318a35c7f967b157768_meilleur%20outil%20GM%20cube.avif" /> Notre classement des top outils de Growth Marketing en 2026]]></content:encoded>
@@ -1399,7 +1417,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Consultant SEO - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/consultant-seo-fiche-metier</link>
   <description><![CDATA[Le consultant SEO est expert en référencement naturel des sites]]></description>
-  <pubDate>Mon, 06 Apr 2026 06:13:42 GMT</pubDate>
+  <pubDate>Sat, 28 Mar 2026 11:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695001515b99b9825ec4020c_consultant%20seo%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695001515b99b9825ec4020c_consultant%20seo%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695001515b99b9825ec4020c_consultant%20seo%20cube.avif" /> Le consultant SEO est expert en référencement naturel des sites]]></content:encoded>
@@ -1408,7 +1426,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Meilleures formations Growth Marketing en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-growth-marketing</link>
   <description><![CDATA[Apprenez le Growth Marketing avec la meilleure formation 2026]]></description>
-  <pubDate>Fri, 27 Mar 2026 10:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 13:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695000efc041982ad71bcf3c_formation%20growth%20marketing%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695000efc041982ad71bcf3c_formation%20growth%20marketing%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/695000efc041982ad71bcf3c_formation%20growth%20marketing%20cube.avif" /> Apprenez le Growth Marketing avec la meilleure formation 2026]]></content:encoded>
@@ -1417,7 +1435,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Meilleures formations Lovable en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-lovable</link>
   <description><![CDATA[Découvrez les meilleures formations Lovable en 2026]]></description>
-  <pubDate>Thu, 02 Apr 2026 05:13:42 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 00:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694fff478952a5222e7c2088_lovable-cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694fff478952a5222e7c2088_lovable-cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694fff478952a5222e7c2088_lovable-cube.avif" /> Découvrez les meilleures formations Lovable en 2026]]></content:encoded>
@@ -1426,7 +1444,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Meilleures formations n8n en 2026]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-n8n</link>
   <description><![CDATA[Formez-vous à n8n : automatiser vos process avec des agents IA]]></description>
-  <pubDate>Wed, 01 Apr 2026 11:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 14:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6950001d35635180561f4417_n8n%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6950001d35635180561f4417_n8n%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6950001d35635180561f4417_n8n%20cube.avif" /> Formez-vous à n8n : automatiser vos process avec des agents IA]]></content:encoded>
@@ -1435,7 +1453,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Interview Alumni - Augustin Maillet]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-cube-augustin-maillet</link>
   <description><![CDATA[Quand une curiosité devient une passion et un métier]]></description>
-  <pubDate>Thu, 02 Apr 2026 12:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 18:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694592abe4c4d1da2bb7cd46_alumni%20cube%20augustin.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694592abe4c4d1da2bb7cd46_alumni%20cube%20augustin.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694592abe4c4d1da2bb7cd46_alumni%20cube%20augustin.png" /> Quand une curiosité devient une passion et un métier]]></content:encoded>
@@ -1444,7 +1462,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Comment éviter les biais dans les algorithmes IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-eviter-biais-dans-algorithmes-ia</link>
   <description><![CDATA[Soyez sûrs d&#x27;éviter les biais des IA !]]></description>
-  <pubDate>Sat, 04 Apr 2026 04:13:42 GMT</pubDate>
+  <pubDate>Mon, 06 Apr 2026 06:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694138fba875e65685397012_biais%20IA%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694138fba875e65685397012_biais%20IA%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/694138fba875e65685397012_biais%20IA%20cube.png" /> Soyez sûrs d&#x27;éviter les biais des IA !]]></content:encoded>
@@ -1453,7 +1471,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Comment utiliser l’IA pour créer des logos ou visuels ?]]></title>
   <link>https://www.ecole.cube.fr/blog/utiliser-ia-pour-logos-ou-visuels</link>
   <description><![CDATA[Utiliser l&#x27;IA pour des visuels et logo professionnels]]></description>
-  <pubDate>Tue, 31 Mar 2026 11:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 15:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d9e28f1c73b1ac2191c_logo%20avec%20l%27IA%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d9e28f1c73b1ac2191c_logo%20avec%20l%27IA%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d9e28f1c73b1ac2191c_logo%20avec%20l%27IA%20cube.avif" /> Utiliser l&#x27;IA pour des visuels et logo professionnels]]></content:encoded>
@@ -1462,7 +1480,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Traffic Manager - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/traffic-manager-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Traffic Manager en 2026 ?]]></description>
-  <pubDate>Tue, 31 Mar 2026 06:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 09:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ed74583e70c2c33f6b3_traffic%20manager%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ed74583e70c2c33f6b3_traffic%20manager%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ed74583e70c2c33f6b3_traffic%20manager%20cube.avif" /> Quelles sont les missions du Traffic Manager en 2026 ?]]></content:encoded>
@@ -1471,7 +1489,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Head of Growth - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/head-of-growth-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Head of Growth en 2026 ?]]></description>
-  <pubDate>Sun, 05 Apr 2026 20:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 04:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69414040559ca7b5f3c5c461_head%20of%20growth%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69414040559ca7b5f3c5c461_head%20of%20growth%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69414040559ca7b5f3c5c461_head%20of%20growth%20cube.avif" /> Quelles sont les missions du Head of Growth en 2026 ?]]></content:encoded>
@@ -1480,7 +1498,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Creative Strategist - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/creative-strategist-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Creative Strategist en 2026 ?]]></description>
-  <pubDate>Wed, 01 Apr 2026 12:13:42 GMT</pubDate>
+  <pubDate>Tue, 31 Mar 2026 06:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d0f6aed6783fae48cfc_creative%20strategist%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d0f6aed6783fae48cfc_creative%20strategist%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413d0f6aed6783fae48cfc_creative%20strategist%20cube.avif" /> Quelles sont les missions du Creative Strategist en 2026 ?]]></content:encoded>
@@ -1489,7 +1507,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Growth Marketer - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/growth-marketer-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Growth Marketer en 2026 ?]]></description>
-  <pubDate>Mon, 06 Apr 2026 05:13:42 GMT</pubDate>
+  <pubDate>Tue, 31 Mar 2026 10:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ca986028828c504c154_growth%20marketer%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ca986028828c504c154_growth%20marketer%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ca986028828c504c154_growth%20marketer%20cube.avif" /> Quelles sont les missions du Growth Marketer en 2026 ?]]></content:encoded>
@@ -1498,7 +1516,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Content Manager - Fiche métier]]></title>
   <link>https://www.ecole.cube.fr/blog/content-manager-fiche-metier</link>
   <description><![CDATA[Quelles sont les missions du Content Manager en 2026 ?]]></description>
-  <pubDate>Fri, 03 Apr 2026 18:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 19:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413c45a36eff62f7ea0c7f_content%20manager%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413c45a36eff62f7ea0c7f_content%20manager%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413c45a36eff62f7ea0c7f_content%20manager%20cube.avif" /> Quelles sont les missions du Content Manager en 2026 ?]]></content:encoded>
@@ -1507,7 +1525,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[L’IA va-t-elle remplacer les humains ?]]></title>
   <link>https://www.ecole.cube.fr/blog/ia-remplacer-les-humains</link>
   <description><![CDATA[L&#x27;IA peut bientôt remplacer les humains ?]]></description>
-  <pubDate>Sat, 04 Apr 2026 13:13:42 GMT</pubDate>
+  <pubDate>Sat, 28 Mar 2026 05:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413bca27d6b60f0d47491a_ia%20humain%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413bca27d6b60f0d47491a_ia%20humain%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413bca27d6b60f0d47491a_ia%20humain%20cube.avif" /> L&#x27;IA peut bientôt remplacer les humains ?]]></content:encoded>
@@ -1516,7 +1534,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[L’IA va-t-elle remplacer les designers ?]]></title>
   <link>https://www.ecole.cube.fr/blog/ia-remplacer-designer</link>
   <description><![CDATA[Les designers sont-ils menacés par l&#x27;IA ?]]></description>
-  <pubDate>Tue, 31 Mar 2026 01:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 18:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ad427d6b60f0d4705c9_ia%20designer%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ad427d6b60f0d4705c9_ia%20designer%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69413ad427d6b60f0d4705c9_ia%20designer%20cube.avif" /> Les designers sont-ils menacés par l&#x27;IA ?]]></content:encoded>
@@ -1525,7 +1543,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Interview Alumni - Perrine Soulier]]></title>
   <link>https://www.ecole.cube.fr/blog/alumni-cube-perrine-soulier</link>
   <description><![CDATA[D’un parcours littéraire à l’IA appliquée au RH : Perrine Soulier]]></description>
-  <pubDate>Fri, 03 Apr 2026 18:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 15:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d875441f136804b4ac864_bannie%CC%80re%20alumni%20cube%20perrine.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d875441f136804b4ac864_bannie%CC%80re%20alumni%20cube%20perrine.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d875441f136804b4ac864_bannie%CC%80re%20alumni%20cube%20perrine.avif" /> D’un parcours littéraire à l’IA appliquée au RH : Perrine Soulier]]></content:encoded>
@@ -1534,7 +1552,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Quels métiers utilisent déjà l’IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/quels-metiers-utilisent-ia</link>
   <description><![CDATA[Quels métier utilisent le plus l&#x27;IA ?]]></description>
-  <pubDate>Mon, 30 Mar 2026 07:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 14:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d77421aec2cc936436452_IA%20e%CC%81cole%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d77421aec2cc936436452_IA%20e%CC%81cole%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d77421aec2cc936436452_IA%20e%CC%81cole%20cube.avif" /> Quels métier utilisent le plus l&#x27;IA ?]]></content:encoded>
@@ -1543,7 +1561,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Qu’est-ce que l’intelligence artificielle ?]]></title>
   <link>https://www.ecole.cube.fr/blog/definition-intelligence-artificielle</link>
   <description><![CDATA[Comprenez simplement ce qu&#x27;est l&#x27;intelligence artificielle]]></description>
-  <pubDate>Thu, 02 Apr 2026 10:13:42 GMT</pubDate>
+  <pubDate>Tue, 31 Mar 2026 11:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d674790f4d788314f9580_gemini%20ia%20e%CC%81cole%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d674790f4d788314f9580_gemini%20ia%20e%CC%81cole%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d674790f4d788314f9580_gemini%20ia%20e%CC%81cole%20cube.avif" /> Comprenez simplement ce qu&#x27;est l&#x27;intelligence artificielle]]></content:encoded>
@@ -1552,7 +1570,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Comment fonctionne une IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/comment-fonctionne-l-ia</link>
   <description><![CDATA[Découvrez comment fonctionne une IA sans jargon]]></description>
-  <pubDate>Sat, 04 Apr 2026 23:13:42 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 18:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d6693eddeb614e8b6be1f_fonction%20ia%20e%CC%81cole%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d6693eddeb614e8b6be1f_fonction%20ia%20e%CC%81cole%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d6693eddeb614e8b6be1f_fonction%20ia%20e%CC%81cole%20cube.avif" /> Découvrez comment fonctionne une IA sans jargon]]></content:encoded>
@@ -1561,7 +1579,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[À quoi sert l’IA dans la vie quotidienne ?]]></title>
   <link>https://www.ecole.cube.fr/blog/utilisation-ia-au-quotidien-exemples</link>
   <description><![CDATA[Comment l’IA peut vous aider au quotidien ? Exemples concrets]]></description>
-  <pubDate>Wed, 01 Apr 2026 04:13:42 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 05:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d65e76414c49b004566d8_IA%20quotidien%20cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d65e76414c49b004566d8_IA%20quotidien%20cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d65e76414c49b004566d8_IA%20quotidien%20cube.avif" /> Comment l’IA peut vous aider au quotidien ? Exemples concrets]]></content:encoded>
@@ -1570,7 +1588,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[10 exemples d’applications concrètes de l’IA pour les freelances]]></title>
   <link>https://www.ecole.cube.fr/blog/applications-concretes-ia-pour-freelances</link>
   <description><![CDATA[Quels exemples d&#x27;applications IA pour les freelances ?]]></description>
-  <pubDate>Thu, 02 Apr 2026 00:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 23:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923827e5071e090e15fc8cf_utilisation%20ia%20freelance.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923827e5071e090e15fc8cf_utilisation%20ia%20freelance.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923827e5071e090e15fc8cf_utilisation%20ia%20freelance.webp" /> Quels exemples d&#x27;applications IA pour les freelances ?]]></content:encoded>
@@ -1579,7 +1597,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Glossaire Marketing Digital]]></title>
   <link>https://www.ecole.cube.fr/blog/glossaire-marketing-digital</link>
   <description><![CDATA[Comprenez les termes de marketing digital avec notre glossaire]]></description>
-  <pubDate>Sun, 05 Apr 2026 22:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 10:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237ec69bc25dc35bf3a1fe_e%CC%81cole%20cube%20glossaire%20marketing.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237ec69bc25dc35bf3a1fe_e%CC%81cole%20cube%20glossaire%20marketing.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237ec69bc25dc35bf3a1fe_e%CC%81cole%20cube%20glossaire%20marketing.webp" /> Comprenez les termes de marketing digital avec notre glossaire]]></content:encoded>
@@ -1588,7 +1606,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[AAARR : le modèle de croissance pour faire décoller votre business]]></title>
   <link>https://www.ecole.cube.fr/blog/aaarr-framework</link>
   <description><![CDATA[AAARR, le framework pour la croissance de votre business]]></description>
-  <pubDate>Wed, 01 Apr 2026 12:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 11:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d651fa37a36a03ddf2cd1_ecole-cube-arrr.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d651fa37a36a03ddf2cd1_ecole-cube-arrr.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d651fa37a36a03ddf2cd1_ecole-cube-arrr.avif" /> AAARR, le framework pour la croissance de votre business]]></content:encoded>
@@ -1597,7 +1615,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[OpenAI AgentKit - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/openai-agentkit-guide-avis</link>
   <description><![CDATA[Et si vos outils pouvaient travailler à votre place ?]]></description>
-  <pubDate>Fri, 27 Mar 2026 18:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 23:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923819191f8af50a9c2c0d0_agent%20kit%20open%20ai.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923819191f8af50a9c2c0d0_agent%20kit%20open%20ai.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6923819191f8af50a9c2c0d0_agent%20kit%20open%20ai.webp" /> Et si vos outils pouvaient travailler à votre place ?]]></content:encoded>
@@ -1606,7 +1624,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[ChatGPT Atlas  - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/chatgpt-atlas-guide-avis</link>
   <description><![CDATA[Et si votre navigateur web devenait votre assistant personnel ?]]></description>
-  <pubDate>Mon, 30 Mar 2026 14:13:42 GMT</pubDate>
+  <pubDate>Tue, 31 Mar 2026 19:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692380ca7315f7d2155e9a9b_chatgpt%20atlas%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692380ca7315f7d2155e9a9b_chatgpt%20atlas%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692380ca7315f7d2155e9a9b_chatgpt%20atlas%20cube.webp" /> Et si votre navigateur web devenait votre assistant personnel ?]]></content:encoded>
@@ -1615,7 +1633,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[11 exemples d’applications concrètes de l’IA pour les PME]]></title>
   <link>https://www.ecole.cube.fr/blog/exemples-applications-ia-pme</link>
   <description><![CDATA[Découvrez comment les PME utilisent l’IA pour gagner temps et ROI]]></description>
-  <pubDate>Sat, 04 Apr 2026 22:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 23:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237f55ef3188ca4d0a360a_IA%20PME%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237f55ef3188ca4d0a360a_IA%20PME%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/69237f55ef3188ca4d0a360a_IA%20PME%20cube.webp" /> Découvrez comment les PME utilisent l’IA pour gagner temps et ROI]]></content:encoded>
@@ -1624,7 +1642,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Guide SEO - Les meilleures ressources pour débuter]]></title>
   <link>https://www.ecole.cube.fr/blog/guide-seo-meilleures-ressources</link>
   <description><![CDATA[Les meilleures ressources pour apprendre le SEO, version débutant]]></description>
-  <pubDate>Mon, 30 Mar 2026 07:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 21:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a77a295131300795e3c7_guide%20seo%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a77a295131300795e3c7_guide%20seo%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a77a295131300795e3c7_guide%20seo%20cube.webp" /> Les meilleures ressources pour apprendre le SEO, version débutant]]></content:encoded>
@@ -1633,7 +1651,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Outils de scraping : Notre classement des meilleurs outils en 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-scraping</link>
   <description><![CDATA[Découvrez les top outils pour collecter des données sur le web]]></description>
-  <pubDate>Fri, 27 Mar 2026 23:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 14:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a7a7d4c78c57f34220e2_meilleur%20scraper%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a7a7d4c78c57f34220e2_meilleur%20scraper%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a7a7d4c78c57f34220e2_meilleur%20scraper%20cube.webp" /> Découvrez les top outils pour collecter des données sur le web]]></content:encoded>
@@ -1642,7 +1660,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Lovable vs Cursor - Quel outil choisir pour coder ?]]></title>
   <link>https://www.ecole.cube.fr/blog/lovable-vs-cursor</link>
   <description><![CDATA[Lovable ou Cursor, que choisir pour dev avec l&#x27;IA ?]]></description>
-  <pubDate>Sun, 29 Mar 2026 18:13:42 GMT</pubDate>
+  <pubDate>Fri, 27 Mar 2026 14:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a803266d2dc482f4f798_cursor%20cube%20(1).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a803266d2dc482f4f798_cursor%20cube%20(1).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a803266d2dc482f4f798_cursor%20cube%20(1).webp" /> Lovable ou Cursor, que choisir pour dev avec l&#x27;IA ?]]></content:encoded>
@@ -1651,7 +1669,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Outils d’inbound marketing : Notre classement 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-inbound-marketing</link>
   <description><![CDATA[Et si vos prospects venaient à vous sans démarchage ni publicité?]]></description>
-  <pubDate>Fri, 27 Mar 2026 20:13:42 GMT</pubDate>
+  <pubDate>Sat, 28 Mar 2026 14:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a82141d25af05a49b3f8_outils%20inbound%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a82141d25af05a49b3f8_outils%20inbound%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a82141d25af05a49b3f8_outils%20inbound%20cube.webp" /> Et si vos prospects venaient à vous sans démarchage ni publicité?]]></content:encoded>
@@ -1660,7 +1678,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Automatisation de la prospection sur LinkedIn - Guide complet]]></title>
   <link>https://www.ecole.cube.fr/blog/automatisation-prospection-linkedin</link>
   <description><![CDATA[Personnalisez vos messages linkedin et trouvez vos futurs clients]]></description>
-  <pubDate>Mon, 30 Mar 2026 10:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 17:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a85de0c61d62e4bc1cc4_prospection%20linkedin%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a85de0c61d62e4bc1cc4_prospection%20linkedin%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a85de0c61d62e4bc1cc4_prospection%20linkedin%20cube.webp" /> Personnalisez vos messages linkedin et trouvez vos futurs clients]]></content:encoded>
@@ -1669,7 +1687,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Interview Alumni - Pierre-Jean Abasq]]></title>
   <link>https://www.ecole.cube.fr/blog/experience-alumni-pierre-jean-abasqr</link>
   <description><![CDATA[Apprendre à créer sans coder peut redonner du sens à sa carrière]]></description>
-  <pubDate>Sun, 05 Apr 2026 01:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 05:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d863dbc5ca848efe47fe6_bannie%CC%80re%20alumni%20cube%20Pierre%20Jean%202.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d863dbc5ca848efe47fe6_bannie%CC%80re%20alumni%20cube%20Pierre%20Jean%202.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/692d863dbc5ca848efe47fe6_bannie%CC%80re%20alumni%20cube%20Pierre%20Jean%202.png" /> Apprendre à créer sans coder peut redonner du sens à sa carrière]]></content:encoded>
@@ -1678,7 +1696,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[SEO Shopify : comment bien référencer sa boutique en ligne ?]]></title>
   <link>https://www.ecole.cube.fr/blog/seo-sur-shopify</link>
   <description><![CDATA[Boostez votre visibilité et vos conversions sur Shopify]]></description>
-  <pubDate>Fri, 03 Apr 2026 09:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 09:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5d8d60b2b46674a32f5d_shopify%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5d8d60b2b46674a32f5d_shopify%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5d8d60b2b46674a32f5d_shopify%20cube.webp" /> Boostez votre visibilité et vos conversions sur Shopify]]></content:encoded>
@@ -1687,7 +1705,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[SEO IA : guide complet 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/guide-du-seo-ia</link>
   <description><![CDATA[Comment l’IA redéfinit les stratégies de référencement ?]]></description>
-  <pubDate>Fri, 27 Mar 2026 22:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 17:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a8f837a81e77bd179483_seo%20IA%20cube%20(1).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a8f837a81e77bd179483_seo%20IA%20cube%20(1).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6908a8f837a81e77bd179483_seo%20IA%20cube%20(1).webp" /> Comment l’IA redéfinit les stratégies de référencement ?]]></content:encoded>
@@ -1696,7 +1714,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Clay IA - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/clay-ia-guide-avis</link>
   <description><![CDATA[Vos campagnes commerciales peuvent se construire avec l&#x27;IA !]]></description>
-  <pubDate>Fri, 03 Apr 2026 09:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 05:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5882493bcd68659fcf5f_clay%20ai%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5882493bcd68659fcf5f_clay%20ai%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5882493bcd68659fcf5f_clay%20ai%20cube.webp" /> Vos campagnes commerciales peuvent se construire avec l&#x27;IA !]]></content:encoded>
@@ -1705,7 +1723,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[SEO LLM - Comment se référencer sur les LLM ?]]></title>
   <link>https://www.ecole.cube.fr/blog/seo-llm-referencement</link>
   <description><![CDATA[Développez votre visibilité sur les intelligences artificielles]]></description>
-  <pubDate>Wed, 01 Apr 2026 18:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 11:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5b659963d44806cc16f6_LLM%20seo%20cube.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5b659963d44806cc16f6_LLM%20seo%20cube.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5b659963d44806cc16f6_LLM%20seo%20cube.png" /> Développez votre visibilité sur les intelligences artificielles]]></content:encoded>
@@ -1714,7 +1732,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Formation Canva]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-canva</link>
   <description><![CDATA[Vous pouvez créer des visuels professionnels sans graphiste !]]></description>
-  <pubDate>Sun, 29 Mar 2026 01:13:42 GMT</pubDate>
+  <pubDate>Sat, 28 Mar 2026 11:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5a34abc5faa6f3735166_formation%20canva%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5a34abc5faa6f3735166_formation%20canva%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68fa5a34abc5faa6f3735166_formation%20canva%20cube.webp" /> Vous pouvez créer des visuels professionnels sans graphiste !]]></content:encoded>
@@ -1723,7 +1741,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Formation Agent IA]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-se-former</link>
   <description><![CDATA[Déléguer vos tâches répétitives à un collègue numérique IA]]></description>
-  <pubDate>Mon, 30 Mar 2026 13:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 07:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0b547b6ef3f24428205c_formation%20agent%20IA%20cube%20(1).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0b547b6ef3f24428205c_formation%20agent%20IA%20cube%20(1).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0b547b6ef3f24428205c_formation%20agent%20IA%20cube%20(1).webp" /> Déléguer vos tâches répétitives à un collègue numérique IA]]></content:encoded>
@@ -1732,7 +1750,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Quelles sont les meilleures formations IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-ia</link>
   <description><![CDATA[Formez-vous à l’IA et maîtrisez la technologie du futur]]></description>
-  <pubDate>Tue, 31 Mar 2026 13:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 01:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36b8e2795000a45283468_68e36b2d0fa91a57975e7e04_Formation%20gratuite%20(1).avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36b8e2795000a45283468_68e36b2d0fa91a57975e7e04_Formation%20gratuite%20(1).avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36b8e2795000a45283468_68e36b2d0fa91a57975e7e04_Formation%20gratuite%20(1).avif" /> Formez-vous à l’IA et maîtrisez la technologie du futur]]></content:encoded>
@@ -1741,7 +1759,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Adobe Firefly - Guide, Présentation, Avis]]></title>
   <link>https://www.ecole.cube.fr/blog/adobe-firefly-avis</link>
   <description><![CDATA[Et si vos idées prenaient forme en quelques secondes grâce à l’IA]]></description>
-  <pubDate>Sat, 04 Apr 2026 11:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 03:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0a3d4a33a9ba7630b3bd_adobe%20firefly%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0a3d4a33a9ba7630b3bd_adobe%20firefly%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc0a3d4a33a9ba7630b3bd_adobe%20firefly%20cube%201.webp" /> Et si vos idées prenaient forme en quelques secondes grâce à l’IA]]></content:encoded>
@@ -1750,7 +1768,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Les 7 meilleurs Notion Widget]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-notion-widget</link>
   <description><![CDATA[Votre espace Notion peut devenir un tableau de bord vivant!]]></description>
-  <pubDate>Fri, 03 Apr 2026 23:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 16:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09f3d75c3789ee064e65_notion%20widget%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09f3d75c3789ee064e65_notion%20widget%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09f3d75c3789ee064e65_notion%20widget%20cube%201.webp" /> Votre espace Notion peut devenir un tableau de bord vivant!]]></content:encoded>
@@ -1759,7 +1777,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Quelles sont les meilleures formations No Code ?]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-formations-no-code</link>
   <description><![CDATA[Créez sans coder, formez-vous dès aujourd’hui au No-Code]]></description>
-  <pubDate>Sat, 28 Mar 2026 18:13:42 GMT</pubDate>
+  <pubDate>Fri, 27 Mar 2026 20:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c23489d43d06d9de7f6_68e36b6c06d641fb7c0ef813_Formation%20gratuite%20(2).avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c23489d43d06d9de7f6_68e36b6c06d641fb7c0ef813_Formation%20gratuite%20(2).avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c23489d43d06d9de7f6_68e36b6c06d641fb7c0ef813_Formation%20gratuite%20(2).avif" /> Créez sans coder, formez-vous dès aujourd’hui au No-Code]]></content:encoded>
@@ -1768,7 +1786,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Quelles sont les meilleures écoles IA en 2025 ?]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleures-ecoles-ia</link>
   <description><![CDATA[La meilleure façon de comprendre l’IA avec la meilleure école]]></description>
-  <pubDate>Sun, 05 Apr 2026 07:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 08:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c4b4cf66c2ee80eea98_68e36c0b4052126003787b4a_Formation%20gratuite%20(3).avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c4b4cf66c2ee80eea98_68e36c0b4052126003787b4a_Formation%20gratuite%20(3).avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68e36c4b4cf66c2ee80eea98_68e36c0b4052126003787b4a_Formation%20gratuite%20(3).avif" /> La meilleure façon de comprendre l’IA avec la meilleure école]]></content:encoded>
@@ -1777,7 +1795,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Trello vs Notion - Quel outil choisir pour gérer vos projets ?]]></title>
   <link>https://www.ecole.cube.fr/blog/trello-vs-notion</link>
   <description><![CDATA[Gérez vos projets avec un outil adapté à vos besoins]]></description>
-  <pubDate>Fri, 27 Mar 2026 11:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 03:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09c5d17b639f282a9eab_trello%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09c5d17b639f282a9eab_trello%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc09c5d17b639f282a9eab_trello%20cube%201.webp" /> Gérez vos projets avec un outil adapté à vos besoins]]></content:encoded>
@@ -1786,7 +1804,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Framer VS Webflow - Quel outil choisir pour créer son site ?]]></title>
   <link>https://www.ecole.cube.fr/blog/framer-vs-webflow</link>
   <description><![CDATA[Créez votre site web sans prise de tête]]></description>
-  <pubDate>Tue, 31 Mar 2026 02:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 14:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc088ecf3f07ac2ec52e1a_framer%20cube%201.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc088ecf3f07ac2ec52e1a_framer%20cube%201.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68dc088ecf3f07ac2ec52e1a_framer%20cube%201.webp" /> Créez votre site web sans prise de tête]]></content:encoded>
@@ -1795,7 +1813,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Formation Meta Ads - Mettez en place des campagnes Meta Ads performantes]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-meta-ads</link>
   <description><![CDATA[Gagnez en visibilité grâce à la publicité sur les réseaux sociaux]]></description>
-  <pubDate>Fri, 03 Apr 2026 01:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 19:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" /> Gagnez en visibilité grâce à la publicité sur les réseaux sociaux]]></content:encoded>
@@ -1804,7 +1822,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Formation Google Ads - Transformez les clics en vente]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-google-ads</link>
   <description><![CDATA[Formez-vous au SEA pour faire décoller votre visibilité en ligne]]></description>
-  <pubDate>Sat, 28 Mar 2026 12:13:42 GMT</pubDate>
+  <pubDate>Mon, 06 Apr 2026 07:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9674fdf0dfd5b7cbf6b1e_formation-google-ads-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9674fdf0dfd5b7cbf6b1e_formation-google-ads-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9674fdf0dfd5b7cbf6b1e_formation-google-ads-cube.webp" /> Formez-vous au SEA pour faire décoller votre visibilité en ligne]]></content:encoded>
@@ -1813,7 +1831,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Fiche métier Média buyer : missions, salaire, formation]]></title>
   <link>https://www.ecole.cube.fr/blog/media-buyer-fiche-metier</link>
   <description><![CDATA[Découvrez le métier de média buyer augmenté avec l&#x27;IA en 2025]]></description>
-  <pubDate>Sun, 29 Mar 2026 01:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 13:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c9652adf0dfd5b7cbd91b2_media-buyer-cube.webp" /> Découvrez le métier de média buyer augmenté avec l&#x27;IA en 2025]]></content:encoded>
@@ -1822,7 +1840,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Votre glossaire IA]]></title>
   <link>https://www.ecole.cube.fr/blog/glossaire-ia</link>
   <description><![CDATA[Découvrez notre glossaire complet sur l&#x27;IA]]></description>
-  <pubDate>Tue, 31 Mar 2026 04:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 20:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c959d531b112b202e97793_glossaire-IA-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c959d531b112b202e97793_glossaire-IA-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c959d531b112b202e97793_glossaire-IA-cube.webp" /> Découvrez notre glossaire complet sur l&#x27;IA]]></content:encoded>
@@ -1831,7 +1849,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour la productivité]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-productivite</link>
   <description><![CDATA[Boostez votre productivité avec l’IA]]></description>
-  <pubDate>Sat, 28 Mar 2026 01:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 19:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95fc86c015320f5c11ae4_outil-ia-productivite%CC%81-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95fc86c015320f5c11ae4_outil-ia-productivite%CC%81-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95fc86c015320f5c11ae4_outil-ia-productivite%CC%81-cube.webp" /> Boostez votre productivité avec l’IA]]></content:encoded>
@@ -1840,7 +1858,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Google Nano Banana - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/google-nano-banana-avis</link>
   <description><![CDATA[Et si vous pouviez transformer une simple idée en image réaliste?]]></description>
-  <pubDate>Mon, 30 Mar 2026 00:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 23:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c962877ec10db4a6616be5_google-nano-banana-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c962877ec10db4a6616be5_google-nano-banana-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c962877ec10db4a6616be5_google-nano-banana-cube.webp" /> Et si vous pouviez transformer une simple idée en image réaliste?]]></content:encoded>
@@ -1849,7 +1867,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Votre glossaire NoCode]]></title>
   <link>https://www.ecole.cube.fr/blog/glossaire-no-code</link>
   <description><![CDATA[Découvrez notre glossaire complet sur le No-Code]]></description>
-  <pubDate>Wed, 01 Apr 2026 22:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 10:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c96117e48e83f3634727a6_glossaire-no-code-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c96117e48e83f3634727a6_glossaire-no-code-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c96117e48e83f3634727a6_glossaire-no-code-cube.webp" /> Découvrez notre glossaire complet sur le No-Code]]></content:encoded>
@@ -1858,7 +1876,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Que vaut ChatGPT gratuit ?]]></title>
   <link>https://www.ecole.cube.fr/blog/chatgpt-gratuit</link>
   <description><![CDATA[La version gratuite de ChatGPT est-elle performante ?]]></description>
-  <pubDate>Mon, 06 Apr 2026 03:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 14:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95e3f599e9d703ad7aa02_chatgpt-gratuit-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95e3f599e9d703ad7aa02_chatgpt-gratuit-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95e3f599e9d703ad7aa02_chatgpt-gratuit-cube.webp" /> La version gratuite de ChatGPT est-elle performante ?]]></content:encoded>
@@ -1867,7 +1885,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Quelles sont les limites de l’IA ?]]></title>
   <link>https://www.ecole.cube.fr/blog/limites-ia</link>
   <description><![CDATA[Dépassez les limites de l’intelligence artificielle]]></description>
-  <pubDate>Mon, 06 Apr 2026 04:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 05:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95d4831b112b202ecc3ce_limites-IA-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95d4831b112b202ecc3ce_limites-IA-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68c95d4831b112b202ecc3ce_limites-IA-cube.webp" /> Dépassez les limites de l’intelligence artificielle]]></content:encoded>
@@ -1876,7 +1894,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour le marketing]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-marketing</link>
   <description><![CDATA[Redéfinissez et décuplez votre marketing avec l’IA]]></description>
-  <pubDate>Sat, 28 Mar 2026 18:13:42 GMT</pubDate>
+  <pubDate>Sat, 28 Mar 2026 02:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cb39b2d44c392740b2d_AI%20marketing%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cb39b2d44c392740b2d_AI%20marketing%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cb39b2d44c392740b2d_AI%20marketing%20cube.webp" /> Redéfinissez et décuplez votre marketing avec l’IA]]></content:encoded>
@@ -1885,7 +1903,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour les designers]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[Concevez plus vite et repoussez les limites de la créativité]]></description>
-  <pubDate>Thu, 02 Apr 2026 05:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 23:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a2fc602f221df20ff19_outils-IA-pour-designers.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a2fc602f221df20ff19_outils-IA-pour-designers.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a2fc602f221df20ff19_outils-IA-pour-designers.webp" /> Concevez plus vite et repoussez les limites de la créativité]]></content:encoded>
@@ -1894,7 +1912,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour les développeurs]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[Codez plus vite, réduisez les erreurs et améliorez l’UX]]></description>
-  <pubDate>Thu, 02 Apr 2026 04:13:42 GMT</pubDate>
+  <pubDate>Fri, 27 Mar 2026 21:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cdb4178f952ca60aa48_AI%20dev%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cdb4178f952ca60aa48_AI%20dev%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72cdb4178f952ca60aa48_AI%20dev%20cube.webp" /> Codez plus vite, réduisez les erreurs et améliorez l’UX]]></content:encoded>
@@ -1903,7 +1921,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour les entrepreneurs]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-entrepreneurs</link>
   <description><![CDATA[Créez, gérez et développez votre activité simplement avec l’IA]]></description>
-  <pubDate>Tue, 31 Mar 2026 17:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 19:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d06c602f221df22516d_ai%20entrepreneur%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d06c602f221df22516d_ai%20entrepreneur%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d06c602f221df22516d_ai%20entrepreneur%20cube.webp" /> Créez, gérez et développez votre activité simplement avec l’IA]]></content:encoded>
@@ -1912,7 +1930,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Stack AI - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/stack-ai-guide-avis</link>
   <description><![CDATA[Créez, déployez et pilotez vos agents IA… sans écrire du code]]></description>
-  <pubDate>Sun, 29 Mar 2026 02:13:42 GMT</pubDate>
+  <pubDate>Sun, 29 Mar 2026 07:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ac08c85247517383dc6_stack-ia-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ac08c85247517383dc6_stack-ia-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ac08c85247517383dc6_stack-ia-cube.webp" /> Créez, déployez et pilotez vos agents IA… sans écrire du code]]></content:encoded>
@@ -1921,7 +1939,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour les freelances]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-freelances</link>
   <description><![CDATA[Pilotez votre activité de freelance de A à Z avec l&#x27;IA]]></description>
-  <pubDate>Tue, 31 Mar 2026 04:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 21:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d247d6cac48184698eb_AI%20freelance%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d247d6cac48184698eb_AI%20freelance%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d247d6cac48184698eb_AI%20freelance%20cube.webp" /> Pilotez votre activité de freelance de A à Z avec l&#x27;IA]]></content:encoded>
@@ -1930,7 +1948,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour les product managers]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-product-managers</link>
   <description><![CDATA[Créez des produits alignés sur les besoins réels avec l&#x27;IA]]></description>
-  <pubDate>Sat, 04 Apr 2026 16:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 12:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72bcbaa11058752bf07c9_IA-product-manager-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72bcbaa11058752bf07c9_IA-product-manager-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72bcbaa11058752bf07c9_IA-product-manager-cube.webp" /> Créez des produits alignés sur les besoins réels avec l&#x27;IA]]></content:encoded>
@@ -1939,7 +1957,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour les RH]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-rh</link>
   <description><![CDATA[Boostez la gestion des ressources humaines avec l’IA]]></description>
-  <pubDate>Fri, 27 Mar 2026 11:13:42 GMT</pubDate>
+  <pubDate>Thu, 02 Apr 2026 04:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d43bce3b5d212985610_AI%20rh%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d43bce3b5d212985610_AI%20rh%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d43bce3b5d212985610_AI%20rh%20cube.webp" /> Boostez la gestion des ressources humaines avec l’IA]]></content:encoded>
@@ -1948,7 +1966,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour les Sales]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-sales</link>
   <description><![CDATA[Prospectez plus vite et signez plus de deals grâce à l’IA]]></description>
-  <pubDate>Tue, 31 Mar 2026 17:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 10:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a74289d426d269a0545_IA-sales-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a74289d426d269a0545_IA-sales-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72a74289d426d269a0545_IA-sales-cube.webp" /> Prospectez plus vite et signez plus de deals grâce à l’IA]]></content:encoded>
@@ -1957,7 +1975,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Notre classement des meilleurs outils IA pour les formateurs]]></title>
   <link>https://www.ecole.cube.fr/blog/notre-classement-des-meilleurs-outils-ia-pour-les-formateurs</link>
   <description><![CDATA[Libérez du temps pour enseigner, confiez le reste à l’IA]]></description>
-  <pubDate>Sat, 04 Apr 2026 02:13:42 GMT</pubDate>
+  <pubDate>Sun, 05 Apr 2026 12:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b799b2d44c392730d76_IA-formateur-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b799b2d44c392730d76_IA-formateur-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b799b2d44c392730d76_IA-formateur-cube.webp" /> Libérez du temps pour enseigner, confiez le reste à l’IA]]></content:encoded>
@@ -1966,7 +1984,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Base 44 - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/base-44-guide</link>
   <description><![CDATA[Créez une application complète sans coder avec Base 44]]></description>
-  <pubDate>Mon, 06 Apr 2026 03:13:42 GMT</pubDate>
+  <pubDate>Sat, 04 Apr 2026 19:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d7142b8451aff16f25f_base%2044%20cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d7142b8451aff16f25f_base%2044%20cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d7142b8451aff16f25f_base%2044%20cube.webp" /> Créez une application complète sans coder avec Base 44]]></content:encoded>
@@ -1975,7 +1993,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Google AI Overview - Fonctionnement, impact et bonnes pratiques]]></title>
   <link>https://www.ecole.cube.fr/blog/google-ai-overview</link>
   <description><![CDATA[Ne perdez plus de temps à cliquer sur des liens]]></description>
-  <pubDate>Sat, 28 Mar 2026 14:13:42 GMT</pubDate>
+  <pubDate>Mon, 30 Mar 2026 12:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ed0a61325e9a326d946_Google-AI-Overviews%20cube%20(1).webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ed0a61325e9a326d946_Google-AI-Overviews%20cube%20(1).webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72ed0a61325e9a326d946_Google-AI-Overviews%20cube%20(1).webp" /> Ne perdez plus de temps à cliquer sur des liens]]></content:encoded>
@@ -1984,7 +2002,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Chat GPT 5 - Qu’est-ce qui change ?]]></title>
   <link>https://www.ecole.cube.fr/blog/chat-gpt-5-avis</link>
   <description><![CDATA[Et si la nouvelle génération d’IA comprenait vraiment vos besoins]]></description>
-  <pubDate>Fri, 27 Mar 2026 13:13:42 GMT</pubDate>
+  <pubDate>Fri, 03 Apr 2026 08:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d9ed03e3eec71d4a0f0_chatgpt%205.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d9ed03e3eec71d4a0f0_chatgpt%205.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72d9ed03e3eec71d4a0f0_chatgpt%205.webp" /> Et si la nouvelle génération d’IA comprenait vraiment vos besoins]]></content:encoded>
@@ -1993,7 +2011,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Replit - Guide, présentation, avis]]></title>
   <link>https://www.ecole.cube.fr/blog/replit-guide-presentation-avis</link>
   <description><![CDATA[Et si coder devenait aussi simple qu’ouvrir un onglet ?]]></description>
-  <pubDate>Sat, 28 Mar 2026 15:13:42 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 18:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b08c6a5ee0a2aac535f_replit-cube.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b08c6a5ee0a2aac535f_replit-cube.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/68b72b08c6a5ee0a2aac535f_replit-cube.webp" /> Et si coder devenait aussi simple qu’ouvrir un onglet ?]]></content:encoded>
@@ -2002,7 +2020,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Agence IA : les meilleures agences IA en 2025]]></title>
   <link>https://www.ecole.cube.fr/blog/agence-ia-les-meilleures-en-2025</link>
   <description><![CDATA[Intégrez intelligemment l’IA avec un accompagnement sur-mesure]]></description>
-  <pubDate>Fri, 27 Mar 2026 23:13:42 GMT</pubDate>
+  <pubDate>Tue, 31 Mar 2026 05:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6880a630d095cbfec53c4080_business_meeting.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6880a630d095cbfec53c4080_business_meeting.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/6880a630d095cbfec53c4080_business_meeting.webp" /> Intégrez intelligemment l’IA avec un accompagnement sur-mesure]]></content:encoded>
@@ -2011,7 +2029,7 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <title><![CDATA[Bubble Mobile : Créez des applications mobile natives dans Bubble]]></title>
   <link>https://www.ecole.cube.fr/blog/bubble-mobile-creer-des-apps-natives</link>
   <description><![CDATA[Bubble permet enfin de créer des applications mobile natives !]]></description>
-  <pubDate>Tue, 31 Mar 2026 14:13:42 GMT</pubDate>
+  <pubDate>Sat, 28 Mar 2026 23:39:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687771fd4010326ed8aef7ee_capture-ecran-bubble-app.webp" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687771fd4010326ed8aef7ee_capture-ecran-bubble-app.webp" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/638a13b5c8b193eec31833df/687771fd4010326ed8aef7ee_capture-ecran-bubble-app.webp" /> Bubble permet enfin de créer des applications mobile natives !]]></content:encoded>
@@ -2359,40 +2377,49 @@ normalized.isValid = !!(normalized.email &amp;&amp; normalized.email.includes(<s
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Quatre tendances impactant la maturité de l&rsquo;automatisation]]></title>
-  <link>https://www.ia-news.fr/quatre-tendances-impactant-la-maturite-de-lautomatisation/</link>
+  <title><![CDATA[Le Bachelor en Intelligence Artificielle (IA) de l&rsquo;UTT est accrédité par la CTI]]></title>
+  <link>https://www.ia-news.fr/le-bachelor-en-intelligence-artificielle-ia-de-lutt-est-accredite-par-la-cti/</link>
   <description><![CDATA[]]></description>
   <pubDate>Thu, 29 Jun 2023 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-0003.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-0003.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-0003.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Eureka CRM intègre l’IA pour simplifier la gestion des mails clients]]></title>
-  <link>https://www.ia-news.fr/eureka-crm-integre-lia-pour-simplifier-la-gestion-des-mails-clients/</link>
+  <title><![CDATA[Blitzzz Media crée DEMIUS, L’ESN de contenus IA]]></title>
+  <link>https://www.ia-news.fr/blitzzz-media-cree-demius-lesn-de-contenus-ia/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Thu, 29 Jun 2023 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[CTOUVERT, DE L’IA OPERATIONNEL]]></title>
+  <link>https://www.ia-news.fr/ctouvert-de-lia-operationnel/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Thu, 29 Jun 2023 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/partial-view-of-man-using-laptop-while-taking-part-2021-09-03-07-06-32-utc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/partial-view-of-man-using-laptop-while-taking-part-2021-09-03-07-06-32-utc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/partial-view-of-man-using-laptop-while-taking-part-2021-09-03-07-06-32-utc.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Quel est le bon moment pour adopter l&rsquo;Intelligence Artificielle ?]]></title>
+  <link>https://www.ia-news.fr/quel-est-le-bon-moment-pour-adopter-lintelligence-artificielle/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Thu, 29 Jun 2023 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Grant Thornton déploie une solution d’IA générative sécurisée]]></title>
+  <link>https://www.ia-news.fr/grant-thornton-deploie-une-solution-dia-generative-securisee/</link>
   <description><![CDATA[]]></description>
   <pubDate>Thu, 29 Jun 2023 12:00:00 GMT</pubDate>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Quand l’IA se positionne en alliée des équipes marketing]]></title>
-  <link>https://www.ia-news.fr/quand-lia-se-positionne-en-alliee-des-equipes-marketing/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Thu, 29 Jun 2023 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Quelle place pour l’Intelligence artificielle dans la Supply Chain ?]]></title>
-  <link>https://www.ia-news.fr/quelle-place-pour-lintelligence-artificielle-dans-la-supply-chain/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Thu, 29 Jun 2023 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/bitcoin-ia-man.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/bitcoin-ia-man.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/bitcoin-ia-man.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
