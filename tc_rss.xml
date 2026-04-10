@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 09 Apr 2026 18:37:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Apr 2026 22:32:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,23 +28,111 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ChatGPT finally offers $100/month Pro plan</title>
+		<link>https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 21:29:11 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3111133</guid>
+
+					<description><![CDATA[OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT</title>
+		<link>https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 20:11:55 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110924</guid>
+
+					<description><![CDATA[ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>After data breach, $10B-valued startup Mercor is having a month</title>
+		<link>https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 19:33:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Delve]]></category>
+		<category><![CDATA[LiteLLM]]></category>
+		<category><![CDATA[Mercor]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110877</guid>
+
+					<description><![CDATA[After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta AI app climbs to No. 5 on the App Store after Muse Spark launch</title>
+		<link>https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 19:10:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta ai]]></category>
+		<category><![CDATA[muse spark]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110997</guid>
+
+					<description><![CDATA[The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?</title>
+		<link>https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 18:50:05 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3110914</guid>
+
+					<description><![CDATA[Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google and Intel deepen AI infrastructure partnership</title>
 		<link>https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/</link>
 		
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
 		<pubDate>Thu, 09 Apr 2026 18:27:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
+				<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[ai infrastructure]]></category>
 		<category><![CDATA[cpus]]></category>
 		<category><![CDATA[google cloud]]></category>
 		<category><![CDATA[GPUS]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[Intel]]></category>
 		<category><![CDATA[IPUs]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3110988</guid>
 
-					<description><![CDATA[The two tech giants are looking to co-develop custom chips, at a time where demand for CPUs is high due to a growing global shortage. ]]></description>
+					<description><![CDATA[The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage. ]]></description>
 		
 		
 		
@@ -62,7 +150,7 @@
 		<category><![CDATA[Sierra Ai]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3110892</guid>
 
-					<description><![CDATA[Co-founder of Sierra predicts that AI agents will make software interfaces obsolete. ]]></description>
+					<description><![CDATA[Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.]]></description>
 		
 		
 		
@@ -141,9 +229,9 @@
 		
 		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
 		<pubDate>Wed, 08 Apr 2026 20:09:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
+				<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[AWS]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[Anthropic]]></category>
@@ -161,8 +249,8 @@
 		
 		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
 		<pubDate>Wed, 08 Apr 2026 18:23:06 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[ChatGPT]]></category>
 		<category><![CDATA[streaming service]]></category>
 		<category><![CDATA[tubi]]></category>
@@ -287,100 +375,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3109710</guid>
 
 					<description><![CDATA[Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>I can&#8217;t help rooting for tiny open source AI model maker Arcee</title>
-		<link>https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 21:35:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Arcee AI]]></category>
-		<category><![CDATA[chinese ai]]></category>
-		<category><![CDATA[open source ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3110230</guid>
-
-					<description><![CDATA[Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Firmus, the &#8216;Southgate&#8217; AI data center builder backed by Nvidia, hits $5.5B valuation</title>
-		<link>https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 18:46:55 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3110209</guid>
-
-					<description><![CDATA[Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Intel signs on to Elon Musk&#8217;s Terafab chips project</title>
-		<link>https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 18:10:01 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[semiconductors]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3110172</guid>
-
-					<description><![CDATA[Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative</title>
-		<link>https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 18:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3109830</guid>
-
-					<description><![CDATA[The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber is the latest to be won over by Amazon&#8217;s AI chips</title>
-		<link>https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 16:46:59 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[Uber]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3110079</guid>
-
-					<description><![CDATA[Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.]]></description>
 		
 		
 		
