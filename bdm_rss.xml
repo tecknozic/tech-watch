@@ -242,14 +242,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/sbezngvba/" class="e-link badge badge-grey">Formation</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrfvta/" class="e-link badge badge-grey">Design</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/rghqr/" class="e-link badge badge-grey">Étude</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/phygher-jro/" class="e-link badge badge-grey">Culture web</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/rghqr/" class="e-link badge badge-grey">Étude</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/geninvyyre-qvtvgny/" class="e-link badge badge-grey">Travailler dans le digital</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 			
 		</div>
 
@@ -1100,7 +1100,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 									<a href="https://www.blogdumoderateur.com/dossier/culture-web/" class="badge">Culture web</a>
 									<a href="https://www.blogdumoderateur.com/dossier/strategie-digitale/" class="badge">Stratégie digitale</a>
 									<a href="https://www.blogdumoderateur.com/dossier/meta/" class="badge">Meta</a>
-									<a href="https://www.blogdumoderateur.com/dossier/instagram/" class="badge">Instagram</a>
+									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 				
 			</div>
 
@@ -1148,7 +1148,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-green ">
+<section class="newsletter-container bg-blue100 ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1166,7 +1166,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 						<input type="hidden" name="action" value="subscribe_optin">
 						<input type="hidden" name="cord_theme" value="Authenticité">
 						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
-						<input type="hidden" name="cord_bg_color" value="bg-green">
+						<input type="hidden" name="cord_bg_color" value="bg-blue100">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
