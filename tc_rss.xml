@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 21 Apr 2026 23:48:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Apr 2026 05:51:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,8 +34,9 @@
 		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
 		<pubDate>Tue, 21 Apr 2026 23:45:21 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI training]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Slack]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3114951</guid>
 
 					<description><![CDATA[Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models. ]]></description>
@@ -50,8 +51,8 @@
 		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
 		<pubDate>Tue, 21 Apr 2026 23:26:45 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[cybersecurity]]></category>
 		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[cybersecurity]]></category>
 		<category><![CDATA[Mythos]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3114961</guid>
 
@@ -61,15 +62,18 @@
 		
 			</item>
 		<item>
-		<title>SpaceX is working with Cursor and has an option to buy the startup for $60 billion</title>
+		<title>SpaceX is working with Cursor and has an option to buy the startup for $60B</title>
 		<link>https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/</link>
 		
 		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
 		<pubDate>Tue, 21 Apr 2026 22:58:22 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[cursor]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[SpaceX]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3114958</guid>
 
-					<description><![CDATA[Only Elon would do this before an IPO.]]></description>
+					<description><![CDATA[The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.]]></description>
 		
 		
 		
