@@ -9,11 +9,20 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 18:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 01:08:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account]]></title>
+            <description><![CDATA[Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6je7e80r7o#0</guid>
+            <pubDate>Fri, 24 Apr 2026 22:45:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec15/live/307f0f70-402f-11f1-8291-7d925c845158.jpg"/>
+        </item>
         <item>
             <title><![CDATA[UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?]]></title>
             <description><![CDATA[Passwords have long been the default way we secure accounts online but the NCSC has said passkeys are a better option.]]></description>
@@ -111,14 +120,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66d/live/ee642bd0-3d7b-11f1-bd52-e755d604ece4.png"/>
         </item>
         <item>
-            <title><![CDATA[New era as Apple names new boss to replace Tim Cook after 15 years]]></title>
-            <description><![CDATA[Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.]]></description>
-            <link>https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kr19lry18o#0</guid>
-            <pubDate>Tue, 21 Apr 2026 05:57:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9011/live/3c8640c0-3d52-11f1-8606-05fe34b06e1b.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[How to say goodbye and pay tribute to a loved one - with a hologram.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jxr?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +153,14 @@
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Alasdair Keane visits the underground insect farm turning food waste into animal feed.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002vtqb?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002vtqb#3</guid>
+            <pubDate>Sat, 25 Apr 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0kxxp17.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
             <description><![CDATA[Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m002tvm7?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002tvm7#3</guid>
@@ -173,14 +182,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002t71c#3</guid>
             <pubDate>Sat, 21 Mar 2026 01:00:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0n7t7h2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Now]]></title>
-            <description><![CDATA[Paul Carter checks out the newest phones, gadgets and trends from MWC Barcelona.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/m002sx4k?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002sx4k#3</guid>
-            <pubDate>Sat, 14 Mar 2026 01:00:06 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0n6g3cb.jpg"/>
         </item>
     </channel>
 </rss>
