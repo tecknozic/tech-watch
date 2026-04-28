@@ -68,9 +68,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
 /*# sourceURL=/wp-includes/css/classic-themes.min.css */
 </style>
-<link data-minify="1" rel='preload'  href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1776691913' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"  media='all' />
+<link data-minify="1" rel='preload'  href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1777380638' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"  media='all' />
 <link rel='stylesheet' id='bootstrap-grid-css' href='https://www.blogdumoderateur.com/app/themes/blogdumoderateur/vendor/bootstrap-5.0.2/dist/css/bootstrap-grid.min.css' media='all' />
-<link data-minify="1" rel='preload'  href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1776691913' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"  media='all' />
+<link data-minify="1" rel='preload'  href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1777380638' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"  media='all' />
 <style id='rocket-lazyload-inline-css'>
 .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
 /*# sourceURL=rocket-lazyload-inline-css */
@@ -81,10 +81,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
 //# sourceURL=nl_sub-js-extra
 </script>
-<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-newsletter-subscribe/js/nl_sub.js?ver=1776691913" id="nl_sub-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=1776691913" id="pintraredirectjs-js" async></script>
-<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/gnikcart.js?ver=1776691913" id="bdm-gnikcart-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript">window.HelloworkCookieConsentCustomConfig = {privacyPolicyUrl: "\/politique-de-confidentialite\/",termsOfServiceUrl: "\/cgu\/",noticeIntroductionText: "BDM d\u00e9pose des cookies ou traceurs pour am\u00e9liorer la pertinence des articles con\u00e7us pour ses lecteurs.",noticeDescriptionText: "[p]En cons\u00e9quence, l'utilisation de notre site implique le d\u00e9p\u00f4t de cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture de nos services, pour faire fonctionner le site, piloter et suivre les sources d'acquisition d'audience et comprendre le comportement de nos audiences afin d'am\u00e9liorer nos produits. Nous utilisons \u00e9galement des cookies ou traceurs tiers non-essentiels, que vous pouvez accepter ou refuser. [btn=customize-cookies]Plus d'infos[\/btn].[\/p]",consentModalEndText: "En cliquant sur le bouton [ Accepter ] vous acceptez les CGU et la politique de confidentialit\u00e9 BDM.",consentModalCookieBaseTitle: "Cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture des services",consentModalCookieBaseText: "Ces cookies ou traceurs ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s dans la mesure o\u00f9 nous les utilisons pour faire fonctionner nos services.\r\nIl s\u2019agit notamment de l\u2019ensemble des cookies ou traceurs permettant de piloter et suivre les sources d\u2019acquisition d\u2019audience en utilisant un identifiant unique permettant de comprendre comment nos utilisateurs naviguent sur notre site en fonction des diff\u00e9rentes sources de trafic. Nous observons \u00e9galement le comportement de nos utilisateurs afin d\u2019am\u00e9liorer nos produits et rendre la navigation sur notre site beaucoup plus rapide et fluide. Ces cookies ou traceurs permettent aussi de garantir la s\u00e9curit\u00e9 du site web en d\u00e9tectant les tentatives d'acc\u00e8s frauduleux ou les violations de s\u00e9curit\u00e9.",consentModalCookieMarketingTitle: "Cookies ou traceurs publicitaires",consentModalCookieMarketingText: "Ces cookies ou traceurs nous permettent ainsi qu\u2019\u00e0 nos partenaires de vous proposer des publicit\u00e9s et des contenus personnalis\u00e9s en fonction de votre navigation, de votre profil et de vos centres d'int\u00e9r\u00eat.\r\nCes dispositifs permettent aux utilisateurs d\u2019augmenter de mani\u00e8re importante la visibilit\u00e9 des contenus susceptibles de les int\u00e9resser.\r\nVous pouvez changer d\u2019avis \u00e0 tout moment en cliquant sur le bouton \"G\u00e9rer les traceurs\" situ\u00e9 en bas de page.",btnDenyCookiesType: "btn-deny-all",noticeModal: false,btnDenyCookies: true,btnCustomizeCookies: false,}</script>			<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/hw-cookie-consent/latest/embed.js?ver=1776691914" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-newsletter-subscribe/js/nl_sub.js?ver=1777380639" id="nl_sub-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=1777380639" id="pintraredirectjs-js" async></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/gnikcart.js?ver=1777380639" id="bdm-gnikcart-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript">window.HelloworkCookieConsentCustomConfig = {privacyPolicyUrl: "\/politique-de-confidentialite\/",termsOfServiceUrl: "\/cgu\/",noticeIntroductionText: "BDM d\u00e9pose des cookies ou traceurs pour am\u00e9liorer la pertinence des articles con\u00e7us pour ses lecteurs.",noticeDescriptionText: "[p]En cons\u00e9quence, l'utilisation de notre site implique le d\u00e9p\u00f4t de cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture de nos services, pour faire fonctionner le site, piloter et suivre les sources d'acquisition d'audience et comprendre le comportement de nos audiences afin d'am\u00e9liorer nos produits. Nous utilisons \u00e9galement des cookies ou traceurs tiers non-essentiels, que vous pouvez accepter ou refuser. [btn=customize-cookies]Plus d'infos[\/btn].[\/p]",consentModalEndText: "En cliquant sur le bouton [ Accepter ] vous acceptez les CGU et la politique de confidentialit\u00e9 BDM.",consentModalCookieBaseTitle: "Cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture des services",consentModalCookieBaseText: "Ces cookies ou traceurs ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s dans la mesure o\u00f9 nous les utilisons pour faire fonctionner nos services.\r\nIl s\u2019agit notamment de l\u2019ensemble des cookies ou traceurs permettant de piloter et suivre les sources d\u2019acquisition d\u2019audience en utilisant un identifiant unique permettant de comprendre comment nos utilisateurs naviguent sur notre site en fonction des diff\u00e9rentes sources de trafic. Nous observons \u00e9galement le comportement de nos utilisateurs afin d\u2019am\u00e9liorer nos produits et rendre la navigation sur notre site beaucoup plus rapide et fluide. Ces cookies ou traceurs permettent aussi de garantir la s\u00e9curit\u00e9 du site web en d\u00e9tectant les tentatives d'acc\u00e8s frauduleux ou les violations de s\u00e9curit\u00e9.",consentModalCookieMarketingTitle: "Cookies ou traceurs publicitaires",consentModalCookieMarketingText: "Ces cookies ou traceurs nous permettent ainsi qu\u2019\u00e0 nos partenaires de vous proposer des publicit\u00e9s et des contenus personnalis\u00e9s en fonction de votre navigation, de votre profil et de vos centres d'int\u00e9r\u00eat.\r\nCes dispositifs permettent aux utilisateurs d\u2019augmenter de mani\u00e8re importante la visibilit\u00e9 des contenus susceptibles de les int\u00e9resser.\r\nVous pouvez changer d\u2019avis \u00e0 tout moment en cliquant sur le bouton \"G\u00e9rer les traceurs\" situ\u00e9 en bas de page.",btnDenyCookiesType: "btn-deny-all",noticeModal: false,btnDenyCookies: true,btnCustomizeCookies: false,}</script>			<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/hw-cookie-consent/latest/embed.js?ver=1777380639" data-rocket-defer defer></script>
 		
 		<script type="rocketlazyloadscript">
 			document.addEventListener("DOMContentLoaded", function () {
@@ -116,7 +116,7 @@ var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
 			'theme' : 'ia',
 			'tag' : '',
 			'category_list' : '',
-			'search_result' : '1061',
+			'search_result' : '1064',
 			'article_publication_date' :  ''
 		}];
 	</script>
@@ -244,15 +244,15 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/nqbor/" class="e-link badge badge-grey">Adobe</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrfvta/" class="e-link badge badge-grey">Design</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/nqbor/" class="e-link badge badge-grey">Adobe</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/sbezngvba/" class="e-link badge badge-grey">Formation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/phygher-jro/" class="e-link badge badge-grey">Culture web</span>
 			
 		</div>
 
@@ -348,6 +348,111 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			</div>
 
 			<div class="archive-list row justify-content-center">
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Pourquoi l’IA gagne aux Olympiades de maths mais ne sait pas lire l’heure" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-204610" class="d-flex my-md-5 my-4 post-204610 post type-post status-publish format-standard has-post-thumbnail category-ia tag-etude">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Pourquoi l’IA gagne aux Olympiades de maths mais ne sait pas lire l’heure" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-370x194.jpg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Pourquoi l’IA gagne aux Olympiades de maths mais ne sait pas lire l’heure" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/Ai-Index-Report-Standford-horloges-370x194.jpg 370w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+							<span class="favtag color-b">Étude</span>
+			
+			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-28T10:29:36+02:00">28 avril 2026</time></span>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/pourquoi-ia-gagne-olympiades-maths-sait-pas-lire-heure/" >
+					<h3 class="entry-title">Pourquoi l’IA gagne aux Olympiades de maths mais ne sait pas lire l’heure</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Une IA peut gagner une médaille d'or aux Olympiades de mathématiques, puis se tromper de plusieurs heures en lisant une horloge. Le rapport AI Index [...]</div>
+			
+		</div>
+
+	</article><!-- #post-204610 -->
+
+</div>
+					</div><!-- .col -->
+
+				
+					<div class="col-xl-12">
+						<div aria-label="LLM en local&nbsp;: les bonnes pratiques pour une installation sécurisée" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-201801" class="d-flex my-md-5 my-4 post-201801 post type-post status-publish format-standard has-post-thumbnail category-ia tag-cybersecurite tag-productivite tag-reglementation">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="LLM en local&nbsp;: les bonnes pratiques pour une installation sécurisée" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-370x194.jpeg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-276x144.jpeg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-276x144.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="LLM en local&nbsp;: les bonnes pratiques pour une installation sécurisée" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/03/LLM-local-securise-370x194.jpeg 370w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+							<span class="favtag color-b">Cybersécurité</span>
+			
+			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-28T10:00:56+02:00">28 avril 2026</time></span>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/llm-local-bonnes-pratiques-installation-securisee/" >
+					<h3 class="entry-title">LLM en local&nbsp;: les bonnes pratiques pour une installation sécurisée</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Installer un LLM en local séduit de plus en plus de professionnels. Mais "local" ne signifie pas "sécurisé". Voici les réflexes à adopter et les [...]</div>
+			
+		</div>
+
+	</article><!-- #post-201801 -->
+
+</div>
+					</div><!-- .col -->
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Google&nbsp;: 8 outils IA à tester gratuitement" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-203313" class="d-flex my-md-5 my-4 post-203313 post type-post status-publish format-standard has-post-thumbnail category-ia tag-gemini tag-google">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Google&nbsp;: 8 outils IA à tester gratuitement" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/04/google-outils-ia-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/google-outils-ia-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/google-outils-ia-370x194.jpeg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/04/google-outils-ia-276x144.jpeg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/04/google-outils-ia-276x144.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Google&nbsp;: 8 outils IA à tester gratuitement" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/04/google-outils-ia-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/google-outils-ia-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/google-outils-ia-370x194.jpeg 370w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+							<span class="favtag color-b">Google</span>
+			
+			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-28T09:40:24+02:00">28 avril 2026</time></span>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/google-outils-ia-tester-gratuitement/" >
+					<h3 class="entry-title">Google&nbsp;: 8 outils IA à tester gratuitement</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Découvrez des outils IA pratiques et accessibles gratuitement pour vous assister dans la recherche documentaire, le design, le code ou encore la création de bandes [...]</div>
+			
+		</div>
+
+	</article><!-- #post-203313 -->
+
+</div>
+					</div><!-- .col -->
 
 				
 					<div class="col-xl-12">
@@ -770,111 +875,6 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					</div><!-- .col -->
 
 				
-					<div class="col-xl-12">
-						<div aria-label="ChatGPT Images 2.0, le nouveau modèle de génération d&rsquo;images d&rsquo;OpenAI" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-204239" class="d-flex my-md-5 my-4 post-204239 post type-post status-publish format-standard has-post-thumbnail category-ia tag-design tag-openai">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ChatGPT Images 2.0, le nouveau modèle de génération d&rsquo;images d&rsquo;OpenAI" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-370x194.jpg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ChatGPT Images 2.0, le nouveau modèle de génération d&rsquo;images d&rsquo;OpenAI" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/chatgpt-image-2-370x194.jpg 370w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-							<span class="favtag color-b">OpenAI</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-22T08:21:25+02:00">22 avril 2026</time></span>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/chatgpt-images-2-0-nouveau-modele-openai/" >
-					<h3 class="entry-title">ChatGPT Images 2.0, le nouveau modèle de génération d&rsquo;images d&rsquo;OpenAI</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Mode Thinking, génération de plusieurs images, formats flexibles et texte amélioré : ChatGPT Images 2.0 embarque plusieurs nouveautés pour contrer Nano Banana 2.</div>
-			
-		</div>
-
-	</article><!-- #post-204239 -->
-
-</div>
-					</div><!-- .col -->
-
-				
-					<div class="col-xl-12">
-						<div aria-label="Top 20 des modèles d’IA les plus performants en avril 2026&nbsp;: le classement complet" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-204157" class="d-flex my-md-5 my-4 post-204157 post type-post status-publish format-standard has-post-thumbnail category-ia tag-anthropic tag-gemini tag-openai">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Top 20 des modèles d’IA les plus performants en avril 2026&nbsp;: le classement complet" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/04/Arena--276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/Arena--510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/Arena--370x194.jpg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/04/Arena--276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/04/Arena--276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Top 20 des modèles d’IA les plus performants en avril 2026&nbsp;: le classement complet" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/04/Arena--276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/Arena--510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/Arena--370x194.jpg 370w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-							<span class="favtag color-b">Anthropic</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-21T10:45:32+02:00">21 avril 2026</time></span>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/top-20-modeles-ia-avril-2026-classement-complet/" >
-					<h3 class="entry-title">Top 20 des modèles d’IA les plus performants en avril 2026&nbsp;: le classement complet</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">En avril 2026, les modèles d'Anthropic dominent plus que jamais. En tête dans le classement général, ils devancent également leurs concurrents dans la plupart des [...]</div>
-			
-		</div>
-
-	</article><!-- #post-204157 -->
-
-</div>
-					</div><!-- .col -->
-
-				
-					<div class="col-xl-12">
-						<div aria-label="Mozilla lance Thunderbolt, un client IA open source pour contrer Copilot, ChatGPT et Claude" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-204061" class="d-flex my-md-5 my-4 post-204061 post type-post status-publish format-standard has-post-thumbnail category-ia tag-developpement tag-mozilla">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Mozilla lance Thunderbolt, un client IA open source pour contrer Copilot, ChatGPT et Claude" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-664x349.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-768x403.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla.jpg 1200w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Mozilla lance Thunderbolt, un client IA open source pour contrer Copilot, ChatGPT et Claude" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-664x349.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-768x403.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/04/thunderbolt-mozilla.jpg 1200w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-							<span class="favtag color-b">Mozilla</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-20T11:24:37+02:00">20 avril 2026</time></span>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/mozilla-lance-thunderbolt-client-ia-open-source/" >
-					<h3 class="entry-title">Mozilla lance Thunderbolt, un client IA open source pour contrer Copilot, ChatGPT et Claude</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">MZLA Technologies Corporation, filiale de la fondation Mozilla, dévoile un client IA open source et auto-hébergé pour les entreprises qui veulent garder la main sur [...]</div>
-			
-		</div>
-
-	</article><!-- #post-204061 -->
-
-</div>
-					</div><!-- .col -->
-
-				
 				<div class="col-xl-12 pager">
 					<div class="pt-md-5 pt-4 bt-1">
 						<div class='wp-pagenavi' role='navigation'>
@@ -1054,9 +1054,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 											<a href="https://www.blogdumoderateur.com/dossier/etude/" class="badge badge-blue">Étude</a>
 											<a href="https://www.blogdumoderateur.com/dossier/seo/" class="badge badge-blue">SEO</a>
 											<a href="https://www.blogdumoderateur.com/dossier/adobe/" class="badge badge-blue">Adobe</a>
-											<a href="https://www.blogdumoderateur.com/dossier/perplexity/" class="badge badge-blue">Perplexity</a>
 											<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge badge-blue">Productivité</a>
-											<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge badge-blue">Interviews</a>
+											<a href="https://www.blogdumoderateur.com/dossier/perplexity/" class="badge badge-blue">Perplexity</a>
+											<a href="https://www.blogdumoderateur.com/dossier/cybersecurite/" class="badge badge-blue">Cybersécurité</a>
 									</div>
 			</div>
 
@@ -1096,13 +1096,13 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 			<div class="col-12">
 
-				<h3 class="pb-3">Thèmes populaires</h3>
+				<p class="h3 pb-3">Thèmes populaires</p>
 
+									<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge">Interviews</a>
 									<a href="https://www.blogdumoderateur.com/dossier/transformation-digitale/" class="badge">Transformation digitale</a>
-									<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge">Formation</a>
 									<a href="https://www.blogdumoderateur.com/dossier/strategie-digitale/" class="badge">Stratégie digitale</a>
+									<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge">Formation</a>
 									<a href="https://www.blogdumoderateur.com/dossier/culture-web/" class="badge">Culture web</a>
-									<a href="https://www.blogdumoderateur.com/dossier/cybersecurite/" class="badge">Cybersécurité</a>
 									<a href="https://www.blogdumoderateur.com/dossier/meta/" class="badge">Meta</a>
 				
 			</div>
@@ -1158,8 +1158,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">On filtre, on vérifie, on rédige.</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous pour recevoir nos articles&nbsp;:</div>
+					<div class="h2">Dis papa, c&#039;est quoi un LLM&nbsp;?</div>
+					<div class="nl-title pt-1 pb-4 h3bis">On vous aide à répondre à toutes les questions&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1168,8 +1168,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Authenticité">
-						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
+						<input type="hidden" name="cord_theme" value="Référence">
+						<input type="hidden" name="cord_title" value="Dis papa, c'est quoi un LLM&nbsp;?">
 						<input type="hidden" name="cord_bg_color" value="bg-blue">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
@@ -1206,8 +1206,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgd.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgd.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1218,8 +1218,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
@@ -1301,13 +1301,13 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 		</div>
 
-		<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/embla-carousel/embla-carousel.umd.js?ver=1776691914" id="slider-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-rocket-type="module" data-rocket-src="https://www.blogdumoderateur.com/app/plugins/hw-slider/assets/js/embla-init.js" data-rocket-defer defer></script><script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/navigation.js?ver=1776691914" id="bdm-navigation-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/skip-link-focus-fix.js?ver=1776691914" id="bdm-skip-link-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/common.js?ver=1776691914" id="bdm-scripts-js" data-rocket-defer defer></script>
+		<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/embla-carousel/embla-carousel.umd.js?ver=1777380639" id="slider-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="module" data-rocket-src="https://www.blogdumoderateur.com/app/plugins/hw-slider/assets/js/embla-init.js" data-rocket-defer defer></script><script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/navigation.js?ver=1777380639" id="bdm-navigation-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/skip-link-focus-fix.js?ver=1777380639" id="bdm-skip-link-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/common.js?ver=1777380639" id="bdm-scripts-js" data-rocket-defer defer></script>
 <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt,l){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="Lire la vidéo Youtube"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=[];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi/ID/hqdefault.jpg'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
-<script>"use strict";function wprRemoveCPCSS(){var preload_stylesheets=document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]');if(preload_stylesheets&&0<preload_stylesheets.length)for(var stylesheet_index=0;stylesheet_index<preload_stylesheets.length;stylesheet_index++){var media=preload_stylesheets[stylesheet_index].getAttribute("media")||"all";if(window.matchMedia(media).matches)return void setTimeout(wprRemoveCPCSS,200)}var elem=document.getElementById("rocket-critical-css");elem&&"remove"in elem&&elem.remove()}window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link data-minify="1" rel='stylesheet' id='banner_style-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1776691913' media='all' /><link data-minify="1" rel='stylesheet' id='bdm-core-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1776691913' media='all' /></noscript></body>
+<script>"use strict";function wprRemoveCPCSS(){var preload_stylesheets=document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]');if(preload_stylesheets&&0<preload_stylesheets.length)for(var stylesheet_index=0;stylesheet_index<preload_stylesheets.length;stylesheet_index++){var media=preload_stylesheets[stylesheet_index].getAttribute("media")||"all";if(window.matchMedia(media).matches)return void setTimeout(wprRemoveCPCSS,200)}var elem=document.getElementById("rocket-critical-css");elem&&"remove"in elem&&elem.remove()}window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link data-minify="1" rel='stylesheet' id='banner_style-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1777380638' media='all' /><link data-minify="1" rel='stylesheet' id='bdm-core-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1777380638' media='all' /></noscript></body>
 </html>
