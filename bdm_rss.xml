@@ -143,7 +143,7 @@ setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(ena
 var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
 if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
 else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
-</script><meta name="generator" content="WP Rocket 3.20.5" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_async_css wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_desktop" /></head>
+</script><meta name="generator" content="WP Rocket 3.20.5" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_async_css wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_mobile" /></head>
 
 <body class="archive category category-ia category-1076 wp-theme-blogdumoderateur hfeed fixed-nav">
 
@@ -241,14 +241,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="popular-tags mb-1 mb-md-4 mt-5">
 
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrfvta/" class="e-link badge badge-grey">Design</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/nqbor/" class="e-link badge badge-grey">Adobe</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/sbezngvba/" class="e-link badge badge-grey">Formation</span>
@@ -1099,11 +1099,11 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				<p class="h3 pb-3">Thèmes populaires</p>
 
 									<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge">Interviews</a>
-									<a href="https://www.blogdumoderateur.com/dossier/transformation-digitale/" class="badge">Transformation digitale</a>
 									<a href="https://www.blogdumoderateur.com/dossier/strategie-digitale/" class="badge">Stratégie digitale</a>
+									<a href="https://www.blogdumoderateur.com/dossier/transformation-digitale/" class="badge">Transformation digitale</a>
 									<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge">Formation</a>
 									<a href="https://www.blogdumoderateur.com/dossier/culture-web/" class="badge">Culture web</a>
-									<a href="https://www.blogdumoderateur.com/dossier/meta/" class="badge">Meta</a>
+									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 				
 			</div>
 
@@ -1158,8 +1158,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">Dis papa, c&#039;est quoi un LLM&nbsp;?</div>
-					<div class="nl-title pt-1 pb-4 h3bis">On vous aide à répondre à toutes les questions&nbsp;:</div>
+					<div class="h2">Vous ne voulez que le meilleur de l&#039;actualité digitale&nbsp;?</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous simplement à notre newsletter&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1168,8 +1168,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Référence">
-						<input type="hidden" name="cord_title" value="Dis papa, c'est quoi un LLM&nbsp;?">
+						<input type="hidden" name="cord_theme" value="Veille">
+						<input type="hidden" name="cord_title" value="Vous ne voulez que le meilleur de l'actualité digitale&nbsp;?">
 						<input type="hidden" name="cord_bg_color" value="bg-blue">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
@@ -1206,8 +1206,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgd.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgd.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1218,8 +1218,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
