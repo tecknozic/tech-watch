@@ -1152,7 +1152,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue ">
+<section class="newsletter-container bg-blue100 ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1170,7 +1170,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 						<input type="hidden" name="action" value="subscribe_optin">
 						<input type="hidden" name="cord_theme" value="Authenticité">
 						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
-						<input type="hidden" name="cord_bg_color" value="bg-blue">
+						<input type="hidden" name="cord_bg_color" value="bg-blue100">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1206,8 +1206,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
