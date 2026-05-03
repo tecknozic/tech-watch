@@ -235,14 +235,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/nqbor/" class="e-link badge badge-grey">Adobe</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/nqbor/" class="e-link badge badge-grey">Adobe</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrfvta/" class="e-link badge badge-grey">Design</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/sbezngvba/" class="e-link badge badge-grey">Formation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/sbezngvba/" class="e-link badge badge-grey">Formation</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
 			
 		</div>
@@ -1143,14 +1143,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue ">
+<section class="newsletter-container bg-green ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">70 000 pros sont déjà abonnés</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Pourquoi pas vous&nbsp;?</div>
+					<div class="h2">Chaque jour, l&#039;essentiel du digital</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Directement dans votre boîte mail&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1159,9 +1159,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Club">
-						<input type="hidden" name="cord_title" value="70 000 pros sont déjà abonnés">
-						<input type="hidden" name="cord_bg_color" value="bg-blue">
+						<input type="hidden" name="cord_theme" value="Veille">
+						<input type="hidden" name="cord_title" value="Chaque jour, l'essentiel du digital">
+						<input type="hidden" name="cord_bg_color" value="bg-green">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1193,14 +1193,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			<div class="corde-visuel d-lg-flex d-none">
 
 				<img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png" 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
 				/>
 
 				<img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-dm.png" 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
