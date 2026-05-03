@@ -1143,14 +1143,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue100 ">
+<section class="newsletter-container bg-blue ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">Dis papa, c&#039;est quoi un LLM&nbsp;?</div>
-					<div class="nl-title pt-1 pb-4 h3bis">On vous aide à répondre à toutes les questions&nbsp;:</div>
+					<div class="h2">70 000 pros sont déjà abonnés</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Pourquoi pas vous&nbsp;?</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1159,9 +1159,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Référence">
-						<input type="hidden" name="cord_title" value="Dis papa, c'est quoi un LLM&nbsp;?">
-						<input type="hidden" name="cord_bg_color" value="bg-blue100">
+						<input type="hidden" name="cord_theme" value="Club">
+						<input type="hidden" name="cord_title" value="70 000 pros sont déjà abonnés">
+						<input type="hidden" name="cord_bg_color" value="bg-blue">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1193,14 +1193,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			<div class="corde-visuel d-lg-flex d-none">
 
 				<img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png" 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
 				/>
 
 				<img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png" 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
