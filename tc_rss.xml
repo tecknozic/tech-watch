@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Sun, 03 May 2026 18:32:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 May 2026 20:16:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,16 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>In Harvard study, AI offered more accurate diagnoses than emergency room doctors</title>
+		<title>‘This is fine’ creator says AI startup stole his art</title>
+		<link>https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 03 May 2026 20:16:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[artisan]]></category>
+		<category><![CDATA[kc green]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3118660</guid>
+
+					<description><![CDATA[The ad comes from Artisan, the AI startup behind billboards urging businesses to "stop hiring humans."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors</title>
 		<link>https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/</link>
 		
 		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
 		<pubDate>Sun, 03 May 2026 18:00:09 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[harvard medical school]]></category>
 		<category><![CDATA[beth israel]]></category>
+		<category><![CDATA[harvard medical school]]></category>
+		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3118654</guid>
 
 					<description><![CDATA[A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.]]></description>
