@@ -116,7 +116,7 @@ var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
 			'theme' : 'ia',
 			'tag' : '',
 			'category_list' : '',
-			'search_result' : '1080',
+			'search_result' : '1082',
 			'article_publication_date' :  ''
 		}];
 	</script>
@@ -143,7 +143,7 @@ setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(ena
 var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
 if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
 else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
-</script><meta name="generator" content="WP Rocket 3.20.5" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_async_css wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_mobile" /></head>
+</script><meta name="generator" content="WP Rocket 3.20.5" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_async_css wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_desktop" /></head>
 
 <body class="archive category category-ia category-1076 wp-theme-blogdumoderateur hfeed fixed-nav">
 
@@ -243,16 +243,16 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/nqbor/" class="e-link badge badge-grey">Adobe</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrfvta/" class="e-link badge badge-grey">Design</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/sbezngvba/" class="e-link badge badge-grey">Formation</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
 			
 		</div>
 
@@ -348,6 +348,76 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			</div>
 
 			<div class="archive-list row justify-content-center">
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Anthropic augmente enfin les limites d&rsquo;usage de Claude Code" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-205132" class="d-flex my-md-5 my-4 post-205132 post type-post status-publish format-standard has-post-thumbnail category-ia tag-anthropic tag-developpement">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Anthropic augmente enfin les limites d&rsquo;usage de Claude Code" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/05/claude-code-anthropic-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/05/claude-code-anthropic-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/05/claude-code-anthropic-370x194.jpeg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/05/claude-code-anthropic-276x144.jpeg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/05/claude-code-anthropic-276x144.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Anthropic augmente enfin les limites d&rsquo;usage de Claude Code" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/05/claude-code-anthropic-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/05/claude-code-anthropic-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/05/claude-code-anthropic-370x194.jpeg 370w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+							<span class="favtag color-b">Anthropic</span>
+			
+			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-05-07T08:25:46+02:00">7 mai 2026</time></span>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/anthropic-augmente-limites-claude-code/" >
+					<h3 class="entry-title">Anthropic augmente enfin les limites d&rsquo;usage de Claude Code</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Les capacités d'une session de 5h sont doublées, le principe d'heure de pointe est supprimé pour certains abonnés et les limites de l'API sont largement [...]</div>
+			
+		</div>
+
+	</article><!-- #post-205132 -->
+
+</div>
+					</div><!-- .col -->
+
+				
+					<div class="col-xl-12">
+						<div aria-label="5 stratégies pour bien adopter l&rsquo;IA au travail" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-203095" class="d-flex my-md-5 my-4 post-203095 post type-post status-publish format-standard has-post-thumbnail category-ia tag-etude tag-google tag-productivite tag-strategie-digitale">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="5 stratégies pour bien adopter l&rsquo;IA au travail" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-370x194.jpg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="5 stratégies pour bien adopter l&rsquo;IA au travail" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/5-strategies-google-adoption-ia-entreprise-370x194.jpg 370w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+							<span class="favtag color-b">Étude</span>
+			
+			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-05-07T07:00:58+02:00">7 mai 2026</time></span>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/5-strategies-bien-adopter-ia-travail/" >
+					<h3 class="entry-title">5 stratégies pour bien adopter l&rsquo;IA au travail</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Une étude menée par Google et Stanford identifie cinq stratégies pour dépasser le stade de la simple substitution et intégrer réellement l'IA dans ses méthodes [...]</div>
+			
+		</div>
+
+	</article><!-- #post-203095 -->
+
+</div>
+					</div><!-- .col -->
 
 				
 					<div class="col-xl-12">
@@ -805,80 +875,10 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					</div><!-- .col -->
 
 				
-					<div class="col-xl-12">
-						<div aria-label="Gemini&nbsp;: la fonctionnalité Mémoire et l&rsquo;import depuis ChatGPT disponibles en France" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-204809" class="d-flex my-md-5 my-4 post-204809 post type-post status-publish format-standard has-post-thumbnail category-ia tag-anthropic tag-gemini tag-openai">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Gemini&nbsp;: la fonctionnalité Mémoire et l&rsquo;import depuis ChatGPT disponibles en France" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/04/gemini-memoire-import-france-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/gemini-memoire-import-france-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/gemini-memoire-import-france-370x194.jpeg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/04/gemini-memoire-import-france-276x144.jpeg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/04/gemini-memoire-import-france-276x144.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Gemini&nbsp;: la fonctionnalité Mémoire et l&rsquo;import depuis ChatGPT disponibles en France" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/04/gemini-memoire-import-france-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/gemini-memoire-import-france-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/gemini-memoire-import-france-370x194.jpeg 370w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-							<span class="favtag color-b">Gemini</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-29T15:31:31+02:00">29 avril 2026</time></span>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/gemini-fonctionnalite-memoire-import-chatgpt-disponibles-france/" >
-					<h3 class="entry-title">Gemini&nbsp;: la fonctionnalité Mémoire et l&rsquo;import depuis ChatGPT disponibles en France</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Gemini active sa mémoire automatique en France et propose désormais d'importer historique et préférences issus de ChatGPT, Claude ou d'autres assistants.</div>
-			
-		</div>
-
-	</article><!-- #post-204809 -->
-
-</div>
-					</div><!-- .col -->
-
-				
-					<div class="col-xl-12">
-						<div aria-label="Lovable lance son application de vibe coding sur iPhone et Android" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-204723" class="d-flex my-md-5 my-4 post-204723 post type-post status-publish format-standard has-post-thumbnail category-ia tag-developpement tag-mobile">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Lovable lance son application de vibe coding sur iPhone et Android" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/04/Lovable-Appli-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/Lovable-Appli-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/Lovable-Appli-370x194.jpg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/04/Lovable-Appli-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/04/Lovable-Appli-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Lovable lance son application de vibe coding sur iPhone et Android" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/04/Lovable-Appli-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/04/Lovable-Appli-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/04/Lovable-Appli-370x194.jpg 370w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-							<span class="favtag color-b">Développement</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-04-29T10:32:35+02:00">29 avril 2026</time></span>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/lovable-lance-application-vibe-coding-iphone-android/" >
-					<h3 class="entry-title">Lovable lance son application de vibe coding sur iPhone et Android</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Lovable est désormais disponible sur iOS et Android. L'outil permet de créer des applications depuis un smartphone via des prompts textuels ou vocaux, malgré l'offensive [...]</div>
-			
-		</div>
-
-	</article><!-- #post-204723 -->
-
-</div>
-					</div><!-- .col -->
-
-				
 				<div class="col-xl-12 pager">
 					<div class="pt-md-5 pt-4 bt-1">
 						<div class='wp-pagenavi' role='navigation'>
-<span aria-current='page' class='current'>1</span><a class="page larger" title="Page 2" href="https://www.blogdumoderateur.com/ia/page/2/">2</a><a class="page larger" title="Page 3" href="https://www.blogdumoderateur.com/ia/page/3/">3</a><a class="page larger" title="Page 4" href="https://www.blogdumoderateur.com/ia/page/4/">4</a><a class="page larger" title="Page 5" href="https://www.blogdumoderateur.com/ia/page/5/">5</a><a class="page larger" title="Page 6" href="https://www.blogdumoderateur.com/ia/page/6/">6</a><a class="page larger" title="Page 7" href="https://www.blogdumoderateur.com/ia/page/7/">7</a><a class="page larger" title="Page 8" href="https://www.blogdumoderateur.com/ia/page/8/">8</a><a class="page larger" title="Page 9" href="https://www.blogdumoderateur.com/ia/page/9/">9</a><a class="page larger" title="Page 10" href="https://www.blogdumoderateur.com/ia/page/10/">10</a><a class="page larger" title="Page 11" href="https://www.blogdumoderateur.com/ia/page/11/">11</a><a class="page larger" title="Page 12" href="https://www.blogdumoderateur.com/ia/page/12/">12</a><a class="page larger" title="Page 13" href="https://www.blogdumoderateur.com/ia/page/13/">13</a><a class="page larger" title="Page 14" href="https://www.blogdumoderateur.com/ia/page/14/">14</a><a class="page larger" title="Page 15" href="https://www.blogdumoderateur.com/ia/page/15/">15</a><a class="page larger" title="Page 16" href="https://www.blogdumoderateur.com/ia/page/16/">16</a><a class="page larger" title="Page 17" href="https://www.blogdumoderateur.com/ia/page/17/">17</a><a class="page larger" title="Page 18" href="https://www.blogdumoderateur.com/ia/page/18/">18</a><a class="page larger" title="Page 19" href="https://www.blogdumoderateur.com/ia/page/19/">19</a><a class="page larger" title="Page 20" href="https://www.blogdumoderateur.com/ia/page/20/">20</a><span class='extend'>...</span><a class="larger page" title="Page 50" href="https://www.blogdumoderateur.com/ia/page/50/">50</a><span class='extend'>...</span><span tabindex="0"  class="e-link nextpostslink" rel="next" title="Page suivante"  data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/vn/cntr/2/"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#arrow-r"></use></svg></span><span tabindex="0"  class="e-link last" title="Dernière page"  data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/vn/cntr/72/"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#arrow-d-r"></use></svg></span>
+<span aria-current='page' class='current'>1</span><a class="page larger" title="Page 2" href="https://www.blogdumoderateur.com/ia/page/2/">2</a><a class="page larger" title="Page 3" href="https://www.blogdumoderateur.com/ia/page/3/">3</a><a class="page larger" title="Page 4" href="https://www.blogdumoderateur.com/ia/page/4/">4</a><a class="page larger" title="Page 5" href="https://www.blogdumoderateur.com/ia/page/5/">5</a><a class="page larger" title="Page 6" href="https://www.blogdumoderateur.com/ia/page/6/">6</a><a class="page larger" title="Page 7" href="https://www.blogdumoderateur.com/ia/page/7/">7</a><a class="page larger" title="Page 8" href="https://www.blogdumoderateur.com/ia/page/8/">8</a><a class="page larger" title="Page 9" href="https://www.blogdumoderateur.com/ia/page/9/">9</a><a class="page larger" title="Page 10" href="https://www.blogdumoderateur.com/ia/page/10/">10</a><a class="page larger" title="Page 11" href="https://www.blogdumoderateur.com/ia/page/11/">11</a><a class="page larger" title="Page 12" href="https://www.blogdumoderateur.com/ia/page/12/">12</a><a class="page larger" title="Page 13" href="https://www.blogdumoderateur.com/ia/page/13/">13</a><a class="page larger" title="Page 14" href="https://www.blogdumoderateur.com/ia/page/14/">14</a><a class="page larger" title="Page 15" href="https://www.blogdumoderateur.com/ia/page/15/">15</a><a class="page larger" title="Page 16" href="https://www.blogdumoderateur.com/ia/page/16/">16</a><a class="page larger" title="Page 17" href="https://www.blogdumoderateur.com/ia/page/17/">17</a><a class="page larger" title="Page 18" href="https://www.blogdumoderateur.com/ia/page/18/">18</a><a class="page larger" title="Page 19" href="https://www.blogdumoderateur.com/ia/page/19/">19</a><a class="page larger" title="Page 20" href="https://www.blogdumoderateur.com/ia/page/20/">20</a><span class='extend'>...</span><a class="larger page" title="Page 50" href="https://www.blogdumoderateur.com/ia/page/50/">50</a><span class='extend'>...</span><span tabindex="0"  class="e-link nextpostslink" rel="next" title="Page suivante"  data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/vn/cntr/2/"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#arrow-r"></use></svg></span><span tabindex="0"  class="e-link last" title="Dernière page"  data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/vn/cntr/73/"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#arrow-d-r"></use></svg></span>
 </div>					</div>
 				</div><!-- .col -->
 
@@ -1052,8 +1052,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 											<a href="https://www.blogdumoderateur.com/dossier/google/" class="badge badge-blue">Google</a>
 											<a href="https://www.blogdumoderateur.com/dossier/design/" class="badge badge-blue">Design</a>
 											<a href="https://www.blogdumoderateur.com/dossier/etude/" class="badge badge-blue">Étude</a>
-											<a href="https://www.blogdumoderateur.com/dossier/cybersecurite/" class="badge badge-blue">Cybersécurité</a>
 											<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge badge-blue">Productivité</a>
+											<a href="https://www.blogdumoderateur.com/dossier/cybersecurite/" class="badge badge-blue">Cybersécurité</a>
 											<a href="https://www.blogdumoderateur.com/dossier/adobe/" class="badge badge-blue">Adobe</a>
 											<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge badge-blue">Interviews</a>
 											<a href="https://www.blogdumoderateur.com/dossier/microsoft/" class="badge badge-blue">Microsoft</a>
@@ -1152,14 +1152,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue100 ">
+<section class="newsletter-container bg-green ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">Chaque jour, l&#039;essentiel du digital</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Directement dans votre boîte mail&nbsp;:</div>
+					<div class="h2">70 000 pros sont déjà abonnés</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Pourquoi pas vous&nbsp;?</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1168,9 +1168,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Veille">
-						<input type="hidden" name="cord_title" value="Chaque jour, l'essentiel du digital">
-						<input type="hidden" name="cord_bg_color" value="bg-blue100">
+						<input type="hidden" name="cord_theme" value="Club">
+						<input type="hidden" name="cord_title" value="70 000 pros sont déjà abonnés">
+						<input type="hidden" name="cord_bg_color" value="bg-green">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1206,8 +1206,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1218,8 +1218,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
