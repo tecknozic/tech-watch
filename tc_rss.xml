@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 11 May 2026 13:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 May 2026 18:57:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,19 +28,39 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $275 million to build them.</title>
+		<title>Digg tries again, this time as an AI news aggregator</title>
+		<link>https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 17:02:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[aggregation]]></category>
+		<category><![CDATA[Digg]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3121165</guid>
+
+					<description><![CDATA[Digg returns (again) as another place to read AI news. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>There aren&#8217;t enough rockets for space data centers — Cowboy Space raised $275M to build them</title>
 		<link>https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/</link>
 		
 		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
 		<pubDate>Mon, 11 May 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[baiju bhatt]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Space]]></category>
 		<category><![CDATA[Aetherflux]]></category>
+		<category><![CDATA[baiju bhatt]]></category>
 		<category><![CDATA[Cowboy Space Company]]></category>
+		<category><![CDATA[data centers]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3120764</guid>
 
-					<description><![CDATA[Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there. ]]></description>
+					<description><![CDATA[The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.]]></description>
 		
 		
 		
@@ -55,7 +75,7 @@
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Edward Kim]]></category>
 		<category><![CDATA[Gusto]]></category>
-		<category><![CDATA[mollie amkraut mueller]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[tanay kothari]]></category>
 		<category><![CDATA[Wispr]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3121099</guid>
@@ -74,6 +94,7 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3121096</guid>
 
 					<description><![CDATA[Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.]]></description>
@@ -88,6 +109,10 @@
 		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
 		<pubDate>Sun, 10 May 2026 15:34:25 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[xAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3121081</guid>
 
 					<description><![CDATA[On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.]]></description>
@@ -377,26 +402,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3120327</guid>
 
 					<description><![CDATA[Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be "a supercharger to love and relationships."]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity</title>
-		<link>https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/</link>
-		
-		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 16:05:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Mozilla]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3120170</guid>
-
-					<description><![CDATA[Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.]]></description>
 		
 		
 		
