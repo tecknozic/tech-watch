@@ -1143,7 +1143,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue-dark ">
+<section class="newsletter-container bg-blue ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1161,7 +1161,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 						<input type="hidden" name="action" value="subscribe_optin">
 						<input type="hidden" name="cord_theme" value="Veille">
 						<input type="hidden" name="cord_title" value="Vous ne voulez que le meilleur de l'actualité digitale&nbsp;?">
-						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
+						<input type="hidden" name="cord_bg_color" value="bg-blue">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
