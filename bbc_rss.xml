@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 20:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 01:46:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -152,6 +152,14 @@
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Shiona McCallum visits Fifa HQ in Zurich to see new tech being used in the World Cup.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002xbvq#3</guid>
+            <pubDate>Sat, 30 May 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0np01fw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
             <description><![CDATA[Shiona McCallum meets a medical expert testing out the future of prosthetics.]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002x058#3</guid>
@@ -173,14 +181,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002wcyp#3</guid>
             <pubDate>Sat, 09 May 2026 01:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nk3nqg.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Now]]></title>
-            <description><![CDATA[Harriet Bradshaw finds out how AI is being used to help solve an art history mystery.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002w3sl#3</guid>
-            <pubDate>Sat, 02 May 2026 01:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nht181.jpg"/>
         </item>
     </channel>
 </rss>
