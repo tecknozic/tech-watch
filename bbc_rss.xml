@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 09:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 15:48:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Instagram AI chatbot tricked by hackers to give access to others' accounts]]></title>
+            <description><![CDATA[Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.]]></description>
+            <link>https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98rzr72dpyo#0</guid>
+            <pubDate>Tue, 02 Jun 2026 11:40:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d6/live/0af82d50-5e74-11f1-9bb7-93b44936b5cf.jpg"/>
+        </item>
         <item>
             <title><![CDATA[How 'confused' AI rollout hurts firms and baffles staff]]></title>
             <description><![CDATA[Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/clypxw6penno#0</guid>
             <pubDate>Wed, 27 May 2026 10:33:46 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9566/live/4e891cb0-59b4-11f1-8ac0-d5b819ddbb8d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Champion ethical hacker warns AI tools like Mythos will make competing harder]]></title>
-            <description><![CDATA[Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.]]></description>
-            <link>https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r2zjpryzro#0</guid>
-            <pubDate>Wed, 27 May 2026 00:43:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529a/live/5a4cd470-58dc-11f1-a182-6b602140f589.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
