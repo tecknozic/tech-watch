@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 01:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 08:58:22 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[We need to have ability to slow AI down, says Anthropic co-founder]]></title>
+            <description><![CDATA[Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input. ]]></description>
+            <link>https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2124z7g45o#0</guid>
+            <pubDate>Fri, 05 Jun 2026 07:17:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f663/live/f9d74be0-602c-11f1-95b8-61705f259545.jpg"/>
+        </item>
         <item>
             <title><![CDATA[The ancient trick making food waste useful and tasty]]></title>
             <description><![CDATA[Instead of throwing away byproducts of food processing, fermentation is making them valuable.]]></description>
@@ -29,14 +37,6 @@
             <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y71106g07o#0</guid>
             <pubDate>Thu, 04 Jun 2026 23:05:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e4/live/b6ae4610-600a-11f1-b2a6-1d4191f0f436.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI needs a 'brake pedal', warns Anthropic co-founder]]></title>
-            <description><![CDATA[Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input. ]]></description>
-            <link>https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2124z7g45o#0</guid>
-            <pubDate>Thu, 04 Jun 2026 21:53:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f663/live/f9d74be0-602c-11f1-95b8-61705f259545.jpg"/>
         </item>
         <item>
             <title><![CDATA[Who is Elon Musk and what is his net worth?]]></title>
@@ -121,8 +121,8 @@
         <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The tech company announces its new Majorana 2 chip.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_world_service#2</guid>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8jxy?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jxy#2</guid>
             <pubDate>Tue, 02 Jun 2026 19:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0npq7vb.jpg"/>
         </item>
