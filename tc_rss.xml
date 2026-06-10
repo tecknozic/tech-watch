@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 10 Jun 2026 14:31:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jun 2026 19:45:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,95 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>‘AI-pilled’ firms spend $7,500 per employee each month on AI</title>
+		<link>https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2026 17:07:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai tokens]]></category>
+		<category><![CDATA[Ramp]]></category>
+		<category><![CDATA[ramp ai index]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3131803</guid>
+
+					<description><![CDATA[The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How memory tools can make AI models worse</title>
+		<link>https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2026 16:11:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai models]]></category>
+		<category><![CDATA[writer]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3131757</guid>
+
+					<description><![CDATA[New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable</title>
+		<link>https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2026 15:41:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[fable]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3131724</guid>
+
+					<description><![CDATA[Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in</title>
+		<link>https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI coding agents]]></category>
+		<category><![CDATA[ai coding assistant]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3131430</guid>
+
+					<description><![CDATA[AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The three hard-tech moonshots fueling SpaceX&#8217;s unbelievable IPO</title>
+		<link>https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2026 14:48:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[orbital data centers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3131160</guid>
+
+					<description><![CDATA[Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Warner Music acquires AI attribution startup Sureel AI</title>
 		<link>https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/</link>
 		
@@ -37,6 +126,7 @@
 		<category><![CDATA[Media & Entertainment]]></category>
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[AI startups]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
 		<category><![CDATA[warner music]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3131678</guid>
 
@@ -54,12 +144,14 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[AI agents]]></category>
 		<category><![CDATA[context graphs]]></category>
 		<category><![CDATA[Jedify]]></category>
+		<category><![CDATA[Norwest]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3131144</guid>
 
-					<description><![CDATA[The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.]]></description>
+					<description><![CDATA[The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.]]></description>
 		
 		
 		
@@ -71,6 +163,9 @@
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
 		<pubDate>Wed, 10 Jun 2026 13:07:56 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
 		<category><![CDATA[decart]]></category>
 		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[oasis 3]]></category>
@@ -291,98 +386,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3130730</guid>
 
 					<description><![CDATA[Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart</title>
-		<link>https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Tue, 09 Jun 2026 01:56:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[siri ai]]></category>
-		<category><![CDATA[WWDC 2026]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3130646</guid>
-
-					<description><![CDATA[Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race? ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing&#8217; valuation tricks</title>
-		<link>https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Tue, 09 Jun 2026 00:45:56 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Mercor]]></category>
-		<category><![CDATA[Sequoia Partners]]></category>
-		<category><![CDATA[Valuations]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3130954</guid>
-
-					<description><![CDATA[Sequoia is just one of the top firms that sells same equity at two different prices.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoffs, report says</title>
-		<link>https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 08 Jun 2026 22:41:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[tools for humanity]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3130875</guid>
-
-					<description><![CDATA[Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple&#8217;s WWDC AI demos looked more real after $250M false ad settlement</title>
-		<link>https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Mon, 08 Jun 2026 22:39:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[apple intellignce]]></category>
-		<category><![CDATA[siri]]></category>
-		<category><![CDATA[wwdc]]></category>
-		<category><![CDATA[WWDC 2026]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3130680</guid>
-
-					<description><![CDATA[The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI files confidentially for IPO, following Anthropic</title>
-		<link>https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Mon, 08 Jun 2026 21:29:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3129100</guid>
-
-					<description><![CDATA[The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.]]></description>
 		
 		
 		
