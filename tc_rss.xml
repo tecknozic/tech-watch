@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 10 Jun 2026 07:35:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jun 2026 14:31:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Warner Music acquires AI attribution startup Sureel AI</title>
+		<link>https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2026 14:31:30 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI startups]]></category>
+		<category><![CDATA[warner music]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3131678</guid>
+
+					<description><![CDATA[Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Jedify raises $24M to help companies arm AI agents with context on their business</title>
+		<link>https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2026 13:33:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[context graphs]]></category>
+		<category><![CDATA[Jedify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3131144</guid>
+
+					<description><![CDATA[The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Decart&#8217;s new world model can simulate hours of photorealistic driving — with some caveats</title>
+		<link>https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2026 13:07:56 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[decart]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[oasis 3]]></category>
+		<category><![CDATA[world models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3131622</guid>
+
+					<description><![CDATA[Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Meta signs first AI data center deal in India with Reliance</title>
 		<link>https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/</link>
 		
@@ -328,63 +383,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3129100</guid>
 
 					<description><![CDATA[The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple plays catch-up at WWDC</title>
-		<link>https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 08 Jun 2026 21:15:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[wwdc]]></category>
-		<category><![CDATA[WWDC 2026]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3130496</guid>
-
-					<description><![CDATA[Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple bets cheaper AI will woo small developers</title>
-		<link>https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 08 Jun 2026 20:53:55 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[wwdc]]></category>
-		<category><![CDATA[WWDC 2026]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3130751</guid>
-
-					<description><![CDATA[As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple just taught your iPhone to finish your sentences, your photos, and your workflows</title>
-		<link>https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Mon, 08 Jun 2026 18:48:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<category><![CDATA[wwdc]]></category>
-		<category><![CDATA[WWDC 2026]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3130551</guid>
-
-					<description><![CDATA[Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.]]></description>
 		
 		
 		
