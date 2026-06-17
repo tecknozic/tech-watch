@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 10:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 14:41:26 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Snap unveils £1,995 smart glasses after previous flops]]></title>
+            <description><![CDATA[The augmented reality glasses from Snapchat's parent company are expected to ship in autumn.]]></description>
+            <link>https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyr5knpklvo#0</guid>
+            <pubDate>Wed, 17 Jun 2026 11:37:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8c/live/75a8a820-6a3e-11f1-8546-8f19e4fe30f4.png"/>
+        </item>
         <item>
             <title><![CDATA[Five big questions about the UK's under-16s social media ban]]></title>
             <description><![CDATA[A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14b8/live/f819e550-641a-11f1-9216-c3eba4acaf31.jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut]]></title>
-            <description><![CDATA[The company behind ChatGPT files its plans one week after Anthropic did the same.]]></description>
-            <link>https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd958eqg1n5o#0</guid>
-            <pubDate>Tue, 09 Jun 2026 08:02:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af21/live/aa735d80-638a-11f1-a153-39ca27a43c2a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The prompt that made ChatGPT generate disturbing images. What does this tell us about AI?]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,6 +183,78 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nk3npm.jpg"/>
         </item>
     
+<item>
+		<title>Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI</title>
+		<link>https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 14:15:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[formal verification]]></category>
+		<category><![CDATA[reliability]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133745</guid>
+
+					<description><![CDATA[Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Canadian pension giant joins race to fund India&#8217;s AI-fueled data center boom</title>
+		<link>https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 12:38:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Canada Pension Plan Investment Board]]></category>
+		<category><![CDATA[CPP Investments]]></category>
+		<category><![CDATA[CtrlS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133722</guid>
+
+					<description><![CDATA[The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>DeepL acquires Mixhalo for live-event audio streaming and translation</title>
+		<link>https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 12:14:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI translation]]></category>
+		<category><![CDATA[DeepL]]></category>
+		<category><![CDATA[Mixhalo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133711</guid>
+
+					<description><![CDATA[With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&#8217;</title>
+		<link>https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI chatbot]]></category>
+		<category><![CDATA[Pinterest]]></category>
+		<category><![CDATA[shopping]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133612</guid>
+
+					<description><![CDATA[Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface. ]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests</title>
 		<link>https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/</link>
@@ -486,87 +558,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3132849</guid>
 
 					<description><![CDATA[A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Salesforce acquires AI customer service platform Fin for $3.6B</title>
-		<link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 15 Jun 2026 14:34:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Agentforce]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Fin]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3132810</guid>
-
-					<description><![CDATA[Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Sarvam becomes India&#8217;s newest AI unicorn with $234 million funding round led by HCLTech</title>
-		<link>https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Mon, 15 Jun 2026 13:46:08 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Bessemer Venture Partners]]></category>
-		<category><![CDATA[HCLTech]]></category>
-		<category><![CDATA[Khosla Ventures]]></category>
-		<category><![CDATA[lightspeed]]></category>
-		<category><![CDATA[Sarvam]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3132797</guid>
-
-					<description><![CDATA[Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>As AI agents become employees, NewCore emerges with $66M to give them identities</title>
-		<link>https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Mon, 15 Jun 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[cyberstarts]]></category>
-		<category><![CDATA[NewCore]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3132746</guid>
-
-					<description><![CDATA[NewCore argues the next challenge in enterprise security will be managing AI agents, not people.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>A satellite just learned to find things on its own — here&#8217;s what that means</title>
-		<link>https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[loft orbital]]></category>
-		<category><![CDATA[NASA]]></category>
-		<category><![CDATA[satellite tech]]></category>
-		<category><![CDATA[Satellites]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3132502</guid>
-
-					<description><![CDATA[In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.]]></description>
 		
 		
 		
@@ -938,7 +929,7 @@ return {
 <!--kg-card-end: html-->
 <p>The orchestrator checks the `success` field and routes accordingly. Successful results continue through the normal path. Failures route to fallback logic based on the error type.</p><p><strong>Fallback strategies:</strong></p><ul><li><strong>Retry with a simpler prompt.</strong> If the agent&apos;s response didn&apos;t meet the schema or quality bar, retry with a more constrained prompt that reduces the agent&apos;s decision space.</li><li><strong>Fall back to a simpler model or approach.</strong> If a complex agent chain keeps failing on a particular input, route it to a simpler single-step LLM call with a narrowly scoped prompt. You trade flexibility for reliability.</li><li><strong>Escalate to human review.</strong> For critical workflows, always have a path that routes to a human when automated handling fails. This is the safety net that prevents failures from producing bad outcomes. (We covered human-in-the-loop patterns in detail in the <a href="https://blog.n8n.io/production-ai-playbook-human-oversight/"><u>Human Oversight</u></a> post.)</li><li><strong>Return a safe default.</strong> For low-stakes workflows, a templated &quot;We received your request and a team member will follow up&quot; response is better than a hallucinated answer or a silent failure.</li></ul><p><strong>Timeouts matter.</strong> When one agent in a chain hangs, the entire pipeline stalls. Set explicit timeouts on every sub-workflow call and agent tool invocation. If a specialist agent doesn&apos;t respond within your threshold (30 seconds is a reasonable starting point for most API-backed agents), treat it as a failure and route to fallback logic. An explicit timeout is better than an indefinite wait.</p><h3 id="cost-and-token-management">Cost and Token Management</h3><p>Multi-agent systems multiply token usage. Every agent consumes tokens for its system prompt, conversation history, tool descriptions, and reasoning. An orchestrator that calls three specialist agents, each with their own context, can easily consume 10-20x the tokens of a single-agent workflow. Without deliberate management, costs scale faster than the complexity of the task being solved.</p><p><strong>Strategy 1: Scope context per agent</strong></p><p>Don&apos;t give every agent the full conversation history. The billing specialist needs the billing-relevant portion of the conversation, not the 15 messages about technical troubleshooting that came before. Use your workflow logic to extract and pass only the relevant context to each specialist.</p><p><strong>Strategy 2: Choose the right model per task</strong></p><p>Not every agent needs your most capable (and expensive) model. Use a lightweight model for classification, routing, and simple extraction tasks. Reserve your most capable model for tasks that genuinely require advanced reasoning, nuanced generation, or complex tool use. In n8n, each agent and LLM node can connect to a different model, so this is a configuration decision, not an architecture change.</p><p><strong>Strategy 3: Limit loop iterations</strong></p><p>Self-correcting loops and agent reasoning loops should always have a maximum iteration count. Without a cap, a confused agent can loop indefinitely, consuming tokens and producing nothing useful. Two to three iterations is usually sufficient. If the agent can&apos;t produce a valid response in three attempts, the issue is likely in the prompt or the task definition, not in the number of retries.</p><p><strong>Strategy 4: Minimize tool descriptions</strong></p><p> Every tool attached to an agent adds tokens to every request because the agent needs the tool descriptions in its context to decide which tools to use. If an agent has 15 tools but only uses 3 for most requests, consider breaking it into focused agents with fewer tools each. Fewer tool descriptions means lower per-request token costs and often better tool selection accuracy.</p><p><strong>Strategy 5: Monitor and set budgets</strong></p><p>Track token usage per workflow execution, per agent, and per tool call. n8n&apos;s execution data includes this information. Set alert thresholds for abnormal token consumption. A sudden spike in tokens for a particular agent often indicates a prompt issue, a loop that&apos;s running more iterations than expected, or context that&apos;s growing unbounded.</p><h2 id="tips-and-tricks">Tips and Tricks</h2><p><strong>1. Start with one agent, then decompose.</strong> Build the entire task as a single agent first. Once it works, identify which parts of its reasoning are separable and extract them into specialist agents or sub-workflows. This approach ensures you understand the full problem before you split it up, and it prevents premature decomposition that creates unnecessary coordination overhead.</p><p><strong>2. Write tool descriptions like API documentation.</strong> The orchestrator decides which specialist to call based on tool descriptions. Treat these descriptions like API docs, being specific about what the tool does, what inputs it expects, what it returns, and what it doesn&apos;t handle. &quot;Handles billing stuff&quot; is a bad description. &quot;Processes refund requests, billing inquiries, and payment disputes. Requires a customer ID and issue description. Returns a resolution with action taken.&quot; is a description that drives reliable routing.</p><p><strong>3. Test specialists in isolation before connecting them.</strong> Each sub-workflow or specialist agent should work correctly on its own before you wire it into the parent workflow. Run test inputs directly against the specialist, verify the outputs, and fix issues at the component level. Debugging a multi-agent system where you&apos;re not sure which component is failing is exponentially harder than debugging each piece independently.</p><p><strong>4. Use deterministic routing when you can, agent routing when you must.</strong> If you can determine which specialist to call with a Switch node (based on a category field, a ticket type, or a prior classification step), do that instead of having an agent decide. Deterministic routing is faster, cheaper, and never routes to the wrong specialist because it misunderstood the description. Agent-based routing is for cases where the input is genuinely ambiguous and classification can&apos;t be reduced to explicit rules.</p><p><strong>5. Log the orchestrator&apos;s reasoning.</strong> When the orchestrator decides to call a specialist, log that decision along with the input that triggered it. This creates an audit trail that&apos;s invaluable for debugging misroutes. If the orchestrator keeps sending billing questions to the technical support agent, the logs will show you the pattern so you can fix the tool descriptions or the system prompt.</p><p><strong>6. Keep system prompts focused.</strong> A specialist agent should have a system prompt that covers its domain and nothing else. Don&apos;t include general instructions about being helpful, formatting rules for every possible output type, or context about the broader system. Focused system prompts produce better results and consume fewer tokens.</p><p><strong>7. Design for graceful degradation.</strong> Every multi-agent workflow should have an answer to &quot;what happens if this agent fails?&quot; If the answer is &quot;the whole thing breaks,&quot; add fallback logic. The mark of a production-grade system isn&apos;t that it never fails. It&apos;s that failures are handled predictably and don&apos;t cascade.</p><p><strong>8. Version your agent configurations.</strong> When you change a system prompt, swap a model, or modify a tool set, track that change. Multi-agent systems have a lot of moving parts, and a performance regression could come from any one of them. Without versioning, you&apos;re left guessing which change caused the problem.</p><h2 id="whats-next">What&apos;s Next</h2><p>Complex agent patterns give you the architecture to handle sophisticated AI tasks without creating a system that&apos;s impossible to maintain. By breaking problems into specialist agents, composing logic through sub-workflows, managing memory deliberately, and building for failure, you get a system that scales with your use case instead of collapsing under its own weight.</p><p>In the next post, we&apos;ll cover <strong>Extending Agent Capabilities</strong>, how to equip your agents with tools from your existing stack and the broader ecosystem so they can grow alongside the tools and services your team relies on.</p><p><em>This post is part of a series that explores proven strategies and practical examples for building reliable AI systems. Find out what topics are already available in the Production AI Playbook </em><a href="https://blog.n8n.io/tag/production-ai-playbook/" rel="noreferrer"><em>here</em></a><em>, or be the first to know when new topics are added via&#xA0;</em><a href="https://blog.n8n.io/tag/production-ai-playbook/rss/" rel="noreferrer"><em>RSS</em></a><em>,&#xA0;</em><a href="https://www.linkedin.com/company/n8n/" rel="noopener"><em>LinkedIn</em></a><em>&#xA0;or&#xA0;</em><a href="https://x.com/n8n_io" rel="noopener"><em>X</em></a><em>.</em></p><hr><p><strong>References:</strong></p><ul><li><a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>n8n Docs: AI Agent Node</u></a></li><li><a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolworkflow/"><u>n8n Docs: Call n8n Workflow Tool</u></a></li><li><a href="https://docs.n8n.io/flow-logic/subworkflows/"><u>n8n Docs: Sub-workflows</u></a></li><li><a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executeworkflowtrigger/"><u>n8n Docs: Execute Workflow Trigger</u></a></li><li><a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolaiagent/"><u>n8n Docs: AI Agent Tool</u></a></li></ul>]]></content:encoded></item>
 <item><title><![CDATA[Integration Patterns: How To Choose for Your Architecture]]></title><description><![CDATA[Explore the most common integration patterns for data and enterprise systems. Learn their uses, key tradeoffs, and ways to combine them in production.
-]]></description><link>https://blog.n8n.io/integration-patterns-how-to-choose-for-your-architecture/</link><guid isPermaLink="false">6a234a7fa364dc0001fd221b</guid><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Mon, 08 Jun 2026 17:12:12 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-4.34.41---p.m..png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-4.34.41---p.m..png" alt="Integration Patterns: How To Choose for Your Architecture"><p>Integration patterns describe how data and events move between systems. They help teams scale operations, handle increasing workloads, and adapt to new processes.</p><p>In practice, many teams don&apos;t choose them but inherit from earlier decisions. A scheduled SQL script becomes the company&apos;s ETL strategy. A webhook someone set up late at night&#xA0; becomes the only link between two platforms. By the time anyone notices, Slack messages and tribal knowledge hold your architecture together. This system isn&#x2019;t reliable or repeatable, and it isn&#x2019;t sustainable under growth.</p><p>In this guide, we cover common integration patterns and the ways they fit into daily work.</p><h2 id="integration-patterns-every-technical-team-should-know">Integration patterns every technical team should know</h2><p>Every integration decision has two layers. There&apos;s the immediate question &#x2014; how do I get this data from A to B &#x2014; and the structural question underneath it: how should A and B be connected in the first place?&#xA0;</p><p>Teams that solve only the first layer end up with systems that work individually but become increasingly difficult to maintain, extend, and debug as the number of connections grows.&#xA0;</p><p>We&#x2019;ll discuss both, starting with data patterns because they&apos;re the decisions you face first and most often. Then we&#x2019;ll move into architectural patterns that determine whether those decisions hold up at scale.</p><h2 id="data-integration-patterns">Data integration patterns</h2><p>Data integration patterns govern the movement of information between systems, like databases, warehouses, and SaaS apps. The right one comes down to volume and freshness &#x2014; how much data, how fast it has to land &#x2014; plus whether the source can push to you or has to be polled.</p><p>These are distinct from enterprise application integration patterns. We&#x2019;ll cover those below.</p><h3 id="etl-and-elt">ETL and ELT</h3><p>The distinction matters less than it used to, but it hasn&apos;t disappeared.&#xA0; Cloud warehouses like&#xA0; Snowflake, BigQuery, and Databricks handle transformation efficiently at the storage layer, so <a href="https://blog.n8n.io/open-source-etl-tools/"><u>ELT</u></a> has become the default for analytics workloads &#x2014; load raw, transform in the warehouse. In contrast, ETL transforms in a staging layer before the load. It still wins when the target is a transactional database that can&apos;t accept raw data, or when compliance rules require scrubbing PII before it lands anywhere central. Use <em>ELT</em> for analytics and <em>ETL</em> when the destination <a href="https://blog.n8n.io/data-mapping-best-practices/">has rules.&#xA0;</a></p><h3 id="migration">Migration</h3><p>Migrations are one-time bulk moves. This might be decommissioning a legacy CRM, consolidating two acquired companies onto one ERP, or switching billing providers. You build it and run it once or twice.&#xA0;</p><h3 id="broadcast">Broadcast</h3><p>Broadcast pushes the same record from one source to many targets, in near real time. Say a new customer signs up. That record needs to land in the CRM, the billing system, and the analytics warehouse, ideally within seconds. Broadcast is one-way and asynchronous, which means the source has no idea whether downstream systems accepted the data. It&#x2019;s best to implement idempotency to ensure the same event processed twice doesn&apos;t create duplicate records; and dead-letter handling to route failed messages to a separate queue for review.&#xA0;</p><h3 id="bidirectional-sync">Bidirectional sync</h3><p>This pattern instantly updates two or more connected platforms. Two systems act as sources of truth and need to stay in agreement &#x2014; like a contact updated in HubSpot showing up in Salesforce, and vice versa. The challenge in this pattern is its strength. Real-time updates are useful, but which version wins when both records change in the same minute? Some teams underestimate this and ship something that quietly corrupts data for months.&#xA0;</p><h3 id="change-data-capture-cdc">Change Data Capture (CDC)&#xA0;</h3><p>CDC tracks changes in a source database and propagates them downstream in near real time. Unlike ETL, which moves data on a schedule, CDC streams only what changed since the last sync. Tools like Debezium capture changes directly from the database transaction log. This helps to keep analytics warehouses up to date without full table scans or intensive polling.</p><h3 id="aggregation">Aggregation</h3><p>Aggregation is the reporting pattern. It pulls data from several systems, unifies and lands in one destination. The challenge with this pattern is smooth consolidation. For instance, every source might call the &#x201C;customer&#x201D; something distinct, and the pattern must rationalize those differences by transforming and translating the data.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">n8n supports these <a href="http://docs.n8n.io/integrations/"><u>integration patterns</u></a> through its core workflow features. <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.scheduletrigger/"><u>Scheduled workflows</u></a> cover ETL, ELT, and batch migration, while webhook triggers handle real-time broadcast and sync. Bidirectional sync can be built using paired workflows with conflict detection logic, though teams need to define their own resolution strategy (last-write-wins, field-level merge, or manual review.)</div></div><p>Aggregation runs through multi-source workflows with several data transformation nodes for combining data from multiple sources. Built-in retry logic and <a href="https://docs.n8n.io/flow-logic/error-handling/"><u>error workflows</u></a> mean failures get captured automatically instead of letting them pass unnoticed.&#xA0;&#xA0;</p><h2 id="enterprise-integration-patterns">Enterprise integration patterns</h2><p>Enterprise integration patterns (EIP) describe how applications communicate &#x2014; loose coupling and asynchronous messaging at the core, with resilience built in. They&#x2019;re the layer above the data plumbing.</p><h3 id="point-to-point">Point-to-point</h3><p>The simplest EIP: System A talks directly to System B. This straightforward process works fine when you have a handful of integrations. But it could collapse around the eighth or ninth integration, when you realize you&apos;ve built dozens of brittle connectors. A single API change can break multiple integrations at once, and tracing which connections are affected becomes harder with every new endpoint.&#xA0;</p><h3 id="hub-and-spoke">Hub-and-spoke</h3><p>A central broker sits between all systems. Each app talks only to the hub, and the hub handles routing, transformation, and protocol translation. This is the standard response to point-to-point sprawl, and it&apos;s how most modern integration platforms are organized. The risk is creating a single point of failure. If the hub is down, communication between systems can stop.&#xA0;</p><h3 id="event-driven">Event-driven</h3><p>Event-driven systems publish events when something happens, and other systems react. There&#x2019;s no polling or scheduled jobs. Event-driven architecture excels when latency matters and the producer doesn&apos;t need to know who the consumers are. The trade-off is observability: Tracing a problem across three services and a queue is harder than reading a single linear log.&#xA0;</p><h3 id="publish-subscribe">Publish-subscribe</h3><p>With this pattern, a producer publishes messages to a topic, and any number of subscribers consume them independently. It&apos;s broadcast plus durability &#x2014; messages are queued, retried, and replayable. Pub/sub is the core of many modern event architectures, from Kafka and SNS to Google Pub/Sub itself.</p><p>API-led connectivity</p><p>This layers APIs by purpose. Instead of building one monolithic API, you organize them into three types. System APIs that expose raw data, process APIs that orchestrate business logic across them, and experience APIs that sit on top to serve specific channels, like mobile and web apps. It&apos;s solid discipline for large organizations, though smaller teams find the layering more complex than useful.</p><h3 id="saga">Saga&#xA0;</h3><p>When a business transaction spans multiple services, the saga pattern coordinates the sequence. Each service performs its step and publishes an event for the next. If any step fails, compensating actions undo the previous ones. It&apos;s the alternative to distributed transactions, which don&apos;t scale well across microservices.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">n8n can implement most of these patterns within a single platform. Webhook triggers handle event-driven flows. API-led work runs on native connectors and the HTTP Request node, while pub/sub-style routing falls to conditional branching with the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.comparedatasets/"><u>Compare Datasets</u></a> and merge nodes. And it&#x2019;s visual instead of buried in code. You get centralized control while keeping each pattern visible and easy to debug.&#xA0;</div></div><h2 id="how-to-choose-the-right-integration-pattern">How to choose the right integration pattern&#xA0;</h2><p>There&#x2019;s no universal best pattern, but these five criteria narrow it down quickly:</p><ul><li><strong>Direction</strong>: Is the data flowing one way, or do both systems need to stay in sync?</li><li><strong>Latency</strong>: Do you need changes propagated in seconds? Or is a nightly refresh fine?</li><li><strong>Scale</strong>: How many endpoints do you have? Is it a handful? Or higher like a dozen or more?</li><li><strong>Volume</strong>: How much data are you handling? Are you integrating a few thousand records daily or a few million?</li><li><strong>Cadence</strong>: Are you implementing a one-time cutover? Or are you managing ongoing pipelines?</li></ul><p>Most production architectures combine patterns. For instance, a real-time customer signup fanning out to five downstream tools is a broadcast, and almost certainly event-driven. But if you&apos;re switching help desk vendors mid-contract, you&#x2019;ll likely choose migration.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">In a platform like n8n, these combinations live in the same workspace. A single workflow can receive events via webhooks, transform and route data through conditional logic, sync records between systems on a schedule, and aggregate results from multiple sources &#x2014; all visible in one canvas.</div></div><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-4.19.26---p.m.-1.png" class="kg-image" alt="Integration Patterns: How To Choose for Your Architecture" loading="lazy" width="1164" height="312" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/Screenshot-2026-06-05-at-4.19.26---p.m.-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/06/Screenshot-2026-06-05-at-4.19.26---p.m.-1.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-4.19.26---p.m.-1.png 1164w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">n8n workflow for bidirectional sync between Pipedrive and MySQL, Schedule Trigger, Compare Datasets, and conditional update logic</span></figcaption></figure><p>When patterns overlap, you don&apos;t need separate tools for each one. You build workflows that take care of each pattern, with every step traceable in the execution history.</p>
+]]></description><link>https://blog.n8n.io/integration-patterns/</link><guid isPermaLink="false">6a234a7fa364dc0001fd221b</guid><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Mon, 08 Jun 2026 17:12:12 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-4.34.41---p.m..png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-4.34.41---p.m..png" alt="Integration Patterns: How To Choose for Your Architecture"><p>Integration patterns describe how data and events move between systems. They help teams scale operations, handle increasing workloads, and adapt to new processes.</p><p>In practice, many teams don&apos;t choose them but inherit from earlier decisions. A scheduled SQL script becomes the company&apos;s ETL strategy. A webhook someone set up late at night&#xA0; becomes the only link between two platforms. By the time anyone notices, Slack messages and tribal knowledge hold your architecture together. This system isn&#x2019;t reliable or repeatable, and it isn&#x2019;t sustainable under growth.</p><p>In this guide, we cover common integration patterns and the ways they fit into daily work.</p><h2 id="integration-patterns-every-technical-team-should-know">Integration patterns every technical team should know</h2><p>Every integration decision has two layers. There&apos;s the immediate question &#x2014; how do I get this data from A to B &#x2014; and the structural question underneath it: how should A and B be connected in the first place?&#xA0;</p><p>Teams that solve only the first layer end up with systems that work individually but become increasingly difficult to maintain, extend, and debug as the number of connections grows.&#xA0;</p><p>We&#x2019;ll discuss both, starting with data patterns because they&apos;re the decisions you face first and most often. Then we&#x2019;ll move into architectural patterns that determine whether those decisions hold up at scale.</p><h2 id="data-integration-patterns">Data integration patterns</h2><p>Data integration patterns govern the movement of information between systems, like databases, warehouses, and SaaS apps. The right one comes down to volume and freshness &#x2014; how much data, how fast it has to land &#x2014; plus whether the source can push to you or has to be polled.</p><p>These are distinct from enterprise application integration patterns. We&#x2019;ll cover those below.</p><h3 id="etl-and-elt">ETL and ELT</h3><p>The distinction matters less than it used to, but it hasn&apos;t disappeared.&#xA0; Cloud warehouses like&#xA0; Snowflake, BigQuery, and Databricks handle transformation efficiently at the storage layer, so <a href="https://blog.n8n.io/open-source-etl-tools/"><u>ELT</u></a> has become the default for analytics workloads &#x2014; load raw, transform in the warehouse. In contrast, ETL transforms in a staging layer before the load. It still wins when the target is a transactional database that can&apos;t accept raw data, or when compliance rules require scrubbing PII before it lands anywhere central. Use <em>ELT</em> for analytics and <em>ETL</em> when the destination <a href="https://blog.n8n.io/data-mapping-best-practices/">has rules.&#xA0;</a></p><h3 id="migration">Migration</h3><p>Migrations are one-time bulk moves. This might be decommissioning a legacy CRM, consolidating two acquired companies onto one ERP, or switching billing providers. You build it and run it once or twice.&#xA0;</p><h3 id="broadcast">Broadcast</h3><p>Broadcast pushes the same record from one source to many targets, in near real time. Say a new customer signs up. That record needs to land in the CRM, the billing system, and the analytics warehouse, ideally within seconds. Broadcast is one-way and asynchronous, which means the source has no idea whether downstream systems accepted the data. It&#x2019;s best to implement idempotency to ensure the same event processed twice doesn&apos;t create duplicate records; and dead-letter handling to route failed messages to a separate queue for review.&#xA0;</p><h3 id="bidirectional-sync">Bidirectional sync</h3><p>This pattern instantly updates two or more connected platforms. Two systems act as sources of truth and need to stay in agreement &#x2014; like a contact updated in HubSpot showing up in Salesforce, and vice versa. The challenge in this pattern is its strength. Real-time updates are useful, but which version wins when both records change in the same minute? Some teams underestimate this and ship something that quietly corrupts data for months.&#xA0;</p><h3 id="change-data-capture-cdc">Change Data Capture (CDC)&#xA0;</h3><p>CDC tracks changes in a source database and propagates them downstream in near real time. Unlike ETL, which moves data on a schedule, CDC streams only what changed since the last sync. Tools like Debezium capture changes directly from the database transaction log. This helps to keep analytics warehouses up to date without full table scans or intensive polling.</p><h3 id="aggregation">Aggregation</h3><p>Aggregation is the reporting pattern. It pulls data from several systems, unifies and lands in one destination. The challenge with this pattern is smooth consolidation. For instance, every source might call the &#x201C;customer&#x201D; something distinct, and the pattern must rationalize those differences by transforming and translating the data.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">n8n supports these <a href="http://docs.n8n.io/integrations/"><u>integration patterns</u></a> through its core workflow features. <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.scheduletrigger/"><u>Scheduled workflows</u></a> cover ETL, ELT, and batch migration, while webhook triggers handle real-time broadcast and sync. Bidirectional sync can be built using paired workflows with conflict detection logic, though teams need to define their own resolution strategy (last-write-wins, field-level merge, or manual review.)</div></div><p>Aggregation runs through multi-source workflows with several data transformation nodes for combining data from multiple sources. Built-in retry logic and <a href="https://docs.n8n.io/flow-logic/error-handling/"><u>error workflows</u></a> mean failures get captured automatically instead of letting them pass unnoticed.&#xA0;&#xA0;</p><h2 id="enterprise-integration-patterns">Enterprise integration patterns</h2><p>Enterprise integration patterns (EIP) describe how applications communicate &#x2014; loose coupling and asynchronous messaging at the core, with resilience built in. They&#x2019;re the layer above the data plumbing.</p><h3 id="point-to-point">Point-to-point</h3><p>The simplest EIP: System A talks directly to System B. This straightforward process works fine when you have a handful of integrations. But it could collapse around the eighth or ninth integration, when you realize you&apos;ve built dozens of brittle connectors. A single API change can break multiple integrations at once, and tracing which connections are affected becomes harder with every new endpoint.&#xA0;</p><h3 id="hub-and-spoke">Hub-and-spoke</h3><p>A central broker sits between all systems. Each app talks only to the hub, and the hub handles routing, transformation, and protocol translation. This is the standard response to point-to-point sprawl, and it&apos;s how most modern integration platforms are organized. The risk is creating a single point of failure. If the hub is down, communication between systems can stop.&#xA0;</p><h3 id="event-driven">Event-driven</h3><p>Event-driven systems publish events when something happens, and other systems react. There&#x2019;s no polling or scheduled jobs. Event-driven architecture excels when latency matters and the producer doesn&apos;t need to know who the consumers are. The trade-off is observability: Tracing a problem across three services and a queue is harder than reading a single linear log.&#xA0;</p><h3 id="publish-subscribe">Publish-subscribe</h3><p>With this pattern, a producer publishes messages to a topic, and any number of subscribers consume them independently. It&apos;s broadcast plus durability &#x2014; messages are queued, retried, and replayable. Pub/sub is the core of many modern event architectures, from Kafka and SNS to Google Pub/Sub itself.</p><p>API-led connectivity</p><p>This layers APIs by purpose. Instead of building one monolithic API, you organize them into three types. System APIs that expose raw data, process APIs that orchestrate business logic across them, and experience APIs that sit on top to serve specific channels, like mobile and web apps. It&apos;s solid discipline for large organizations, though smaller teams find the layering more complex than useful.</p><h3 id="saga">Saga&#xA0;</h3><p>When a business transaction spans multiple services, the saga pattern coordinates the sequence. Each service performs its step and publishes an event for the next. If any step fails, compensating actions undo the previous ones. It&apos;s the alternative to distributed transactions, which don&apos;t scale well across microservices.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">n8n can implement most of these patterns within a single platform. Webhook triggers handle event-driven flows. API-led work runs on native connectors and the HTTP Request node, while pub/sub-style routing falls to conditional branching with the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.comparedatasets/"><u>Compare Datasets</u></a> and merge nodes. And it&#x2019;s visual instead of buried in code. You get centralized control while keeping each pattern visible and easy to debug.&#xA0;</div></div><h2 id="how-to-choose-the-right-integration-pattern">How to choose the right integration pattern&#xA0;</h2><p>There&#x2019;s no universal best pattern, but these five criteria narrow it down quickly:</p><ul><li><strong>Direction</strong>: Is the data flowing one way, or do both systems need to stay in sync?</li><li><strong>Latency</strong>: Do you need changes propagated in seconds? Or is a nightly refresh fine?</li><li><strong>Scale</strong>: How many endpoints do you have? Is it a handful? Or higher like a dozen or more?</li><li><strong>Volume</strong>: How much data are you handling? Are you integrating a few thousand records daily or a few million?</li><li><strong>Cadence</strong>: Are you implementing a one-time cutover? Or are you managing ongoing pipelines?</li></ul><p>Most production architectures combine patterns. For instance, a real-time customer signup fanning out to five downstream tools is a broadcast, and almost certainly event-driven. But if you&apos;re switching help desk vendors mid-contract, you&#x2019;ll likely choose migration.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">In a platform like n8n, these combinations live in the same workspace. A single workflow can receive events via webhooks, transform and route data through conditional logic, sync records between systems on a schedule, and aggregate results from multiple sources &#x2014; all visible in one canvas.</div></div><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-4.19.26---p.m.-1.png" class="kg-image" alt="Integration Patterns: How To Choose for Your Architecture" loading="lazy" width="1164" height="312" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/Screenshot-2026-06-05-at-4.19.26---p.m.-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/06/Screenshot-2026-06-05-at-4.19.26---p.m.-1.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-4.19.26---p.m.-1.png 1164w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">n8n workflow for bidirectional sync between Pipedrive and MySQL, Schedule Trigger, Compare Datasets, and conditional update logic</span></figcaption></figure><p>When patterns overlap, you don&apos;t need separate tools for each one. You build workflows that take care of each pattern, with every step traceable in the execution history.</p>
 <!--kg-card-begin: html-->
 <script>
   workflowBanner([1822, 1964, 6493], document.currentScript);
@@ -1288,7 +1279,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 13 Jun 2026 11:19:47 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 07:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -1297,7 +1288,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 21:19:47 GMT</pubDate>
+  <pubDate>Tue, 09 Jun 2026 04:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1306,7 +1297,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 13 Jun 2026 21:19:47 GMT</pubDate>
+  <pubDate>Fri, 12 Jun 2026 07:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1315,7 +1306,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 14 Jun 2026 11:19:47 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 06:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1324,7 +1315,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 06:19:47 GMT</pubDate>
+  <pubDate>Wed, 10 Jun 2026 20:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1333,7 +1324,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 11 Jun 2026 21:19:47 GMT</pubDate>
+  <pubDate>Sat, 13 Jun 2026 10:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1342,7 +1333,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 15:19:47 GMT</pubDate>
+  <pubDate>Sat, 13 Jun 2026 21:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1351,7 +1342,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 11 Jun 2026 04:19:47 GMT</pubDate>
+  <pubDate>Sun, 14 Jun 2026 17:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1360,7 +1351,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 11 Jun 2026 22:19:47 GMT</pubDate>
+  <pubDate>Wed, 10 Jun 2026 11:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1369,7 +1360,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 13:19:47 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 22:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1378,7 +1369,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 07:19:47 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 07:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1387,7 +1378,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 10 Jun 2026 09:19:47 GMT</pubDate>
+  <pubDate>Tue, 09 Jun 2026 14:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1396,7 +1387,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 13 Jun 2026 10:19:47 GMT</pubDate>
+  <pubDate>Mon, 08 Jun 2026 07:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1405,7 +1396,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 07:19:47 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 06:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1414,7 +1405,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 14 Jun 2026 20:19:47 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 21:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1423,7 +1414,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 13 Jun 2026 20:19:47 GMT</pubDate>
+  <pubDate>Mon, 08 Jun 2026 10:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1432,7 +1423,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 11 Jun 2026 21:19:47 GMT</pubDate>
+  <pubDate>Fri, 12 Jun 2026 00:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1441,7 +1432,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 13 Jun 2026 01:19:47 GMT</pubDate>
+  <pubDate>Sun, 14 Jun 2026 03:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1450,7 +1441,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 21:19:47 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 05:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1459,7 +1450,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 16:19:47 GMT</pubDate>
+  <pubDate>Wed, 10 Jun 2026 05:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1468,7 +1459,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 02:19:47 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 05:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1477,7 +1468,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 09 Jun 2026 02:19:47 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 23:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1486,7 +1477,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 17 Jun 2026 08:19:47 GMT</pubDate>
+  <pubDate>Fri, 12 Jun 2026 08:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1495,7 +1486,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 07 Jun 2026 11:19:47 GMT</pubDate>
+  <pubDate>Wed, 10 Jun 2026 11:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1504,7 +1495,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 20:19:47 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 18:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1513,7 +1504,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 13 Jun 2026 02:19:47 GMT</pubDate>
+  <pubDate>Mon, 08 Jun 2026 06:41:39 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
@@ -1897,49 +1888,58 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[IA: MEDIUS INNOVE SUR LE SECTEUR DES COMPTES FOURNISSEURS]]></title>
-  <link>https://www.ia-news.fr/ia-medius-innove-sur-le-secteur-des-comptes-fournisseurs/</link>
+  <title><![CDATA[SpikeeLabs annonce la création d’une expertise Data]]></title>
+  <link>https://www.ia-news.fr/spikeelabs-annonce-la-creation-dune-expertise-data/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[ONLYOFFICE lance un nouveau plugin ChatGPT]]></title>
-  <link>https://www.ia-news.fr/onlyoffice-lance-un-nouveau-plugin-chatgpt/</link>
+  <title><![CDATA[IA GÉNÉRATIVES ET RELATION CLIENT : CAS D’USAGES, COMPLEXITÉ ET RISQUES]]></title>
+  <link>https://www.ia-news.fr/ia-generatives-et-relation-client-cas-dusages-complexite-et-risques/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/03/Unknown.png" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/03/Unknown.png" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/03/Unknown.png" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Provence.ai s&rsquo;installe dans un hôtel particulier à Marseille et recrute]]></title>
-  <link>https://www.ia-news.fr/provence-ai-sinstalle-dans-un-hotel-particulier-a-marseille-et-recrute/</link>
+  <title><![CDATA[Camunda présente ses nouvelles capacités IA pour rationaliser la transformation de l’entreprise]]></title>
+  <link>https://www.ia-news.fr/camunda-presente-ses-nouvelles-capacites-ia-pour-rationaliser-la-transformation-de-lentreprise/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Camunda présente de nouvelles capacités de création d’agents d’IA pour les entreprises]]></title>
-  <link>https://www.ia-news.fr/camunda-presente-de-nouvelles-capacites-de-creation-dagents-dia-pour-les-entreprises/</link>
+  <title><![CDATA[L&rsquo;ANALYSE CONVERSATIONNELLE EN ACTION]]></title>
+  <link>https://www.ia-news.fr/lanalyse-conversationnelle-en-action/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[CamundaCon 2026 réunit la communauté mondiale de l&rsquo;orchestration pour repousser les limites de l&rsquo;automatisation]]></title>
-  <link>https://www.ia-news.fr/camundacon-2026-reunit-la-communaute-mondiale-de-lorchestration-pour-repousser-les-limites-de-lautomatisation/</link>
+  <title><![CDATA[La startup de cybersécurité Hackuity prend son essor et annonce une levée de fonds de 12 M€]]></title>
+  <link>https://www.ia-news.fr/la-startup-de-cybersecurite-hackuity-prend-son-essor-et-annonce-une-levee-de-fonds-de-12-me/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Intégration d&rsquo;un chatbot : quel ROI ?]]></title>
+  <link>https://www.ia-news.fr/integration-dun-chatbot-quel-roi/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
