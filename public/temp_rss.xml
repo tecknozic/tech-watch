@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 14:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 19:53:13 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[AI will create more jobs for humans, not replace them, Amazon founder Bezos says]]></title>
+            <description><![CDATA[The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.]]></description>
+            <link>https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqdrw2yy3vo#0</guid>
+            <pubDate>Wed, 17 Jun 2026 16:37:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b53/live/14d94320-6a65-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google, Nvidia and Anthropic bosses' AI tips for students]]></title>
+            <description><![CDATA[Sundar Pichai, Jensen Huang and Jack Clark share their advice with the BBC.]]></description>
+            <link>https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cewqg4qwq1wo#0</guid>
+            <pubDate>Wed, 17 Jun 2026 15:59:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7c5/live/d2223b00-6a2c-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Snap unveils £1,995 smart glasses after previous flops]]></title>
             <description><![CDATA[The augmented reality glasses from Snapchat's parent company are expected to ship in autumn.]]></description>
@@ -103,22 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a65/live/82edf440-642b-11f1-a08b-a904eba6340c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Farage says Reform has contacted X 'to highest level' over fake AI ads]]></title>
-            <description><![CDATA[The fake ads feature the governor of the Bank of England - the Bank has urged people to report them.]]></description>
-            <link>https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cewq1w7r0zgo#0</guid>
-            <pubDate>Tue, 09 Jun 2026 16:45:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2d6/live/9a3ff590-6420-11f1-b421-199136196dd5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU orders Meta to open WhatsApp to rival AI chatbots ]]></title>
-            <description><![CDATA[Meta has accused the EU of "regulatory overreach" and says its decision will allow tech giants like OpenAI free access to WhatsApp.]]></description>
-            <link>https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8qj8wjgxwo#0</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:12 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14b8/live/f819e550-641a-11f1-9216-c3eba4acaf31.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The prompt that made ChatGPT generate disturbing images. What does this tell us about AI?]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,13 +184,169 @@
         </item>
     
 <item>
+		<title>World leaders want American AI. They just don&#8217;t want America to be able to turn it off.</title>
+		<link>https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 19:01:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[fable]]></category>
+		<category><![CDATA[G7]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133924</guid>
+
+					<description><![CDATA[French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Anthropic becomes first AI startup to join the Frontier carbon removal coalition</title>
+		<link>https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 18:30:56 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[carbon removal]]></category>
+		<category><![CDATA[frontier]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133904</guid>
+
+					<description><![CDATA[Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Social media’s next evolution: user-controlled algorithms</title>
+		<link>https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 18:19:48 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133770</guid>
+
+					<description><![CDATA[Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names</title>
+		<link>https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 17:43:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[odyssey]]></category>
+		<category><![CDATA[world models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133823</guid>
+
+					<description><![CDATA[World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Only 16 percent of Americans think AI will have a positive impact on society, a new study shows</title>
+		<link>https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 17:00:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Grok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133545</guid>
+
+					<description><![CDATA[Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Google bets on Gemini to reinvent the smart home speaker</title>
+		<link>https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 16:30:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[audio device]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google home]]></category>
+		<category><![CDATA[smart speaker]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133765</guid>
+
+					<description><![CDATA[Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>The slowtech revolution is here to kill your phone addiction and rescue your attention span</title>
+		<link>https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 15:24:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[austin murray]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[joy howard]]></category>
+		<category><![CDATA[screen time]]></category>
+		<category><![CDATA[slowtech]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Tony Fadell]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3133698</guid>
+
+					<description><![CDATA[“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.</title>
+		<link>https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[Thrive Capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3132735</guid>
+
+					<description><![CDATA[If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI</title>
 		<link>https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/</link>
 		
 		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
 		<pubDate>Wed, 17 Jun 2026 14:15:22 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[formal verification]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
 		<category><![CDATA[reliability]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3133745</guid>
 
@@ -227,6 +383,7 @@
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[AI translation]]></category>
 		<category><![CDATA[DeepL]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
 		<category><![CDATA[Mixhalo]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3133711</guid>
 
@@ -244,7 +401,6 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[AI chatbot]]></category>
 		<category><![CDATA[Pinterest]]></category>
 		<category><![CDATA[shopping]]></category>
@@ -407,161 +563,66 @@
 		
 		
 			</item>
-<item>
-		<title>Probably raises $9M to build a more reliable kind of AI</title>
-		<link>https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/</link>
-		
-		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 13:15:09 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Andreessen Horowitz]]></category>
-		<category><![CDATA[hallucinations]]></category>
-		<category><![CDATA[Probably]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3133240</guid>
+<item><title><![CDATA[Agent-to-Agent (A2A) Protocol: How Cross-Agent Communication Works in Production]]></title><description><![CDATA[Deep dive into the A2A protocol: Explore specification-level components, failure modes, and how it enables enterprise-grade AI orchestration at scale.
 
-					<description><![CDATA[Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO</title>
-		<link>https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 11:21:41 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[cursor]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3133217</guid>
-
-					<description><![CDATA[The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>ChatGPT&#8217;s market share slips below 50% for first time</title>
-		<link>https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 10:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sensor tower]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3132789</guid>
-
-					<description><![CDATA[The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions</title>
-		<link>https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 06:59:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Asia]]></category>
-		<category><![CDATA[malaysia]]></category>
-		<category><![CDATA[respond]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3133092</guid>
-
-					<description><![CDATA[Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.  ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8217;s Israel, ICE ties</title>
-		<link>https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Mon, 15 Jun 2026 23:51:44 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[ICE]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Sundar Pichai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3133119</guid>
-
-					<description><![CDATA[AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>The US government&#8217;s Anthropic models ban was never about an AI jailbreak</title>
-		<link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Mon, 15 Jun 2026 21:50:21 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[fable]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<category><![CDATA[us government]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3133070</guid>
-
-					<description><![CDATA[The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Meta&#8217;s new ‘AI Mode’ on Facebook pulls from public info across its platforms</title>
-		<link>https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Mon, 15 Jun 2026 18:30:58 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Search]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3132926</guid>
-
-					<description><![CDATA[Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Cybersecurity vets protest &#8216;dangerous&#8217; US government ban on Anthropic&#8217;s most powerful models</title>
-		<link>https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Mon, 15 Jun 2026 15:29:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[Claude Fable 5]]></category>
-		<category><![CDATA[Claude Mythos]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3132849</guid>
-
-					<description><![CDATA[A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.]]></description>
-		
-		
-		
-			</item>
+]]></description><link>https://blog.n8n.io/agent-to-agent-protocol/</link><guid isPermaLink="false">6a2c33d56f01b0000168ae89</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Wed, 17 Jun 2026 15:34:23 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--1---1---1---1-.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--1---1---1---1-.jpg" alt="Agent-to-Agent (A2A) Protocol: How Cross-Agent Communication Works in Production"><p>Building one <a href="https://blog.n8n.io/ai-agents/"><u>AI agent</u></a> to handle a task is simple. The real headache begins when you need to build workflows where multiple agents must coordinate tasks across different systems. Developers often end up writing custom code just to make tools collaborate.</p><p>The agent-to-agent protocol &#x2014; also called the Agent2Agent or A2A protocol &#x2014; solves this problem by giving different agentic systems a common language for collaboration.</p><p>But how does it work? Let&#x2019;s start with the basics.</p><h2 id="what-is-agent-to-agent-a2a-protocol">What is agent-to-agent (A2A) protocol?</h2><p>Google introduced the A2A protocol in April 2025 as an open standard for AI systems to communicate. It uses HTTP as the primary transport, JSON-RPC for structured messaging, and server-sent events (SSE) for streaming updates during long-running tasks. This design supports asynchronous work, so one agent can send a task to another and continue operating while the work runs.&#xA0;</p><p>For technical leads, the Google A2A protocol removes the need to build a custom connection every time you add a new tool to your stack. Because it uses a standardized JSON message format, you don&#x2019;t have to worry about vendor lock-in. It fits right into the security and authorization patterns your enterprise already uses so you can swap frameworks without breaking the whole architecture.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">A2A is an open protocol, which means this is a technical description on how AI agents communicate according to the Google. Agent Development Kit (ADK) is an actual programming library from Google that supports A2A protocol. Several other libraries have implemented A2A as well.&#xA0;</div></div><p>When looking at what the A2A protocol provides, it helps to understand the two roles it defines:</p><ol><li><strong>Client agent:</strong> The one asking for help</li><li><strong>Remote agent:</strong> The one doing the work</li></ol><p>This setup is flexible. Depending on the workflow, any agent can switch between a client and a remote server. This makes it easy for different tools to collaborate and solve complex problems together.</p><h2 id="a2a-protocol-architecture-core-components">A2A protocol architecture: Core components</h2><p>The A2A protocol uses four main building blocks to keep systems interoperable. These components define a consistent communication model that operates over HTTP and can also integrate into broader architectures that use message brokers like RabbitMQ or Apache Kafka. However, maintaining context depends on implementation details.</p><h3 id="agent-cards">Agent cards</h3><p>An agent card is a digital ID that describes the agent&#x2019;s capabilities, what tasks it can handle, and the authentication it needs. In a production system, these cards help with discovery. If a card is missing or formatted incorrectly, the integration fails because the system can&#x2019;t confirm the agent&#x2019;s capabilities or permissions.</p><h3 id="tasks">Tasks</h3><p>Tasks are the specific units of work that <a href="https://blog.n8n.io/how-to-evaluate-the-performance-of-ai-agents/"><u>agents can perform</u></a>. Each task describes the payload, the expected output, and any quotas or limits. This is how a client agent tells a remote agent exactly what it needs.</p><p>If these aren&#x2019;t clearly defined, the workflow can trigger an error requiring manual intervention because the executor won&#x2019;t know which business process to run. Using a common language for tasks ensures reliable asynchronous communication, even across different software applications.&#xA0;</p><h3 id="messages-and-parts">Messages and parts</h3><p>Messages carry the actual data packets exchanged between tools, usually formatted as JSON messages. A single message is broken down into parts, which might include the core instructions and the metadata needed for context.</p><p>The server can&#x2019;t exchange information when a message is malformed because it leads to data consistency issues. In this case, the agents are technically &#x201C;talking&#x201D; but don&#x2019;t understand each other. For high-stakes B2B or supply chain systems, this could stop a batch processing job in its tracks.</p><h3 id="transport-and-streaming">Transport and streaming</h3><p>This layer is the &#x201C;road&#x201D; the data travels on. It supports different ways of moving information from simple HTTP to optional message brokers. For real-time updates, it uses SSE to keep the connection open for data to flow without starting a new request each time.</p><p>If the transport layer isn&#x2019;t set up right, your system will be slow or drop connections. A solid protocol ensures seamless agent communication, even when tools are busy with long running tasks. This keeps microservices fast and facilitates easy architecture scaling as your business and workflows grow.</p><h2 id="how-the-a2a-protocol-works">How the A2A protocol works</h2><p>The A2A protocol follows a structured sequence to make tools collaborate. It works much like a standard client-server model, where one agent makes a request and another fulfills it.&#xA0;</p><h3 id="discovery">Discovery</h3><p>Before two agents can collaborate, they have to find each other. In discovery, the client agent looks for a remote agent that has the right capabilities for the job. It does this by checking agent cards, which list the tasks a specific tool can handle.</p><p>If discovery fails, the workflow can&#x2019;t progress. A solid discovery phase ensures your automation finds the best tool for the job without manual routing.&#xA0;</p><h3 id="authentication">Authentication</h3><p>Once the agents find each other, they need to prove who they are. Authentication uses standardized security like OAuth, mTLS, or JWT to make sure the connection is secure. The protocol checks authorization levels to see if the agent is allowed to delegate tasks or access specific data.</p><p>In a production environment, this is where you prevent unauthorized access. If the authentication is missing or wrong, the remote agent will reject the request. Using these enterprise-grade patterns ensures your agent communications stay secure and compliant.</p><h3 id="communication">Communication</h3><p>The actual work begins after finishing this initial handshake. The agents now start to exchange structured data to complete the task. This asynchronous communication lets the client send instructions and then wait for a trigger or a callback once the output is ready.</p><p>By using the A2A protocol, the tools can interact and share context until they complete their goals. If there&#x2019;s an error, the protocol provides clear reporting so the system can recover without halting the entire workflow.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-17-at-9.31.19---a.m.--1---1---1---1-.png" class="kg-image" alt="Agent-to-Agent (A2A) Protocol: How Cross-Agent Communication Works in Production" loading="lazy" width="1408" height="1218" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/Screenshot-2026-06-17-at-9.31.19---a.m.--1---1---1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/06/Screenshot-2026-06-17-at-9.31.19---a.m.--1---1---1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-17-at-9.31.19---a.m.--1---1---1---1-.png 1408w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">A2A doesn&#x2019;t limit how the actual AI Agents are built, it is a communication layer between them. Source: https://docs.cloud.google.com/run/docs/ai/a2a-agents</span></figcaption></figure><p></p><h2 id="a2a-vs-mcp-protocol-selection-for-multi-agent-architectures">A2A vs. MCP: Protocol selection for multi-agent architectures</h2><p></p><p>The A2A protocol and <a href="https://blog.n8n.io/n8n-mcp-server/"><u>model context protocol (MCP)</u></a> are complementary tools. MCP is a protocol that connects tools and services to a single agent. On the other hand, the A2A protocol acts as the middleware that lets those autonomous agents work together across different networks.&#xA0;</p><p>While the <a href="https://blog.n8n.io/best-mcp-servers/"><u>MCP server</u></a> handles the connection between a client and its resources, A2A handles the interoperability between the agents themselves. The table below shows how MCP and A2A differ.&#xA0;</p>
+<!--kg-card-begin: html-->
+<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
+  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
+    Scroll for more &#x2794;
+  </div>
+  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
+    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 700px;">
+      <thead>
+        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;">Feature</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 240px;">MCP</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 240px;">A2A</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Communication Model</td>
+          <td style="padding: 16px;">Uses a client-server model where a central host controls how an agent accesses specific tools</td>
+          <td style="padding: 16px;">Uses a peer-to-peer model where agents act as both client and remote server to talk directly</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Role in the Stack</td>
+          <td style="padding: 16px;">The &quot;last mile&quot; integration layer between an AI model and local resources or external APIs</td>
+          <td style="padding: 16px;">The cross-network layer providing a common language for independent agentic systems</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Session Semantics</td>
+          <td style="padding: 16px;">Stateful, long-running sessions; connection stays open to maintain context</td>
+          <td style="padding: 16px;">Asynchronous, stateless interactions; one agent sends a payload and waits for an output</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Discovery Mechanism</td>
+          <td style="padding: 16px;">Explicit local config; developers manually list which endpoints are available to the agent</td>
+          <td style="padding: 16px;">Can support dynamic discovery via agent cards; agents broadcast their capabilities automatically</td>
+        </tr>
+        <tr>
+          <td style="padding: 16px; font-weight: bold;">Use Case</td>
+          <td style="padding: 16px;">Connecting one agent to a private database, filesystem, or app like Slack</td>
+          <td style="padding: 16px;">Multi-step workflows where specialized agents need to delegate tasks to one another</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
+</div>
+<!--kg-card-end: html-->
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-17-at-9.21.52---a.m.--1---1---1---1-.png" class="kg-image" alt="Agent-to-Agent (A2A) Protocol: How Cross-Agent Communication Works in Production" loading="lazy" width="1976" height="666" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/Screenshot-2026-06-17-at-9.21.52---a.m.--1---1---1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/06/Screenshot-2026-06-17-at-9.21.52---a.m.--1---1---1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/06/Screenshot-2026-06-17-at-9.21.52---a.m.--1---1---1---1-.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-17-at-9.21.52---a.m.--1---1---1---1-.png 1976w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">In addition to connecting Agent with tools, MCP can be used with IDEs and other apps. Source: https://modelcontextprotocol.io/docs/getting-started/intr</span></figcaption></figure><h2 id="a2a-security-and-authentication">A2A security and authentication</h2><p>The A2A protocol is built for large corporations that need to keep their data safe. It uses high-level security like mTLS to encrypt connections and OIDC authentication to check who&#x2019;s logging in. Instead of using simple API keys, it relies on JWT and OAuth to make sure only the right agents have access.</p><p>This is important when deployed in production environments because it follows the same role-based access control (RBAC) rules your team already uses. AI systems can then use these security standards to delegate tasks without creating new security gaps for your business.</p><h2 id="a2a-implementation-challenges">A2A implementation challenges</h2><p>Moving to the A2A protocol makes systems more powerful, but it also adds new technical hurdles:</p><ul><li><strong>Complex troubleshooting:</strong> Finding the source of an error is much harder when agents work asynchronously rather than in a simple setup.</li><li><strong>Security risks:</strong> Giving an agent the power to delegate tasks means you must be mindful about authorization to prevent data leaks.</li><li><strong>Context loss:</strong> If a message is missing critical details, the remote agent might not understand the goal, which can lead to a broken workflow.</li><li><strong>Network lag:</strong> High-traffic agent communication can slow down systems if message brokers aren&#x2019;t configured for speed.</li></ul><p>These challenges require a solid plan for observability and fine-tuning to keep production environments running smoothly.&#xA0;</p><h2 id="build-the-future-of-ai-with-a2a">Build the future of AI with A2A</h2><p>Moving to the A2A protocol means making your system more independent while using stronger security. Teams must focus on clear discovery and authorization to ensure workflows run smoothly.</p><p><a href="https://n8n.io/ai/" rel="noreferrer">n8n provides the orchestration layer</a> that keeps distributed systems manageable. Its agent features run on LangChain, giving you a structured way to expose sub-workflows as callable tools and to route tasks through different models or external services.</p><p>n8n integrates with frameworks like <a href="https://docs.n8n.io/advanced-ai/mcp/accessing-n8n-mcp-server/" rel="noreferrer">MCP</a> and vector databases and can serve as the coordination hub for agents built on different stacks. And for teams experimenting with A2A today, the community has <a href="https://github.com/pjawz/n8n-nodes-agent2agent"><u>published an A2A node</u></a> that brings protocol-level communication into n8n workflows.&#xA0;</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Build interoperable multi-agent systems with n8n</h3>
+    <p>Orchestrate agents across different frameworks and stacks, all from one platform</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud free</a>
+</div>
+<!--kg-card-end: html-->
+]]></content:encoded></item>
 <item><title><![CDATA[LLM Routing: From Strategy Selection to Production Architecture]]></title><description><![CDATA[Learn how LLM routing improves accuracy, latency, and cost with per request model selection. Optimize pipelines, and use the right tool every time.]]></description><link>https://blog.n8n.io/llm-routing/</link><guid isPermaLink="false">6a2835714699010001b98334</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Wed, 10 Jun 2026 15:16:06 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL-2.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL-2.jpeg" alt="LLM Routing: From Strategy Selection to Production Architecture"><p>Each large language model (LLM) has different latency profiles, cost curves, and capabilities. Many teams pick one and lock in. Early on, that instinct makes sense. At scale, it can drive costs and damage output quality. No single LLM is optimal for every query, user tier, and budget cycle.</p><p>LLM routing makes selection dynamic. Instead of a one-time configuration, each request routes to the <a href="https://n8n.io/ai-benchmark/"><u>most appropriate model</u></a> based on task type, cost threshold, and performance requirements.&#xA0;</p><p>Model performance varies by task type &#x2014; your model selection logic should, too. Discover how LLM routing works and which strategies to implement as your system grows in complexity and scale.</p><h2 id="what%E2%80%99s-llm-routing">What&#x2019;s LLM routing?</h2><p>LLM routing is a pattern method that routes user queries to the best possible LLM. It uses an LLM router, which is a control-plane component that sits between your application layer and multiple LLM backends.&#xA0;</p><p>Rather than sending every incoming query to a single endpoint, the router analyzes each request and selects the most appropriate model. This is based on predefined criteria, including task type, cost threshold, and user tier.&#xA0;</p><p>A well-designed <a href="https://build.nvidia.com/nvidia/llm-router"><u>LLM router</u></a> handles several responsibilities:&#xA0;</p><ul><li><strong>Request analysis:</strong> Classifies the query by type, complexity, or domain</li><li><strong>Request forwarding:</strong> Routes the analyzed query to the selected model&#x2019;s API endpoint</li><li><strong>Fallback handling:</strong> Detects failures, rate limits, and degraded responses, then reroutes automatically</li><li><strong>Response aggregation:</strong> Combines or selects outputs when multiple models are queried in parallel</li><li><strong>Logging:</strong> Records which model handled what, at what cost, and with what latency</li></ul><h2 id="why-llm-model-routing-matters-in-production">Why LLM model routing matters in production</h2><p>Frontier models can cost significantly more per token than smaller alternatives like GPT-4o mini or Mistral 7B. If half your traffic is simple summarization or classification, you&#x2019;re paying that premium for work a cheaper model handles just as well. At 10 million daily queries, that differential isn&apos;t a rounding error &#x2014; it&apos;s a line item that forces a decision.</p><p>Routing the right-sized language models also cuts latency for simpler queries. Users waiting on a fast-path response don&apos;t need to sit through inference time built for 70B parameter reasoning. Multiply that across millions of daily queries, and the time savings grow fast.</p><p>Then there&#x2019;s the resilience argument. When a provider hits rate limits or degrades, a fallback route keeps the application running.</p><p>The organizational failure mode is often the last to get diagnosed. When one model handles everything, it&#x2019;s harder to judge whether it&apos;s the right model for each task. For instance, a general LLM struggles with complex, multi-step math. This case is best left to reasoning-optimized models.</p><p>When queries contain sensitive data, routing those prompts to a local LLM stops being an optimization and becomes a compliance requirement. Quality works in the other direction: When simple LLMs handle complex queries, results can be inaccurate and inferior. Routing lets you route complex queries to models which are equipped to process them.</p>
 <!--kg-card-begin: html-->
 <div class="content-banner">
@@ -1198,88 +1259,11 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
 </script>
 <!--kg-card-end: html-->
 <h2 id="wrap-up">Wrap up</h2><p>Every AI Agent debugging session should end with two outcomes: the fix itself, and a test case that ensures the same failure never reaches production again. That&apos;s where debugging helps to build reliability and not simply react to outcome.</p><p>In this article, we covered:</p><ul><li>Where agent failures actually come from: most trace back to context (missing data, ambiguous tool descriptions, underspecified parameters), rather than model capability;</li><li>Three levels of debugging depth: tagging executions to find them fast, tracing the decision chain step by step, and tuning model parameters or swapping models when the trace looks fine but the output is still wrong;</li><li>When to move from debugging to evaluation: if the same failure patterns keep recurring, the problem is a missing test suite, and not a debugging gap;</li><li>How to debug AI Agents in n8n at each level: the Execution Data node for tagging, built-in execution history and logs for tracing, LangSmith for a specialized agent-run UI, and model sub-nodes for parameter and model changes.</li></ul><p>In the end, you want to make failures diagnosable rather than trying to eliminate every wrong case.</p><h2 id="whats-next">What&apos;s next</h2><p>Debugging, evaluation, and production deployment are interconnected, with each stage informing the other. Follow the resources below to cover each stage in more depth:</p><ul><li><a href="https://blog.n8n.io/make-ai-agents-more-reliable-and-restrict-the-actions-they-can-take/" rel="noreferrer">How can I make AI Agents more reliable and restrict the actions they can take?</a><u>;</u></li><li><a href="https://blog.n8n.io/llm-evaluation-framework/"><u>Building your own LLM evaluation framework</u></a> &#x2014; hands-on tutorial for implementing LLM-as-a-judge, goes deeper than the evals overview article;&#xA0;</li><li><a href="https://blog.n8n.io/best-practices-for-deploying-ai-agents-in-production/"><u>15 best practices for deploying AI agents in production</u></a> &#x2014; covers infrastructure, scaling, and monitoring beyond debugging.</li></ul><p>Every debugging technique in this article is built into n8n.</p><p>Start your journey with <a href="https://app.n8n.cloud/register" rel="noreferrer">n8n Cloud for free</a> to get full execution visibility from your first agent workflow!</p>]]></content:encoded></item>
-<item><title><![CDATA[Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud]]></title><description><![CDATA[Automate document summarization on infrastructure that meets strict data residency requirements. A step-by-step n8n workflow using IONOS AI Model Hub and Nextcloud.]]></description><link>https://blog.n8n.io/sovereign-ai-in-practice-automate-document-summarization-with-ionos-ai-model-hub-and-nextcloud/</link><guid isPermaLink="false">69ef55f15d0e760001f826d2</guid><category><![CDATA[By partners]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Sun, 31 May 2026 11:25:03 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/05/BlogHeader_Node-Spotlight_IONOS.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/05/BlogHeader_Node-Spotlight_IONOS.jpg" alt="Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud"><p><strong><em>This Node Spotlight is a guest post written by Fabrice Wurtz, Content Marketing Manager at IONOS.</em></strong></p><p>By combining the <a href="https://cloud.ionos.co.uk/managed/ai-model-hub" rel="noreferrer"><strong>IONOS AI Model Hub</strong></a>, <strong>Nextcloud</strong>, and <strong>n8n</strong>, you can deploy a fully sovereign, automated document intelligence system that keeps every byte inside European jurisdiction.</p><p>In the race to adopt AI, many organizations have hit a wall. That wall is sovereignty, aside from output-cost-ratio. For industries like healthcare, legal, finance, and the public sector, the &apos;standard&apos; path of sending data to a US-based AI provider isn&apos;t just risky&#x2014;it often violates the AI Act, GDPR, or internal compliance frameworks.</p><h3 id="the-core-concept-privacy-by-design">The core concept: privacy by design</h3><p>The goal is simple: your data never leaves your safety zone.</p><ul><li><strong>Your storage: </strong>Nextcloud (self-hosted or <a href="https://www.ionos.co.uk/office-solutions/nextcloud-workspace"><u>IONOS Nextcloud Workspace</u></a>).</li><li><strong>Your logic: </strong>n8n (orchestrating the flow).</li><li><strong>Your intelligence: </strong><a href="https://cloud.ionos.co.uk/managed/ai-model-hub"><u>IONOS AI Model Hub</u></a> (open-source models like Mistral, hosted in European data centers).</li></ul><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-immersive  kg-cta-has-img  " data-layout="immersive">
-            
-                <div class="kg-cta-sponsor-label-wrapper">
-                    <div class="kg-cta-sponsor-label">
-                        <span style="white-space: pre-wrap;">Featured content from IONOS</span>
-                    </div>
-                </div>
-            
-            <div class="kg-cta-content">
-                
-                    <div class="kg-cta-image-container">
-                        <a href="https://www.youtube.com/watch?v=iaUED9KH9hA"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/Episode-2.png" alt="Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud" data-image-dimensions="1920x1080"></a>
-                    </div>
-                
-                
-                    <div class="kg-cta-content-inner">
-                    
-                        <div class="kg-cta-text">
-                            <p><span style="white-space: pre-wrap;">Watch the full walkthrough on the IONOS UK channel. This 6-minute tutorial that covers installing the IONOS Cloud nodes, creating an API token, and building an AI-driven email triage workflow that keeps inference in European data centers. New to n8n and IONOS? Start with the </span><a href="https://www.youtube.com/watch?v=iaUED9KH9hA" rel="noreferrer" class="cta-link-color"><span style="white-space: pre-wrap;">intro video</span></a><span style="white-space: pre-wrap;">.</span></p>
-                        </div>
-                    
-                    
-                        <a href="https://www.youtube.com/watch?v=iaUED9KH9hA" class="kg-cta-button kg-style-accent" style="color: #FFFFFF;">
-                            Watch the video
-                        </a>
-                        
-                    </div>
-                
-            </div>
-        </div><h2 id="real-world-impact-sovereign-legal-review">Real-world impact: sovereign legal review</h2><p>Imagine a law firm or HR department handling sensitive employment contracts. Summarizing a 50-page non-disclosure agreement (NDA) would normally require hours of a senior associate&#x2019;s time.</p><p>The compliant, sovereign path:</p><ol><li>A new contract is uploaded to a Nextcloud folder.</li><li>n8n triggers, extracts the text, and routes it to inference.</li></ol><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/data-src-image-65fa09f2-8cbb-4e17-a876-e8df7643ab65.png" class="kg-image" alt="Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud" loading="lazy" width="616" height="310" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/04/data-src-image-65fa09f2-8cbb-4e17-a876-e8df7643ab65.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/data-src-image-65fa09f2-8cbb-4e17-a876-e8df7643ab65.png 616w"></figure><ol start="3"><li>The IONOS AI Model Hub node processes the text using open source models like Mistral Nemo&#x2014;entirely within European jurisdiction.</li><li>Within seconds, a summary highlighting &apos;high-risk clauses&apos; is posted back to Nextcloud as a note.</li></ol><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/data-src-image-d28e0f38-a415-457a-ba2a-1ffa746de239.png" class="kg-image" alt="Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud" loading="lazy" width="799" height="534" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/04/data-src-image-d28e0f38-a415-457a-ba2a-1ffa746de239.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/04/data-src-image-d28e0f38-a415-457a-ba2a-1ffa746de239.png 799w" sizes="(min-width: 720px) 720px"></figure><p>The result: the firm gains the lightning speed of AI without ever &apos;exporting&apos; client secrets to an unaccountable third-party provider.</p><h2 id="prerequisites">Prerequisites</h2><p>Before you import the workflow, make sure the following are in place:</p><ol><li><strong>A self-hosted n8n instance </strong>(Docker, npm, or a VPS-based install such as the pre-configured IONOS VPS template). You&#x2019;ll need owner or admin access, because community node installation is restricted to those roles.</li><li><strong>A Nextcloud instance </strong>with OAuth2 configured &#x2014; either self-hosted or running on IONOS Nextcloud Workspace. You&#x2019;ll need a Nextcloud OAuth2 app client ID and secret with read and write permissions.</li><li><strong>The Nextcloud Notes app installed and enabled</strong>, because the workflow writes summaries into the /Notes/ directory. Any Markdown file written there shows up as a note automatically.</li><li><strong>An IONOS Cloud API token. </strong>Sign up for the IONOS AI Model Hub and generate a token in the IONOS Cloud panel.</li><li><strong>The </strong><a href="https://github.com/ionos-cloud/n8n-nodes-ionos-cloud"><u>n8n-nodes-ionos-cloud<strong> community package</strong></u></a><strong> installed in your n8n instance. </strong>The main <a href="https://n8n.io/integrations/ionos-cloud-infrastructure/"><u>IONOS CLOUD action node</u></a> is a Verified node that can be installed from the Nodes Panel, but the <strong>IONOS CLOUD Chat Model</strong> sub-node used by this workflow ships as part of the community package. See the next section for install steps.</li></ol><h2 id="step-by-step-setup">Step-by-Step Setup</h2><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-immersive  kg-cta-has-img  " data-layout="immersive">
-            
-                <div class="kg-cta-sponsor-label-wrapper">
-                    <div class="kg-cta-sponsor-label">
-                        <span style="white-space: pre-wrap;">Try it yourself</span>
-                    </div>
-                </div>
-            
-            <div class="kg-cta-content">
-                
-                    <div class="kg-cta-image-container">
-                        <a href="https://n8n.io/workflows/14544-summarize-nextcloud-documents-with-ionos-ai-model-hub-for-sovereign-ai/"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Summarizer-Nextloud-zoom.PNG" alt="Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud" data-image-dimensions="1547x768"></a>
-                    </div>
-                
-                
-                    <div class="kg-cta-content-inner">
-                    
-                        <div class="kg-cta-text">
-                            <p><a href="https://docs.n8n.io/courses/level-one/chapter-6/?_gl=1*1qibg1d*_gcl_au*MTM3NzM0NzgxNy4xNzY5NDE3MDkyLjM4MDgxODU2MC4xNzczMzEwMzQzLjE3NzMzMTA1MDI.*_ga*NTkwNzQ5Ny4xNzYzNDgxNjEy*_ga_0SC4FF2FH9*czE3NzM3NDIzMzMkbzMyOSRnMSR0MTc3Mzc0MjgwOCRqNjAkbDAkaDA.#exporting-and-importing-workflows_1" target="_blank" rel="noopener" class="cta-link-color"><span style="white-space: pre-wrap;">Import</span></a><span style="white-space: pre-wrap;">&#xA0;the the template to your n8n instance to follow along.</span></p>
-                        </div>
-                    
-                    
-                        <a href="https://n8n.io/workflows/14544-summarize-nextcloud-documents-with-ionos-ai-model-hub-for-sovereign-ai/" class="kg-cta-button kg-style-accent" style="color: #FFFFFF;">
-                            Get the workflow template
-                        </a>
-                        
-                    </div>
-                
-            </div>
-        </div><h3 id="step-1-%E2%80%94-import-the-workflow">Step 1 &#x2014; Import the Workflow</h3><ol><li>Open your n8n instance.</li><li>Go to <strong>Workflows &#x2192; </strong><a href="https://docs.n8n.io/courses/level-one/chapter-6/?_gl=1*1qibg1d*_gcl_au*MTM3NzM0NzgxNy4xNzY5NDE3MDkyLjM4MDgxODU2MC4xNzczMzEwMzQzLjE3NzMzMTA1MDI.*_ga*NTkwNzQ5Ny4xNzYzNDgxNjEy*_ga_0SC4FF2FH9*czE3NzM3NDIzMzMkbzMyOSRnMSR0MTc3Mzc0MjgwOCRqNjAkbDAkaDA.#exporting-and-importing-workflows_1" rel="noopener">Import</a>&#xA0;the the <a href="https://n8n.io/workflows/14544-summarize-nextcloud-documents-with-ionos-ai-model-hub-for-sovereign-ai/" rel="noreferrer">template</a>.</li><li>The workflow canvas will load with all nodes pre-configured.</li></ol><h3 id="step-2-%E2%80%94-configure-nextcloud-credentials">Step 2 &#x2014; Configure Nextcloud Credentials</h3><ol><li>Click on any of the Nextcloud nodes (e.g. <strong>List a folder</strong>).</li><li>Under <strong>Credential</strong>, click <strong>Create New</strong> or select an existing NextCloud OAuth2 credential.</li><li>Enter your Nextcloud server URL, OAuth2 Client ID, and Client Secret.</li><li>Authorize the connection and confirm read + write access.</li></ol><p>All three Nextcloud nodes (List a folder, Download a file, Upload a file) share the same credential &#x2014; once set, they all inherit it.</p><h3 id="step-3-%E2%80%94-configure-ionos-cloud-credentials">Step 3 &#x2014; Configure IONOS Cloud Credentials</h3><ol><li>Click the <strong>IONOS Cloud Chat Model</strong> node.</li><li>Under <strong>Credential</strong>, click <strong>Create New</strong>.</li><li>Paste your IONOS Cloud API token.</li><li>You can change this to any model available on the IONOS AI Model Hub if you prefer.</li></ol><h3 id="step-4-%E2%80%94-set-the-folder-to-monitor">Step 4 &#x2014; Set the Folder to Monitor</h3><ol><li>Open the <strong>List a folder</strong> node.</li><li>Set the <strong>Path</strong> parameter to the Nextcloud folder you want the workflow to watch (e.g. <code>/Documents/Inbox/</code>).</li><li>Only files inside this folder will be checked for changes.</li></ol><h3 id="step-5-%E2%80%94-review-the-filter-logic">Step 5 &#x2014; Review the Filter Logic</h3><p>The <strong>New Files Only</strong> code node filters the folder listing to keep only files modified within the last 24 hours. It also ignores directories. If you want a different time window, open the node and change the <code>24</code> to <code>48</code> to look back two days.</p><h3 id="step-6-%E2%80%94-adjust-the-summarization-settings-optional">Step 6 &#x2014; Adjust the Summarization Settings (Optional)</h3><p>The summarization pipeline has two tunable parts:</p><ul><li><strong>Token Splitter </strong>&#x2014; the <code>chunkSize</code> is set to 3 000 tokens. For very large documents you can lower this to avoid context-window limits; for short documents you can raise it.</li><li><strong>Summarization Chain</strong> &#x2014; runs in <code>documentLoader</code> mode, meaning it processes the binary file content directly. No changes are usually needed here.</li></ul><h3 id="step-7-%E2%80%94-verify-the-nextcloud-notes-integration">Step 7 &#x2014; Verify the Nextcloud Notes Integration</h3><p>The<strong> Upload a file </strong>node writes each summary to: <code>/Notes/Summary_&lt;original-filename&gt;.</code> This path corresponds to the Nextcloud Notes app. As long as the Notes app is installed and enabled, any Markdown file written to <code>/Notes/</code> automatically appears as a note in the app. You don&apos;t need to create this folder manually &#x2014; the Notes app manages it. The summary file contains the original file name, the processing date, and the AI-generated summary, all formatted in Markdown so it renders nicely inside Notes.</p><h2 id="how-the-nodes-connect-data-flow">How the Nodes Connect (Data Flow)</h2>
-<!--kg-card-begin: html-->
-<div style="background-color: #1a1a1a; border-left: 4px solid #f97316; border-radius: 6px; padding: 24px 28px; margin: 32px 0; font-family: &apos;Courier New&apos;, Courier, monospace; font-size: 0.9em;">
-  <p style="color: #e0e0e0; margin: 0 0 4px 0; font-family: inherit;">Schedule Trigger <span style="color: #888888;">(every 24h)</span></p>
-  <p style="color: #f97316; margin: 0 0 4px 16px; font-family: inherit;">&#x2193;</p>
-  <p style="color: #e0e0e0; margin: 0 0 4px 0; font-family: inherit;">List a folder <span style="color: #888888;">(Nextcloud)</span></p>
-  <p style="color: #f97316; margin: 0 0 4px 16px; font-family: inherit;">&#x2193;</p>
-  <p style="color: #e0e0e0; margin: 0 0 4px 0; font-family: inherit;">New Files Only <span style="color: #888888;">(JavaScript filter: last 24h, files only)</span></p>
-  <p style="color: #f97316; margin: 0 0 4px 16px; font-family: inherit;">&#x2193;</p>
-  <p style="color: #e0e0e0; margin: 0 0 4px 0; font-family: inherit;">Download a file <span style="color: #888888;">(Nextcloud)</span></p>
-  <p style="color: #f97316; margin: 0 0 4px 16px; font-family: inherit;">&#x2193;</p>
-  <p style="color: #e0e0e0; margin: 0 0 4px 0; font-family: inherit;">Summarization Chain <span style="color: #888888;">(LangChain)</span></p>
-  <p style="color: #e0e0e0; margin: 0 0 4px 24px; font-family: inherit;">&#x251C;&#x2500;&#x2500; IONOS Cloud Chat Model <span style="color: #888888;">(Mistral 22b)</span></p>
-  <p style="color: #e0e0e0; margin: 0 0 4px 24px; font-family: inherit;">&#x2514;&#x2500;&#x2500; Default Data Loader &#x2192; Token Splitter <span style="color: #888888;">(3,000 tokens)</span></p>
-  <p style="color: #f97316; margin: 0 0 4px 16px; font-family: inherit;">&#x2193;</p>
-  <p style="color: #e0e0e0; margin: 0; font-family: inherit;">Upload a file <span style="color: #888888;">(Nextcloud &#x2192; /Notes/ &#x2192; appears in Notes app)</span></p>
-</div>
-<!--kg-card-end: html-->
-<h2 id="troubleshooting">Troubleshooting</h2><ul><li><strong>The IONOS Cloud node doesn&#x2019;t appear after installation. </strong>Restart your n8n instance &#x2014; community nodes are only registered at startup. If you&#x2019;re on Docker, restart the container, not just the workflow.</li><li><strong>No files are processed. </strong>Check that the folder path in <strong>List a folder</strong> is correct and that files were modified within the last 24 hours.</li><li><strong>Authentication errors on Nextcloud. </strong>Re-authorize the OAuth2 credential. Make sure the Nextcloud OAuth2 app grants both read and write scopes.</li><li><strong>IONOS model errors. </strong>Verify your API token is valid and that the selected model name matches an available model on the IONOS AI Model Hub.</li><li><strong>Large files fail. </strong>Reduce the chunkSize in the Token Splitter node to give the model smaller pieces to work with.</li><li><strong>Summaries are empty or truncated. </strong>Ensure the file format is supported by the Default Data Loader (PDF, DOCX, and TXT work out of the box).</li></ul><h2 id="why-this-setup-is-worth-the-extra-steps"><strong>Why this setup is worth the extra steps</strong></h2><h3 id="compliance-by-design">Compliance by Design</h3><p>Most AI providers operate under legal frameworks like the US CLOUD Act, which can extend their effect beyond their home jurisdiction. IONOS is a European company with separate legal entities registered in several EU countries, data centers in the European Union, and operational separation from IONOS US business. The result is meaningful digital sovereignty: your data, trade secrets, and IP stay under European law. This is the key that unlocks AI for regulated sectors including global teams with EU customers, employees, or contractual residency requirements.</p><h3 id="open-source-flexibility">Open-source flexibility</h3><p>The AI Model Hub provides access to state-of-the-art open-source models. You aren&#x2019;t locked into a single provider&#x2019;s proprietary logic &#x2014; you choose the best model for the task.</p><h3 id="transparent-pricing">Transparent pricing</h3><p>IONOS AI Model Hub pricing is fully transparent. You pay only for the intelligence you need, rather than defaulting to the most expensive option, and you can set effective limits to keep token usage under control.</p><h2 id="the-outcome"><strong>The outcome</strong></h2><ul><li><strong>Security: </strong>GDPR-compliant by design.</li><li><strong>Efficiency: </strong>documents are summarized the second they land in the watched folder.</li><li><strong>Transparency: </strong>you know exactly where your data is processed.</li></ul><h2 id="take-the-lead-on-sovereign-ai"><strong>Take the lead on sovereign AI</strong></h2><p>The future of AI isn&#x2019;t just about who has the best model &#x2014; it&#x2019;s about who has the most secure one. Stop choosing between innovation and compliance. Start building your secure automation stack on infrastructure you control.</p><p><strong>Resources</strong></p><ul><li>Download the n8n <a href="https://n8n.io/workflows/14544-summarize-nextcloud-documents-with-ionos-ai-model-hub-for-sovereign-ai/" rel="noreferrer">workflow template</a> </li><li>Get started with <a href="https://cloud.ionos.co.uk/managed/ai-model-hub" rel="noreferrer">IONOS AI Model Hub</a></li><li><a href="https://github.com/ionos-cloud/n8n-nodes-ionos-cloud" rel="noreferrer">IONOS Cloud community node</a> </li><li>Watch the videos on using IONOS on n8n<ul><li><a href="https://www.youtube.com/watch?v=iaUED9KH9hA" rel="noreferrer">Master automation using n8n and IONOS</a></li><li><a href="https://www.youtube.com/watch?v=3CuibeqoUX4" rel="noreferrer">Transform any n8n Workflow with a sovereign agent </a></li></ul></li></ul><p></p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 11 Jun 2026 07:41:39 GMT</pubDate>
+  <pubDate>Sun, 14 Jun 2026 03:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -1288,7 +1272,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 09 Jun 2026 04:41:39 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 14:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1297,7 +1281,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 12 Jun 2026 07:41:39 GMT</pubDate>
+  <pubDate>Wed, 10 Jun 2026 04:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1306,7 +1290,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 06:41:39 GMT</pubDate>
+  <pubDate>Wed, 17 Jun 2026 15:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1315,7 +1299,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 10 Jun 2026 20:41:39 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 17:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1324,7 +1308,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 13 Jun 2026 10:41:39 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 19:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1333,7 +1317,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 13 Jun 2026 21:41:39 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 10:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1342,7 +1326,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 14 Jun 2026 17:41:39 GMT</pubDate>
+  <pubDate>Fri, 12 Jun 2026 17:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1351,7 +1335,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 10 Jun 2026 11:41:39 GMT</pubDate>
+  <pubDate>Tue, 09 Jun 2026 06:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1360,7 +1344,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 22:41:39 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 09:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1369,7 +1353,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 11 Jun 2026 07:41:39 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 08:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1378,7 +1362,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 09 Jun 2026 14:41:39 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 14:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1387,7 +1371,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 07:41:39 GMT</pubDate>
+  <pubDate>Wed, 10 Jun 2026 15:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1396,7 +1380,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 06:41:39 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 21:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1405,7 +1389,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 11 Jun 2026 21:41:39 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 08:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1414,7 +1398,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 10:41:39 GMT</pubDate>
+  <pubDate>Sun, 14 Jun 2026 09:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1423,7 +1407,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 12 Jun 2026 00:41:39 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 00:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1432,7 +1416,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 14 Jun 2026 03:41:39 GMT</pubDate>
+  <pubDate>Sat, 13 Jun 2026 20:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1441,7 +1425,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 05:41:39 GMT</pubDate>
+  <pubDate>Tue, 09 Jun 2026 11:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1450,7 +1434,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 10 Jun 2026 05:41:39 GMT</pubDate>
+  <pubDate>Fri, 12 Jun 2026 11:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1459,7 +1443,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 15 Jun 2026 05:41:39 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 11:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1468,7 +1452,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 15 Jun 2026 23:41:39 GMT</pubDate>
+  <pubDate>Wed, 17 Jun 2026 12:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1477,7 +1461,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 12 Jun 2026 08:41:39 GMT</pubDate>
+  <pubDate>Wed, 17 Jun 2026 00:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1486,7 +1470,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 10 Jun 2026 11:41:39 GMT</pubDate>
+  <pubDate>Mon, 08 Jun 2026 02:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1495,7 +1479,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 16 Jun 2026 18:41:39 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 15:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1504,7 +1488,7 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 08 Jun 2026 06:41:39 GMT</pubDate>
+  <pubDate>Fri, 12 Jun 2026 03:53:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
@@ -1888,58 +1872,58 @@ workflowBanner([4269, 4722, 2753, 8779, 3351], document.currentScript, {
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[SpikeeLabs annonce la création d’une expertise Data]]></title>
-  <link>https://www.ia-news.fr/spikeelabs-annonce-la-creation-dune-expertise-data/</link>
+  <title><![CDATA[L’impact de l’IA dans le secteur des Datacenters]]></title>
+  <link>https://www.ia-news.fr/limpact-de-lia-dans-le-secteur-des-datacenters/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[IA GÉNÉRATIVES ET RELATION CLIENT : CAS D’USAGES, COMPLEXITÉ ET RISQUES]]></title>
-  <link>https://www.ia-news.fr/ia-generatives-et-relation-client-cas-dusages-complexite-et-risques/</link>
+  <title><![CDATA[IA générative et cybersécurité offensive, quand les LLM deviennent une menace]]></title>
+  <link>https://www.ia-news.fr/ia-generative-et-cybersecurite-offensive-quand-les-llm-deviennent-une-menace/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Camunda présente ses nouvelles capacités IA pour rationaliser la transformation de l’entreprise]]></title>
-  <link>https://www.ia-news.fr/camunda-presente-ses-nouvelles-capacites-ia-pour-rationaliser-la-transformation-de-lentreprise/</link>
+  <title><![CDATA[Qlik présente une exp��rience agentique]]></title>
+  <link>https://www.ia-news.fr/qlik-presente-une-experience-agentique/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/users-ux-ui.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/users-ux-ui.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/users-ux-ui.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L&rsquo;ANALYSE CONVERSATIONNELLE EN ACTION]]></title>
-  <link>https://www.ia-news.fr/lanalyse-conversationnelle-en-action/</link>
+  <title><![CDATA[Salesforce AI Research lance AI Foundry]]></title>
+  <link>https://www.ia-news.fr/salesforce-ai-research-lance-ai-foundry/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/1537978352203.jpeg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-logiciel-ai-ia-intelligence-artificielle-digital.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-logiciel-ai-ia-intelligence-artificielle-digital.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-logiciel-ai-ia-intelligence-artificielle-digital.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[La startup de cybersécurité Hackuity prend son essor et annonce une levée de fonds de 12 M€]]></title>
-  <link>https://www.ia-news.fr/la-startup-de-cybersecurite-hackuity-prend-son-essor-et-annonce-une-levee-de-fonds-de-12-me/</link>
+  <title><![CDATA[Alibaba International lance Accio Work]]></title>
+  <link>https://www.ia-news.fr/alibaba-international-lance-accio-work/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Intégration d&rsquo;un chatbot : quel ROI ?]]></title>
-  <link>https://www.ia-news.fr/integration-dun-chatbot-quel-roi/</link>
+  <title><![CDATA[Comment tirer le meilleur parti de l&rsquo;intelligence artificielle]]></title>
+  <link>https://www.ia-news.fr/comment-tirer-le-meilleur-parti-de-lintelligence-artificielle/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/03/121965440_10157997694455000_731241405662006429_n-2.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/03/121965440_10157997694455000_731241405662006429_n-2.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/03/121965440_10157997694455000_731241405662006429_n-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
