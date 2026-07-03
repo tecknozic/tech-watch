@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 13:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 18:55:29 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Parents warned not to publicly share children’s images amid AI abuse risks]]></title>
+            <description><![CDATA[The NCA says there is a growing threat of children's images being used to create child abuse material.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo#0</guid>
+            <pubDate>Fri, 03 Jul 2026 15:57:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef8/live/2a1f8cf0-76f2-11f1-b9cc-bd5880081b3f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI is 'not smart' so what's next in artificial intelligence?]]></title>
             <description><![CDATA[Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fad/live/746eb010-7166-11f1-8e1d-bbbb1017d210.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The abundant but expensive energy source that's under your feet]]></title>
-            <description><![CDATA[Start-ups are taking fresh approaches to geothermal energy, but will the economics work?]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o#0</guid>
-            <pubDate>Fri, 26 Jun 2026 10:12:42 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[We hear concerns that shadow banning is limiting access to health advice for women.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,6 +183,26 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nk3npm.jpg"/>
         </item>
     
+<item>
+		<title>The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari</title>
+		<link>https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2026 18:43:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[search engines]]></category>
+		<category><![CDATA[web browser]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026701</guid>
+
+					<description><![CDATA[We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped</title>
 		<link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
@@ -540,28 +560,18 @@
 		
 		
 			</item>
-<item>
-		<title>The DeepMind trio who built a poker AI are now making money for quant hedge funds</title>
-		<link>https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/</link>
-		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Tue, 30 Jun 2026 20:33:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Creandum]]></category>
-		<category><![CDATA[equilibre technologies]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[prague]]></category>
-		<category><![CDATA[reinforcement learning]]></category>
-		<category><![CDATA[stock market]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3137627</guid>
-
-					<description><![CDATA[EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[Architectural Guide To Error Handling for LLM Tool Calling]]></title><description><![CDATA[This guide to LLM tool calling error handling covers how to classify failures, implement smart retries, design fallbacks, and wire circuit breakers.
+]]></description><link>https://blog.n8n.io/llm-tool-calling-error-handling/</link><guid isPermaLink="false">6a478c05031abb0001a338d4</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 03 Jul 2026 14:34:13 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL.jpeg" alt="Architectural Guide To Error Handling for LLM Tool Calling"><p>In development, an AI agent calling an external API feels effortless. But in production, it&#x2019;s more of a liability. Leaving error handling for LLM tool calls entirely to the model itself guarantees automated pipelines will break the moment a connected service drops or misbehaves.</p><p>This guide maps out a multi-layered defense strategy, including failure types, retry and fallback strategies, and model-level error reasoning. These architectural blueprints will show you how to build resilient, production-ready agents.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">In this article we primarily discuss tool call errors. If you are looking on how to fix LLM-related errors, <a href="https://blog.n8n.io/how-to-debug-failures-or-missteps-in-ai-agent-behavior/"><u>check out our article</u></a>.</div></div><h2 id="classifying-tool-failures-what-to-retry-vs-what-to-escalate">Classifying tool failures: What to retry vs. what to escalate</h2><p>Conflating retryable and non-retryable tool failures is one of the fastest ways to break production agents. When a tool call fails, the system has to determine the cause instead of blindly submitting the request or throwing a generic exception.</p><p>This operational logic requires dividing recovery responsibilities between two layers: the orchestration layer and the LLM itself. The orchestration layer owns silent, infrastructure-level retries for transient issues. The model owns reasoning-based recovery when an application-level problem requires a pivot in the agent&apos;s behavior.</p><h3 id="production-failure-categories">Production failure categories</h3><p>Cleanly separating these systemic blocks requires looking at production failures through four distinct categories and mapping each to its proper recovery layer.</p><h4 id="transport-and-network-failures">Transport and network failures</h4><p>Dropped TCP connections, temporary DNS resolution timeouts, and standard HTTP &#x201C;503 Service Unavailable&#x201D; responses are examples of infrastructure-level disruptions. These issues are entirely transient and external to the application logic. So the orchestration layer should intercept them and handle recovery silently through network-level retries. The underlying LLM shouldn&#x2019;t know a transport error occurred.</p><h4 id="external-service-errors">External service errors</h4><p>This category covers instances where the downstream API is reachable but rejects the request. This is due to upstream operational constraints, such as hitting a rate limit (429 Too Many Requests) or experiencing an internal platform crash (500 Internal Server Error). The orchestration layer owns this recovery process. It needs to inspect the response headers, extract throttling instructions, and delay execution accordingly before attempting a retry.</p><h4 id="input-validation-failures">Input validation failures</h4><p>These failures happen when an upstream service or database rejects a tool call because of a schema mismatch, missing required parameter, or invalid data format (400 Bad Request). Because the payload itself is structurally incorrect, the orchestration layer can&#x2019;t repair it. The model must read the error, adjust its reasoning, and produce a corrected request. This keeps the workflow stable because the agent fixes the root cause instead of repeating the same invalid call.</p><h4 id="logic-errors-and-unexpected-output-format">Logic errors and unexpected output format</h4><p>This category includes situations where the downstream tool executes successfully at the network layer but returns an application-specific error. Examples include a database query returning zero records or an API yielding an unparseable, malformed JSON string. The model layer owns recovery here. The agent must ingest this unexpected output to reason through the operational failure. From there, it dynamically decides its next step, whether that means altering its execution path, swapping to a backup fallback tool, or escalating the issue <a href="https://docs.n8n.io/advanced-ai/human-in-the-loop-tools/"><u>directly to a human</u></a>.</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Route failures to the right recovery layer</h3>
+    <p>Split transient retries from model-level recovery on one canvas</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n now</a>
+</div>
+<!--kg-card-end: html-->
+<h3 id="system-level-retry-mechanics">System-level retry mechanics</h3><p>For transient transport and external service errors, the orchestration layer has to enforce a structured retry mechanism to prevent overwhelming downstream APIs. The production standard relies on <a href="https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/"><u>exponential backoff combined with full jitter</u></a>. This ensures retry attempts are progressively spaced out and mathematically randomized to avoid a &quot;thundering herd&quot; problem. The system should also actively parse standard Retry-After headers sent by throttled endpoints, overriding default intervals to stay compliant with third-party rate limits.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/tool-errors-retry-chart--1-.png" class="kg-image" alt="Architectural Guide To Error Handling for LLM Tool Calling" loading="lazy" width="1376" height="768" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/tool-errors-retry-chart--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/tool-errors-retry-chart--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/tool-errors-retry-chart--1-.png 1376w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Exponential back-off without a jitter still produces spikes, whereas additional random delay makes the load smoother. Adapted from:</em></i><a href="https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/"> <u><i><em class="italic underline" style="white-space: pre-wrap;">https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/</em></i></u></a></figcaption></figure><h2 id="resilience-patterns-for-tool-calling-failures-in-production">Resilience patterns for tool calling failures in production</h2><p>When automated system-level retries fail to resolve an issue, your production stack needs a defined fallback path to prevent the entire run from crashing. Some failures require the orchestration layer to route around a dead service. Other structural failures require the model to actively reason through the problem and adapt. Rather than treating these layers as opposing design methodologies, production-grade agent architectures deploy them them next to each other.</p><h3 id="structured-error-messages-as-tool-results">Structured error messages as tool results</h3><p>When an external tool throws an exception, developers are often tempted to catch it, stop the execution string, and abandon further <a href="https://docs.n8n.io/flow-logic/error-handling/"><u>error handling</u></a>. A more resilient pattern is to format that application error into a clean, structured string, pass it back as a tool result, and associate it with the original tool call id. By returning the raw exception context directly to the execution graph, you allow the model to read the error message as data and intelligently formulate its next step.</p><h3 id="handling-schema-mismatches-and-hallucinated-tool-names">Handling schema mismatches and hallucinated tool names</h3><p>Even with strict system prompts, an LLM will occasionally invoke a function name that doesn&#x2019;t exist in its runtime definitions or emit a payload that violates JSON schema. This is a common hurdle when implementing LLM function calling, where a model struggles with structured constraints. If the framework passes this malformed call, it causes a crash. Instead, the orchestration layer should intercept the invalid call and inject a corrective feedback loop directly into the conversation history:</p><p><strong>[LLM calls non-existent tool: &quot;Fetch_User_Data_v2&quot;]&#xA0;</strong></p><p><strong>&#x2193;</strong></p><p><strong>[Orchestration Layer catches error and appends system message]</strong></p><p><strong>&quot;Error: Tool &apos;Fetch_User_Data_v2&apos; does not exist. Available tools are: [&apos;get_user_profile&apos;, &apos;update_user&apos;].&quot;</strong></p><p><strong>&#x2193;</strong></p><p><strong>[LLM reads correction context, auto-corrects runtime logic, and invokes &apos;get_user_profile&apos;]</strong></p><h3 id="bounding-model-recovery-loops">Bounding model recovery loops</h3><p>Allowing an agent to inspect its own errors and retry tool execution is incredibly powerful. But without strict boundaries, it introduces a new risk. If an LLM encounters a persistent logic error, it can enter a loop, repeatedly calling the same broken tool and rapidly consuming your token budget.&#xA0;</p><p>To prevent these infinite execution loops, your orchestration layer needs to enforce a hard counter on model retries. The system should truncate the loop and raise an explicit system alert once a pre-defined threshold (typically three attempts) is exceeded.</p><h3 id="model-and-tool-fallback-chains">Model and tool fallback chains</h3><p>When a primary external system goes offline, a model shouldn&apos;t fail. You can design fallback chains at both the model layer and the tool layer to guarantee high availability. For example, if your premium foundational model experiences an outage or a severe rate limit mid-task, your orchestration canvas can swap the execution context to a secondary cloud provider or a local open-source alternative. Similarly, if your primary CRM tool call keeps failing, the pipeline can catch the failure and route the payload to a secondary backup database tool.</p><h3 id="graceful-degradation">Graceful degradation</h3><p>Not every tool failure needs to kill an active session. If an agent&apos;s primary task is to generate a comprehensive market report and its translation tool fails, the system should practice graceful degradation. The orchestration layer can catch the tool error, append a note stating that the translation module is temporarily unavailable, and instruct the model to output the final text in its native language. Delivering a partially completed, high-value asset is almost always preferable to returning a blank error page to an end user.</p><h3 id="circuit-breakers">Circuit breakers</h3><p>When an external dependency undergoes a prolonged outage, continuing to bombard it with automated retries wastes network infrastructure resources and subjects your system to long timeout delays. Implementing the circuit breaker pattern prevents this by tracking sequential failures across all active agent runs.</p><p>The circuit breaker operates as a distributed state machine directly inside your workflow layer, completely isolating broken dependencies until they&#x2019;re confirmed healthy again. In code-first frameworks, setting this up requires building custom, stateful middleware or pulling in complex, dedicated infrastructure libraries. But with a visual automation platform, you can design and wire the entire state machine directly into the workflow layout without adding much infrastructure overhead</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/tool-errors-state-registry--1-.png" class="kg-image" alt="Architectural Guide To Error Handling for LLM Tool Calling" loading="lazy" width="1200" height="896" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/tool-errors-state-registry--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/tool-errors-state-registry--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/tool-errors-state-registry--1-.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">In n8n, you can keep the state registry in a Data Table and check the availability of the service before making API calls</em></i></figcaption></figure><h2 id="implementing-tool-error-handling-in-n8n">Implementing tool error handling in n8n</h2><p>Troubleshooting an AI agent tool calling failure without LLM traces usually forces you to dig through mountains of messy terminal logs. n8n is a workflow automation platform that simplifies this cycle by bringing your execution data onto a visual canvas. The software surfaces in a single visual execution trace which <a href="https://blog.n8n.io/tool-calling-llm/"><u>LLM tool call</u></a> failed, why, and what parameters the LLM attempted to pass. This provides production-grade reliability without heavy DevOps infrastructure.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/n8n-agent-tool-error-1---1-.png" class="kg-image" alt="Architectural Guide To Error Handling for LLM Tool Calling" loading="lazy" width="1400" height="750" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/n8n-agent-tool-error-1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/n8n-agent-tool-error-1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/n8n-agent-tool-error-1---1-.png 1400w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">An example of 2 sub-workflow tools: one with simple built-in retries and the more advanced retry patterns</em></i></figcaption></figure><p>You can implement these resilient tool patterns natively on the canvas. <strong>Note, that a fully featured implementation will require wrapping AI Agent tools into sub-workflows. </strong>There are three core platform features to use:</p><ul><li><strong>Node-level retry configuration:</strong> Toggle automatic retries directly inside any individual node&apos;s settings. You define the maximum attempts and wait times. n8n handles simple backoff mechanics for transient drops behind the scenes before an error ever reaches your active AI Agent node. For more advanced retry strategies, use the looped IF node with the upper limit of retries.&#xA0;&#xA0;&#xA0;</li><li><strong>Error workflows and conditional fallback routing:</strong> Route a node&apos;s explicit error path directly into downstream IF or Switch nodes. If a primary API tool fails, n8n captures the error payload and dynamically reroutes execution to a backup sub-workflow or a secondary tool, ensuring your core LLM tool calling mechanics remain uninterrupted.</li><li><strong>Observability for failed tool calls:</strong> Isolate bugs instantly via the visual execution trace panel, which maps out input parameters, raw JSON payloads, and <a href="https://n8n.io/integrations/http-request/"><u>HTTP status codes</u></a> for each step. Note that while n8n exposes tool inputs and outputs, optimizing a function-calling LLM context or viewing full model-level hidden reasoning traces still require an external telemetry layer like LangSmith.</li></ul><h2 id="start-building-resilient-ai-agents-with-n8n">Start building resilient AI agents with n8n</h2><p>Building reliable, production-grade agents requires a layered defense strategy that treats error management as an architectural pillar. By combining system-level retries for transient network drops with model-level feedback loops for logic failures, n8n ensures your workflows remain stable under real-world pressure.</p><p>With visual execution traces that show each step and reveal where a failure occurred, n8n removes guesswork and makes debugging straightforward. It also provides a clear path to production. Each workflow includes execution history, scheduling, and built-in agent error handling, so teams can move from prototype to stable deployment without extra infrastructure.</p><p>Explore n8n&#x2019;s advanced <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a> to start building resilient automation pipelines without the heavy infrastructure code.</p>]]></content:encoded></item>
 <item><title><![CDATA[Agentic AI Design Patterns: From Architecture to Production]]></title><description><![CDATA[This practical guide to agentic AI design patterns covers validation, governance, context management, error recovery, and cost control in production.]]></description><link>https://blog.n8n.io/agentic-ai-design-patterns/</link><guid isPermaLink="false">6a428adce6916c0001c95337</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Wed, 01 Jul 2026 18:20:37 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--3--1.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--3--1.jpeg" alt="Agentic AI Design Patterns: From Architecture to Production"><p>Building a strong LLM prototype is easy. But keeping it stable in production? That&#x2019;s the real challenge. Most engineers watch their early builds fall apart the second they hit messy real-world API schemas or unexpected data changes. To build automation that actually holds up, you have to move past basic prompt engineering and adopt agentic AI design patterns.</p><p>This guide breaks down the implementation patterns that help agentic AI systems operate in real-world environments.</p><h2 id="what%E2%80%99s-agentic-ai">What&#x2019;s agentic AI?</h2><p>In a traditional LLM setup, you send a prompt to an API and get text back. The model operates as a stateless generator, meaning it can&#x2019;t interact with external systems, remember past execution failures, or verify if its answers are correct.</p><p>You can turn this setup into agentic AI by giving the LLM an active execution loop. Instead of forcing the model to spit out a final answer immediately, your orchestration platform wraps it in a continuous cycle of observation, reasoning, and action.&#xA0;</p><p>This loop allows the model to evaluate a goal, choose external tools, and adjust its plan based on real outcomes. This shift from static text generation to autonomous execution is <a href="https://blog.n8n.io/agentic-rag/"><u>what makes a system agentic</u></a>.</p><h2 id="core-agentic-design-patterns">Core agentic design patterns</h2><p>When <a href="https://blog.n8n.io/ai-agents/"><u>building AI agents</u></a>, agentic AI architecture patterns help define how agents reason, access information, and complete tasks. Common examples include planning workflows, reflection loops, multi-agent systems, and the agentic AI tool use pattern, which allows agents to interact with external systems and data sources.</p><p>Once those systems move into production, you need to prevent bad outputs, manage context, recover from failures, control costs, and decide when a human should step in. That&#x2019;s what agentic AI design patterns are for.</p><h3 id="validation-pattern">Validation pattern</h3><p>LLMs don&#x2019;t always return what you expect. A response might break your JSON schema, miss required fields, or confidently invent information.</p><p>Validation patterns help you catch those issues before they reach downstream systems. You can enforce structured outputs, check responses against a schema, or run a reflection step that asks the model to review its own work before moving on.</p><p>In <a href="https://n8n.io/"><u>n8n</u></a>, you can add validation checks directly into a workflow. If an output doesn&#x2019;t pass, the workflow can retry the request, ask the model to correct itself, or route the task for human review.</p>
 <!--kg-card-begin: html-->
 <div class="content-banner">
@@ -1402,14 +1412,11 @@ return {
 <!--kg-card-end: html-->
 <h3 id="ai-agent-nodes">AI Agent Nodes</h3><p>When you connect an OpenAI model to the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.chainllm/"><u>Basic LLM Chain</u></a> or an <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a>, n8n can automatically track the execution flow. By connecting these to an observability backend like LangSmith, you gain an immediate window into the spans of your request. This setup lets you see exactly which tools were called and what the thought process looked like before the AI generated the final output. Compared to n8n&apos;s native execution logs, these traces provide a more detailed overview, but they require the setup of a dedicated platform.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-3.43.33---p.m..png" class="kg-image" alt="LLM Observability: What To Instrument and How To Act on It" loading="lazy" width="1178" height="628" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/Screenshot-2026-06-05-at-3.43.33---p.m..png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/06/Screenshot-2026-06-05-at-3.43.33---p.m..png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-3.43.33---p.m..png 1178w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">LangSmith trace view: detailed span-level breakdown of an AI Agent execution&#xA0;</span></figcaption></figure><h3 id="automated-post-processing">Automated Post-Processing&#xA0;</h3><p>n8n doesn&#x2019;t just collect data &#x2014; it can act on it. You can build workflows that that trigger on execution completion (via a <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook/"><u>webhook </u></a>or polling) to:&#xA0;</p><ul><li><strong>Score the response: </strong>Send the output to a smaller, cheaper model to run evals for hallucinations or adherence to official documents.</li><li><strong>Sanitize logs: </strong>Strip PII from execution data before it reaches external platforms or storage.&#xA0;</li><li><strong>Alert on anomalies: </strong>Send a Slack notification if a request&#x2019;s latency exceeds a certain threshold or if the token cost for a single execution spikes unexpectedly.</li></ul><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-3.44.43---p.m..png" class="kg-image" alt="LLM Observability: What To Instrument and How To Act on It" loading="lazy" width="1180" height="548" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/Screenshot-2026-06-05-at-3.44.43---p.m..png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/06/Screenshot-2026-06-05-at-3.44.43---p.m..png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Screenshot-2026-06-05-at-3.44.43---p.m..png 1180w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Retrieving execution data via n8n&apos;s customized post-processing&#xA0;</span></figcaption></figure><h2 id="start-building-your-observability-stack-with-n8n">Start Building Your Observability Stack With n8n</h2><p>Moving AI agents into production requires switching from an &#x201C;it looks good to me&#x201D; mindset into a place where you have the data to prove it.&#xA0;</p><p>n8n is one of the best LLM observability tools. It gives you built-in execution tracing &#x2014; see every node execution, tool call, and agent decision in the workflow. This way you don&#x2019;t need an external platform to get started. Teams using dedicated observability platforms for deeper analysis can configure their n8n instance to automatically send traces from the AI Agent node to LangSmith.</p><p>But for most debugging, you don&apos;t need to leave n8n. Review exactly where agents fail, what caused hallucinations, which tool calls drove costs &#x2014; then fix it right where your agents run.&#xA0;</p><p><a href="https://app.n8n.cloud/register"><u>Sign up for free</u></a> to start building observable <a href="https://n8n.io/ai-agents/"><u>AI agents</u></a> with n8n.</p><p></p>]]></content:encoded></item>
 <item><title><![CDATA[n8n targets a 200 person UK team by 2029 as it makes the UK an integral part of its international expansion]]></title><description><![CDATA[<p><em>Germany&apos;s most valuable AI startup announces its commitment during London Tech Week, building on a year in which its UK team has already tripled in size</em></p><p><strong>LONDON and BERLIN, 9 June 2026 &#x2013;</strong> n8n, the AI orchestration platform, today announced a target of 200 UK-based employees by</p>]]></description><link>https://blog.n8n.io/n8n-uk-international-expansion/</link><guid isPermaLink="false">6a2694b7c4b2580001f70a88</guid><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Mon, 08 Jun 2026 15:40:45 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/image--12-.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/image--12-.png" alt="n8n targets a 200 person UK team by 2029 as it makes the UK an integral part of its international expansion"><p><em>Germany&apos;s most valuable AI startup announces its commitment during London Tech Week, building on a year in which its UK team has already tripled in size</em></p><p><strong>LONDON and BERLIN, 9 June 2026 &#x2013;</strong> n8n, the AI orchestration platform, today announced a target of 200 UK-based employees by 2029. The announcement coincides with the UK Government&apos;s AI Adoption Summit during <a href="https://londontechweek.com/">London Tech Week</a>.</p><p>The commitment reflects the growth of n8n&apos;s UK enterprise customer base and marks the next stage in its international expansion. More than 35% of the Fortune 500 have adopted n8n, alongside a community of 1.8 million monthly active developers and builders, and it counts a number of the UK&apos;s largest organisations among its most active enterprise customers &#x2013; including Vodafone and government ministries on Whitehall.</p><p>n8n was founded in Berlin in 2019 by <a href="https://www.linkedin.com/in/janoberhauser/">Jan Oberhauser</a> and remains headquartered there. Built on a <a href="https://faircode.io/">fair-code licence</a>, it is free to adopt and self-host, giving organisations full access to the source code from day one. Its visual interface also puts the construction of AI workflows directly in the hands of the teams running them, ensuring sophisticated automation is accessible across an organisation and not just within a specialist engineering function. And because n8n runs within an organisation&apos;s own infrastructure, data never has to leave its environment, providing a data sovereignty model that has proved particularly important to enterprises operating under GDPR, sector-specific regulations, or internal data residency requirements.&#xA0;</p><p>n8n is ranked as Germany&apos;s most valuable AI startup, valued at $5.2bn following <a href="https://blog.n8n.io/n8n-partners-with-sap-to-bring-visual-ai-workflow-orchestration-to-enterprise/">strategic partnership</a> and <a href="https://blog.n8n.io/n8n-sap/">investment</a> with SAP in May 2026.</p><p></p><p><strong>AI Minister Kanishka Narayan said</strong>:<em> &quot;n8n is exactly the kind of company we want choosing the UK as it grows internationally - a European AI success story recognising the strength of our talent and our tech ecosystem.&quot;<br>&quot;Their decision to expand their UK team as they scale globally underlines Britain&#x2019;s role as a leading destination for AI companies to succeed. That&#x2019;s how we turn AI investment into jobs, growth and opportunity across the country.&quot;</em><br></p><p>n8n&apos;s UK customers span a range of industries and organisations, including financial services, enterprise technology, and government.&#xA0;</p><p><br>This includes Vodafone, <a href="https://n8n.io/case-studies/vodafone/">which used n8n to automate threat intelligence workflows</a> across engineering and security operations, in an environment that processes billions of security events per month and previously required significant manual effort. The deployment has saved Vodafone UK 5,000 person-days and avoided &#xA3;2.2mn in costs, with savings running at approximately &#xA3;300,000 per month.</p><p>&quot;<em>n8n started in Berlin and was nurtured in Germany. But the companies we work with do not recognise borders, and neither does our ambition,</em>&#x201D; <strong>said Jan Oberhauser, CEO &amp; Founder of n8n</strong>. <em>&#x201C;The UK has become one of our most important markets &#x2013; our customers here are running some of the most sophisticated AI deployments we see anywhere in the world. It only makes sense that by 2029, we aim to have one in five of our entire workforce based in the UK. That is a statement about how seriously we take this market, and of the engineering and AI talent that exists in this country.&quot;</em></p><p>n8n is one of the most prominent technology companies to have emerged from the European AI sector in recent years. Its strategic partnerships with SAP, Accenture and Deutsche Telekom, along with customers including Mercedes-Benz, each reflect the depth of its roots in the German and European enterprise market. The UK operation announced today adds to that international footprint.&#xA0;</p><p>&#x2014;</p><p><strong>About n8n</strong></p><p><a href="http://n8n.io"><em><u>n8n</u></em></a><em> is an AI orchestration platform that transforms how organisations harness AI and embed it in their daily operations. Built on a fair-code licence, n8n serves thousands of organisations worldwide, from individual developers to global enterprises, enabling them to create intelligent, automated AI workflows that deliver measurable improvements in productivity and impact. For more information on hiring opportunities at n8n, visit </em><a href="https://n8n.io/careers/"><em><u>https://n8n.io/careers/</u></em></a></p><p>Media contacts: <a href="mailto:press@n8n.io"><u>press@n8n.io</u></a></p>]]></content:encoded></item>
-<item><title><![CDATA[Trace n8n workflow and node executions with OpenTelemetry]]></title><description><![CDATA[<p>n8n now supports OpenTelemetry natively, allowing every workflow execution to be emitted as a trace, so n8n shows up inside the same observability stack your team already uses for the rest of production.</p><p>There is no sidecar to run and no patching to maintain, and because everything is built on</p>]]></description><link>https://blog.n8n.io/trace-n8n-workflow-and-node-executions-with-opentelemetry/</link><guid isPermaLink="false">6a25c5dda364dc0001fd224d</guid><dc:creator><![CDATA[Paul Gordon, n8n]]></dc:creator><pubDate>Mon, 08 Jun 2026 15:20:17 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Blog-Header.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/Blog-Header.jpg" alt="Trace n8n workflow and node executions with OpenTelemetry"><p>n8n now supports OpenTelemetry natively, allowing every workflow execution to be emitted as a trace, so n8n shows up inside the same observability stack your team already uses for the rest of production.</p><p>There is no sidecar to run and no patching to maintain, and because everything is built on the OTLP standard, there is no vendor lock-in either. Point n8n at any OTLP-compatible collector or backend, whether that is Jaeger, Tempo, Datadog, Honeycomb, New Relic, or Grafana Cloud, and you start seeing what your workflows actually do at runtime.</p><figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/xOi8K_-GLRM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="n8n Now Speaks OpenTelemetry: Production Tracing for Workflows"></iframe></figure><h2 id="why-this-matters">Why this matters</h2><p>Workflows have become production systems. They process payments, route support tickets, sync CRM data, drive AI agents, and keep internal operations moving. So when something goes wrong inside one of them, the questions are the same ones you would ask of any other service. Which step failed, how long did it take, what did it call, and what came back?</p><p>Until now, answering those questions in n8n meant living inside the execution view. That is fine for one workflow on a single instance, but it tends to fall apart in the situations that matter most. Picture a webhook from your application hitting n8n, n8n calling three downstream services, one of those services running slow, and the support engineer on call sitting in Datadog with no idea that n8n is even in the path.</p><p>With OpenTelemetry support, n8n becomes a first-class participant in distributed tracing. Each workflow execution produces a root span that carries status, duration, and error information, and you can turn on an optional child span for every node so it is easy to see which step is slow or failing.</p><h2 id="what-you-can-do-with-it">What you can do with it</h2><p>Consider an on-call engineer at a fintech that uses n8n to orchestrate payment reconciliation. A customer reports that a refund took twenty minutes to land. In Datadog, the engineer pulls up the trace for that refund request and sees the full path, from the API gateway to the payments service, into the n8n workflow that fans out to a fraud check, the ledger, and a notification step, and on to the downstream banking API. The slow span is right there, a third-party fraud-check call that timed out and retried twice. The engineer knows exactly which node, in which workflow, on which instance, and with which inputs, with no log grepping and no guesswork.</p><p>Or take a platform team rolling out a new AI agent built in n8n. The agent calls an LLM, hits an internal search API, writes back to a database, and posts an update to Slack. Before OTel, the team could see the run inside n8n and the LLM call inside their AI provider&apos;s dashboard, but stitching the two together was a manual job. With OTel enabled, the whole thing becomes one connected trace, sampled and stored in the same backend as the rest of their services.</p><p>And for a team running n8n in queue mode across multiple workers, traces from those workers correctly parent back to the main process. As long as the same OTel environment variables are set on every instance, the picture stays coherent.</p><h2 id="how-it-works">How it works</h2><p>n8n emits spans over OTLP HTTP using Protobuf encoding, so anything that speaks OTLP can receive them. The piece that makes this genuinely end-to-end, rather than just internal to n8n, is trace context propagation.</p><p>On the inbound side, if a webhook request to n8n includes a <code>traceparent</code> header, the workflow execution span is created as a child of that trace, so the system that called n8n keeps a continuous view of the request. On the outbound side, HTTP Request nodes can inject <code>traceparent</code> into outgoing calls so downstream services continue the trace under the same trace ID. Spans from sub-workflows are parented to the calling workflow&apos;s span, which preserves the call hierarchy, and when a workflow resumes after a wait, the new span uses a span link to point back to the previous one, so long-running orchestrations stay traceable across pauses. This is the part that turns tracing from a debugging convenience into something an SRE team will actually rely on.</p><h2 id="get-started">Get started</h2><p>The minimal configuration is two environment variables set on each n8n instance you want workflow tracing enabled:</p><pre><code class="language-bash">export N8N_OTEL_ENABLED=true
-export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
-</code></pre><p>The full configuration reference and a local Jaeger walkthrough are in the <a href="https://docs.n8n.io/hosting/logging-monitoring/opentelemetry/">OpenTelemetry docs</a>.</p><h2 id="whats-next">What&apos;s next</h2><p>This release covers workflow execution tracing, which is the foundation, and there is more already in flight. We are working on deeper agent traces, with richer spans inside AI agent nodes for LLM calls, tool calls, and evaluation steps, so that trace and eval platforms get the signal they need. We are building application tracing that will surface traces from inside n8n itself, including database queries, API endpoint timing, and internal errors. And we plan to add instance metrics, so operational signals like queue depth, active workflows, and resource gauges can be exported the same way.</p><p>The direction is consistent throughout. Any signal an operator or developer would expect from a production service should be emitted through open standards, into the backend of your choice.</p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 27 Jun 2026 20:25:19 GMT</pubDate>
+  <pubDate>Fri, 26 Jun 2026 19:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -1418,7 +1425,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 25 Jun 2026 14:25:19 GMT</pubDate>
+  <pubDate>Fri, 26 Jun 2026 06:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1427,7 +1434,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 03 Jul 2026 03:25:19 GMT</pubDate>
+  <pubDate>Wed, 24 Jun 2026 14:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1436,7 +1443,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 28 Jun 2026 22:25:19 GMT</pubDate>
+  <pubDate>Wed, 24 Jun 2026 12:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1445,7 +1452,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 26 Jun 2026 18:25:19 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 10:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1454,7 +1461,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 01 Jul 2026 16:25:19 GMT</pubDate>
+  <pubDate>Thu, 25 Jun 2026 19:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1463,7 +1470,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 26 Jun 2026 00:25:19 GMT</pubDate>
+  <pubDate>Fri, 26 Jun 2026 11:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1472,7 +1479,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 28 Jun 2026 12:25:19 GMT</pubDate>
+  <pubDate>Sun, 28 Jun 2026 13:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1481,7 +1488,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 01 Jul 2026 09:25:19 GMT</pubDate>
+  <pubDate>Wed, 01 Jul 2026 13:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1490,7 +1497,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 28 Jun 2026 19:25:19 GMT</pubDate>
+  <pubDate>Wed, 24 Jun 2026 23:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1499,7 +1506,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 01 Jul 2026 19:25:19 GMT</pubDate>
+  <pubDate>Mon, 29 Jun 2026 12:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1508,7 +1515,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 01 Jul 2026 11:25:19 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 15:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1517,7 +1524,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 01 Jul 2026 21:25:19 GMT</pubDate>
+  <pubDate>Sun, 28 Jun 2026 06:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1526,7 +1533,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 29 Jun 2026 03:25:19 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 06:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1535,7 +1542,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 01 Jul 2026 21:25:19 GMT</pubDate>
+  <pubDate>Fri, 26 Jun 2026 04:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1544,7 +1551,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 02 Jul 2026 09:25:19 GMT</pubDate>
+  <pubDate>Wed, 24 Jun 2026 08:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1553,7 +1560,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 25 Jun 2026 14:25:19 GMT</pubDate>
+  <pubDate>Mon, 29 Jun 2026 01:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1562,7 +1569,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 25 Jun 2026 04:25:19 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 16:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1571,7 +1578,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 30 Jun 2026 15:25:19 GMT</pubDate>
+  <pubDate>Sun, 28 Jun 2026 18:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1580,7 +1587,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 27 Jun 2026 05:25:19 GMT</pubDate>
+  <pubDate>Tue, 30 Jun 2026 04:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1589,7 +1596,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 02 Jul 2026 19:25:19 GMT</pubDate>
+  <pubDate>Thu, 25 Jun 2026 16:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1598,7 +1605,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 28 Jun 2026 10:25:19 GMT</pubDate>
+  <pubDate>Thu, 25 Jun 2026 13:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1607,7 +1614,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 27 Jun 2026 18:25:19 GMT</pubDate>
+  <pubDate>Wed, 24 Jun 2026 03:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1616,7 +1623,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 26 Jun 2026 18:25:19 GMT</pubDate>
+  <pubDate>Thu, 02 Jul 2026 06:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1625,7 +1632,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 29 Jun 2026 22:25:19 GMT</pubDate>
+  <pubDate>Sun, 28 Jun 2026 04:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1634,7 +1641,7 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 23 Jun 2026 21:25:19 GMT</pubDate>
+  <pubDate>Fri, 26 Jun 2026 23:55:42 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
@@ -2027,58 +2034,40 @@ export N8N_OTEL_EXPORTER_OTLP_ENDPOINT=http://&lt;your-collector-host&gt;:4318
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/11/ia-ai-intelligence-artificielle-2486.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Choix ou modernisation d&rsquo;un ERP : tactiques éprouvées pour les PME, ETI et GE]]></title>
-  <link>https://www.ia-news.fr/choix-ou-modernisation-dun-erp-tactiques-eprouvees-pour-les-pme-eti-et-ge/</link>
+  <title><![CDATA[Ostratia redonne un cadre à la décision stratégique]]></title>
+  <link>https://www.ia-news.fr/ostratia-redonne-un-cadre-a-la-decision-strategique/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/erp-chiffres-00.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/erp-chiffres-00.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/erp-chiffres-00.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Stelliant Expertise optimise ses processus de gestion avec l’IA de confiance de Golem.ai]]></title>
-  <link>https://www.ia-news.fr/stelliant-expertise-optimise-ses-processus-de-gestion-avec-lia-de-confiance-de-golem-ai/</link>
+  <title><![CDATA[L’impact de l’IA dans le secteur des Datacenters]]></title>
+  <link>https://www.ia-news.fr/limpact-de-lia-dans-le-secteur-des-datacenters/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Quel est le bon moment pour adopter l&rsquo;Intelligence Artificielle ?]]></title>
-  <link>https://www.ia-news.fr/quel-est-le-bon-moment-pour-adopter-lintelligence-artificielle/</link>
+  <title><![CDATA[IA Générative : Seulement 11% des entreprises françaises ont pleinement déployé des modèles d’IA générative]]></title>
+  <link>https://www.ia-news.fr/ia-generative-seulement-11-des-entreprises-francaises-ont-pleinement-deploye-des-modeles-dia-generative/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ville-donnees.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ville-donnees.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ville-donnees.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Le groupe APRIL annonce la nomination de sa Chief Data Officer]]></title>
-  <link>https://www.ia-news.fr/le-groupe-april-annonce-la-nomination-de-sa-chief-data-officer/</link>
+  <title><![CDATA[Comment l’IA transforme l’ITSM et la gestion du support aux utilisateurs]]></title>
+  <link>https://www.ia-news.fr/comment-lia-transforme-litsm-et-la-gestion-du-support-aux-utilisateurs/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/06/optimisation-01.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/06/optimisation-01.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/06/optimisation-01.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[IA &#8230; une révolution qui appelle des investissements colossaux et un modèle de rentabilité à construire]]></title>
-  <link>https://www.ia-news.fr/ia-une-revolution-qui-appelle-des-investissements-colossaux-et-un-modele-de-rentabilite-a-construire/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[L’IA Générative  va-t-elle mettre en péril l’approche low code no code ?]]></title>
-  <link>https://www.ia-news.fr/lia-generative-va-t-elle-mettre-en-peril-lapproche-low-code-no-code/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-code.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-code.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-code.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
