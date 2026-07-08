@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 08:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 13:19:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Outcry as Meta lets users make AI images from public Instagram profile pics]]></title>
+            <description><![CDATA[The tech giant said people can opt out - but privacy campaigners called it a "recipe for disaster".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp9lee19y1yo#0</guid>
+            <pubDate>Wed, 08 Jul 2026 12:28:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690f/live/0b8f10a0-7ac4-11f1-b541-536d253827b8.png"/>
+        </item>
         <item>
             <title><![CDATA[Robots available for rent: But what can they do?]]></title>
             <description><![CDATA[Robotics tech is changing fast, so for many it makes sense to rent a robot.]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dacc/live/fd4cf0c0-745b-11f1-9d0e-3bf8d84f830e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ford rehires human engineers after AI fails to match quality checks]]></title>
-            <description><![CDATA[The car-maker found AI quality checks failed to match the skill of veteran technicians.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgrkd41n2v9o#0</guid>
-            <pubDate>Mon, 29 Jun 2026 11:58:01 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad26/live/e5db0a70-73ad-11f1-9da1-db101e3ae6ed.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The impact screen time is having on younger children.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jy3?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,16 +184,31 @@
         </item>
     
 <item>
+		<title>Former OpenAI exec Kevin Weil is now on the board of Stoke Space</title>
+		<link>https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3139858</guid>
+
+					<description><![CDATA[Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.  ]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Hot French startup ZML releases free product to speed inference across lots of AI chips</title>
 		<link>https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</link>
 		
 		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
 		<pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[AI inference]]></category>
+		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[ZML]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3139750</guid>
 
@@ -524,23 +539,6 @@
 		
 		
 			</item>
-<item>
-		<title>New Google commercial imagines a Declaration of Independence written with help from AI</title>
-		<link>https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 04 Jul 2026 20:55:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3138982</guid>
-
-					<description><![CDATA[Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?]]></description>
-		
-		
-		
-			</item>
 <item><title><![CDATA[AI Security Monitoring: Risks, Detection, and Automated Response]]></title><description><![CDATA[Learn how AI security monitoring works from both sides. Discover the unique AI risks and the strategies engineers use to automate detection and response.
 ]]></description><link>https://blog.n8n.io/ai-security-monitoring/</link><guid isPermaLink="false">6a479226031abb0001a33938</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Tue, 07 Jul 2026 10:02:11 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-2.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-2.jpeg" alt="AI Security Monitoring: Risks, Detection, and Automated Response"><p>Traditional security monitoring was built for deterministic systems. AI workloads break that assumption &#x2014; outputs vary between runs, prompts carry hidden instructions, and model behavior drifts each time the weights are retrained.</p><p>Modern teams need AI security monitoring. This works on two fronts: using AI to detect threats across infrastructure, and watching AI systems for exploitation. Great platforms manage both, providing proactive resolution and observability.</p><p>In this guide, explore AI security monitoring, including the risks, detection mechanics, and practices that hold up in production.&#xA0;</p><h2 id="ai-security-risks-and-vulnerabilities">AI security risks and vulnerabilities</h2><p>Threats to AI systems target the model itself or the data feeding it, which means traditional cybersecurity tooling &#x2014; designed for endpoints, networks, and applications &#x2014; misses the signal until the model fails.&#xA0;</p><p>There are several risks to be aware of.</p><h3 id="data-poisoning">Data poisoning</h3><p>Attackers tamper with training data to embed flaws or biases that surface later in production. Once a poisoned dataset trains a model, the corruption persists through downstream deployments, and teams may not detect it for weeks.&#xA0;</p><p>In production, this leads to classification errors that cluster around specific inputs, or outputs that violate policies under narrow triggers. The monitoring signal sits in two places: dataset integrity checks at ingestion (hash mismatches, distribution shifts, unauthorized writes to training stores) and behavioral drift in deployed AI models against a known-good baseline.&#xA0;</p><h3 id="adversarial-attacks">Adversarial attacks</h3><p>Adversarial inputs make a model produce wrong outputs, like a few pixels altered on an image or a few tokens added to a prompt. Unlike traditional cyberattacks, the input itself looks innocuous. The attack becomes visible only when the model produces incorrect output.&#xA0;</p><p>Production teams see these as anomaly clusters in inference logs: identical-looking requests producing widely different confidence scores or repeated near-duplicate inputs probing the same decision boundary. Catching these early means setting up behavioral baselines on inference telemetry before a fraud-detection model starts approving wire transfers it should have blocked.&#xA0;</p><h3 id="prompt-injection">Prompt injection</h3><p><a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/"><u>OWASP</u></a> lists prompt injections at the top of its LLM threat list. They&#x2019;re hard to patch because they exploit architecture rather than bugs: language models can&#x2019;t reliably distinguish between instructions and data. An attacker hides a directive inside text the model processes &#x2014; like a document, email, or URL &#x2014; and the model follows it.&#xA0;</p><p>Direct injections come through the user input field. Indirect injections sit in external content the model fetches mid-task, which is easy to miss. One way of mitigating this risk is to treat any external LLM inputs as potentially unsafe. Wrap these inputs inside explicit XML tags (i.e. &lt;unsafe&gt;&lt;/unsafe&gt;), run them through guardrails before feeding them into the main LLM.</p><h3 id="supply-chain-vulnerabilities">Supply chain vulnerabilities</h3><p>Most AI systems pull pretrained models, open-source libraries, and third-party datasets from public registries. Each becomes part of the attack surface. For instance, a tampered dependency in a popular ML library or an outdated container image could ship malicious code into your inference path on the next deployment.&#xA0;</p><p>Continuous monitoring of model provenance, dependency hashes, and registry signatures catches drift before it spreads. Ensure you have <a href="https://en.wikipedia.org/wiki/Software_supply_chain"><u>SBOM </u></a>coverage for ML artifacts to have a paper trail if something goes wrong.&#xA0;</p><h2 id="how-ai-security-monitoring-works">How AI security monitoring works</h2><p>Rule-based SIEM (Security Information and Event Management) looks for known patterns. AI security monitoring looks for unknown ones. Most attacks against AI systems carry no signature. The detection layer has to work from learned behavior, not predefined rules.</p><p>The visual observability stack collects three categories of telemetry: inference inputs and outputs with their confidence scores, runtime metrics covering both model performance (latency, throughput) and data pipeline health (ingestion volume, schema drift), and access patterns showing who calls the API and from where. Each category routes into a centralized detection layer where a structured log emitter feeds an anomaly detection service, then alerts are enriched with threat intel and CMDB (Configuration Management Database) context and forwarded to the SIEM.</p><p>Anomaly detection runs on unsupervised machine learning rather than rules. The system builds a behavioral baseline for each model in production and flags deviation. For example, a sudden spike in outputs hitting content filters, a drop in average confidence, or a new clustering pattern in user inputs. Prompt injection classifiers filter at the input stage, and pipeline monitors catch poisoning at the data ingestion layer before training resumes.</p><p>Traditional SIEM platforms, like Splunk, Elastic, and Microsoft Sentinel, collect logs and events from infrastructure and correlate them using predefined rules. That approach catches credential abuse and known malware signatures, but it fails for adversarial inputs that don&#x2019;t trip rules, or for model drift that only surfaces as a slow change in output distribution. AI-native monitoring sits on top of the SIEM, instead of next to it. The SIEM still handles infrastructure-layer events, while the AI monitoring layer feeds it model-level anomalies the SIEM wasn&#x2019;t designed to catch.</p><h2 id="best-practices-for-ai-security-monitoring-with-n8n">Best practices for AI security monitoring with n8n&#xA0;</h2><p>The practices below are vendor-neutral, but they all share an operational problem: the AI stack (model serving, vector stores, training pipelines) and the security stack (SIEM, ticketing, on-call) rarely speak the same language. <a href="https://n8n.io/"><u>n8n </u></a>acts as the orchestration layer &#x2014; routing model-level signals into the workflows your security team already runs, without forcing a parallel monitoring stack.</p><h3 id="validate-and-monitor-your-training-data-pipelines">Validate and monitor your training data pipelines</h3><p>Data poisoning is cheap to execute and expensive to detect after the fact, which is why teams need to validate data at ingestion. Hash every dataset version and compare distributions against a known-good baseline, and flag schema changes the moment they hit the pipeline.&#xA0;</p><p>n8n&apos;s <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/"><u>HTTP Request node </u></a>and webhook triggers wire those checks into a single workflow. A hash mismatch fires an alert into <a href="https://n8n.io/integrations/pagerduty/"><u>PagerDuty </u></a>and pauses the downstream training run until a human signs off &#x2014; no custom Python glue to maintain across the pipeline.</p>
 <!--kg-card-begin: html-->
@@ -550,7 +548,13 @@
   });
 </script>
 <!--kg-card-end: html-->
-<h3 id="establish-behavioral-baselines-for-every-model-in-production">Establish behavioral baselines for every model in production</h3><p>Production AI model security starts with the assumption that the model itself will change. Drift happens for reasons unrelated to attackers: input distributions shift, retraining alters response patterns, and downstream consumers change how they call the API.&#xA0;</p><p>The way to tell drift from an attack is a baseline built from confidence distributions and output length histograms. <a href="https://docs.n8n.io/advanced-ai/evaluations/overview/"><u>n8n evaluations</u></a> make this concrete: define a golden dataset, re-run it against the production model on a schedule, and score the output against expected behavior. Scheduled triggers run the evaluation at whatever interval the SLO demands (every 15 minutes is typical), and anomaly alerts route to wherever your team already operates, i.e. <a href="https://n8n.io/integrations/splunk/"><u>Splunk</u></a>.</p><h3 id="integrate-ai-telemetry-with-your-existing-siem">Integrate AI telemetry with your existing SIEM</h3><p>A parallel monitoring stack duplicates infrastructure your security team runs &#x2014; alert routing, on-call rotations, and the audit trail are already in place. The goal isn&#x2019;t to replace infrastructure but extend it with AI-layer signals it can correlate against everything else.&#xA0;</p><p>For teams operating under strict data residency or network egress policies, n8n&#x2019;s self-hosted deployment keeps alert telemetry inside the organization&apos;s own infrastructure. For regulated industries, on-prem telemetry is a hard requirement, SaaS-native SOAR tools force data to transit external endpoints, locking out these industries.&#xA0;</p><h3 id="automate-incident-response-with-condition-based-playbooks">Automate incident response with condition-based playbooks</h3><p>Detection that doesn&#x2019;t trigger a response just generates audit logs that sit in a folder. The playbook layer translates an alert into action, like revoking a credential, rotating an API key, or quarantining a model endpoint.&#xA0;</p><p>Hard-coding that logic into Python scripts works until the playbook needs to change, at which point you&#x2019;re shipping code through a release process. n8n&#x2019;s visual workflow builder lets security engineers build conditional response logic across <a href="https://n8n.io/integrations/categories/cybersecurity/"><u>cybersecurity integrations</u></a> without that overhead. Webhook triggers fire from the SIEM, condition nodes route based on severity and asset class while keeping secrets in the managed credential store, and HTTP Request nodes hit remediation APIs. If you want a working starting point, the <a href="https://n8n.io/workflows/7224-automate-cve-monitoring-with-openai-processing-for-servicenow-security-incidents/"><u>CVE monitoring template</u></a> wires OpenAI processing into ServiceNow incidents in under 10 minutes.</p><h2 id="monitor-and-maintain-ai-with-n8n">Monitor and maintain AI with n8n&#xA0;</h2><p>Prompt injection and sensitive data leakage happen at inference time. The defense is a filtering layer that inspects every unsafe input before it reaches the model and every output before it reaches the user or a downstream tool.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/n8n--1-.png" class="kg-image" alt="AI Security Monitoring: Risks, Detection, and Automated Response" loading="lazy" width="1553" height="622" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/n8n--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/n8n--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/n8n--1-.png 1553w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">A workflow example with a guardrail checking potentially harmful chat input. Source: https://n8n.io/workflows/15855-provide-ecommerce-support-with-qdrant-rag-woocommerce-and-human-backup/</em></i></figcaption></figure><p>n8n&apos;s <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails/"><u>guardrails node </u></a>runs that check inside the workflow itself. Inputs get screened for injection patterns and policy violations; outputs get checked for leaked PII, credentials, or instructions that shouldn&apos;t surface. Failed checks route to a separate branch instead of the main response path, so the security team gets the event in the usual alerting channel as everything else.</p>
+<h3 id="establish-behavioral-baselines-for-every-model-in-production">Establish behavioral baselines for every model in production</h3><p>Production AI model security starts with the assumption that the model itself will change. Drift happens for reasons unrelated to attackers: input distributions shift, retraining alters response patterns, and downstream consumers change how they call the API.&#xA0;</p><p>The way to tell drift from an attack is a baseline built from confidence distributions and output length histograms. <a href="https://docs.n8n.io/advanced-ai/evaluations/overview/"><u>n8n evaluations</u></a> make this concrete: define a golden dataset, re-run it against the production model on a schedule, and score the output against expected behavior. Scheduled triggers run the evaluation at whatever interval the SLO demands (every 15 minutes is typical), and anomaly alerts route to wherever your team already operates, i.e. <a href="https://n8n.io/integrations/splunk/"><u>Splunk</u></a>.</p><h3 id="integrate-ai-telemetry-with-your-existing-siem">Integrate AI telemetry with your existing SIEM</h3><p>A parallel monitoring stack duplicates infrastructure your security team runs &#x2014; alert routing, on-call rotations, and the audit trail are already in place. The goal isn&#x2019;t to replace infrastructure but extend it with AI-layer signals it can correlate against everything else.&#xA0;</p><p>For teams operating under strict data residency or network egress policies, n8n&#x2019;s self-hosted deployment keeps alert telemetry inside the organization&apos;s own infrastructure. For regulated industries, on-prem telemetry is a hard requirement, SaaS-native SOAR tools force data to transit external endpoints, locking out these industries.&#xA0;</p><h3 id="automate-incident-response-with-condition-based-playbooks">Automate incident response with condition-based playbooks</h3><p>Detection that doesn&#x2019;t trigger a response just generates audit logs that sit in a folder. The playbook layer translates an alert into action, like revoking a credential, rotating an API key, or quarantining a model endpoint.&#xA0;</p><p>Hard-coding that logic into Python scripts works until the playbook needs to change, at which point you&#x2019;re shipping code through a release process. n8n&#x2019;s visual workflow builder lets security engineers build conditional response logic across <a href="https://n8n.io/integrations/categories/cybersecurity/"><u>cybersecurity integrations</u></a> without that overhead. Webhook triggers fire from the SIEM, condition nodes route based on severity and asset class while keeping secrets in the managed credential store, and HTTP Request nodes hit remediation APIs. If you want a working starting point, the <a href="https://n8n.io/workflows/7224-automate-cve-monitoring-with-openai-processing-for-servicenow-security-incidents/"><u>CVE monitoring template</u></a> wires OpenAI processing into ServiceNow incidents in under 10 minutes.</p><h2 id="monitor-and-maintain-ai-with-n8n">Monitor and maintain AI with n8n&#xA0;</h2><p>Prompt injection and sensitive data leakage happen at inference time. The defense is a filtering layer that inspects every unsafe input before it reaches the model and every output before it reaches the user or a downstream tool.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/n8n--1-.png" class="kg-image" alt="AI Security Monitoring: Risks, Detection, and Automated Response" loading="lazy" width="1553" height="622" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/n8n--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/n8n--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/n8n--1-.png 1553w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">A workflow example with a guardrail checking potentially harmful chat input.</em></i></figcaption></figure>
+<!--kg-card-begin: html-->
+<script>
+  workflowBanner(15855, document.currentScript);
+</script>
+<!--kg-card-end: html-->
+<p>n8n&apos;s <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails/"><u>guardrails node </u></a>runs that check inside the workflow itself. Inputs get screened for injection patterns and policy violations; outputs get checked for leaked PII, credentials, or instructions that shouldn&apos;t surface. Failed checks route to a separate branch instead of the main response path, so the security team gets the event in the usual alerting channel as everything else.</p>
 <!--kg-card-begin: html-->
 <div class="content-banner">
   <div>
@@ -1410,7 +1414,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 03 Jul 2026 12:01:47 GMT</pubDate>
+  <pubDate>Thu, 02 Jul 2026 12:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -1419,7 +1423,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 02 Jul 2026 18:01:47 GMT</pubDate>
+  <pubDate>Wed, 01 Jul 2026 16:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1428,7 +1432,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 01 Jul 2026 21:01:47 GMT</pubDate>
+  <pubDate>Sat, 04 Jul 2026 01:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1437,7 +1441,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 02 Jul 2026 21:01:47 GMT</pubDate>
+  <pubDate>Tue, 30 Jun 2026 21:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1446,7 +1450,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 04 Jul 2026 22:01:47 GMT</pubDate>
+  <pubDate>Sun, 05 Jul 2026 21:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1455,7 +1459,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 28 Jun 2026 15:01:47 GMT</pubDate>
+  <pubDate>Sat, 04 Jul 2026 09:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1464,7 +1468,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 05 Jul 2026 04:01:47 GMT</pubDate>
+  <pubDate>Sat, 04 Jul 2026 05:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1473,7 +1477,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 04 Jul 2026 02:01:47 GMT</pubDate>
+  <pubDate>Sun, 05 Jul 2026 16:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1482,7 +1486,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 04 Jul 2026 16:01:47 GMT</pubDate>
+  <pubDate>Mon, 29 Jun 2026 04:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1491,7 +1495,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 02 Jul 2026 20:01:47 GMT</pubDate>
+  <pubDate>Tue, 30 Jun 2026 13:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1500,7 +1504,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 29 Jun 2026 07:01:47 GMT</pubDate>
+  <pubDate>Thu, 02 Jul 2026 06:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1509,7 +1513,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 06 Jul 2026 16:01:47 GMT</pubDate>
+  <pubDate>Mon, 06 Jul 2026 03:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1518,7 +1522,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 02 Jul 2026 13:01:47 GMT</pubDate>
+  <pubDate>Tue, 30 Jun 2026 21:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1527,7 +1531,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 06 Jul 2026 08:01:47 GMT</pubDate>
+  <pubDate>Tue, 07 Jul 2026 19:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1536,7 +1540,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 07 Jul 2026 08:01:47 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 01:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1545,7 +1549,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 28 Jun 2026 17:01:47 GMT</pubDate>
+  <pubDate>Tue, 30 Jun 2026 09:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1554,7 +1558,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 05 Jul 2026 04:01:47 GMT</pubDate>
+  <pubDate>Sat, 04 Jul 2026 09:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1563,7 +1567,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 08 Jul 2026 01:01:47 GMT</pubDate>
+  <pubDate>Tue, 30 Jun 2026 01:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1572,7 +1576,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 02 Jul 2026 20:01:47 GMT</pubDate>
+  <pubDate>Tue, 07 Jul 2026 15:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1581,7 +1585,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 29 Jun 2026 06:01:47 GMT</pubDate>
+  <pubDate>Mon, 06 Jul 2026 22:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1590,7 +1594,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 02 Jul 2026 02:01:47 GMT</pubDate>
+  <pubDate>Sun, 05 Jul 2026 20:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1599,7 +1603,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 07 Jul 2026 16:01:47 GMT</pubDate>
+  <pubDate>Sun, 05 Jul 2026 11:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1608,7 +1612,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 07 Jul 2026 14:01:47 GMT</pubDate>
+  <pubDate>Sat, 04 Jul 2026 03:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1617,7 +1621,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 08 Jul 2026 07:01:47 GMT</pubDate>
+  <pubDate>Sun, 05 Jul 2026 03:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1626,7 +1630,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 03 Jul 2026 19:01:47 GMT</pubDate>
+  <pubDate>Mon, 06 Jul 2026 20:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1635,7 +1639,7 @@ return {
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 29 Jun 2026 06:01:47 GMT</pubDate>
+  <pubDate>Sun, 05 Jul 2026 17:19:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
@@ -2035,49 +2039,49 @@ return {
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-rubrik-article-1.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L’efficacité énergétique de l’intelligence artificielle de Golem.ai validée par un Benchmark externe]]></title>
-  <link>https://www.ia-news.fr/lefficacite-energetique-de-lintelligence-artificielle-de-golem-ai-validee-par-un-benchmark-externe/</link>
+  <title><![CDATA[IA GÉNÉRATIVES ET RELATION CLIENT : CAS D’USAGES, COMPLEXITÉ ET RISQUES]]></title>
+  <link>https://www.ia-news.fr/ia-generatives-et-relation-client-cas-dusages-complexite-et-risques/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Lecture : 60 minutes pour Découvrir l&rsquo;IA Générative]]></title>
-  <link>https://www.ia-news.fr/fwd-nouveaute-en-service-de-presse-60-minutes-pour-decouvrir-lia-generative/</link>
+  <title><![CDATA[Sensiwave.ai : la révolution de la sensibilisation à la cybersécurité par Conscio Technologies]]></title>
+  <link>https://www.ia-news.fr/sensiwave-ai-la-revolution-de-la-sensibilisation-a-la-cybersecurite-par-conscio-technologies/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[1re édition du baromètre Digital Workplace par Experteam et Mozzaik 365]]></title>
-  <link>https://www.ia-news.fr/1re-edition-du-barometre-digital-workplace-par-experteam-et-mozzaik-365/</link>
+  <title><![CDATA[Assistant(e) Plus, le magazine du groupe Blitzzz Media, intègre l&rsquo;IA pour offrir à ses lecteurs des formations et des tutoriels vidéo inédits sur ChatGPT et Midjourney]]></title>
+  <link>https://www.ia-news.fr/assistante-plus-le-magazine-du-groupe-blitzzz-media-integre-lia-pour-offrir-a-ses-lecteurs-des-formations-et-des-tutoriels-video-inedits-sur-chatgpt-et-midjourney/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L’impact de l’IA dans le secteur des Datacenters]]></title>
-  <link>https://www.ia-news.fr/limpact-de-lia-dans-le-secteur-des-datacenters/</link>
+  <title><![CDATA[Comment l’IA va-t-elle transformer les usages et créer de nouvelles opportunités]]></title>
+  <link>https://www.ia-news.fr/comment-lia-va-t-elle-transformer-les-usages-et-creer-de-nouvelles-opportunites/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0001.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0001.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0001.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L&rsquo;IA, le futur des datacenters]]></title>
-  <link>https://www.ia-news.fr/lia-le-futur-des-datacenters/</link>
+  <title><![CDATA[Les « zombies de l’IA » : un nouveau défi pour les entreprises]]></title>
+  <link>https://www.ia-news.fr/les-zombies-de-lia-un-nouveau-defi-pour-les-entreprises/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
