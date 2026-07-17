@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 17 Jul 2026 12:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Jul 2026 17:45:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,56 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans</title>
+		<link>https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</link>
+		
+		<dc:creator><![CDATA[Theresa Loconsolo]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2026 17:45:46 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[openai lawsuit]]></category>
+		<category><![CDATA[Satya Nadella]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=3143835</guid>
+
+					<description><![CDATA[Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Patreon stops asking AI bots not to scrape — and starts blocking them</title>
+		<link>https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2026 15:21:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[cloudflare]]></category>
+		<category><![CDATA[Patreon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3143704</guid>
+
+					<description><![CDATA[Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple&#8217;s lawsuit couldn&#8217;t come at a worse time for OpenAI</title>
+		<link>https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[openai lawsuit]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&#038;p=3143831</guid>
+
+					<description><![CDATA[Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Why the first GPU financiers are turning to inference chips in a $400 million deal</title>
 		<link>https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</link>
 		
@@ -35,6 +85,7 @@
 		<pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[General COmpute]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3143568</guid>
 
 					<description><![CDATA[A $400 million chip-backed loan points to the next wave of AI infrastructure deals.]]></description>
@@ -288,68 +339,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3142329</guid>
 
 					<description><![CDATA[It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hack suggests AI music generator Suno scraped YouTube for training data</title>
-		<link>https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 15 Jul 2026 17:00:34 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[suno]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3142768</guid>
-
-					<description><![CDATA[The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Whatnot acquires Shaped to power real-time live shopping recommendations</title>
-		<link>https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[e-commerce]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[livestream shopping]]></category>
-		<category><![CDATA[Shaped]]></category>
-		<category><![CDATA[Whatnot]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3142373</guid>
-
-					<description><![CDATA[Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft patches record number of security vulnerabilities, citing its use of AI</title>
-		<link>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Wed, 15 Jul 2026 16:20:18 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[sharepoint]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[zero-day]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3142791</guid>
-
-					<description><![CDATA[Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.]]></description>
 		
 		
 		
