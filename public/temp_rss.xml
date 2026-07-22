@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 08:01:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 13:12:56 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack]]></title>
+            <description><![CDATA[It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o#0</guid>
+            <pubDate>Wed, 22 Jul 2026 11:40:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce5f/live/a84590f0-85cc-11f1-b1dd-bb44cb5bbbfd.jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI minister role boosted but tech department axed in Burnham shake-up]]></title>
             <description><![CDATA[Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary.]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05bb/live/b840f240-7ccd-11f1-bee8-53ce494e1abc.png"/>
         </item>
         <item>
-            <title><![CDATA[Is the Assassin's Creed Black Flag remake worth the 13 year wait? ]]></title>
-            <description><![CDATA[The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjrg9r80908o#0</guid>
-            <pubDate>Sat, 11 Jul 2026 00:08:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[Dogs have a great sense of smell. Now machines are being trained to sniff out odours.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jy5?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,18 +184,57 @@
         </item>
     
 <item>
+		<title>Passionfroot raises $15M to expand its B2B creator marketplace to the US</title>
+		<link>https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Insight Venture Partners]]></category>
+		<category><![CDATA[creator economy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3144582</guid>
+
+					<description><![CDATA[Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era</title>
+		<link>https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[cyberstarts]]></category>
+		<category><![CDATA[Glow]]></category>
+		<category><![CDATA[Greenoaks Capital]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[redpoint ventures]]></category>
+		<category><![CDATA[Sequoia Capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3144940</guid>
+
+					<description><![CDATA[Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Synthesia’s AI training platform is moving beyond videos into live coaching</title>
 		<link>https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
 		<pubDate>Wed, 22 Jul 2026 08:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI avatar]]></category>
 		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Synthesia]]></category>
-		<category><![CDATA[AI avatar]]></category>
 		<category><![CDATA[roleplaying]]></category>
+		<category><![CDATA[Synthesia]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3145013</guid>
 
 					<description><![CDATA[Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.]]></description>
@@ -485,39 +524,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3144118</guid>
 
 					<description><![CDATA[Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>YouTube clarifies policies around AI slop and upsetting videos</title>
-		<link>https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 15:23:06 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<category><![CDATA[inauthentic activity]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3144190</guid>
-
-					<description><![CDATA[YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>What to watch for after Jensen Huang&#8217;s Japan visit</title>
-		<link>https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Sun, 19 Jul 2026 21:16:07 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[Jensen Huang]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3144105</guid>
-
-					<description><![CDATA[Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.]]></description>
 		
 		
 		
@@ -1016,7 +1022,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 13 Jul 2026 03:01:25 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 21:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -1025,7 +1031,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 20 Jul 2026 19:01:25 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 13:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1034,7 +1040,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 15 Jul 2026 01:01:25 GMT</pubDate>
+  <pubDate>Fri, 17 Jul 2026 20:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1043,7 +1049,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 18 Jul 2026 22:01:25 GMT</pubDate>
+  <pubDate>Mon, 20 Jul 2026 22:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1052,7 +1058,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 21 Jul 2026 18:01:25 GMT</pubDate>
+  <pubDate>Sat, 18 Jul 2026 07:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1061,7 +1067,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 19 Jul 2026 22:01:25 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 00:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1070,7 +1076,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 21 Jul 2026 09:01:25 GMT</pubDate>
+  <pubDate>Sat, 18 Jul 2026 03:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1079,7 +1085,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 20 Jul 2026 11:01:25 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 01:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1088,7 +1094,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 18 Jul 2026 04:01:25 GMT</pubDate>
+  <pubDate>Thu, 16 Jul 2026 15:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1097,7 +1103,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 12 Jul 2026 17:01:25 GMT</pubDate>
+  <pubDate>Tue, 14 Jul 2026 10:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1106,7 +1112,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 18 Jul 2026 07:01:25 GMT</pubDate>
+  <pubDate>Tue, 14 Jul 2026 12:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1115,7 +1121,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 14 Jul 2026 02:01:25 GMT</pubDate>
+  <pubDate>Mon, 20 Jul 2026 16:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1124,7 +1130,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 20 Jul 2026 03:01:25 GMT</pubDate>
+  <pubDate>Fri, 17 Jul 2026 04:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1133,7 +1139,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 12 Jul 2026 09:01:25 GMT</pubDate>
+  <pubDate>Sat, 18 Jul 2026 15:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1142,7 +1148,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 19 Jul 2026 02:01:25 GMT</pubDate>
+  <pubDate>Sun, 19 Jul 2026 10:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1151,7 +1157,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 21 Jul 2026 07:01:25 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 22:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1160,7 +1166,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 22 Jul 2026 04:01:25 GMT</pubDate>
+  <pubDate>Mon, 13 Jul 2026 05:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1169,7 +1175,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 19 Jul 2026 14:01:25 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 17:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1178,7 +1184,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 18 Jul 2026 14:01:25 GMT</pubDate>
+  <pubDate>Sun, 12 Jul 2026 16:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1187,7 +1193,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 19 Jul 2026 04:01:25 GMT</pubDate>
+  <pubDate>Sat, 18 Jul 2026 13:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1196,7 +1202,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 16 Jul 2026 09:01:25 GMT</pubDate>
+  <pubDate>Mon, 20 Jul 2026 19:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1205,7 +1211,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 20 Jul 2026 17:01:25 GMT</pubDate>
+  <pubDate>Thu, 16 Jul 2026 15:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1214,7 +1220,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 19 Jul 2026 23:01:25 GMT</pubDate>
+  <pubDate>Sat, 18 Jul 2026 12:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1223,7 +1229,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 17 Jul 2026 15:01:25 GMT</pubDate>
+  <pubDate>Tue, 14 Jul 2026 07:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1232,7 +1238,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 21 Jul 2026 23:01:25 GMT</pubDate>
+  <pubDate>Tue, 14 Jul 2026 05:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1241,7 +1247,7 @@ python run_self_improve_skill.py apply-proposal</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 13 Jul 2026 03:01:25 GMT</pubDate>
+  <pubDate>Fri, 17 Jul 2026 14:13:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
@@ -1616,49 +1622,67 @@ python run_self_improve_skill.py apply-proposal</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Souveraineté numérique : Tenexa annonce un partenariat avec Delos]]></title>
-  <link>https://www.ia-news.fr/souverainete-numerique-tenexa-annonce-un-partenariat-avec-delos/</link>
+  <title><![CDATA[Everpure : l’IA agentique oblige les entreprises à mieux gouverner leurs données]]></title>
+  <link>https://www.ia-news.fr/everpure-lia-agentique-oblige-les-entreprises-a-mieux-gouverner-leurs-donnees/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-everpure-article-3.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-everpure-article-3.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-everpure-article-3.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Le Financial Times adopte la solution d’IA de Zuora pour personnaliser ses offres et accélérer sa croissance]]></title>
-  <link>https://www.ia-news.fr/le-financial-times-adopte-la-solution-dia-de-zuora-pour-personnaliser-ses-offres-et-accelerer-sa-croissance/</link>
+  <title><![CDATA[CTOUVERT, DE L’IA OPERATIONNEL]]></title>
+  <link>https://www.ia-news.fr/ctouvert-de-lia-operationnel/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/courbe-evolution.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/courbe-evolution.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/courbe-evolution.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/partial-view-of-man-using-laptop-while-taking-part-2021-09-03-07-06-32-utc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/partial-view-of-man-using-laptop-while-taking-part-2021-09-03-07-06-32-utc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/partial-view-of-man-using-laptop-while-taking-part-2021-09-03-07-06-32-utc.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[ROI de l’IA : la qualité des données comme facteur décisif]]></title>
-  <link>https://www.ia-news.fr/roi-de-lia-la-qualite-des-donnees-comme-facteur-decisif/</link>
+  <title><![CDATA[Nouvelle étude de Cloudera]]></title>
+  <link>https://www.ia-news.fr/nouvelle-etude-de-cloudera/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0001.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0001.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0001.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Synotis CH rejoint le Groupe Smile]]></title>
-  <link>https://www.ia-news.fr/synotis-ch-rejoint-le-groupe-smile/</link>
+  <title><![CDATA[Intelligence artificielle générative : comment réconcilier les enjeux des métiers avec les impératifs de la DSI]]></title>
+  <link>https://www.ia-news.fr/intelligence-artificielle-generative-comment-reconcilier-les-enjeux-des-metiers-avec-les-imperatifs-de-la-dsi/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/markus-spiske-70Rir5vB96U-unsplash.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/markus-spiske-70Rir5vB96U-unsplash.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/markus-spiske-70Rir5vB96U-unsplash.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-6.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-6.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-6.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[IA BTP fait évoluer son identité de marque et renomme ses solutions]]></title>
-  <link>https://www.ia-news.fr/ia-btp-fait-evoluer-son-identite-de-marque-et-renomme-ses-solutions/</link>
+  <title><![CDATA[LumApps s’associe à Beekeeper pour créer le tout premier AI Employee Hub ]]></title>
+  <link>https://www.ia-news.fr/lumapps-sassocie-a-beekeeper-pour-creer-le-tout-premier-ai-employee-hub/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-illustration.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-illustration.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-illustration.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Réussir son Projet Numérique en 2024 : Les Points Stratégiques]]></title>
+  <link>https://www.ia-news.fr/reussir-son-projet-numerique-en-2024-les-points-strategiques/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/digital-bleu-rose.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/digital-bleu-rose.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/digital-bleu-rose.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[L&rsquo;importance de la connectivité dans l&rsquo;IA]]></title>
+  <link>https://www.ia-news.fr/limportance-de-la-connectivite-dans-lia/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/02/cloud-data-center-computing-07.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/02/cloud-data-center-computing-07.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/02/cloud-data-center-computing-07.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
