@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 23 Jul 2026 23:03:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jul 2026 05:37:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How AI guardrails are impeding the work of offensive cybersecurity researchers</title>
+		<link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2026 01:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Zero-days]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3145932</guid>
+
+					<description><![CDATA[We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AMD takes on Nvidia with its Helios AI rack-scale system</title>
 		<link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
 		
@@ -364,22 +381,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3144980</guid>
 
 					<description><![CDATA[As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters with AI</title>
-		<link>https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 22 Jul 2026 16:23:09 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Substack]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3145276</guid>
-
-					<description><![CDATA[Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content. ]]></description>
 		
 		
 		
