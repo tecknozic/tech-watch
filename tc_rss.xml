@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 28 Jul 2026 13:21:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jul 2026 17:30:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,41 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Recursive Superintelligence signs $410 compute deal with Amazon</title>
+		<title>Data centers may face temporary power cuts to prevent blackouts on largest US grid</title>
+		<link>https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 15:42:26 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3147357</guid>
+
+					<description><![CDATA[The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fish Audio raises $52M seed to build AI voice models for creators and enterprises</title>
+		<link>https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[voice AI]]></category>
+		<category><![CDATA[text to speech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3146881</guid>
+
+					<description><![CDATA[Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recursive Superintelligence signs $410M compute deal with Amazon</title>
 		<link>https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/</link>
 		
 		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
@@ -38,7 +72,7 @@
 		<category><![CDATA[RSI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3147263</guid>
 
-					<description><![CDATA[Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.]]></description>
+					<description><![CDATA[Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process. ]]></description>
 		
 		
 		
@@ -49,10 +83,10 @@
 		
 		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
 		<pubDate>Tue, 28 Jul 2026 04:30:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[SpaceX]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[cursor]]></category>
+		<category><![CDATA[SpaceX]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3146880</guid>
 
 					<description><![CDATA[Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.]]></description>
@@ -69,6 +103,7 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[dario amodei]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3147197</guid>
 
 					<description><![CDATA[Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ]]></description>
@@ -338,41 +373,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3146451</guid>
 
 					<description><![CDATA[At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>One fallen power line exposed a growing AI data center problem — here&#8217;s how to fix it</title>
-		<link>https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Sat, 25 Jul 2026 13:05:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[electrical grid]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3146569</guid>
-
-					<description><![CDATA[A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else</title>
-		<link>https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Sat, 25 Jul 2026 00:23:11 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[codex]]></category>
-		<category><![CDATA[micro]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3144285</guid>
-
-					<description><![CDATA[OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it. ]]></description>
 		
 		
 		
