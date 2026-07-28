@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 27 Jul 2026 18:51:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jul 2026 00:50:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,58 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI</title>
+		<link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3147197</guid>
+
+					<description><![CDATA[Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Satya Nadella says companies that trust one AI for everything may not survive</title>
+		<link>https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 21:17:11 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Satya Nadella]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3147049</guid>
+
+					<description><![CDATA[Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PSA: Your Claude shared chats and Artifacts may have ended up on Google</title>
+		<link>https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 20:19:42 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[data exposure]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3147064</guid>
+
+					<description><![CDATA[The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system</title>
 		<link>https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/</link>
 		
@@ -104,8 +156,8 @@
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
 		<pubDate>Mon, 27 Jul 2026 15:30:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3146499</guid>
 
@@ -322,59 +374,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3146380</guid>
 
 					<description><![CDATA[The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic launches Opus 5</title>
-		<link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
-		
-		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
-		<pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Opus]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3146446</guid>
-
-					<description><![CDATA[Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As US weighs response to Chinese AI, industry urges against broad open-weight restrictions</title>
-		<link>https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 24 Jul 2026 15:51:49 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[mistral]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3146372</guid>
-
-					<description><![CDATA[AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bluesky’s AI assistant Attie expands into an open social research tool</title>
-		<link>https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Fri, 24 Jul 2026 15:13:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3146304</guid>
-
-					<description><![CDATA[Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.]]></description>
 		
 		
 		
