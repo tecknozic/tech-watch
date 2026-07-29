@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 08:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 13:28:40 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Data centres could pay hundreds of millions in deposits for power demands]]></title>
+            <description><![CDATA[The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9q90q9qnn2o#0</guid>
+            <pubDate>Wed, 29 Jul 2026 11:35:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2f/live/8ed23800-8b42-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI says its rogue AI tried to hack other companies]]></title>
+            <description><![CDATA[The out-of-control AI found four logins which allowed it to access multiple unnamed online services.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2el319vzr3o#0</guid>
+            <pubDate>Wed, 29 Jul 2026 08:49:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Brits urged to avoid dangerous plug adaptors this summer - what to watch out for]]></title>
             <description><![CDATA[Campaign group Electrical Safety First has urged those "heading abroad this summer to think before they buy".]]></description>
@@ -21,14 +37,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yeg1wegpno#0</guid>
             <pubDate>Tue, 28 Jul 2026 23:00:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack]]></title>
-            <description><![CDATA[Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2el319vzr3o#0</guid>
-            <pubDate>Tue, 28 Jul 2026 23:00:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg"/>
         </item>
         <item>
             <title><![CDATA[Some people's chats with Claude AI found to be publicly available online]]></title>
@@ -113,14 +121,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Amazon gaming boss predicts future where players no longer need consoles]]></title>
-            <description><![CDATA[Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9803j74091o#0</guid>
-            <pubDate>Thu, 23 Jul 2026 13:24:16 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd57/live/862ba660-8696-11f1-9e03-bdd14c1ce63a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[What do we need to know about agentic AI?]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&amp;at_campaign=rss</link>
@@ -185,6 +185,23 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nwpk5l.jpg"/>
         </item>
     
+<item>
+		<title>As AI content floods the internet, Pangram raises $9M to detect it</title>
+		<link>https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[ai slop]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3147680</guid>
+
+					<description><![CDATA[Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview. ]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents</title>
 		<link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
@@ -522,23 +539,144 @@
 		
 		
 			</item>
-<item>
-		<title>Are brain waves the next unlock for physical AI?</title>
-		<link>https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 00:19:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[physical ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3146429</guid>
+<item><title><![CDATA[RAG vs. Agentic RAG: Architecture, Tradeoffs, and How to Choose]]></title><description><![CDATA[Classic RAG hits a wall on multi-hop and ambiguous queries. Learn how agentic RAG turns retrieval into a control loop, and when the tradeoffs are worth it.]]></description><link>https://blog.n8n.io/rag-vs-agentic-rag-architecture-tradeoffs-and-how-to-choose/</link><guid isPermaLink="false">6a5f81dace7f760001e36275</guid><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Wed, 29 Jul 2026 10:33:44 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-7.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-7.jpeg" alt="RAG vs. Agentic RAG: Architecture, Tradeoffs, and How to Choose"><p>Retrieval-augmented generation earned its place by grounding language models in external data&#xA0; instead of guesswork. But classic RAG treats every query identically, and that assumption cracks the moment a question needs more than one lookup. </p><p>The RAG vs agentic RAG debate is really about correctness, traceability, and resilience under production load. It&#x2019;s also about whether an AI agent that analyzes each query and picks its own retrieval strategy is worth the added complexity.</p><h2 id="classic-rag-how-simple-rag-works">Classic RAG: How simple RAG works</h2><p>Classic RAG follows a straight, predictable path. A user query triggers a retrieval step that fetches relevant context from an external knowledge source. Depending on the system, retrieval may use vector similarity search, keyword search, hybrid retrieval, and SQL queries before the model generates an answer. The whole pipeline is stateless: It never loops back, and it forgets each request the moment it finishes.</p><p>That simplicity is a strength. Latency stays predictable because every request runs the same fixed steps. Infrastructure overhead stays low &#x2014; you maintain one retriever, one embedding model, and whatever indexing infrastructure the retriever requires, like a vector database for embedding-based search or a keyword index for lexical retrieval. When an answer comes out wrong, the debugging surface is small enough to inspect by hand. A support <a href="https://blog.n8n.io/rag-chatbot/"><u>RAG chatbot</u></a> answering FAQs from a single knowledge base is exactly where this linear design earns its keep. And for a stable corpus, it&#x2019;s often the cheapest reliable option on the table.</p><p>The trouble starts when the answer doesn&#x2019;t live inside one tidy chunk. Because the pipeline retrieves once and trusts what it gets, low-relevance results quietly turn into confident hallucinations. Three failure modes show up again and again:</p><ul><li><strong>Multi-hop questions break it:</strong> Ask &#x201C;Which vendors did we onboard after our SOC 2 audit?&#x201D; and the system needs the audit date from one document and the vendor list from another, but a single retrieval step fetches only one hop.</li><li><strong>Vocabulary mismatch starves the retriever:</strong> A user asks about &#x201C;time off&#x201D; while the policy uses &#x201C;paid leave,&#x201D; and even semantic search may miss the relevant passage when the embeddings don&apos;t line up. Hybrid search combining keywords and embeddings reduces this risk, but classic RAG pipelines often rely on a single retrieval method.</li><li><strong>Chunk boundaries split the evidence:</strong> When an answer spans two chunks and the retriever returns only one, the model fills the gap with plausible fiction instead of the missing half.</li></ul><h2 id="agentic-rag-retrieval-as-a-control-loop">Agentic RAG: Retrieval as a control loop</h2><p>A RAG agent is a large language model with a set of tools and the authority to decide how to use them. Classic RAG asks one narrow question: What chunks match this query? Agentic RAG asks a broader one: What information do I need to answer this, and which tools can supply it? This is what people mean by agentic retrieval.</p><p>That shift turns retrieval from a single step into a control loop, and it&#x2019;s the clearest answer to what agentic AI RAG is and how it works. The agent retrieves, reads what came back, evaluates whether the evidence is enough, and decides its next move &#x2014; reformulate the query, switch sources, call an API, or stop and answer. It is the <a href="https://blog.n8n.io/react-agent/"><u>ReAct pattern</u></a> in practice: reason, act, observe, repeat. Configured with memory, the agent carries context across iterations, so the agent does not start cold on every pass and can build toward a multi-faceted answer.</p><p>The SOC 2 example shows the difference clearly. An agentic system first retrieves the audit date, recognizes it still needs the vendor list, fires a second query against a different source, then synthesizes both into one grounded response. This is work a single-shot retriever simply can&#x2019;t do. Tooling like the AI Agent node in n8n, built on LangChain, exists to wire this loop together. Three capabilities separate it from a fixed pipeline:</p><ul><li><strong>It decomposes and plans:</strong> A broad question gets split into subqueries the agent tackles in sequence, each result feeding the next.</li><li><strong>It self-evaluates and reformulates: </strong>When the first retrieval comes back thin, the agent rewrites the query and tries again instead of forcing an answer from weak context.</li><li><strong>It routes adaptively:</strong> A pricing question goes to a SQL database, a policy question to the vector store, a live question to web search &#x2014; an agent picks the source per query. Routing across specialized knowledge bases is what lets one agent handle billing and security questions without <a href="https://blog.n8n.io/build-multi-domain-rag-systems-with-specialized-knowledge-bases/"><u>confusing the two</u></a>.</li></ul><h2 id="rag-vs-agentic-rag-the-key-difference">RAG vs. agentic RAG: The key difference</h2><p>The difference between RAG and agentic RAG isn&#x2019;t a generational upgrade where the new thing retires the old. It&#x2019;s an architectural tradeoff. Classic RAG buys you speed and predictability. Agentic RAG buys you adaptability and multi-step reasoning, paid for in latency, cost, and the observability you need to trace what the agent actually did. The right call depends on query complexity, your latency budget, and how much you can invest in watching the loop.</p>
+<!--kg-card-begin: html-->
+<div style="border-radius:12px; overflow:hidden; background-color:#0e0c16; font-family:Arial, sans-serif;">
+  <style>
+    .rag-table-scroll::-webkit-scrollbar {
+      height: 6px;
+    }
+    .rag-table-scroll::-webkit-scrollbar-track {
+      background: #1a1825;
+      border-radius: 0 0 12px 12px;
+    }
+    .rag-table-scroll::-webkit-scrollbar-thumb {
+      background-color: #ffffff;
+      border-radius: 6px;
+    }
+    .rag-table-scroll::-webkit-scrollbar-thumb:hover {
+      background-color: #cccccc;
+    }
+  </style>
+  <div class="rag-table-scroll" style="overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-color:#ffffff #1a1825; scrollbar-width:thin;">
+    <table style="width:100%; min-width:600px; border-collapse:collapse;">
+      <thead>
+        <tr style="background-color:#211f2e;">
+          <th style="text-align:left; padding:20px 24px; color:#ffffff; font-weight:700; font-size:16px;">Dimension</th>
+          <th style="text-align:left; padding:20px 24px; color:#ffffff; font-weight:700; font-size:16px;">Classic RAG</th>
+          <th style="text-align:left; padding:20px 24px; color:#ffffff; font-weight:700; font-size:16px;">Agentic RAG</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Control structure</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Linear, stateless pipeline</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Iterative control loop with memory</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Retrieval strategy</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">One fixed top-k lookup</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Adaptive, multi-step retrieval</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Source support</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Usually a single source</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Many tools: databases, APIs, web search</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Query handling</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Treats every query the same</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Analyzes and routes per query</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Latency profile</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Low and predictable</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Higher and variable</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Failure mode</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Silent, low-relevance answers</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Loops, runaway cost, hard-to-trace edge cases</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Debugging complexity</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Small, inspectable surface</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Distributed traces across steps</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Ideal use case</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Bounded lookups, FAQs, documentation pages</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Multi-hop research, ambiguous queries</td>
+        </tr>
+        <tr style="border-bottom:1px solid rgba(255,255,255,0.08);">
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Cost</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Predictable per request</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Scales with reasoning steps and tokens</td>
+        </tr>
+        <tr>
+          <td style="padding:20px 24px; color:#ffffff; font-weight:700; font-size:15px;">Scalability</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Simple to scale horizontally</td>
+          <td style="padding:20px 24px; color:#c9c9d1; font-weight:400; font-size:15px;">Needs governance to scale safely</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!--kg-card-end: html-->
+<h2 id="rag-and-agentic-rag-best-practices">RAG and agentic RAG best practices</h2><p>The best AI pipelines have RAG guardrails to prevent malicious inputs, reduce hallucinations, and restrict data access. But because the two patterns fail in different places, guardrails differ. Classic RAG fails on retrieval quality, so its guardrails protect the index. Agentic RAG also fails on autonomy, so its guardrails fence in what the agent is allowed to do.</p><h3 id="classic-rag">Classic RAG</h3><ul><li><strong>Scope retrieval to permissions:</strong> The retriever should surface only documents the requesting user is cleared to see, enforced at query time rather than filtered after.</li><li><strong>Index with hybrid search: </strong>Pairing semantic and keyword retrieval catches the cases where embeddings alone miss exact terms like SKUs or error codes.</li><li><strong>Govern chunking and overlap: </strong>Consistent chunk sizes with sensible overlap keep an answer from landing on a boundary and losing half its context.&#xA0;</li></ul><h3 id="agentic-rag">Agentic RAG</h3><ul><li><strong>Constrain tools with allowlists:</strong> The agent should reach only the sources a policy explicitly permits, so a misread prompt cannot trigger an action you never authorized.</li><li><strong>Enforce stop conditions:</strong> Hard caps on iterations and a token budget keep a reasoning loop from spinning &#x2014; and burning cost &#x2014; when it can&#x2019;t converge.</li><li><strong>Instrument the whole loop: </strong>Step-by-step run history and distributed tracing turn an opaque agent into something you can audit, and <a href="https://blog.n8n.io/evaluating-rag-aka-optimizing-the-optimization/"><u>evaluating RAG</u></a> against a test set turns &#x201C;seems fine&#x201D; into a number you can defend.</li></ul><p>Building both patterns to a production standard means baking in governance and observability from the start. This is the gap n8n closes by letting you assemble <a href="https://blog.n8n.io/agentic-rag/"><u>agentic RAG</u></a> on a visual canvas instead of stitching libraries together in code &#x2014; running <a href="https://n8n.io/integrations/openai/"><u>OpenAI</u></a>, <a href="https://n8n.io/integrations/anthropic/"><u>Anthropic</u></a> or <a href="https://n8n.io/integrations/cohere-model/"><u>Cohere</u></a> in the cloud, or <a href="https://n8n.io/integrations/ollama-model/"><u>Ollama</u></a> locally, behind the same workflow.</p><h2 id="decision-criteria-classic-rag-vs-agentic-rag">Decision criteria: Classic RAG vs. agentic RAG</h2><p>There is no universal winner, only a fit between architecture and workload. The honest test is to look at your real queries &#x2014; not the demo ones &#x2014; and ask how often a single retrieval would actually satisfy them.</p><h3 id="choose-classic-rag-when">Choose classic RAG when</h3><ul><li>Your queries are bounded and well-specified &#x2014; single-source lookups, FAQ answers, or reference pages where the answer sits in one chunk.</li><li>Latency is a hard constraint, and every extra reasoning step is a cost you can&#x2019;t justify.</li><li>Your knowledge base is stable and well-chunked, so how you build the <a href="https://blog.n8n.io/rag-pipeline/"><u>RAG pipeline</u></a> itself becomes the main reliability lever you pull.</li></ul><h3 id="choose-agentic-rag-when">Choose agentic RAG when</h3><ul><li>Your queries routinely join evidence across multiple systems &#x2014; logs, docs, and APIs in a single answer.</li><li>Users send ambiguous or underspecified queries that need reformulation before retrieval even makes sense.</li><li>Silent hallucination is unacceptable, and you need the agent to escalate to a human or flag insufficient evidence rather than guess</li></ul><p>Most teams learn this the expensive way. They start with traditional RAG, slam into its limits, then migrate to an agentic framework and rebuild from scratch. A platform where both patterns live on one canvas means you extend your existing workflow inside a familiar stack, and a library of <a href="https://n8n.io/workflows/categories/ai-rag/"><u>community RAG workflows</u></a> is a faster starting point than a blank file.&#xA0;</p><h2 id="choosing-the-right-architecture">Choosing the right architecture</h2><p>Treat this as an architecture decision, not a trend to chase. The real question isn&#x2019;t whether agentic RAG is newer; it&#x2019;s whether your queries are complex enough to justify a control loop you then have to observe and govern. When they are, the platform you build on decides how painful that governance becomes.&#xA0;</p><p>n8n runs the linear pipeline and the agentic loop on the same visual canvas, with the execution history and step-by-step observability that turn an autonomous agent into something you can trust in production.</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Spin up both patterns</h3>
+    <p>Let your hardest queries decide which one you need</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud</a>
+</div>
+<!--kg-card-end: html-->
+]]></content:encoded></item>
+<item><title><![CDATA[AI Data Pipelines: Architecture, Stages, and Orchestration]]></title><description><![CDATA[Understand AI data pipeline architecture, from ingestion and feature engineering to model training and orchestration. See where n8n fits in the stack.]]></description><link>https://blog.n8n.io/ai-data-pipeline/</link><guid isPermaLink="false">6a60bf56ce7f760001e3629e</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Wed, 29 Jul 2026 10:22:14 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-8.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-8.jpeg" alt="AI Data Pipelines: Architecture, Stages, and Orchestration"><p>Legacy extract, transform, and load (ETL) pipelines are built for a traditional data warehouse. Batch flows, stable schemas, and predictable workflows work well for BI analytics. However, both are less effective when you build an AI data pipeline.&#xA0;</p><p>AI models need an architecture that can ingest structured and unstructured data from various sources while facilitating iterative development. These cloud-based workloads need automated validation to preserve data integrity. Consequently, automated AI data pipelines help machine learning algorithms deliver predictive, actionable insights in real time.</p><h2 id="what-is-an-ai-data-pipeline">What is an AI data pipeline?</h2><p>An AI data pipeline is a structured framework that automates the flow of data from collection to model training for building and deploying AI models. This automated workflow and validation process gives organizations fast access to real-time, actionable insights without risking data-quality loss.&#xA0;</p><p>Key components of an AI data pipeline architecture include:</p><ul><li>Data collection and ingestion</li><li>Data cleaning</li><li>Feature engineering</li><li>AI/ML training</li><li>Model deployment</li><li>Monitoring and feedback loops</li></ul><h2 id="how-the-ai-data-pipeline-differs-from-traditional-etl">How the AI data pipeline differs from traditional ETL</h2><p>While traditional ETL pipelines end at a data warehouse, AI data pipelines support iterative model training and feature engineering for optimal model performance. Here&#x2019;s a closer look at how ETL compares to AI/ML pipeline architecture.</p>
+<!--kg-card-begin: html-->
+<div style="max-width:960px;margin:0 auto;background:#14121f;border:1px solid #2a2740;border-radius:20px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,&apos;Segoe UI&apos;,Roboto,Helvetica,Arial,sans-serif;">
+  <div style="display:grid;grid-template-columns:1fr 1.6fr 1.9fr;">
 
-					<description><![CDATA[Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings. ]]></description>
-		
-		
-		
-			</item>
+    <div style="background:#1c1930;color:#ffffff;font-weight:700;font-size:13px;letter-spacing:0.06em;text-transform:uppercase;padding:18px 24px;">Aspect</div>
+    <div style="background:#1c1930;color:#ffffff;font-weight:700;font-size:13px;letter-spacing:0.06em;text-transform:uppercase;padding:18px 24px;border-left:1px solid #232032;">Traditional ETL</div>
+    <div style="background:#1c1930;color:#ffffff;font-weight:700;font-size:13px;letter-spacing:0.06em;text-transform:uppercase;padding:18px 24px;border-left:1px solid #232032;">AI Data Pipelines</div>
+
+    <div style="padding:22px 24px;color:#ffffff;font-weight:700;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;">Workflow</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;border-left:1px solid #232032;">Follows a linear path that stops after loading data. These processes are often backward-looking.</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;border-left:1px solid #232032;">Builds an iterative loop that moves from data ingestion to model training, testing, and deployment. New information feeds back into AI models for retraining.</div>
+
+    <div style="padding:22px 24px;color:#ffffff;font-weight:700;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;">Data Types</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;border-left:1px solid #232032;">Works with structured raw data, such as SQL tables, CSVs, and standard APIs. These formats fit neatly into rows and columns for standard analytics.</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;border-left:1px solid #232032;">Manages a mix of structured, semi-structured (e.g., JSON logs), and unstructured data (e.g., images, IoT feeds). Data pipelines for machine learning turn this into data ML algorithms can use.</div>
+
+    <div style="padding:22px 24px;color:#ffffff;font-weight:700;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;">Processing</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;border-left:1px solid #232032;">Runs on scheduled batch intervals. This latency can create blind spots for urgent events.</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;border-left:1px solid #232032;">Uses batch and real-time streaming to ensure AI technology acts on the most recent data. High-speed, flash-based storage helps reduce delays during heavy workloads.</div>
+
+    <div style="padding:22px 24px;color:#ffffff;font-weight:700;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;">Destination</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;border-left:1px solid #232032;">Sends data to a warehouse, where managers view BI reports and static dashboards.</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-bottom:1px solid #232032;border-left:1px solid #232032;">Data flows into production AI systems to generate predictions, recommendations, or automated alerts.</div>
+
+    <div style="padding:22px 24px;color:#ffffff;font-weight:700;font-size:15px;line-height:1.5;">Monitoring</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-left:1px solid #232032;">Checks for job completion and whether row counts match between systems. The goal is to ensure the ETL job finishes successfully.</div>
+    <div style="padding:22px 24px;color:#cfcbe0;font-size:15px;line-height:1.5;border-left:1px solid #232032;">Tracks model drift, accuracy, and bias to ensure predictions still make sense. Automated validation checks data quality at scale to prevent malformed data from ruining machine learning.</div>
+
+  </div>
+</div>
+<!--kg-card-end: html-->
+<h2 id="core-stages-of-an-ai-data-pipeline">Core stages of an AI data pipeline</h2><p>AI data pipelines operate in a cycle to prevent model decay. Each stage supports the next and reinforces the feedback loop. Here are the key stages in the cycle.</p><h3 id="data-ingestion">Data ingestion</h3><p>At this stage, the system ingests raw data from various data sources like unstructured logs and APIs. Pipelines use real-time streaming to feed intensive workloads. Engineers manage these <a href="https://blog.n8n.io/data-integration-tools/"><u>data integration</u></a> points to prevent downstream errors.</p><h3 id="data-storage-and-preprocessing">Data storage and preprocessing</h3><p>When collected data reaches cloud storage or a data warehouse, it&#x2019;s time for the cleaning process. <a href="https://blog.n8n.io/automate-your-data-processing-pipeline-in-9-steps-with-n8n/"><u>Automated data transformation</u></a> validates multimodal records from various sources. This stage follows data governance rules and converts messy signals into reliable inputs for modern AI systems.</p><h3 id="feature-engineering">Feature engineering</h3><p>This stage is a type of data transformation, but it focuses on changing raw data into specific variables that machine learning algorithms can understand. This automated stage uses techniques like <a href="https://developers.google.com/machine-learning/crash-course/categorical-data/one-hot-encoding"><u>one-hot encoding</u></a> and <a href="https://developers.google.com/machine-learning/crash-course/numerical-data/normalization"><u>feature scaling</u></a> to prepare inputs for AI models. AI/ML teams reduce dimensionality through an iterative loop of feature selection and extraction.</p><h3 id="model-training-and-validation">Model training and validation</h3><p>After passing through traditional transformation methods, the dataset splits into training, validation, and testing sets. An additional subset of the data can also be created to fine-tune the model. This stage prepares AI models for specific business use cases, such as fraud detection at a bank or insurance company.</p><h3 id="inference-and-continuous-improvement">Inference and continuous improvement</h3><p>Production pipelines deploy models directly but undergo continuous improvement to maintain and improve AI/ML performance. Teams monitor the model for drift and trigger retraining and feedback loops for correction as needed.</p><h2 id="key-challenges-in-building-ai-data-pipelines">Key challenges in building AI data pipelines</h2><p>AI pipelines introduce challenges that traditional ETL can&#x2019;t handle. These issues often stem from data complexity, speed requirements, and the need for continuous iteration. Addressing the following challenges early helps teams avoid costly failures.</p><h3 id="data-quality-failures-at-the-ingestion-scale">Data quality failures at the ingestion scale</h3><p>The root cause of most data quality failures in machine learning is that strict, manual rules tend to fail when processing large amounts of unstructured data. You can&#x2019;t manually map every variation in logs or images at scale, so malformed data can trickle downstream to AI models.</p><p><strong>Mitigation:</strong> Automate validation to establish statistical baselines and catch anomalies during data ingestion</p><h3 id="observability-gaps-for-model-performance">Observability gaps for model performance</h3><p>ETL monitoring only tracks successful job completion, so some failures may slip through the cracks and allow model drift to go undetected. This tends to happen when teams focus more on row counts than actual predictive accuracy.&#xA0;</p><p><strong>Mitigation:</strong> Automate tracking built into workflows to monitor performance metrics and trigger retraining when prediction accuracy declines</p><h3 id="orchestration-complexity-across-silos">Orchestration complexity across silos</h3><p>Managing the iterative loops between feature engineering and model training often leads to fragmented workflows. This complexity arises when teams try to coordinate multi-stage pipelines via manual scripts or disjointed systems.&#xA0;</p><p><strong>Mitigation:</strong> Use specialized orchestration tools to connect systems and monitor data flows across the architecture</p><h3 id="performance-bottlenecks-in-legacy-storage">Performance bottlenecks in legacy storage</h3><p>Legacy storage systems are built to handle slow batch ETL pipelines. Consequently, they tend to create bottlenecks when tasked with handling the high-speed demands of modern AI.</p><p><strong>Mitigation:</strong> Adopt cloud-native systems and flash-based storage to help data pipelines handle intensive workloads without hitting performance ceilings</p><h3 id="feature-training-skew">Feature-training skew</h3><p>Models fail when the data transformation used during training doesn&#x2019;t match what&#x2019;s happening in production. This mismatch tends to happen when teams manually handle transformation steps or there&#x2019;s inconsistency across different environments.</p><p><strong>Mitigation: </strong>Automate data prep and use a centralized feature engineering system to ensure identical data inputs in real time</p><h2 id="building-and-orchestrating-ai-data-pipelines-with-n8n">Building and orchestrating AI data pipelines with n8n</h2><p>n8n is a source-available automation platform that orchestrates workflow logic around your data pipelines. It can trigger jobs in systems like Kafka, route data between services, and manage the control flow that keeps each stage of the pipeline aligned.</p><p>For small to medium-sized AI data pipelines, n8n can handle data transformations directly; however, when dealing with extremely large volumes of data, n8n is stronger as a high-level orchestrator on top of high-speed ETL scripts.</p><p>Teams can use n8n to link data ingestion from a data warehouse to model training and retraining loops. It monitors the machine learning cycle to preserve data integrity and quality, which helps data engineers bridge the gap between raw data and live AI models on cloud compute resources.</p><p>Here are some key n8n capabilities and their AI ETL pipeline functions:</p><ul><li><strong>HTTP Request and Webhook nodes:</strong> Handle data ingestion by pulling unstructured raw data from various APIs and data sources</li><li><strong>Code node (Python/JavaScript):</strong> Performs <a href="https://docs.n8n.io/build/code-in-n8n/using-the-code-node"><u>custom data transformation</u></a> and feature engineering using specific machine learning algorithms</li><li><strong>LangChain and AI Agent nodes:</strong> Connect AI models to over 1000 apps to deliver predictive, actionable insights</li><li><strong>Execution logging and error handling:</strong> <a href="https://docs.n8n.io/flow-logic/error-handling/#:~:text=Flow%20logic-,Error%20handling,%23,-When%20designing%20your"><u>Track workflow behavior</u></a> and automate recovery to keep downstream predictions consistent.&#xA0;</li></ul><h2 id="build-reliable-ai-pipelines">Build reliable AI pipelines</h2><p>Building an AI data pipeline is a significant architecture commitment. You&#x2019;re moving beyond static batch delivery to a cycle of continuous machine learning and model training. You need more than a simple ETL upgrade to pull it off.&#xA0;</p><p>At production scale, reliable orchestration with tools like n8n is mandatory for handling data ingestion, feature engineering, and automated recovery across your pipelines. These tools preserve data accuracy and provide the real-time agility that modern AI depends on.&#xA0;</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Orchestrate your AI data pipeline</h3>
+    <p>Start building your automation layer</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n today</a>
+</div>
+<!--kg-card-end: html-->
+<h2 id="faq">FAQ</h2><h3 id="what-is-an-example-of-a-data-pipeline">What is an example of a data pipeline?</h3><p>Consider the case of a data pipeline used for fraud detection at a bank:</p><ol><li>Real-time data pipelines ingest customer transaction events from multiple data sources, such as ATMs and the online app.&#xA0;</li><li>Automated workflows feed the data collected from these transactions into machine learning algorithms to identify anomalies.&#xA0;</li><li>The system compares customer behavior to a baseline of normal activity to detect anomalies and flag potential fraud.</li></ol><h3 id="what-is-the-30-rule-in-ai">What is the 30% Rule in AI?</h3><p>The 30% rule suggests that AI technology should automate roughly 70% of tasks and leave the remaining 30% for human judgment. For example, a data engineer remains responsible for high-level architecture, data governance, and strategic validation in a modern AI system that complies with this best practice. Meanwhile, AI automates routine data transformation and feature engineering tasks.</p><h3 id="can-ai-replace-etl">Can AI replace ETL?</h3><p>AI enhances <a href="https://blog.n8n.io/open-source-etl-tools/"><u>ETL tools</u></a> and fundamentally changes how they work, but it doesn&#x2019;t replace them. The core need to ingest and transform raw data still exists. The main difference is that an AI tool automates data prepping and can validate data quality.</p>]]></content:encoded></item>
 <item><title><![CDATA[AI Maturity - Bridging the Orchestration Chasm]]></title><description><![CDATA[<p>The AI maturity framework in Section 2 may suggest a smooth, linear progression. The reality is different. Organizations do not advance evenly through these levels. There is a specific transition point where most enterprises stall, and understanding why is how anyone can reliably scale AI today.</p><p>The hardest leap is</p>]]></description><link>https://blog.n8n.io/ai-maturity-bridging-the-orchestration-chasm/</link><guid isPermaLink="false">6a638c1aefb98500010c2ee8</guid><dc:creator><![CDATA[Elvis Saravia]]></dc:creator><pubDate>Fri, 24 Jul 2026 16:03:38 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/BlogHeader_AI-Maturity-V3.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/BlogHeader_AI-Maturity-V3.jpg" alt="AI Maturity - Bridging the Orchestration Chasm"><p>The AI maturity framework in Section 2 may suggest a smooth, linear progression. The reality is different. Organizations do not advance evenly through these levels. There is a specific transition point where most enterprises stall, and understanding why is how anyone can reliably scale AI today.</p><p>The hardest leap is from <strong>Level 2 (Operational)</strong> to <strong>Level 3 (Systemic)</strong>. This is the orchestration chasm, and it is where the majority of enterprise AI initiatives plateau or fail.</p><h3 id="what-level-2-actually-looks-like"><strong>What Level 2 Actually Looks Like</strong></h3><p>At Level 2, an organization has real wins to point to. Marketing has a content-generation workflow that saves the team hours each week. Customer support has an AI-powered triage system that routes tickets faster. HR has automated parts of onboarding. Finance uses AI to flag anomalies in expense reports.</p><p>These are genuine improvements that deliver measurable value within their respective departments. But they share a common structural limitation: each one is a standalone system built for a single use case. The marketing tool does not talk to the CRM. The support triage system does not connect to the billing platform. The HR workflow cannot reach the IT provisioning system.</p><p>This is the pattern<a href="https://kpmg.com/us/en/media/news/q4-ai-pulse.html"> <u>KPMG&apos;s Q4 2025 AI Pulse Survey</u></a> captured when it found that 65% of leaders cite agentic system complexity as the top barrier to deployment, a figure that held steady for two consecutive quarters. Individual pilots often succeed. The deeper challenge is that success at the department level does not automatically translate to success at the enterprise level.</p><h3 id="why-the-gap-exists"><strong>Why the Gap Exists</strong></h3><p>Three structural barriers prevent organizations from making this leap.</p><p><strong>The integration barrier.</strong> At Level 2, AI tools operate as islands. They receive input from a human, process it, and return output to that same human. To reach Level 3, AI systems need to operate as part of the enterprise&apos;s nervous system, reading from and writing to the same systems that run the business: CRMs, ERPs, HR platforms, billing systems, communication tools, and databases, many of which were built long before AI existed. <a href="https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027"><u>Gartner predicts</u></a> that over 40% of agentic AI projects will be canceled by the end of 2027 because of escalating costs, unclear business value, and inadequate risk controls. Gartner also notes that integrating agents into legacy systems can be technically complex and costly.</p><p><strong>The governance barrier.</strong> Department-level pilots can operate with lightweight governance. A marketing team using AI for copy generation needs a usage policy and some prompt guidelines. But when AI systems start accessing customer data from the CRM, processing financial transactions, and making decisions that affect multiple departments, governance requirements expand dramatically.<a href="https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html"> <u>Deloitte&apos;s 2026 State of AI in the Enterprise</u></a> report found that only 21% of organizations have a mature model for governing autonomous agents, while 73% cite data privacy and security as their top concern. The governance infrastructure that worked at Level 2 is fundamentally insufficient for Level 3.</p><p><strong>The coordination barrier.</strong> At Level 2, each department owns its own AI initiatives. There is no central authority coordinating which systems AI can access, what standards agents must follow, or how cross-departmental workflows should be designed. Moving to Level 3 requires organizational coordination that most enterprises have not built. The same<a href="https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html"> <u>Deloitte research</u></a> found that 84% of companies have not redesigned jobs around AI capabilities, meaning the organizational structure itself is not yet ready for AI to operate at scale.</p><h3 id="the-solution-the-orchestration-layer"><strong>The Solution: The Orchestration Layer</strong></h3><p>The technical answer to bridging this chasm is what analysts increasingly call the <strong>orchestration layer</strong>. Enterprise demand for this capability is growing rapidly:<a href="https://www.gartner.com/en/articles/multiagent-systems"> <u>Gartner reported a 1,445% surge</u></a> in client inquiries about multi-agent systems from the first quarter of 2024 to the second quarter of 2025.<a href="https://www.forrester.com/blogs/announcing-our-evaluation-of-the-agent-control-plane-market/"> <u>Forrester has introduced an Agent Control Plane research stream</u></a> and announced a dedicated market evaluation for the category.</p><p>The orchestration layer is middleware that sits between AI models and enterprise systems. It serves three critical functions.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/AI-Maturity_Graphic-V3.jpg" class="kg-image" alt="AI Maturity - Bridging the Orchestration Chasm" loading="lazy" width="2000" height="1152" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/AI-Maturity_Graphic-V3.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/AI-Maturity_Graphic-V3.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/07/AI-Maturity_Graphic-V3.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/AI-Maturity_Graphic-V3.jpg 2320w" sizes="(min-width: 720px) 720px"></figure><p><strong>Context.</strong> It allows AI agents to fetch real-time data from enterprise systems before making decisions. Instead of operating on whatever information a human pastes into a chat window, the agent can authenticate into the CRM, pull the relevant customer record, check account status, and use that actual data to inform its response. Working from complete, current data is what separates a production system from a demo. Without it, the agent can only reason over whatever a human happens to paste into a chat window.</p><p><strong>Action.</strong> It allows AI agents to perform write operations, not just read operations. An agent can update a CRM record, create a support ticket, process a refund, send a notification, or trigger a downstream workflow. This is what transforms AI from an assistant that produces text into an actor that produces outcomes.<a href="https://www.forrester.com/blogs/predictions-2026-payments-innovation-takes-root-but-dont-expect-overnight-change/"> <u>Forrester predicts</u></a> that by the end of 2026, about a third of B2B payment workflows will use autonomous AI agents, with examples including supplier and buyer dispute management, invoice matching, and payment reconciliation. None of that is possible if agents can only generate text.</p><p><strong>Control.</strong> It keeps business logic within the enterprise&apos;s own infrastructure rather than inside a specific AI vendor&apos;s platform. When your workflows, data connections, and business rules live in your own orchestration layer, you can swap the underlying AI model, whether moving from one commercial provider to another or adopting an open-source alternative, without rebuilding the entire system. In a market where AI capabilities shift monthly, this architectural flexibility is not optional.</p><p><strong>n8n Enterprise.</strong> Scale robust, reliable workflows that meet compliance and governance standards. Find out why 34% of Fortune 500 companies trust n8n&apos;s advanced security and DevOps features to build and monitor business-critical AI workflows.<a href="https://n8n.io/enterprise/"> <u>Learn more about n8n Enterprise</u></a>.</p><h3 id="what-this-looks-like-in-practice"><strong>What This Looks Like in Practice</strong></h3><p>The organizations that have successfully bridged this chasm made the same architectural choice. Rather than deploying a better standalone model, they connected AI to the systems the business actually runs on.</p><p><strong>In Practice:</strong><a href="https://blogs.microsoft.com/bayarea/2025/05/07/as-ai-agents-transform-work-the-bay-area-is-on-the-cutting-edge/"> <u>Wells Fargo deployed an AI assistant to 35,000 bankers across roughly 4,000 branches</u></a>, connecting the agent to internal procedures and reference material. The result: bankers retrieve the information they need in about 30 seconds, down from up to 10 minutes of manual searching, and roughly 75% of relevant searches now run through the agent.<a href="https://www.jpmorganchase.com/about/technology/news/llmsuite-ab-award"> <u>JPMorgan Chase</u></a> built a proprietary platform, LLM Suite, which reached 200,000 onboarded users within eight months, while its<a href="https://www.abajournal.com/news/article/jpmorgan_chase_uses_tech_to_save_360000_hours_of_annual_work_by_lawyers_and"> <u>Contract Intelligence (COiN) system</u></a> performs the equivalent of 360,000 hours of legal and loan-officer work annually. In both cases, integration was what produced the breakthrough, and the choice of model was secondary.</p><p>On the other side,<a href="https://www.sweep.io/blog/2025-the-year-enterprise-ai-hit-the-system-wall"> <u>Sweep&apos;s 2025 post-mortem of stalled enterprise AI initiatives</u></a> found that organizations failed because their &quot;systems were illegible.&quot; Autonomous agents exposed years of hidden metadata debt in platforms like Salesforce. These companies had tried to modernize intelligence without modernizing how work gets done.</p><h3 id="why-orchestration-matters-more-than-model-selection"><strong>Why Orchestration Matters More Than Model Selection</strong></h3><p>A common mistake at the executive level is treating AI adoption as primarily a model-selection problem. &quot;Which AI should we buy?&quot; is the wrong first question. The right question is: &quot;How will AI connect to our existing systems, data, and workflows?&quot;</p><p>The AI model is the reasoning engine. It is important, but it is interchangeable. What gives that reasoning engine the ability to do useful work inside your organization is the layer that connects it to your actual data and tools. Without that layer, even the most capable model in the world is limited to answering questions based on whatever a human manually provides.</p><p>This is why the orchestration layer is the single most important architectural decision an enterprise makes in its AI journey. It determines whether AI remains a collection of departmental tools or becomes an integrated part of how the business operates. It is also where governance gets implemented in practice, because it is the single point through which all AI interactions with enterprise systems flow. Authentication, role-based access, audit logging, data classification, and compliance checks can all be enforced at this layer rather than rebuilt independently for every AI application. As the<a href="https://cloudsecurityalliance.org/blog/2025/12/18/ai-security-governance-your-maturity-multiplier"> <u>Cloud Security Alliance&apos;s 2025 assessment</u></a> reported that 26% of organizations had comprehensive AI security governance policies in place. The orchestration layer is where the other three-quarters can close that gap.</p><h3 id="what-comes-next"><strong>What Comes Next</strong></h3><p>Understanding why the chasm exists is one thing. Crossing it is another. Is your organization treating AI adoption as a model-selection problem, or as an integration and governance problem? The answer usually predicts whether your pilots scale or stall.</p><p>The next post in this series turns diagnosis into action: a phased playbook for advancing through the maturity levels, with concrete steps, realistic timelines, and the organizational changes each transition demands.</p>]]></content:encoded></item>
 <item><title><![CDATA[AI Agent Governance: Securing Autonomous Agents in Production]]></title><description><![CDATA[Discover enterprise AI agent governance. Inventory agents, enforce least-privilege access, and add runtime guardrails for security at the workflow level.
 ]]></description><link>https://blog.n8n.io/ai-agent-governance/</link><guid isPermaLink="false">6a5684085666b3000148910a</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 24 Jul 2026 15:45:03 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--6-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--6-.jpeg" alt="AI Agent Governance: Securing Autonomous Agents in Production"><p>Your agents are already in production. They authenticate as real users, call internal APIs, and execute multi-step workflows without waiting for sign-off. That autonomy is the point &#x2014; and the problem. AI agent governance grants permissions, proves past actions, and prevents unauthorized behavior. This guide shows you how to treat it as architecture, not a policy document.</p><h2 id="why-is-ai-agent-governance-urgent">Why is AI agent governance urgent?</h2><p>The shift from prototype to production happens fast and rarely follows a planned release cycle. A weekend experiment becomes a customer-facing workflow before anyone files a review ticket. Risk climbs as the agent picks up integrations and inherits permissions that drift past its original purpose.</p><p>Higher autonomy and broader access call for stronger controls. When authority boundaries are vague during creation, the controls you add later tend to be reactive patches rather than preventative design. Enterprise AI agent governance has to start at deployment, or you spend the next quarter reconstructing what your agents can reach across identity, data access, and runtime behavior. Three forces make this issue a problem you need to address now:</p><ul><li><strong>Cross-system reach:</strong> Agents operate across SaaS and cloud environments at once, so a single compromised agent affects multiple areas.</li><li><strong>Inherited identity: </strong>Delegated credentials and API access grant permissions the agent was never scoped to need.</li><li><strong>Scale outpacing oversight:</strong> Agent sprawl grows faster than governance programs can register and review each new deployment. This is especially common once teams move from a single bot to <a href="https://blog.n8n.io/multi-agent-systems/"><u>multi-agent systems</u></a>.</li></ul><h2 id="core-pillars-of-ai-agent-governance-frameworks">Core pillars of AI agent governance frameworks</h2><p>AI agent security and governance involves several key components. Engineering teams need each one defined before an agent reaches production &#x2014; not bolted on after an incident.</p><h3 id="identity-and-access-control">Identity and access control</h3><p>Every agent action should run with the original user&#x2019;s scope rather than a shared, high-privilege service account. This is the core of AI agent identity governance: Tie each agent to a known identity, scope its credentials to the minimum it needs, and store secrets in a vault rather than a workflow parameter. <a href="https://genai.owasp.org/llmrisk/llm062025-excessive-agency/"><u>OWASP</u></a> flags this directly &#x2014; excessive permissions are one of the three root causes of excessive agency, alongside excessive functionality and autonomy.</p><h3 id="runtime-guardrails-and-policies">Runtime guardrails and policies</h3><p>Controls that only live in a design doc can&#x2019;t stop misfires at 2 a.m. Runtime enforcement means validating inputs and outputs as the agent runs: blocking prompt injection, redacting sensitive data before it leaves the workflow, and rejecting tool calls that fall outside policy. Guardrails belong in the execution path, where a failed check actually halts the action.</p><h3 id="observability-and-evaluation">Observability and evaluation</h3><p>You can only govern what you can see. Every tool call, decision, and credential use should be logged and replayable. Pair that record with ongoing evaluation &#x2014; red teaming, adversarial testing, and anomaly detection on tool-call sequences &#x2014; so unusual behavior surfaces as a signal before it becomes an incident.&#xA0;</p><h3 id="decision-boundaries-and-compliance">Decision boundaries and compliance</h3><p>Define which operations an agent may complete on its own and which require human approval: irreversible writes, external sends, and any action touching regulated data. Mapping these boundaries does double duty for compliance, since the <a href="https://artificialintelligenceact.eu/"><u>EU AI Act</u></a> and audit regimes expect a human-accountable record for automated decisions.&#xA0;</p><h2 id="inventory-agents-and-ownership">Inventory agents and ownership</h2><p>You can&#x2019;t secure agents you haven&#x2019;t catalogued, and shadow agents are where governance quietly fails. Before anything reaches production, every agent needs a record answering who owns it, what it can touch, and how to trace what it did. Keep the inventory short enough that teams actually maintain it. Here are the main elements to include:</p>
@@ -833,220 +971,11 @@
 </div>
 <!--kg-card-end: html-->
 <h2 id="faq">FAQ</h2><h3 id="can-you-combine-multiple-agentic-patterns-in-one-workflow">Can you combine multiple agentic patterns in one workflow?</h3><p>Absolutely, and production environments usually demand it. n8n allows you to link multiple patterns together seamlessly on a single canvas. For example, a complex enterprise workflow might use a planning pattern to break down an incoming request, route individual tasks to specialized sub-agents, and pass the final output through a reflection loop for verification before execution.</p><h3 id="how-do-you-prevent-infinite-loops-in-agentic-workflows">How do you prevent infinite loops in agentic workflows?</h3><p>Without guardrails, agents can repeat the same action while trying to fix a persistent error, which wastes tokens and time. n8n prevents this by giving you native execution limits and conditional branching rules. If an agent fails to resolve an issue after a set number of iterations, the platform automatically terminates the cycle and routes the workflow to an error-handling path or alerts an engineer.</p><h3 id="what%E2%80%99s-the-difference-between-agentic-patterns-and-agentic-frameworks">What&#x2019;s the difference between agentic patterns and agentic frameworks?</h3><p>Patterns are abstract architectural concepts like tool use or reflection that define how an agent behaves. Frameworks are the specific code libraries or tools you use to build them. While code-heavy frameworks require you to stitch infrastructure together manually, n8n lets you implement these design patterns visually using pre-built nodes.</p><h3 id="how-do-you-measure-the-success-of-agentic-workflows">How do you measure the success of agentic workflows?</h3><p>Instead of just tracking basic API uptime, you need to monitor execution success rates alongside token spend and specific evaluation metrics. n8n integrates directly with AI evaluation and observability platforms. This gives you deep visibility into agent latency, cost anomalies, and overall context health.</p>]]></content:encoded></item>
-<item><title><![CDATA[MCP Server Security: How To Identify and Mitigate Risks]]></title><description><![CDATA[Map MCP server security risks and apply the controls that matter: auth, tool-call scoping, observability, and mitigation strategies.
-]]></description><link>https://blog.n8n.io/mcp-server-security/</link><guid isPermaLink="false">6a43fa9aeceb6e0001dd6b17</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><category><![CDATA[SecOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Wed, 01 Jul 2026 18:06:48 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--4-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--4-.jpeg" alt="MCP Server Security: How To Identify and Mitigate Risks"><p>Model context protocol (MCP) servers give LLMs the ability to call tools, query data sources, and take action in the real world. But these extra capabilities create new risks. To stay safe, production MCP deployment needs a control plane.</p><p>This article explains how the control plane works in MCP server security, what enforcement looks like at the execution layer, and the controls for MCP authentication and authorization.</p><h2 id="what-makes-mcp-security-a-challenge">What makes MCP security a challenge</h2><p>Traditional security models police human behavior. A person clicks a button, and a digital security guard checks if this action is allowed. With MCP, AI bots make autonomous choices. Instead of waiting for a person to authorize each action, the agentic AI decides what MCP tools to use and how to chain them together.&#xA0;</p><p>Passwords and digital keys also create vulnerabilities. These secrets usually stay locked in secured storage, but in an MCP system, there are new risks of exposing such keys when they&#xA0; travel around to help the agentic AI complete tasks. AI agents switch jobs and mix tools in unexpected ways, which means the danger zone is always changing. MCP security systems need to constantly check the AI&#x2019;s identity, set limits on what it can access, and log every move it makes to avoid missing important vulnerabilities.</p><h2 id="how-attackers-exploit-mcp-servers">How attackers exploit MCP servers</h2><p>MCP vulnerability risks fall into several main classes, which you can group into a few categories depending on the attack strategy.&#xA0;</p><p>Attackers whose exploits involve manipulating the agent behavior rely on prompt injection, tool poisoning, and confused deputy attack classes. Those who gain unauthorized access generally choose token passthrough, session hijacking, and excessive permissions. And attackers who directly exploit the server use command injection and server-side request forgery (SSRF).</p><p>Here&#x2019;s a closer look at how each attack class works and its impact.</p>
-<!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 700px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;">Attack Class</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 260px;">Entry Point</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 220px;">Blast Radius</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Prompt injection</td>
-          <td style="padding: 16px;">User input or untrusted content passed to the LLM</td>
-          <td style="padding: 16px;">Unauthorized tool calls, data exfiltration</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Command injection</td>
-          <td style="padding: 16px;">Tool parameters passed to shell commands on the server</td>
-          <td style="padding: 16px;">Arbitrary code execution</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Tool poisoning</td>
-          <td style="padding: 16px;">Malicious or compromised tool definitions</td>
-          <td style="padding: 16px;">Behavior change, credential theft</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Confused deputy</td>
-          <td style="padding: 16px;">OAuth proxy with static client ID and shared consent cookies</td>
-          <td style="padding: 16px;">Token theft, unauthorized API access</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Token pass through</td>
-          <td style="padding: 16px;">MCP server accepting tokens not issued to it</td>
-          <td style="padding: 16px;">Bypassed security controls, broken audit trail</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">SSRF</td>
-          <td style="padding: 16px;">Malicious server metadata pointing to internal URLs</td>
-          <td style="padding: 16px;">Internal network access, cloud credential exposure</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Excessive permissions</td>
-          <td style="padding: 16px;">Over-scoped tokens granted at authentication time</td>
-          <td style="padding: 16px;">Expanded attack surface on compromised tokens</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">Session hijacking</td>
-          <td style="padding: 16px;">Stolen or guessed session IDs across stateful HTTP servers</td>
-          <td style="padding: 16px;">Unauthorized execution as a legitimate user</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
-</div>
-<!--kg-card-end: html-->
-<p>Unlike typical API attacks, new ways to exploit MCP servers don&#x2019;t always look like threats.&#xA0;</p><p>A prompt injection often seems like a normal human input at first. Similarly, a confused deputy exploit follows a legitimate OAuth flow but then skips the consent step. And even for tool poisoning, the tool name remains the same so the agent keeps calling it as if nothing changed. For a traditional security tool, that means there&#x2019;s no malformed request for it to block and no anomalous status code to flag. This is precisely why the attack succeeds.&#xA0;</p><h2 id="how-to-prevent-and-mitigate-mcp-security-risks">How to prevent and mitigate MCP security risks</h2><p>To prevent and mitigate vulnerabilities, production MCP deployments need an orchestration layer that scopes tool calls, isolates credentials, and logs every execution. Following MCP security best practices means having that layer in place before agents reach production.&#xA0;</p><h3 id="prompt-and-command-injection">Prompt and command injection</h3><p>Attackers carry out prompt injection attacks by hiding malicious instructions inside content the LLM is already reading. This might include a document, an API response, or a tool output. The model usually can&#x2019;t tell the difference between a real instruction and a planted one, so it follows both.</p><p><strong>Solution: </strong>Treat all external content as untrusted before it reaches the model. Add guardrails to check for prompt intent, wrap the user input into pre-defined XML tags (i.e. &lt;unsafe&gt;&lt;/unsafe&gt;) to clearly separate from legit content and instruct LLM where the potentially malicious requests are located.</p><h3 id="tool-poisoning-and-supply-chain-integrity">Tool poisoning and supply chain integrity</h3><p>With tool poisoning, attackers change what a tool does but keeps the name the same. The agent keeps calling that malicious tool because it&#x2019;s tricked into thinking it recognizes it. This is closer to a supply-chain attack on the agent&#x2019;s context than typical jail-breaking from a user.</p><p><strong>Solution:</strong> Dynamic registration is the most high-risk path because an attacker can use it to swap out an approved server. Verify the tool definitions before they load by signing them, pinning server versions, and reviewing your configuration settings for dynamic registration.&#xA0;</p><h3 id="capability-scoping-and-least-privilege-tool-exposure">Capability scoping and least-privilege tool exposure</h3><p>The most common model context protocol security vulnerability is over-provisioned tokens. Even without a sophisticated plan behind it, this approach can do plenty of damage, like successfully stealing sensitive information.</p><p><strong>Solution: </strong>Start with read-only access and scope credentials to specifically what each of them may actually need.&#xA0;</p><h2 id="how-to-enforce-the-authentication-and-limit-token-scope">How to enforce the authentication and limit token scope</h2><p>When misconfigured, MCP tends to break and let attackers in. Most of the issues come back to three main sources related to authentication requirements. These, in turn, are tied to specific attack patterns that security tools, and the IT teams using them, must learn how to identify.</p><p>Here&#x2019;s how to mitigate authentication-related MCP risks.</p><h3 id="oauth-21-and-transport-security">OAuth 2.1 and transport security</h3><p>OAuth 2.1 gives MCP servers a standard way to verify who calls a tool before it runs. It accepts tokens issued by an authorization server and checks that each is valid, unexpired, and issued specifically for that endpoint.</p><p><strong>Solution: </strong>All OAuth-related URLs should use HTTPS in production because insecure HTTP connections expose tokens in transit.</p><h3 id="confused-deputy">Confused deputy</h3><p>The confused deputy problem happens when an MCP proxy shares the same client ID with a third-party authorization server. An attacker can then trick a user into clicking a malicious link that takes advantage of previously saved consent sessions. This can bypass the consent screen and send an authorization code to the attacker.</p><p><strong>Solution: </strong>The MCP specification should require the proxy server to maintain a per-client consent registry. It should validate redirect uniform resource identifiers (URIs) with exact string matching before forwarding to the third-party authorization server and reject the request if the redirect URI changes.</p><h3 id="token-passthrough">Token passthrough</h3><p>Token passthrough creates a similar risk as the confused deputy strategy. If a server accepts tokens not directly issued to it, the server can&#x2019;t accurately confirm who made the request or track what actions they perform. This complicates monitoring, auditing, and compliance.</p><p><strong>Solution:</strong> MCP servers should only accept tokens issued specifically to them and reject all others.</p><h3 id="scope-minimization">Scope minimization</h3><p>When you give a digital key too much power, misuse and theft cause massive damage. Giving out broad access worsens the vulnerabilities, causes extra confusion, and makes it harder to track who did what.&#xA0;</p><p><strong>Solution:</strong> Never provision full access from the start. Only grant more access when a specific task requires it.</p><h2 id="start-building-secure-mcp-workflows-with-n8n">Start building secure MCP workflows with n8n</h2><p>MCP server security happens at the execution layer &#x2014; where tools run, credentials get used, and every action leaves a trace. That&apos;s exactly where n8n sits.</p><p>n8n acts as an intermediary between the agent and the systems it touches. The LLM sees a clean tool surface; n8n holds the credentials, scopes the parameters, and logs the calls. The result is an MCP deployment where the agent has just enough capability to do its job, and nothing more.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-cbac5086-6b0c-472c-8725-54e5986204af-1.png" class="kg-image" alt="MCP Server Security: How To Identify and Mitigate Risks" loading="lazy" width="940" height="376" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-cbac5086-6b0c-472c-8725-54e5986204af-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-cbac5086-6b0c-472c-8725-54e5986204af-1.png 940w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Convert n8n into MCP Server with auth and granular controls in a matter of minutes</em></i></figcaption></figure><h3 id="expose-tools-without-exposing-credentials">Expose tools without exposing credentials </h3><p>The fastest way to compromise an MCP deployment is to let auth tokens travel with the agent. With the <a href="https://n8n.io/integrations/mcp-server-trigger/"><u>MCP Server Trigger</u></a>, n8n exposes workflows and external APIs as MCP tools that the agent can call by name &#x2014; but the API keys, OAuth tokens, and database passwords stay in <a href="https://community.n8n.io/t/how-are-credentials-stored/40166/"><u>n8n&apos;s encrypted credential store</u></a> and get injected at execution time. The LLM never sees them, which directly closes off token passthrough and confused-deputy attack paths.</p><h3 id="scope-what-the-agent-can-control-with-tools">Scope what the agent can control with tools</h3><p>n8n lets you <strong>expose individual tools, not whole APIs</strong>. Instead of handing the agent a Slack or Salesforce integration with every endpoint attached, you publish individual API endpoints or bundle several steps into a sub-workflow, i.e. &quot;post to #alerts channel,&quot; &quot;create a support ticket&quot; &#x2014; as one named MCP tool. The agent&apos;s reachable surface is whatever you chose to expose, and nothing else.</p><p>Within each tool, parameter binding gives you fine-grained control over what the LLM can actually fill in:</p><ul><li>Static values are hardcoded in the workflow. The agent cannot override them. Use this for anything the LLM should never decide &#x2014; an org ID, a target channel, a record type.</li><li>Dynamic values come from workflow logic and prior node outputs. Still invisible to the agent.</li><li><a href="https://docs.n8n.io/advanced-ai/examples/using-the-fromai-function/"><u>$fromAI parameters </u></a>are the only fields the LLM is allowed to fill, and you opt into each one explicitly.</li></ul><p>These two approaches limit excessive permissions risk and ensure a deliberate, per-tool and per-parameter least-privilege exposure.</p><p>Securing a server is a big task. Choosing the right tools and following best practices sets teams up for success.&#xA0;</p><p>It&#x2019;s worth remembering that MCP server security doesn&#x2019;t happen at the protocol level. It lives at the execution layer, where it runs tools, locks away keys, and tracks actions. For effective protection, the right security tool has to operate at this level. n8n does.</p><p>n8n is a source-available workflow automation platform built to give operators the control plane that MCP deployments need. n8n&#x2019;s solutions treat MCP governance as an ongoing operational responsibility that scales with your systems, not a one-time hardening exercise.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Start automating with secure MCP workflows</h3>
-    <p>Give agents just enough capability to do their job &#x2014; and nothing more</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Register today</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="faq">FAQ</h2><h3 id="what%E2%80%99s-the-difference-between-mcp-authorization-and-standard-api-authorization">What&#x2019;s the difference between MCP authorization and standard API authorization?</h3><p>Standard API authorization asks if a caller can access a specific endpoint. The answer is usually fixed, which means that a route either allows a request or it doesn&#x2019;t.&#xA0;</p><p>Instead, MCP authorization works at the tool level with a context-aware filter instead of a fixed one. It asks whether a caller can use a specific tool, with specific inputs, based on what their token says about their role and permissions.</p><h3 id="what-is-mcp-server-chaining">What is MCP server chaining?</h3><p>MCP server chaining happens when a malicious local MCP server waits in the path of a trusted remote MCP server integration, such as an official Slack or Google Drive integration. Attackers then exploit the sensitive data that passes through the authorized integration, so they don&#x2019;t need to compromise the legitimate server.</p>]]></content:encoded></item>
-<item><title><![CDATA[Choose the Best Vector Databases for AI and RAG Pipelines]]></title><description><![CDATA[Compare the 10 best vector databases for RAG and AI pipelines. Evaluate your options on scale ceiling, metadata filtering, overhead, and architectural fit.
-]]></description><link>https://blog.n8n.io/best-vector-database/</link><guid isPermaLink="false">6a41b9a0e6916c0001c952dc</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><category><![CDATA[Database]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Wed, 01 Jul 2026 18:04:18 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--2-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--2-.jpeg" alt="Choose the Best Vector Databases for AI and RAG Pipelines"><p>Choosing a vector database is an important decision development teams make when building AI-powered solutions. It&#x2019;s a commitment, and the wrong vector store could lead to query latency and high ops overheads once your project expands.</p><p>This guide compares the best vector databases and uncovers the real work it takes to keep them running.</p><h2 id="how-to-evaluate-a-vector-database-key-decision-criteria">How to evaluate a vector database: Key decision criteria</h2><p>When reviewing vector databases, many teams focus on storage, but it&#x2019;s not the only thing to consider. Vector DB scalability, LLM compatibility, and data location speed should also be high on the priority list. An effective database also understands semantic search, i.e. recognizing the intent behind a search query rather than superficial language. All of these elements make up an AI agent that stays fast and functional as you add more users and more data chunks .</p><p>Here are some features developers building <a href="https://docs.n8n.io/advanced-ai/rag-in-n8n/"><u>RAG pipelines</u></a> should keep in mind:</p><ul><li><strong>Scalability limits and index design: </strong>Your choice of approximate nearest neighbor (ANN) algorithms, like hierarchical navigable small world (HNSW) or inverted file (IVF), changes the balance between speed and accuracy. For example, HNSW is fast and effective for complex and high dimensional searches, but it uses more memory. Teams need to plan for growth before AI applications slow down in production.</li><li><strong>Metadata filtering design:</strong> A good vector store handles rich JSON filtering without crashing. If the system can&#x2019;t filter data before the vector search starts, you end up with query latency that shows up as slow AI.</li><li><strong>Write-to-search-speed:</strong> Latency and accuracy are the two most important metrics in a live app. You need to know how long it takes for new vector embeddings to appear in searches so that your knowledge base stays up to date.</li></ul><p>Without these criteria, even well-designed models and infrastructure struggle to keep up once you start automating and scaling.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Build your RAG pipeline without the complexity</h3>
-    <p>Connect any vector database to your AI workflows in minutes with n8n</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="10-best-vector-databases-compared">10 best vector databases compared</h2><p>Before you start comparing vector search and database tools, it&#x2019;s worth knowing what you need and what&#x2019;s compatible with your existing infrastructure. Some companies offer managed services that do the work for you, while others are open source and offer more custom options and data control.&#xA0;</p><p>Here&#x2019;s a summary of the main features to consider and how each tool compares.&#xA0;</p>
-<!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 900px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 120px;">Vector database</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 150px;">Hosting</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 100px;">Scale</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 180px;">Index types</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;">Filtering</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 150px;">Ops overhead</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Pinecone</td>
-          <td style="padding: 16px;">Serverless, fully managed</td>
-          <td style="padding: 16px;">High</td>
-          <td style="padding: 16px;">Proprietary ANN index</td>
-          <td style="padding: 16px;">Metadata filtering</td>
-          <td style="padding: 16px;">Low</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Milvus</td>
-          <td style="padding: 16px;">Managed or self-hosted</td>
-          <td style="padding: 16px;">Very high</td>
-          <td style="padding: 16px;">HNSW, IVF_Flat, FLAT, DiskANN, etc.</td>
-          <td style="padding: 16px;">Scalar or boolean filtering</td>
-          <td style="padding: 16px;">Medium to high</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Weaviate</td>
-          <td style="padding: 16px;">Managed or self-hosted</td>
-          <td style="padding: 16px;">High</td>
-          <td style="padding: 16px;">HNSW-based ANN, flat index, HFresh</td>
-          <td style="padding: 16px;">Metadata filtering, hybrid search</td>
-          <td style="padding: 16px;">Medium</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Qdrant</td>
-          <td style="padding: 16px;">Managed or self-hosted</td>
-          <td style="padding: 16px;">High</td>
-          <td style="padding: 16px;">HNSW</td>
-          <td style="padding: 16px;">Payload filtering (including JSON filtering)</td>
-          <td style="padding: 16px;">Medium</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">pgvector</td>
-          <td style="padding: 16px;">Self-hosted or managed Postgres/PostgreSQL</td>
-          <td style="padding: 16px;">Medium</td>
-          <td style="padding: 16px;">HNSW, IVFFlat</td>
-          <td style="padding: 16px;">SQL-based filtering</td>
-          <td style="padding: 16px;">Low to medium (depending on Postgres ops)</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Chroma</td>
-          <td style="padding: 16px;">Self-hosted or managed</td>
-          <td style="padding: 16px;">Small to medium</td>
-          <td style="padding: 16px;">HNSW</td>
-          <td style="padding: 16px;">Metadata filtering</td>
-          <td style="padding: 16px;">Low to medium</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Redis</td>
-          <td style="padding: 16px;">Self-hosted or managed</td>
-          <td style="padding: 16px;">High</td>
-          <td style="padding: 16px;">FLAT, HNSW, SVS-VAMANA</td>
-          <td style="padding: 16px;">Hybrid (keyword and vector) with metadata/keyword patterns</td>
-          <td style="padding: 16px;">Moderate</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Elasticsearch</td>
-          <td style="padding: 16px;">Managed or self-hosted</td>
-          <td style="padding: 16px;">Very high</td>
-          <td style="padding: 16px;">HNSW-based ANN + Lucene text indexing</td>
-          <td style="padding: 16px;">Lucene-based filtering</td>
-          <td style="padding: 16px;">High</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">SingleStore</td>
-          <td style="padding: 16px;">Multi-cloud or on-prem</td>
-          <td style="padding: 16px;">High</td>
-          <td style="padding: 16px;">ANN vector search features</td>
-          <td style="padding: 16px;">SQL-based filtering</td>
-          <td style="padding: 16px;">Moderate</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">FAISS</td>
-          <td style="padding: 16px;">Embedded/self-hosted (library)</td>
-          <td style="padding: 16px;">High</td>
-          <td style="padding: 16px;">IVF, HNSW, LSH, PQ, Flat, etc.</td>
-          <td style="padding: 16px;">Minimal built-in filtering</td>
-          <td style="padding: 16px;">High (because you build the surrounding system)</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
-</div>
-<!--kg-card-end: html-->
-<p>Here&#x2019;s a closer look at 10 options worth knowing and the best use cases or users for each.</p><h3 id="pinecone">Pinecone</h3><p><strong>Best for:</strong> Teams who want to start quickly and without managing their own hardware</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-506b2b25-ea67-480b-94dc-83648fa884b2.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="902" height="328" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-506b2b25-ea67-480b-94dc-83648fa884b2.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-506b2b25-ea67-480b-94dc-83648fa884b2.jpeg 902w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Pinecone is a fully managed vector database</em></i></figcaption></figure><p>Pinecone vector database is a top choice because it&#x2019;s fully managed in the cloud. That means you don&#x2019;t need to worry about fixing or maintaining servers. But because <a href="https://n8n.io/integrations/pinecone-vector-store/"><u>Pinecone</u></a> is a fully managed system, you don&#x2019;t have the same level of control or customization that you would with a locally-run tool.</p><h3 id="milvus">Milvus</h3><p><strong>Best for:</strong> Corporations with billions of data points and expert teams</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-87392572-3502-4f91-b832-6f1fd8334285.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="376" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-87392572-3502-4f91-b832-6f1fd8334285.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-87392572-3502-4f91-b832-6f1fd8334285.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Milvus vector database is able to handle tens of billions of records</em></i></figcaption></figure><p>Zilliz built the Milvus vector database to handle complex tasks for companies running massive projects. It&#x2019;s very powerful and designed for large, distributed deployments, but self&#x2011;managed Milvus on Kubernetes involves multiple components and can be complex to operate without solid infrastructure expertise.</p><h3 id="weaviate">Weaviate</h3><p><strong>Best for:</strong> Developers making complex apps that need different search options</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-f3f4d8e5-18b5-4c09-a0f3-1d391d4b5f30.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="339" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-f3f4d8e5-18b5-4c09-a0f3-1d391d4b5f30.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-f3f4d8e5-18b5-4c09-a0f3-1d391d4b5f30.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Weaviate is an open-source vector database</em></i></figcaption></figure><p>This open-source vector database lets you search using both vectors and regular keywords simultaneously. Weaviate even has AI models built in to help you turn data into searchable vectors (vectorization). The downside is that, like other HNSW&#x2011;based systems, you&#x2019;ll need to tune index parameters and cluster size to balance speed and memory usage at scale.&#xA0;</p><h3 id="qdrant">Qdrant&#xA0;</h3><p><strong>Best for:</strong> Very fast vector search systems that need to filter data quickly</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-820d48a7-9237-454a-8901-9ed6fd0dc40b.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="401" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-820d48a7-9237-454a-8901-9ed6fd0dc40b.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-820d48a7-9237-454a-8901-9ed6fd0dc40b.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Qdrant offers vector search capabilities for various use-cases</em></i></figcaption></figure><p>If you&#x2019;re building a vector database <a href="https://n8n.io/rag/"><u>for RAG</u></a>, then <a href="https://n8n.io/integrations/qdrant-vector-store/"><u>Qdrant</u></a> is a great pick. That&#x2019;s because its engine is written in Rust, which engineers generally prefer for fast and efficient searching. The tradeoff is that its ecosystem is newer and smaller than Postgres or Elasticsearch, so you&#x2019;ll find fewer third&#x2011;party plugins and community examples.&#xA0;</p><h3 id="pgvector">pgvector</h3><p><strong>Best for:</strong> Small to or medium-sized projects already using PostgreSQL/Postgres</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-564a8f0d-357d-4827-b9a4-e613a00a5b7f.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="401" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-564a8f0d-357d-4827-b9a4-e613a00a5b7f.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-564a8f0d-357d-4827-b9a4-e613a00a5b7f.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">pgvector extends PostgreSQL relational database</em></i></figcaption></figure><p>Some might argue that this is just an add-on for the famous Postgres database, but pgvector lets you store vectors alongside regular information. It&#x2019;s reliable and keeps all of your databases in a central location. pgvector is great when you want vector search inside an existing Postgres stack, but it&#x2019;s not optimized for very large, high&#x2011;throughput vector workloads compared to dedicated vector databases.&#xA0;</p><h3 id="chroma">Chroma</h3><p><strong>Best for:</strong> Testing new ideas, developing prototypes, and building apps on your own computer</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-b5325480-0fcc-44f7-a183-0f3c2f95a57d.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="347" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-b5325480-0fcc-44f7-a183-0f3c2f95a57d.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-b5325480-0fcc-44f7-a183-0f3c2f95a57d.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Chroma offer open-source AI infrastructure for AI</em></i></figcaption></figure><p>Chroma is a straightforward tool for developers who want to build something on their own devices. It&#x2019;s easy to use and only requires a few minutes of setup. However, the default local/single&#x2011;node setup is geared toward smaller workloads; for large-scale production you&#x2019;d typically move to a distributed Chroma deployment or another vector database.&#xA0;</p><h3 id="redis">Redis</h3><p><strong>Best for:</strong> Smaller apps that need to find answers in a fraction of a second</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-468751f4-7211-4a5c-bb54-ce8482239376.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="401" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-468751f4-7211-4a5c-bb54-ce8482239376.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-468751f4-7211-4a5c-bb54-ce8482239376.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Redis has added vector search capabilities to its original in-memory store solution</em></i></figcaption></figure><p>Redis lets its users find information fast. It achieves low latency by keeping vector data in memory, which can become expensive as your dataset grows, especially if everything must fit in RAM for optimal performance.&#xA0;</p><h3 id="elasticsearch">Elasticsearch</h3><p><strong>Best for:</strong> Enterprise teams needing to combine traditional keyword search with vector retrieval</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-b357c912-8997-4414-9e30-fd5b78237178.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="401" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-b357c912-8997-4414-9e30-fd5b78237178.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-b357c912-8997-4414-9e30-fd5b78237178.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Elasticsearch is a distributed search and analytics engine</em></i></figcaption></figure><p>Elasticsearch adds vector capabilities to its world-class text-based engine, making it a powerhouse for hybrid search workloads. However, it&#x2019;s resource-heavy and hard to tune. Teams often need to invest in expertise and hardware to prevent high memory consumption from slowing down their primary search clusters.</p><h3 id="singlestore">SingleStore</h3><p><strong>Best for:</strong> Enterprise-grade real-time analytics involving both relational and vector data</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-5aa0e6a1-566a-45a6-ae32-eff6609f3eeb.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="361" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-5aa0e6a1-566a-45a6-ae32-eff6609f3eeb.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-5aa0e6a1-566a-45a6-ae32-eff6609f3eeb.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">SingleStore Helios platform combines SQL database with the no-SQL vector RAG</em></i></figcaption></figure><p>SingleStore is a distributed SQL database that handles both transactional and vector data in a single, unified engine. The main downside for simple vector&#x2011;only workloads is that its enterprise&#x2011;grade licensing and cost model can be excessive compared to lighter OSS vector databases.&#xA0;</p><h3 id="faiss">Faiss</h3><p><strong>Best for:</strong> Research and offline batch processing of massive vector collections</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-34121a5b-0d16-44c7-9122-55ab5c47c364.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="902" height="361" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-34121a5b-0d16-44c7-9122-55ab5c47c364.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-34121a5b-0d16-44c7-9122-55ab5c47c364.jpeg 902w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Faiss is a developer-oriented library for dense vectors search and clustering</em></i></figcaption></figure><p>Meta developed Faiss for efficient similarity search and clustering of dense vectors. While it is fast, most data engineers would argue it&#x2019;s more of a library than a full vector database. It lacks many essential features like storage management, replication, and a built-in API layer.</p><h2 id="connecting-your-vector-database-to-an-automation-pipeline-with-n8n">Connecting your vector database to an automation pipeline with n8n</h2><p>While a vector store holds your data, it can&#x2019;t move that data by itself. <a href="https://n8n.io"><u>n8n</u></a> is a workflow automation platform that acts as the orchestration layer on top of your vector database &#x2014; connecting ingestion, chunking, embedding, and retrieval into a single visual pipeline.&#xA0;</p><p>n8n handles the labor-intensive and compute-heavy tasks like ingestion, chunking, and embedding. That means your team can avoid writing complex code. Instead, focus on building out the steps for your composable workflow that connects your apps to your AI model.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-666c14de-9b89-401f-ae7f-fa484baa74a8.jpeg" class="kg-image" alt="Choose the Best Vector Databases for AI and RAG Pipelines" loading="lazy" width="903" height="419" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/06/data-src-image-666c14de-9b89-401f-ae7f-fa484baa74a8.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/data-src-image-666c14de-9b89-401f-ae7f-fa484baa74a8.jpeg 903w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">n8n starter template with the in-memory simple vector store. Swap it to another vector database for production workflows</em></i></figcaption></figure>
-<!--kg-card-begin: html-->
-<script>
-  workflowBanner([11468, 5010, 5148, 3848, 5908], document.currentScript, {
-    workflowsHeader: "Explore these n8n RAG templates to connect your vector store and start building:"
-  });
-</script>
-<!--kg-card-end: html-->
-<p>You don&#x2019;t need to build these connections from scratch. n8n has native codes for popular tools like <a href="https://n8n.io/integrations/pinecone-vector-store/"><u>Pinecone</u></a>, <a href="https://n8n.io/integrations/qdrant/"><u>Qdrant</u></a>, <a href="https://n8n.io/integrations/supabase-vector-store/"><u>Weaviate</u></a>, and <a href="https://n8n.io/integrations/supabase-vector-store/"><u>Supabase</u></a>, and with <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/"><u>cluster node</u></a> architecture, you can swap out embedding models in seconds. Try out new models and strategies without rewiring your entire <a href="https://blog.n8n.io/rag-chatbot/"><u>LLM or RAG</u></a> pipeline.</p><p>Once the vector store is ready, the AI agent node treats your store as a tool for agentic retrieval workflows, letting the AI decide exactly when to look up information versus using other methods. You are not limited only to agentic use-cases when working with vector stores. Nodes like Qdrant also work independently, meaning that you can query the database and present the retrieved chunks directly to the user. This turns vector stores into semantic search engines &#x2014; a useful feature when searching across huge corporate document libraries.&#xA0;</p><h2 id="future-proof-your-ai-pipelines">Future-proof your AI pipelines</h2><p>Figuring out which vector database best meets your needs is a tough task. You need to consider your current stack, future goals, and team strengths and limitations. The best vector database matches include:</p><ul><li>Pgvector for PostreSQL environments&#xA0;</li><li>Pinecone for a managed and zero-ops solution</li><li>Qdrant and Weaviate for self-hosted needs</li><li>Milvus for billion-vector scaling</li><li>Chroma for local dev teams</li></ul>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Keep your AI pipelines fast and flexible</h3>
-    <p>Regardless of what you choose, n8n connects your tools and orchestrates your vector store workflows</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Register for free</a>
-</div>
-<!--kg-card-end: html-->
-]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 25 Jul 2026 11:12:21 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 17:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -1055,7 +984,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 26 Jul 2026 10:12:21 GMT</pubDate>
+  <pubDate>Tue, 28 Jul 2026 17:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1064,7 +993,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 22 Jul 2026 07:12:21 GMT</pubDate>
+  <pubDate>Fri, 24 Jul 2026 17:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1073,7 +1002,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 19 Jul 2026 23:12:21 GMT</pubDate>
+  <pubDate>Sat, 25 Jul 2026 02:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1082,7 +1011,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 21 Jul 2026 15:12:21 GMT</pubDate>
+  <pubDate>Sat, 25 Jul 2026 20:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1091,7 +1020,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 27 Jul 2026 15:12:21 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 15:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1100,7 +1029,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 21 Jul 2026 03:12:21 GMT</pubDate>
+  <pubDate>Mon, 20 Jul 2026 11:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1109,7 +1038,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 29 Jul 2026 02:12:21 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 04:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1118,7 +1047,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 25 Jul 2026 03:12:21 GMT</pubDate>
+  <pubDate>Mon, 27 Jul 2026 10:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1127,7 +1056,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 20 Jul 2026 21:12:21 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 11:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1136,7 +1065,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 23 Jul 2026 20:12:21 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 17:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1145,7 +1074,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 26 Jul 2026 07:12:21 GMT</pubDate>
+  <pubDate>Sat, 25 Jul 2026 22:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1154,7 +1083,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 24 Jul 2026 10:12:21 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 05:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1163,7 +1092,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 22 Jul 2026 21:12:21 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 21:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1172,7 +1101,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 29 Jul 2026 01:12:21 GMT</pubDate>
+  <pubDate>Fri, 24 Jul 2026 01:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1181,7 +1110,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 19 Jul 2026 22:12:21 GMT</pubDate>
+  <pubDate>Mon, 27 Jul 2026 12:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1190,7 +1119,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 27 Jul 2026 16:12:21 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 21:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1199,7 +1128,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 25 Jul 2026 00:12:21 GMT</pubDate>
+  <pubDate>Mon, 27 Jul 2026 19:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1208,7 +1137,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 23 Jul 2026 04:12:21 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 07:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1217,7 +1146,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 20 Jul 2026 23:12:21 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 21:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1226,7 +1155,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 28 Jul 2026 12:12:21 GMT</pubDate>
+  <pubDate>Fri, 24 Jul 2026 17:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1235,7 +1164,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 22 Jul 2026 16:12:21 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 05:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1244,7 +1173,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 22 Jul 2026 23:12:21 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 23:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1253,7 +1182,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 26 Jul 2026 06:12:21 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 04:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1262,7 +1191,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 19 Jul 2026 12:12:21 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 14:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1271,10 +1200,19 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 22 Jul 2026 18:12:21 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 08:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Ce que l&rsquo;IA bouleverse vraiment dans l&rsquo;entreprise]]></title>
+  <link>https://www.ia-news.fr/ce-que-lia-bouleverse-vraiment-dans-lentreprise/</link>
+  <description><![CDATA[L'intelligence artificielle redistribue le pouvoir et réveille nos biais, imposant une rupture culturelle encore mal mesurée. Un signal faible qui pourrait vite devenir un signal ...]]></description>
+  <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-phone-02.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-phone-02.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-phone-02.jpg" /> <p>L'intelligence artificielle redistribue le pouvoir et réveille nos biais, imposant une rupture culturelle encore mal mesurée. Un signal faible qui pourrait vite devenir un signal ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Cato Networks montre que la menace agentique dépasse le seul modèle d’IA]]></title>
@@ -1324,11 +1262,11 @@
 <item>
   <title><![CDATA[Nutanix veut encadrer le passage à l’échelle de l’IA agentique avec Agent Gateway]]></title>
   <link>https://www.ia-news.fr/nutanix-veut-encadrer-le-passage-a-lechelle-de-lia-agentique-avec-agent-gateway/</link>
-  <description><![CDATA[Alors que les entreprises commencent à déployer des agents IA capables d’interagir avec leurs outils métier, Nutanix ajoute une couche de gouvernance à sa plateforme. ...]]></description>
+  <description><![CDATA[]]></description>
   <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/07/visuel-nutanix-article-1.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/07/visuel-nutanix-article-1.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/07/visuel-nutanix-article-1.jpg" /> <p>Alors que les entreprises commencent à déployer des agents IA capables d’interagir avec leurs outils métier, Nutanix ajoute une couche de gouvernance à sa plateforme. ...</p>]]></content:encoded>
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/07/visuel-nutanix-article-1.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[SCC lance une stratégie d’investissement massive dans l’IA]]></title>
@@ -1338,15 +1276,6 @@
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Vers des SOC autonomes ? Cato Networks parie sur la défense agentique]]></title>
-  <link>https://www.ia-news.fr/vers-des-soc-autonomes-cato-networks-parie-sur-la-defense-agentique/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-cato-networks-article-3.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-cato-networks-article-3.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-cato-networks-article-3.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Managers : les 3 décisions qui feront le succès (ou l&rsquo;échec) de votre projet d&rsquo;IA agentique]]></title>
@@ -1646,17 +1575,17 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" /> <p>Le Club Consulting &amp; Coaching (C3) d’HEC Alumni publie, avec l’aide de plus de 50 dirigeants de cabinets de conseil, « ConseilIA : le nouvel âge du Conseil Augmenté ». Cet ouvrage décrypte la transformation ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Contenus médias : sous la coupe des algorithmes ?]]></title>
-  <link>https://www.ia-news.fr/contenus-medias-sous-la-coupe-des-algorithmes/</link>
+  <title><![CDATA[Telehouse présente sa nouvelle étude « Stratégies 2025 de déploiement des charges de travail IA »]]></title>
+  <link>https://www.ia-news.fr/telehouse-presente-sa-nouvelle-etude-strategies-2025-de-deploiement-des-charges-de-travail-ia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-logique-0004.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-logique-0004.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-logique-0004.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L’IA se déploie progressivement dans les ETI]]></title>
-  <link>https://www.ia-news.fr/lia-se-deploie-progressivement-dans-les-eti/</link>
+  <title><![CDATA[Red Hat annonce la disponibilité de Red Hat Enterprise Linux A]]></title>
+  <link>https://www.ia-news.fr/red-hat-annonce-la-disponibilite-de-red-hat-enterprise-linux-a/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" medium="image" />
@@ -1664,40 +1593,40 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Les chatbots savent qu’ils ne savent pas !]]></title>
-  <link>https://www.ia-news.fr/les-chatbots-savent-quils-ne-savent-pas/</link>
+  <title><![CDATA[Les datacenters à l’ère de la révolution de l’IA]]></title>
+  <link>https://www.ia-news.fr/les-datacenters-a-lere-de-la-revolution-de-lia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/02/Blog_article_chatbots2-2000x1003.png" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/02/Blog_article_chatbots2-2000x1003.png" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/02/Blog_article_chatbots2-2000x1003.png" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/server-ia-bleu-room.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Provence.ai s&rsquo;installe dans un hôtel particulier à Marseille et recrute]]></title>
-  <link>https://www.ia-news.fr/provence-ai-sinstalle-dans-un-hotel-particulier-a-marseille-et-recrute/</link>
+  <title><![CDATA[Le groupe Kéa annonce sa 10e acquisition]]></title>
+  <link>https://www.ia-news.fr/le-groupe-kea-annonce-sa-10e-acquisition/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/09/groupekea.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/09/groupekea.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/groupekea.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Enquête Ipsos pour Greenworking &#8211; L&rsquo;impact de l&rsquo;IA générative sur les salariés]]></title>
-  <link>https://www.ia-news.fr/enquete-ipsos-pour-greenworking-limpact-de-lia-generative-sur-les-salaries/</link>
+  <title><![CDATA[La ville de Suresnes conjugue excellence de la relation citoyen et IA avec NXO]]></title>
+  <link>https://www.ia-news.fr/la-ville-de-suresnes-conjugue-excellence-de-la-relation-citoyen-et-ia-avec-nxo/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/business-to-business.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/business-to-business.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/business-to-business.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/05/Intelligence-artificielle-IA-AI.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/05/Intelligence-artificielle-IA-AI.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/Intelligence-artificielle-IA-AI.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[1re édition du baromètre Digital Workplace par Experteam et Mozzaik 365]]></title>
-  <link>https://www.ia-news.fr/1re-edition-du-barometre-digital-workplace-par-experteam-et-mozzaik-365/</link>
+  <title><![CDATA[Datacenters : L&rsquo;Impact de l&rsquo;IA sur la Consommation Électrique, la Climatisation et l&rsquo;ESG]]></title>
+  <link>https://www.ia-news.fr/datacenters-limpact-de-lia-sur-la-consommation-electrique-la-climatisation-et-lesg/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-green-reseaux.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-green-reseaux.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-green-reseaux.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
