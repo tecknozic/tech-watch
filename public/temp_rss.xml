@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 13:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 19:00:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[AI firms must answer for rogue bots, says boss of hacked company]]></title>
+            <description><![CDATA[Clement Delangue said he didn't want cyber attacks on other companies to become "normalised".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr7k49xjzzeo#0</guid>
+            <pubDate>Fri, 31 Jul 2026 18:10:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amazon and Apple just told us more about their AI plans - here are three things we learned]]></title>
             <description><![CDATA[Billions of dollars are being poured into a new wave of AI technology. But will it pay off?]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6f/live/ee815b00-85ac-11f1-9454-77c2271a5b4a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Warning shot or publicity stunt - how worried should we be about the OpenAI hack?]]></title>
-            <description><![CDATA[Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd9w22n9e4go#0</guid>
-            <pubDate>Sat, 25 Jul 2026 10:14:41 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[What do we need to know about agentic AI?]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,6 +184,117 @@
         </item>
     
 <item>
+		<title>Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI</title>
+		<link>https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/</link>
+		
+		<dc:creator><![CDATA[Theresa Loconsolo]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 17:26:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=3148833</guid>
+
+					<description><![CDATA[After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Snapchat no longer rewards fully AI-generated Spotlight content</title>
+		<link>https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 16:49:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[ai slop]]></category>
+		<category><![CDATA[Snapchat]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3148803</guid>
+
+					<description><![CDATA[Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Siri AI could come with a paywall for power users</title>
+		<link>https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 16:08:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[siri ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3148730</guid>
+
+					<description><![CDATA[Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>SpaceX won’t remove all of xAI’s unpermitted turbines for another year</title>
+		<link>https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 15:16:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[air pollution]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3148699</guid>
+
+					<description><![CDATA[SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human</title>
+		<link>https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 14:47:11 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[customer support]]></category>
+		<category><![CDATA[voice AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3148682</guid>
+
+					<description><![CDATA[The startup is building voice models designed to make AI phone calls pass the Turing test.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off</title>
+		<link>https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec, Sean O'Kane, Anthony Ha, Theresa Loconsolo]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&#038;p=3148831</guid>
+
+					<description><![CDATA[After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Anthropic says its own AI models breached three companies during security tests</title>
 		<link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
 		
@@ -191,10 +302,11 @@
 		<pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[cybersecurtiy]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3148621</guid>
 
-					<description><![CDATA[After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents]]></description>
+					<description><![CDATA[After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.]]></description>
 		
 		
 		
@@ -435,110 +547,162 @@
 		
 		
 			</item>
-<item>
-		<title>Dili raises $21.7M to bring AI compliance to the infrastructure boom</title>
-		<link>https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/</link>
-		
-		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
-		<pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[data center infrastructure]]></category>
-		<category><![CDATA[Dili]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3148116</guid>
-
-					<description><![CDATA[The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Microsoft is openly competing with OpenAI, Anthropic more than ever</title>
-		<link>https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 30 Jul 2026 00:21:06 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3148055</guid>
-
-					<description><![CDATA[Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Mark Zuckerberg predicts that billions of people will have personal AI agents in five years</title>
-		<link>https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 29 Jul 2026 23:00:11 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3148017</guid>
-
-					<description><![CDATA[As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag</title>
-		<link>https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Wed, 29 Jul 2026 22:46:03 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3148002</guid>
-
-					<description><![CDATA[When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents</title>
-		<link>https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 29 Jul 2026 22:23:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3148020</guid>
-
-					<description><![CDATA[On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 </title>
-		<link>https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 29 Jul 2026 21:16:39 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Databricks]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3147648</guid>
-
-					<description><![CDATA[At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[Event Sourcing: Perks, Trade-Offs, and Architectural Considerations]]></title><description><![CDATA[Learn how event sourcing works, its components, its benefits and trade-offs, and when it’s the right architectural choice for your applications. 
+]]></description><link>https://blog.n8n.io/event-sourcing/</link><guid isPermaLink="false">6a6a7a79578c73000175b6c6</guid><category><![CDATA[Guides]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Fri, 31 Jul 2026 17:11:26 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--15-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--15-.jpeg" alt="Event Sourcing: Perks, Trade-Offs, and Architectural Considerations"><p>Most apps store the latest version of a record and overwrite what came before it. It&#x2019;s straightforward, but it removes the context behind why those changes took place.&#xA0;</p><p>If your system needs to reconstruct past states, support <a href="https://blog.n8n.io/ai-workflows-for-the-cautious-enterprise/"><u>AI workflows</u></a> that depend on historical context and decision traces, or maintain a complete audit trail, you need more than a snapshot of the present. Event sourcing addresses that need by treating changes as part of the system&#x2019;s permanent record. But using it introduces trade-offs around storage, querying, consistency, and operational complexity.&#xA0;</p><h2 id="what-is-event-sourcing">What is event sourcing?</h2><p>Event sourcing is a persistence pattern that stores sequences of events that describe changes to a business entity. Each event records something that happened and stores it in an event store as an append-only log. This is different from the traditional create, read, update, and delete (CRUD) approach, where updates replace previous values.&#xA0;</p><p>For example, instead of storing only a bank&#x2019;s current account balance, an event-sourced system would store every deposit, withdrawal, and adjustment that contributed to it. This way, the system can refer to the event history as its source of truth, and the current balance as the resulting view from that history.&#xA0;</p><h2 id="the-building-blocks-behind-an-event-sourcing-pattern">The building blocks behind an event sourcing pattern</h2><p>Event sourcing relies on the following handful of architectural primitives that work together to capture changes, persist them, and reconstruct application states.&#xA0;</p><h3 id="event-objects">Event objects</h3><p>Event objects represent the actions that have already occurred within the system. It doesn&#x2019;t record the current state of a business entity but instead captures the changes that led to it.&#xA0;</p><p>If you run a subscription platform, those objects could look like SubscriptionCreated, PlanUpgraded, or SubscriptionCanceled. They each capture a specific business action along with the data needed to describe it.&#xA0;</p><p>Because event objects serve as historical records, they&#x2019;re usually immutable. Rather than modifying existing events, your system records new events to preserve a clear sequence and maintain a reliable audit trail.&#xA0;</p><h3 id="event-store">Event store</h3><p>The event store is the data system responsible for persisting the history of each business entity. This is where applications append new records to an ordered event stream instead of just updating rows in place.&#xA0;</p><p>For instance, a customer account might have a stream composed of creation events, profile updates, purchases, and status changes. Together, those events form the entity&#x2019;s complete history and become the authoritative record for reconstructing its state.&#xA0;</p><p>In <a href="https://blog.n8n.io/how-to-implement-event-driven-architecture/"><u>event-driven architectures</u></a>, the event store also acts as the source of events for downstream consumers. Services subscribe to those events through a message broker or event stream and react asynchronously as new events arrive.&#xA0;</p><h3 id="state-reconstruction">State reconstruction</h3><p>Event-sourced systems don&#x2019;t store the current state as the primary record, so they need a way to rebuild it. State reconstruction makes that possible by replaying events in sequence and applying each change to an aggregate.&#xA0;</p><p>Consider a warehouse inventory item, where the event stream contains InventoryAdded, InventoryAdjusted, and InventoryReserved events. Replaying them in order allows the application to calculate the current inventory level.&#xA0;</p><p>The same process can also recreate the inventory&#x2019;s state at a specific point in time. This capability is useful for audits, troubleshooting, and historical analysis.&#xA0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">When buiding large-scale systems, state reconstruction can reduce live system performance if done too often. Here&#x2019;s an article about the famous <a href="https://www.wired.com/2015/11/how-instagram-solved-its-justin-bieber-problem/">&#x201C;Justin Bieber problem&#x201D; </a>and how Instagram solved it. TLDR: pre-compute values when new events occur and use a short-lived cache to reduce load during peak hours.</div></div><h3 id="projections">Projections</h3><p>Most system users don&#x2019;t want a stream of events. They want answers to questions such as:</p><ul><li>Which orders are awaiting fulfillment?</li><li>Which customers have active subscriptions?</li><li>Which products are running low on inventory?</li></ul><p>To support those use cases, event-sourced systems create projections, also known as materialized views. Projections are a common component in larger data processing pipelines that consume events and build a read model optimized for a specific query pattern.&#xA0;</p><p>Because projections derive their data from the event store, you can create multiple views from the same history without changing the underlying write model. This separation is why event sourcing is frequently paired with <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"><u>command query responsibility segregation</u></a> (CQRS).&#xA0;</p><h3 id="snapshots">Snapshots</h3><p>Entities can accumulate thousands of events over time. Reconstructing their state from the beginning of the stream for every request can increase latency and resource consumption.</p><p>Snapshots reduce that overhead by capturing the state of an aggregate at a specific point in time and storing it separately from the event stream. During reconstruction, the application will load the latest snapshot and replay only the events that occurred afterward.</p><p>Snapshots shorten replay time, but they don&#x2019;t eliminate the need to process newer changes. They also add storage overhead and require ongoing maintenance.</p><h2 id="why-do-event-sourcing-and-cqrs-often-go-hand-in-hand">Why do event sourcing and CQRS often go hand in hand?</h2><p>Event sourcing and CQRS are frequently deployed together because they solve complementary problems. Event sourcing captures and preserves state changes, while CQRS provides an efficient way to expose that information across an application.&#xA0;</p><p>For example, if you&#x2019;re running a subscription management platform, every action that affects a subscription &#x2014; creation, plan upgrades, or cancellations &#x2014; creates an event. That history allows the system to reconstruct the subscription&#x2019;s state at any point in time.&#xA0;</p><p>But reconstructing states from events becomes more resource-intensive, especially when applications must support multiple query patterns and views of the same data.</p><p>A CQRS pattern solves that problem by separating the write model from the read model. The write side focuses on recording events, while the read side consumes those events to build projections optimized for specific access patterns.&#xA0;</p><p>This allows you to preserve a complete event history without forcing every query to depend on event replay or state reconstruction. It also makes it easier to <a href="https://blog.n8n.io/how-to-build-api/"><u>build APIs</u></a> and other data access layers on top of projection data.&#xA0;</p><h2 id="what-are-the-trade-offs-of-event-sourcing">What are the trade-offs of event sourcing?</h2><p>Preserving every state change affects how you manage the following:</p><ul><li><strong>Schema evolution:</strong> Events are meant to be durable records, so they often outlive the code that produced them. You have to maintain compatibility between event versions without breaking replay or reconstruction processes.&#xA0;</li><li><strong>Eventual consistency:</strong> Projections usually update asynchronously from the event store. There may be delays between the moment an event is recorded and when that change appears in a read model that your application will have to account for. This can be problematic in user-facing workflows where users expect immediate confirmation of actions, such as account updates, inventory changes, and order status transitions.</li><li><strong>Replay cost and snapshot management:</strong> Replaying events in sequence becomes more resource-intensive as your event streams grow. Snapshots reduce that cost by storing intermediate states, but they introduce additional storage, maintenance, and recovery considerations.&#xA0;</li><li><strong>Operational complexity:</strong> Event sourcing introduces additional components and processes you must manage, such as event stores, projections, and monitoring. These moving parts can increase development and operational overhead compared to traditional CRUD architectures.&#xA0;</li><li><strong>Vendor and framework lock-in risk:</strong> Migrating away from these technologies is challenging because your application&#x2019;s state history would be encoded in event streams and schemas rather than in an easy-to-export set of current records. Recreating that history in another persistence model would require transforming years of events while preserving replay behavior, projections, and rules built around the original model.</li></ul><h2 id="when-does-event-sourcing-make-sense">When does event sourcing make sense?&#xA0;</h2><p>Event sourcing isn&#x2019;t inherently better than traditional persistence models. Its value depends on whether your business benefits from preserving and reconstructing historical states.&#xA0;</p><p>Ask yourself if the ability to retain, replay, and analyze state changes provides enough value to justify the additional architectural and operational overhead. The answer to that is your starting point.</p><h3 id="when-to-use-event-sourcing">When to use event sourcing</h3><p>Event sourcing benefits use cases where it&#x2019;s a business requirement rather than a technical preference. This includes:</p><ul><li><strong>Compliance-heavy industries:</strong> Healthcare, banks, and other regulated industries often need to demonstrate how data changed over time and who initiated those changes.&#xA0;</li><li><strong>Order fulfillment and supply chain operations:</strong> Tracking how orders move through reservation, packing, shipping, delivery, and return workflows provides visibility into bottlenecks and enables historical analysis.&#xA0;</li><li><strong>Event-driven microservices architectures:</strong> When multiple downstream services or <a href="https://blog.n8n.io/ai-agentic-workflows/"><u>agentic workflows</u></a> consume domain events, maintaining a complete event history can simplify integration and recovery workflows.&#xA0;</li></ul><h3 id="when-not-to-use-event-sourcing">When not to use event sourcing</h3><p>Some applications don&#x2019;t benefit from keeping a complete event history, including:</p><ul><li><strong>Content management systems:</strong> Most publishing platforms only need the current version of content and basic revision history.&#xA0;</li><li><strong>Internal business tools:</strong> Admin dashboards and reporting portals, for instance, don&#x2019;t require replay, auditing, or historical reconstruction.&#xA0;</li><li><strong>Read-heavy applications with limited state transitions:</strong> Systems that primarily serve queries and perform few business operations can do without the additional complexity introduced by event stores and replay workflows.&#xA0;</li></ul><h2 id="explore-event-driven-architecture-with-n8n">Explore event-driven architecture with n8n</h2><p>Event sourcing is a trade-off between simplicity and historical visibility. If your system requires auditability, state reconstruction, and a complete record of business events, the pattern can provide capabilities that traditional persistence models struggle to deliver.&#xA0;</p><p>But these benefits come with additional complexity around projections, replay, schema evolution, and day-to-day operations. So, the key is determining whether preserving your application&#x2019;s event history provides enough value to justify these costs.&#xA0;</p><p>n8n is a source-available workflow automation platform that helps teams work with event-driven systems without taking on the complexity of an event store. n8n can consume events through its <a href="https://blog.n8n.io/webhooks-for-workflow-automation/"><u>Webhook node</u></a> or trigger integrations and orchestrate downstream workflows without becoming part of the event store itself. This separation helps you decouple <a href="https://blog.n8n.io/workflow-automation-tools/"><u>workflow automation tooling</u></a> from core persistence logic. By hosting n8n on your servers you eliminate potential vendor-lock when your company&#x2019;s data require transition in a few years.&#xA0;</p><p>If you&#x2019;re exploring event-driven architectures, check out n8n&#x2019;s workflow templates library. It offers practical examples like the <a href="https://n8n.io/workflows/8258-learn-secure-webhook-apis-with-authentication-and-supabase-integration/"><u>webhook authentication template</u></a>, which shows how to securely consume incoming events, and the <a href="https://n8n.io/workflows/13863-prevent-duplicate-webhook-executions-with-aari-idempotency-gate/"><u>idempotency gate template</u></a>, which demonstrates how to guard against duplicate delivery.</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Build event-driven workflows without managing an event store</h3>
+    <p>Consume events, orchestrate downstream workflows, and keep automation decoupled from core persistence logic</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
+</div>
+<!--kg-card-end: html-->
+]]></content:encoded></item>
+<item><title><![CDATA[How LLM Guardrails Keep Production AI Safe]]></title><description><![CDATA[Production AI needs more than a system prompt. Learn how to use LLM guardrails to protect every stage of an AI workflow, from input to output.
+]]></description><link>https://blog.n8n.io/llm-guardrails/</link><guid isPermaLink="false">6a67cbeaa9eaeb0001496120</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><category><![CDATA[SecOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 31 Jul 2026 17:00:44 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--10-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--10-.jpeg" alt="How LLM Guardrails Keep Production AI Safe"><p>System prompts are good at setting expectations. But they&#x2019;re not so good at enforcing them. Once a large language model (LLM) is part of a production workflow, there&apos;s no guarantee it&apos;ll stay on topic or return data in the format your application expects.&#xA0;</p><p>LLM guardrails close that enforcement gap, giving you a way to validate inputs and outputs before they become production problems. This guide breaks down how and where to apply them to build AI systems that are both <a href="https://blog.n8n.io/make-ai-agents-more-reliable-and-restrict-the-actions-they-can-take/"><u>safe and reliable</u></a>.</p><h2 id="what-are-llm-guardrails">What are LLM guardrails?</h2><p>LLM guardrails are the checks and validation layers that sit around a model, inspecting requests before they reach the model and responses before they reach your application or users.</p><p>It&#x2019;s easy to confuse guardrails with model alignment or system prompts, but each plays a different role:</p><ul><li><strong>Model alignment:</strong> Shapes a model&apos;s behavior during training through techniques like reinforcement learning from human feedback (RLHF) or direct preference optimization (DPO). It&apos;s built into the model itself and can&apos;t be updated without retraining or fine-tuning.</li><li><strong>System prompts:</strong> Provide instructions for how the model should behave during inference. They&apos;re useful for steering behavior, but they&apos;re still part of the prompt and can be manipulated or overridden.</li><li><strong>LLM guardrails:</strong> Operate outside the model. They validate inputs and outputs independently, making them easier to update, audit, and enforce without changing the AI model or its prompts.</li></ul><p>Whether you&apos;re filtering prompt injections, validating JSON responses, or blocking off-topic requests, guardrails provide an independent layer of enforcement that makes applications more reliable while strengthening LLM security in production.</p><h2 id="llm-guardrail-types-input-guards-and-output-guards">LLM guardrail types: Input guards and output guards</h2><p>Not every guardrail solves the same problem. Some stop unsafe requests before they reach an LLM, while others inspect the AI model&apos;s response before it&apos;s returned to a user or passed to the next step in a workflow. Together, they help keep AI applications reliable from end to end.</p>
+<!--kg-card-begin: html-->
+<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
+  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
+    Scroll for more &#x2794;
+  </div>
+  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
+    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 700px;">
+      <thead>
+        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 180px;">Guardrail Type</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 120px;">Applied To</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444;">Prevents</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Prompt injection</td>
+          <td style="padding: 16px;">Input</td>
+          <td style="padding: 16px;">Malicious instructions that override intended behavior</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Jailbreaking</td>
+          <td style="padding: 16px;">Input</td>
+          <td style="padding: 16px;">Attack strategy that attempts to bypass safety or policy restrictions</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">PII and privacy</td>
+          <td style="padding: 16px;">Input</td>
+          <td style="padding: 16px;">Sensitive information entering the model unnecessarily</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Topical scope</td>
+          <td style="padding: 16px;">Input</td>
+          <td style="padding: 16px;">Off-topic or unsupported requests</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Code injection</td>
+          <td style="padding: 16px;">Input</td>
+          <td style="padding: 16px;">Malicious code or commands embedded in prompts</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Data leakage</td>
+          <td style="padding: 16px;">Output</td>
+          <td style="padding: 16px;">Sensitive or confidential information in responses</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Toxicity and content policy</td>
+          <td style="padding: 16px;">Output</td>
+          <td style="padding: 16px;">Harmful, inappropriate, or policy-violating content</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Hallucination</td>
+          <td style="padding: 16px;">Output</td>
+          <td style="padding: 16px;">Unsupported or fabricated information</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Bias</td>
+          <td style="padding: 16px;">Output</td>
+          <td style="padding: 16px;">Biased or discriminatory responses</td>
+        </tr>
+        <tr>
+          <td style="padding: 16px; font-weight: bold;">Schema and format enforcement</td>
+          <td style="padding: 16px;">Output</td>
+          <td style="padding: 16px;">Responses that don&apos;t match the required structure</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
+</div>
+<!--kg-card-end: html-->
+<h3 id="input-guards">Input guards</h3><p>Each of the following input guards inspects requests before they reach an LLM. Their job is to stop unsafe, irrelevant, or malformed inputs from ever entering the model. This cuts costs and prevents downstream failures before they happen.</p><h3 id="prompt-injection">Prompt injection</h3><p>LLM prompt injection is an attack that tries to override an AI model&apos;s instructions with malicious or conflicting prompts. Input guards detect these patterns before the request reaches the model, reducing the risk of unintended behavior.</p><h3 id="jailbreaking">Jailbreaking</h3><p>Jailbreaking LLMs is the practice of using carefully crafted prompts to bypass an app&#x2019;s safety rules. Guardrails can flag or block these requests before the model processes them, which adds another layer of protection.</p><h3 id="pii-and-privacy">PII and privacy</h3><p>Users may unknowingly submit sensitive information like customer data, API keys, or personal details. Privacy guardrails detect and redact this data before it goes to the model, helping reduce AI security and compliance risks.</p><h3 id="topical-scope">Topical scope</h3><p>Not every question belongs in your application. Scope guardrails identify requests that fall outside your intended use case, helping keep responses relevant and preventing the model from wandering into unsupported topics.</p><h3 id="code-injection">Code injection</h3><p>Applications that generate or execute code need to watch for malicious commands embedded in prompts. Code injection guardrails identify suspicious patterns before they can affect downstream tools or systems.</p><h3 id="output-guards">Output guards</h3><p>Output guards inspect an LLM&apos;s response before the system returns it to a user or passes it to the next step in a workflow. Each helps catch inappropriate or unsafe outputs before they make their way to users or systems downstream.</p><h3 id="data-leakage">Data leakage</h3><p>LLMs can inadvertently expose sensitive information, from customer data to internal documentation. Output guards prevent data leaks by detecting and blocking this content before it leaves your application.</p><h3 id="toxicity-and-content-policy">Toxicity and content policy</h3><p>Even well-aligned models can generate hate speech, harassment, or other policy-violating content. Content guardrails screen responses against your organization&apos;s policies before they&apos;re delivered to users.</p><h3 id="hallucination">Hallucination</h3><p>LLMs sometimes generate information that sounds convincing but isn&apos;t accurate. Hallucination guardrails help identify unsupported claims so they can be verified or regenerated before reaching users.</p><h3 id="bias">Bias</h3><p>Models sometimes produce biased or discriminatory responses, even without malicious prompts. Bias guardrails help identify these outputs, supporting fairer and more consistent interactions.</p><h3 id="schema-and-format-enforcement">Schema and format enforcement</h3><p>Many AI workflows rely on structured outputs like JSON or XML. Schema guardrails validate that responses match the expected format before downstream systems try to process them.</p><h2 id="deterministic-vs-model-based-guardrails">Deterministic vs. model-based guardrails</h2><p>Deterministic checks are fast, inexpensive, and ideal for enforcing known rules like JSON schemas, regex patterns, blocked keywords, or PII detection. Model-based guardrails are better for evaluating context, intent, and nuanced policy violations, but they add latency and token costs. The most effective approach is to use deterministic checks wherever possible, reserving model-based guardrails for problems that require semantic understanding. <a href="https://blog.n8n.io/production-ai-playbook-deterministic-steps-ai-steps/"><u>Learn more about deterministic steps</u></a>.</p><p>One way to reduce the cost of model-based guardrails is to use an LLM-as-a-judge for a simple pass/fail decision. Returning a binary result is often enough to determine whether a response should be accepted, rejected, or regenerated, without the overhead of more complex evaluation chains.</p>
+<!--kg-card-begin: html-->
+<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
+  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
+    Scroll for more &#x2794;
+  </div>
+  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
+    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 600px;">
+      <thead>
+        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;"></th>
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 200px;">Deterministic</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444;">Model-based</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Evaluates</td>
+          <td style="padding: 16px;">Rules, patterns, and schemas</td>
+          <td style="padding: 16px;">Context, intent, and meaning</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Latency</td>
+          <td style="padding: 16px;">Low</td>
+          <td style="padding: 16px;">Higher</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Cost</td>
+          <td style="padding: 16px;">Minimal</td>
+          <td style="padding: 16px;">Additional model calls</td>
+        </tr>
+        <tr>
+          <td style="padding: 16px; font-weight: bold;">Best for</td>
+          <td style="padding: 16px;">Format validation, PII detection, and blocked terms</td>
+          <td style="padding: 16px;">Prompt injection, hallucinations, toxicity, and bias</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
+</div>
+<!--kg-card-end: html-->
+<h2 id="how-to-implement-llm-guardrails-in-multi-step-ai-workflows">How to implement LLM guardrails in multi-step AI workflows</h2><p>Adding guardrails around a single LLM call is relatively straightforward: Validate the request before it reaches the model, then check the response before returning it to the user. But production AI workflows rarely stop at one model call, especially as agentic applications become more common. Learn more about <a href="https://blog.n8n.io/ai-workflows-for-the-cautious-enterprise/"><u>AI workflows for the cautious enterprise</u></a>.</p><p>A single response might trigger a database query, invoke an external API, hand work off to another AI agent, or kick off an automated business process. If something goes wrong at any stage, that issue can quickly propagate through the rest of the workflow. That&#x2019;s why production AI systems need guardrails between workflow steps &#x2014; not just at the beginning and end.</p><p>n8n is a source-available AI-native automation platform. It lets teams build AI workflows and full agents on a visual canvas by connecting modular nodes. The platform supports common agentic patterns and adds guardrails through a native node without requiring code. With <a href="https://n8n.io/"><u>n8n</u></a>, you can:</p><ul><li>Run advanced deterministic checks with the <a href="https://docs.n8n.io/code/code-node/"><u>Code node</u></a> to validate JSON schemas, match regex patterns, or enforce other rules before data moves to the next step&#xA0;</li><li>Add semantic validation with n8n&#x2019;s <a href="https://n8n.io/integrations/guardrails/"><u>Guardrails integration</u></a> or the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/"><u>HTTP Request node</u></a>, connecting to services like OpenAI Moderation, NeMo Guardrails, or AWS Bedrock Guardrails</li><li>Route workflows automatically with IF or Switch nodes, sending approved requests forward and failed checks to retries or error-handling workflows&#xA0;</li></ul>
+<!--kg-card-begin: html-->
+<script>
+  workflowBanner([5874, 13941, 9039, 3988, 15026], document.currentScript, {
+    workflowsHeader: "Explore these n8n templates to implement guardrails in your AI workflows:"
+  });
+</script>
+<!--kg-card-end: html-->
+<p>This approach becomes even more valuable in agentic AI workflows. With n8n&#x2019;s <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a>, you can orchestrate specialized agents while placing guardrails between each handoff, validating outputs before they&#x2019;re passed to downstream tools or agents. That makes each enforcement point explicit, easier to audit, and simpler to update as your policies evolve.</p><p>The result is a layered approach that treats guardrails as part of your workflow architecture, not just wrappers around an LLM.</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Add guardrails to every step of your AI workflow</h3>
+    <p>Validate inputs, inspect outputs, and route failures automatically &#x2014; all on a visual canvas with n8n</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
+</div>
+<!--kg-card-end: html-->
+<h2 id="5-best-practices-for-llm-guardrail-architecture">5 best practices for LLM guardrail architecture</h2><p>Where you place guardrails matters. But so does how you design them. These best practices can help you build an enforcement layer that scales as your AI workflows grow.</p><h3 id="use-a-defense-in-depth-approach">Use a defense-in-depth approach</h3><p>No single guardrail can catch every type of failure. A defense-in-depth approach layers deterministic and model-based checks, giving you broader protection against everything from malformed inputs to nuanced policy violations.</p><h3 id="block-high-risk-requests-by-default">Block high-risk requests by default</h3><p>When a guardrail detects a high-risk violation, block the request or route it for review instead of letting it continue. It&apos;s usually safer to reject an uncertain response than risk a production incident.</p><h3 id="match-the-guardrail-to-the-risk">Match the guardrail to the risk</h3><p>Not every workflow needs every type of guardrail. Use deterministic checks for known rules like schemas or PII, and reserve model-based guardrails for AI tasks that require contextual understanding.</p><h3 id="monitor-false-positives">Monitor false positives</h3><p>Guardrails should reduce risk without blocking legitimate requests. Monitor how often they flag valid inputs or outputs, then adjust thresholds and rules as your application evolves. The goal is to strike the right balance between protection and usability.</p><h3 id="separate-policy-from-workflow-logic">Separate policy from workflow logic</h3><p>Policies change over time, whether you&apos;re updating content rules or adding new compliance requirements. Keeping guardrail logic separate from your core workflow makes those changes easier to version, review, and deploy through <a href="https://docs.n8n.io/source-control-environments/"><u>source control</u></a>.</p><h2 id="build-safer-ai-workflows-with-n8n">Build safer AI workflows with n8n</h2><p>Guardrails are only as effective as the systems enforcing them. Choosing the right mix of input, output, deterministic, and model-based checks is an important first step. But you also need a framework for applying those safeguards consistently as your AI workflows grow more complex.</p><p>That&apos;s where an orchestration layer becomes invaluable. With n8n, you can connect to external guardrail services, validate data between workflow steps, and automate responses when checks fail &#x2014; all without rebuilding your application every time your policies evolve.</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Ready to operationalize your AI guardrails?</h3>
+    <p>Connect to external guardrail services, validate data between workflow steps, and automate responses when checks fail</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud free</a>
+</div>
+<!--kg-card-end: html-->
+]]></content:encoded></item>
 <item><title><![CDATA[RAG vs. Agentic RAG: Architecture, Tradeoffs, and How to Choose]]></title><description><![CDATA[Classic RAG hits a wall on multi-hop and ambiguous queries. Learn how agentic RAG turns retrieval into a control loop, and when the tradeoffs are worth it.]]></description><link>https://blog.n8n.io/rag-vs-agentic-rag/</link><guid isPermaLink="false">6a5f81dace7f760001e36275</guid><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Wed, 29 Jul 2026 10:33:44 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-7.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-7.jpeg" alt="RAG vs. Agentic RAG: Architecture, Tradeoffs, and How to Choose"><p>Retrieval-augmented generation earned its place by grounding language models in external data&#xA0; instead of guesswork. But classic RAG treats every query identically, and that assumption cracks the moment a question needs more than one lookup. </p><p>The RAG vs agentic RAG debate is really about correctness, traceability, and resilience under production load. It&#x2019;s also about whether an AI agent that analyzes each query and picks its own retrieval strategy is worth the added complexity.</p><h2 id="classic-rag-how-simple-rag-works">Classic RAG: How simple RAG works</h2><p>Classic RAG follows a straight, predictable path. A user query triggers a retrieval step that fetches relevant context from an external knowledge source. Depending on the system, retrieval may use vector similarity search, keyword search, hybrid retrieval, and SQL queries before the model generates an answer. The whole pipeline is stateless: It never loops back, and it forgets each request the moment it finishes.</p><p>That simplicity is a strength. Latency stays predictable because every request runs the same fixed steps. Infrastructure overhead stays low &#x2014; you maintain one retriever, one embedding model, and whatever indexing infrastructure the retriever requires, like a vector database for embedding-based search or a keyword index for lexical retrieval. When an answer comes out wrong, the debugging surface is small enough to inspect by hand. A support <a href="https://blog.n8n.io/rag-chatbot/"><u>RAG chatbot</u></a> answering FAQs from a single knowledge base is exactly where this linear design earns its keep. And for a stable corpus, it&#x2019;s often the cheapest reliable option on the table.</p><p>The trouble starts when the answer doesn&#x2019;t live inside one tidy chunk. Because the pipeline retrieves once and trusts what it gets, low-relevance results quietly turn into confident hallucinations. Three failure modes show up again and again:</p><ul><li><strong>Multi-hop questions break it:</strong> Ask &#x201C;Which vendors did we onboard after our SOC 2 audit?&#x201D; and the system needs the audit date from one document and the vendor list from another, but a single retrieval step fetches only one hop.</li><li><strong>Vocabulary mismatch starves the retriever:</strong> A user asks about &#x201C;time off&#x201D; while the policy uses &#x201C;paid leave,&#x201D; and even semantic search may miss the relevant passage when the embeddings don&apos;t line up. Hybrid search combining keywords and embeddings reduces this risk, but classic RAG pipelines often rely on a single retrieval method.</li><li><strong>Chunk boundaries split the evidence:</strong> When an answer spans two chunks and the retriever returns only one, the model fills the gap with plausible fiction instead of the missing half.</li></ul><h2 id="agentic-rag-retrieval-as-a-control-loop">Agentic RAG: Retrieval as a control loop</h2><p>A RAG agent is a large language model with a set of tools and the authority to decide how to use them. Classic RAG asks one narrow question: What chunks match this query? Agentic RAG asks a broader one: What information do I need to answer this, and which tools can supply it? This is what people mean by agentic retrieval.</p><p>That shift turns retrieval from a single step into a control loop, and it&#x2019;s the clearest answer to what agentic AI RAG is and how it works. The agent retrieves, reads what came back, evaluates whether the evidence is enough, and decides its next move &#x2014; reformulate the query, switch sources, call an API, or stop and answer. It is the <a href="https://blog.n8n.io/react-agent/"><u>ReAct pattern</u></a> in practice: reason, act, observe, repeat. Configured with memory, the agent carries context across iterations, so the agent does not start cold on every pass and can build toward a multi-faceted answer.</p><p>The SOC 2 example shows the difference clearly. An agentic system first retrieves the audit date, recognizes it still needs the vendor list, fires a second query against a different source, then synthesizes both into one grounded response. This is work a single-shot retriever simply can&#x2019;t do. Tooling like the AI Agent node in n8n, built on LangChain, exists to wire this loop together. Three capabilities separate it from a fixed pipeline:</p><ul><li><strong>It decomposes and plans:</strong> A broad question gets split into subqueries the agent tackles in sequence, each result feeding the next.</li><li><strong>It self-evaluates and reformulates: </strong>When the first retrieval comes back thin, the agent rewrites the query and tries again instead of forcing an answer from weak context.</li><li><strong>It routes adaptively:</strong> A pricing question goes to a SQL database, a policy question to the vector store, a live question to web search &#x2014; an agent picks the source per query. Routing across specialized knowledge bases is what lets one agent handle billing and security questions without <a href="https://blog.n8n.io/build-multi-domain-rag-systems-with-specialized-knowledge-bases/"><u>confusing the two</u></a>.</li></ul><h2 id="rag-vs-agentic-rag-the-key-difference">RAG vs. agentic RAG: The key difference</h2><p>The difference between RAG and agentic RAG isn&#x2019;t a generational upgrade where the new thing retires the old. It&#x2019;s an architectural tradeoff. Classic RAG buys you speed and predictability. Agentic RAG buys you adaptability and multi-step reasoning, paid for in latency, cost, and the observability you need to trace what the agent actually did. The right call depends on query complexity, your latency budget, and how much you can invest in watching the loop.</p>
 <!--kg-card-begin: html-->
 <div style="border-radius:12px; overflow:hidden; background-color:#0e0c16; font-family:Arial, sans-serif;">
@@ -734,7 +898,7 @@
   <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
 </div>
 <!--kg-card-end: html-->
-<h3 id="configuring-rbac-and-project-scoped-permissions">Configuring RBAC and project-scoped permissions</h3><p>Start with n8n&#x2019;s <a href="https://docs.n8n.io/user-management/rbac/"><u>roles-based access controls</u></a> (RBAC), available on all paid plans. Gather workflows and credentials into projects, then give each user and each agent&#x2019;s service identity the narrowest role possible. On Enterprise plans, custom roles let you separate the right to run a workflow from the right to edit it, a strong control for sensitive automations.</p><h3 id="setting-up-log-streaming-for-agent-workflows">Setting up log streaming for agent workflows</h3><p>Send execution events to your SIEM with <a href="https://docs.n8n.io/log-streaming/"><u>log streaming</u></a> so agent activity lands in the same place as the rest of your monitoring. Encrypted syslog over TLS keeps the pipeline audit-ready, and reveal events &#x2014; when someone unmasks redacted data &#x2014; are captured too.&#xA0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">Log streaming is available on Enterprise plans. For teams without a centralized SIEM, n8n&apos;s <a href="https://docs.n8n.io/insights/"><u>Insights dashboard</u></a> (available from Pro plan) and <a href="https://docs.n8n.io/workflows/executions/"><u>execution history</u></a> (all plans) provide built-in observability. For systematic pre-deployment testing, <a href="https://docs.n8n.io/advanced-ai/evaluations/overview/"><u>n8n&apos;s Evaluations feature</u></a> runs agent workflows against test datasets and scores outputs for correctness.</div></div><h3 id="adding-hitl-approval-steps-to-sensitive-actions">Adding HITL approval steps to sensitive actions</h3><p>Gate actions you wouldn&#x2019;t want an agent taking alone with <a href="https://blog.n8n.io/production-ai-playbook-human-oversight/"><u>human oversight</u></a>. n8n&#x2019;s human-in-the-loop tools let the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a> pause before a specific tool runs and route an approval request to Slack, email, or chat. The reviewer sees the exact tool and parameters, then approves or denies before anything executes.</p><p>The same approval pattern works outside the agent loop &#x2014; any workflow step can pause for human review using Send and Wait operations across Slack, email, Telegram, and other channels.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">HITL pauses the workflow until a human approves. For lower-risk actions where full oversight isn&apos;t necessary, <a href="https://blog.n8n.io/human-in-the-loop-vs-human-on-the-loop/"><u>Human-on-the-Loop (HOTL)</u></a> offers asynchronous monitoring &#x2014; the agent acts autonomously while a human reviews results after the fact and intervenes only on exceptions.</div></div><h3 id="enforcing-output-policies-with-the-guardrails-node">Enforcing output policies with the Guardrails node</h3><p>The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails"><u>Guardrails node</u></a> validates text as it flows through a workflow. Run it on agent inputs and outputs to catch jailbreak attempts, block specific keywords, and sanitize PII and secret keys before they reach a downstream system. In check mode, it splits the workflow into pass and fail branches; in sanitize mode, it redacts and keeps going.</p><p>For teams who want a hard ceiling, an n8n <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.code"><u>Code node</u></a> can wrap a tool call with its own runtime&#xA0; limits. With custom code you can check an expiry window on every call and caps execution time&#xA0; before the tool runs, so an injected prompt cannot turn a quick lookup into a runaway process.</p><h3 id="self-hosting-for-data-residency-and-air-gapped-environments">Self-hosting for data residency and air-gapped environments</h3><p>For regulated or sensitive workloads, teams can self-host n8n so execution data, secrets, and logs never leave controlled infrastructure. This supports data residency rules and air-gapped environments where shipping agent telemetry to a third party is a non-starter. Execution data redaction, mentioned above, adds another layer, masking inputs and outputs at the API level.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">For teams using tracing, n8n supports <a href="https://docs.n8n.io/hosting/logging-monitoring/opentelemetry/"><u>OpenTelemetry</u></a> on self-hosted instances. Every workflow execution emits OTLP traces to any compatible backend &#x2014; Jaeger, Grafana, Datadog, or your existing collector &#x2014; so agent workflows show up in your observability stack alongside the rest of your production services.</div></div><h2 id="get-ai-agent-governance-in-platform-with-n8n">Get AI agent governance in-platform with n8n</h2><p>Governance is not the audit you run after something breaks. It&#x2019;s the infrastructure that determines what your agents can do in the first place &#x2014; identity, guardrails, logging, and approval gates wired into the workflow where the agent executes. Teams that get this right treat AI agent governance best practices as part of the build.</p><p><a href="https://n8n.io/"><u>n8n</u></a> keeps those elements in the workflow layer, so you don&#x2019;t need a separate control plane. If you&#x2019;re moving agents into <a href="https://n8n.io/enterprise/"><u>enterprise production</u></a>, try n8n Enterprise to access full governance controls from day one. Or sign up for <a href="https://app.n8n.cloud/register"><u>n8n&#x2019;s trial</u></a> and try governance features, like workflow history and admin roles.</p>]]></content:encoded></item>
+<h3 id="configuring-rbac-and-project-scoped-permissions">Configuring RBAC and project-scoped permissions</h3><p>Start with n8n&#x2019;s <a href="https://docs.n8n.io/user-management/rbac/"><u>roles-based access controls</u></a> (RBAC), available on all paid plans. Gather workflows and credentials into projects, then give each user and each agent&#x2019;s service identity the narrowest role possible. On Enterprise plans, custom roles let you separate the right to run a workflow from the right to edit it, a strong control for sensitive automations.</p><h3 id="setting-up-log-streaming-for-agent-workflows">Setting up log streaming for agent workflows</h3><p>Send execution events to your SIEM with <a href="https://docs.n8n.io/log-streaming/"><u>log streaming</u></a> so agent activity lands in the same place as the rest of your monitoring. Encrypted syslog over TLS keeps the pipeline audit-ready, and reveal events &#x2014; when someone unmasks redacted data &#x2014; are captured too.&#xA0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">Log streaming is available on Enterprise plans. For teams without a centralized SIEM, n8n&apos;s <a href="https://docs.n8n.io/insights/"><u>Insights dashboard</u></a> (available from Pro plan) and <a href="https://docs.n8n.io/workflows/executions/"><u>execution history</u></a> (all plans) provide built-in observability. For systematic pre-deployment testing, <a href="https://docs.n8n.io/advanced-ai/evaluations/overview/"><u>n8n&apos;s Evaluations feature</u></a> runs agent workflows against test datasets and scores outputs for correctness.</div></div><h3 id="adding-hitl-approval-steps-to-sensitive-actions">Adding HITL approval steps to sensitive actions</h3><p>Gate actions you wouldn&#x2019;t want an agent taking alone with <a href="https://blog.n8n.io/production-ai-playbook-human-oversight/"><u>human oversight</u></a>. n8n&#x2019;s human-in-the-loop tools let the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a> pause before a specific tool runs and route an approval request to Slack, email, or chat. The reviewer sees the exact tool and parameters, then approves or denies before anything executes.</p><p>The same approval pattern works outside the agent loop &#x2014; any workflow step can pause for human review using Send and Wait operations across Slack, email, Telegram, and other channels.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">HITL pauses the workflow until a human approves. For lower-risk actions where full oversight isn&apos;t necessary, <a href="https://blog.n8n.io/human-in-the-loop-vs-human-on-the-loop/"><u>Human-on-the-Loop (HOTL)</u></a> offers asynchronous monitoring &#x2014; the agent acts autonomously while a human reviews results after the fact and intervenes only on exceptions.</div></div><h3 id="enforcing-output-policies-with-the-guardrails-node">Enforcing output policies with the Guardrails node</h3><p>The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails"><u>Guardrails node</u></a> validates text as it flows through a workflow. Run it on agent inputs and outputs to catch jailbreak attempts, block specific keywords, and sanitize PII and secret keys before they reach a downstream system. In check mode, it splits the workflow into pass and fail branches; in sanitize mode, it redacts and keeps going.</p><p>For teams who want a hard ceiling, an n8n <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.code"><u>Code node</u></a> can wrap a tool call with its own runtime&#xA0; limits. With custom code you can check an expiry window on every call and caps execution time&#xA0; before the tool runs, so an injected prompt cannot turn a quick lookup into a runaway process.</p><h3 id="self-hosting-for-data-residency-and-air-gapped-environments">Self-hosting for data residency and air-gapped environments</h3><p>For regulated or sensitive workloads, teams can self-host n8n so execution data, secrets, and logs never leave controlled infrastructure. This supports data residency rules and air-gapped environments where shipping agent telemetry to a third party is a non-starter. Execution data redaction, mentioned above, adds another layer, masking inputs and outputs at the API level.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">For teams using tracing, n8n supports <a href="https://docs.n8n.io/hosting/logging-monitoring/opentelemetry/"><u>OpenTelemetry</u></a> on self-hosted instances. Every workflow execution emits OTLP traces to any compatible backend &#x2014; Jaeger, Grafana, Datadog, or your existing collector &#x2014; so agent workflows show up in your observability stack alongside the rest of your production services.</div></div><p></p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/agent-governance.png" class="kg-image" alt="AI Agent Governance: Securing Autonomous Agents in Production" loading="lazy" width="1500" height="500" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/agent-governance.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/agent-governance.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/agent-governance.png 1500w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">In n8n you can add AI governance features directly on the same canvas, where you create your agent</em></i></figcaption></figure><h2 id="get-ai-agent-governance-in-platform-with-n8n">Get AI agent governance in-platform with n8n</h2><p>Governance is not the audit you run after something breaks. It&#x2019;s the infrastructure that determines what your agents can do in the first place &#x2014; identity, guardrails, logging, and approval gates wired into the workflow where the agent executes. Teams that get this right treat AI agent governance best practices as part of the build.</p><p><a href="https://n8n.io/"><u>n8n</u></a> keeps those elements in the workflow layer, so you don&#x2019;t need a separate control plane. If you&#x2019;re moving agents into <a href="https://n8n.io/enterprise/"><u>enterprise production</u></a>, try n8n Enterprise to access full governance controls from day one. Or sign up for <a href="https://app.n8n.cloud/register"><u>n8n&#x2019;s trial</u></a> and try governance features, like workflow history and admin roles.</p>]]></content:encoded></item>
 <item><title><![CDATA[AI Audit Trail: Tracing Data Usage in Production Workflows]]></title><description><![CDATA[Learn how to implement an AI audit trail for production workflows. Discover how execution records and data usage tracking ensures governance.
 ]]></description><link>https://blog.n8n.io/ai-audit-trail/</link><guid isPermaLink="false">6a568a2b5666b30001489136</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><category><![CDATA[SecOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 24 Jul 2026 15:36:37 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--5-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--5-.jpeg" alt="AI Audit Trail: Tracing Data Usage in Production Workflows"><p>Say a loan-approval AI agent ran in production last quarter, pulled a customer&apos;s financial records, and declined the application. Months later, a regulator asks why. Nobody can answer, because there&#x2019;s no record of what the model saw or decided.&#xA0;</p><p>Traditional audit logging was built for deterministic software, where the same input always produces the same output. AI workflows break that assumption with non-deterministic models, multi-step tool calls, and data access that shifts from run to run.&#xA0;</p><p>Here&#x2019;s what an AI audit trail should capture and how to implement one.</p><h2 id="what%E2%80%99s-an-ai-audit-trail">What&#x2019;s an AI audit trail?</h2><p>An AI audit trail is a structured, time-ordered, tamper-resistant record of every action an AI system takes. It should be detailed enough to reconstruct any execution in full after the fact. A trail captures inputs, outputs, and the data each step touched, so an auditor can replay what happened months later without depending on the engineer who built the workflow.&#xA0;</p><p>Most teams already collect logs. Few collect a complete AI audit trail that answers an auditor&#x2019;s question rather than a debugging one. The difference comes down to three layers, each recording a different level of the same execution.</p><h3 id="workflow-execution-log">Workflow execution log</h3><p>The workflow-level record captures the Run ID, workflow ID, trigger, start and end timestamps, and final status. It answers what ran and when. On its own it proves an execution happens, but it says nothing about the data inside.</p><h3 id="data-access-events">Data access events</h3><p>The node-level layer records which data each step read or wrote, the source system, and the fields involved. For audit trails, AI governance experts and regulators care most here. This shows whether protected information &#x2014; PHI, payment details, financial records &#x2014; entered the pipeline and where it went.</p><h3 id="model-invocation-log">Model invocation log</h3><p>An AI audit trail for LLM workflows has to log the call itself, not just its result. It captures the user prompt, the response returned, the model and version, the temperature, token counts, and any tool calls the model triggered. Without it, you can prove a model ran but not why it produced a given output.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/data-src-image-14ea39da-55c7-4cdb-ba2b-1f9512d707c6.jpeg" class="kg-image" alt="AI Audit Trail: Tracing Data Usage in Production Workflows" loading="lazy" width="602" height="289" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/data-src-image-14ea39da-55c7-4cdb-ba2b-1f9512d707c6.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/data-src-image-14ea39da-55c7-4cdb-ba2b-1f9512d707c6.jpeg 602w"><figcaption><i><em class="italic" style="white-space: pre-wrap;">A robust AI audit trail captures execution data across three distinct layers to ensure full reconstructability</em></i></figcaption></figure><h2 id="ai-audit-trail-vs-observability-vs-monitoring">AI audit trail vs. observability vs. monitoring</h2><p>While audit trails, observability, and monitoring are related concepts, they all serve a distinct purpose. Let&#x2019;s take a look at the differences:&#xA0;</p>
 <!--kg-card-begin: html-->
@@ -938,44 +1102,11 @@
 </div>
 <!--kg-card-end: html-->
 <h3 id="long-term-memory-with-persistent-storage">Long-term memory with persistent storage&#xA0;</h3><p>For long-term memories that need to persist and scale, n8n connects to external vector store nodes &#x2014; Pinecone, Weaviate, Qdrant &#x2014; alongside <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memorypostgreschat/"><u>Postgres Chat Memory</u></a> and <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memoryredischat/"><u>Redis Chat Memory</u></a> nodes.&#xA0;</p><p>Postgres Chat Memory and Redis Chat Memory store conversation history chronologically. For semantic and episodic memories that need similarity-based retrieval, vector store nodes embed and index memories for on-demand search.</p><p>Swap <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstorepinecone/"><u>Pinecone </u></a>for <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstoremongodbatlas/"><u>MongoDB Atlas</u></a> and the workflow shape stays the same. Only the storage backend changes, which lets teams evolve the long term memory layer without rewriting the agent.&#xA0;</p><p>For entity memory, <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memoryzep/"><u>the Zep Memory node</u></a> automatically extracts facts about users, sessions, and entities from conversations without manual configuration. It combines entity extraction, summarization, and data retrieval in one sub-node.</p><h2 id="weaving-memory-naturally-into-infrastructure-with-n8n">Weaving memory naturally into infrastructure with n8n</h2><p>Teams shipping agentic workflows in production treat memory as a first-class workflow primitive rather than afterthought added after the agent ships. <a href="https://n8n.io/"><u>n8n&#x2019;s</u></a> approach makes each layer a configurable workflow component, inspectable and modifiable like any other node. Memory sub-nodes, the Chat Memory Manager, and external vector store integrations cover most of the&#xA0; CoALA memory types without custom infrastructure. Engineering teams can achieve smooth, reliable workflows with in-built memory capabilities.&#xA0;</p><p>Explore <a href="https://n8n.io/workflows/"><u>pre-built AI workflow templates</u></a> to see these patterns running end-to-end. <a href="https://app.n8n.cloud/register" rel="noreferrer">Sign up for n8n&#x2019;s</a> Cloud trial, and start building agents that remember what matters.</p>]]></content:encoded></item>
-<item><title><![CDATA[Architectural Guide To Error Handling for LLM Tool Calling]]></title><description><![CDATA[This guide to LLM tool calling error handling covers how to classify failures, implement smart retries, design fallbacks, and wire circuit breakers.
-]]></description><link>https://blog.n8n.io/llm-tool-calling-error-handling/</link><guid isPermaLink="false">6a478c05031abb0001a338d4</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 03 Jul 2026 14:34:13 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL.jpeg" alt="Architectural Guide To Error Handling for LLM Tool Calling"><p>In development, an AI agent calling an external API feels effortless. But in production, it&#x2019;s more of a liability. Leaving error handling for LLM tool calls entirely to the model itself guarantees automated pipelines will break the moment a connected service drops or misbehaves.</p><p>This guide maps out a multi-layered defense strategy, including failure types, retry and fallback strategies, and model-level error reasoning. These architectural blueprints will show you how to build resilient, production-ready agents.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">In this article we primarily discuss tool call errors. If you are looking on how to fix LLM-related errors, <a href="https://blog.n8n.io/how-to-debug-failures-or-missteps-in-ai-agent-behavior/"><u>check out our article</u></a>.</div></div><h2 id="classifying-tool-failures-what-to-retry-vs-what-to-escalate">Classifying tool failures: What to retry vs. what to escalate</h2><p>Conflating retryable and non-retryable tool failures is one of the fastest ways to break production agents. When a tool call fails, the system has to determine the cause instead of blindly submitting the request or throwing a generic exception.</p><p>This operational logic requires dividing recovery responsibilities between two layers: the orchestration layer and the LLM itself. The orchestration layer owns silent, infrastructure-level retries for transient issues. The model owns reasoning-based recovery when an application-level problem requires a pivot in the agent&apos;s behavior.</p><h3 id="production-failure-categories">Production failure categories</h3><p>Cleanly separating these systemic blocks requires looking at production failures through four distinct categories and mapping each to its proper recovery layer.</p><h4 id="transport-and-network-failures">Transport and network failures</h4><p>Dropped TCP connections, temporary DNS resolution timeouts, and standard HTTP &#x201C;503 Service Unavailable&#x201D; responses are examples of infrastructure-level disruptions. These issues are entirely transient and external to the application logic. So the orchestration layer should intercept them and handle recovery silently through network-level retries. The underlying LLM shouldn&#x2019;t know a transport error occurred.</p><h4 id="external-service-errors">External service errors</h4><p>This category covers instances where the downstream API is reachable but rejects the request. This is due to upstream operational constraints, such as hitting a rate limit (429 Too Many Requests) or experiencing an internal platform crash (500 Internal Server Error). The orchestration layer owns this recovery process. It needs to inspect the response headers, extract throttling instructions, and delay execution accordingly before attempting a retry.</p><h4 id="input-validation-failures">Input validation failures</h4><p>These failures happen when an upstream service or database rejects a tool call because of a schema mismatch, missing required parameter, or invalid data format (400 Bad Request). Because the payload itself is structurally incorrect, the orchestration layer can&#x2019;t repair it. The model must read the error, adjust its reasoning, and produce a corrected request. This keeps the workflow stable because the agent fixes the root cause instead of repeating the same invalid call.</p><h4 id="logic-errors-and-unexpected-output-format">Logic errors and unexpected output format</h4><p>This category includes situations where the downstream tool executes successfully at the network layer but returns an application-specific error. Examples include a database query returning zero records or an API yielding an unparseable, malformed JSON string. The model layer owns recovery here. The agent must ingest this unexpected output to reason through the operational failure. From there, it dynamically decides its next step, whether that means altering its execution path, swapping to a backup fallback tool, or escalating the issue <a href="https://docs.n8n.io/advanced-ai/human-in-the-loop-tools/"><u>directly to a human</u></a>.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Route failures to the right recovery layer</h3>
-    <p>Split transient retries from model-level recovery on one canvas</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n now</a>
-</div>
-<!--kg-card-end: html-->
-<h3 id="system-level-retry-mechanics">System-level retry mechanics</h3><p>For transient transport and external service errors, the orchestration layer has to enforce a structured retry mechanism to prevent overwhelming downstream APIs. The production standard relies on <a href="https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/"><u>exponential backoff combined with full jitter</u></a>. This ensures retry attempts are progressively spaced out and mathematically randomized to avoid a &quot;thundering herd&quot; problem. The system should also actively parse standard Retry-After headers sent by throttled endpoints, overriding default intervals to stay compliant with third-party rate limits.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/tool-errors-retry-chart--1-.png" class="kg-image" alt="Architectural Guide To Error Handling for LLM Tool Calling" loading="lazy" width="1376" height="768" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/tool-errors-retry-chart--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/tool-errors-retry-chart--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/tool-errors-retry-chart--1-.png 1376w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Exponential back-off without a jitter still produces spikes, whereas additional random delay makes the load smoother. Adapted from:</em></i><a href="https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/"> <u><i><em class="italic underline" style="white-space: pre-wrap;">https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/</em></i></u></a></figcaption></figure><h2 id="resilience-patterns-for-tool-calling-failures-in-production">Resilience patterns for tool calling failures in production</h2><p>When automated system-level retries fail to resolve an issue, your production stack needs a defined fallback path to prevent the entire run from crashing. Some failures require the orchestration layer to route around a dead service. Other structural failures require the model to actively reason through the problem and adapt. Rather than treating these layers as opposing design methodologies, production-grade agent architectures deploy them them next to each other.</p><h3 id="structured-error-messages-as-tool-results">Structured error messages as tool results</h3><p>When an external tool throws an exception, developers are often tempted to catch it, stop the execution string, and abandon further <a href="https://docs.n8n.io/flow-logic/error-handling/"><u>error handling</u></a>. A more resilient pattern is to format that application error into a clean, structured string, pass it back as a tool result, and associate it with the original tool call id. By returning the raw exception context directly to the execution graph, you allow the model to read the error message as data and intelligently formulate its next step.</p><h3 id="handling-schema-mismatches-and-hallucinated-tool-names">Handling schema mismatches and hallucinated tool names</h3><p>Even with strict system prompts, an LLM will occasionally invoke a function name that doesn&#x2019;t exist in its runtime definitions or emit a payload that violates JSON schema. This is a common hurdle when implementing LLM function calling, where a model struggles with structured constraints. If the framework passes this malformed call, it causes a crash. Instead, the orchestration layer should intercept the invalid call and inject a corrective feedback loop directly into the conversation history:</p><p><strong>[LLM calls non-existent tool: &quot;Fetch_User_Data_v2&quot;]&#xA0;</strong></p><p><strong>&#x2193;</strong></p><p><strong>[Orchestration Layer catches error and appends system message]</strong></p><p><strong>&quot;Error: Tool &apos;Fetch_User_Data_v2&apos; does not exist. Available tools are: [&apos;get_user_profile&apos;, &apos;update_user&apos;].&quot;</strong></p><p><strong>&#x2193;</strong></p><p><strong>[LLM reads correction context, auto-corrects runtime logic, and invokes &apos;get_user_profile&apos;]</strong></p><h3 id="bounding-model-recovery-loops">Bounding model recovery loops</h3><p>Allowing an agent to inspect its own errors and retry tool execution is incredibly powerful. But without strict boundaries, it introduces a new risk. If an LLM encounters a persistent logic error, it can enter a loop, repeatedly calling the same broken tool and rapidly consuming your token budget.&#xA0;</p><p>To prevent these infinite execution loops, your orchestration layer needs to enforce a hard counter on model retries. The system should truncate the loop and raise an explicit system alert once a pre-defined threshold (typically three attempts) is exceeded.</p><h3 id="model-and-tool-fallback-chains">Model and tool fallback chains</h3><p>When a primary external system goes offline, a model shouldn&apos;t fail. You can design fallback chains at both the model layer and the tool layer to guarantee high availability. For example, if your premium foundational model experiences an outage or a severe rate limit mid-task, your orchestration canvas can swap the execution context to a secondary cloud provider or a local open-source alternative. Similarly, if your primary CRM tool call keeps failing, the pipeline can catch the failure and route the payload to a secondary backup database tool.</p><h3 id="graceful-degradation">Graceful degradation</h3><p>Not every tool failure needs to kill an active session. If an agent&apos;s primary task is to generate a comprehensive market report and its translation tool fails, the system should practice graceful degradation. The orchestration layer can catch the tool error, append a note stating that the translation module is temporarily unavailable, and instruct the model to output the final text in its native language. Delivering a partially completed, high-value asset is almost always preferable to returning a blank error page to an end user.</p><h3 id="circuit-breakers">Circuit breakers</h3><p>When an external dependency undergoes a prolonged outage, continuing to bombard it with automated retries wastes network infrastructure resources and subjects your system to long timeout delays. Implementing the circuit breaker pattern prevents this by tracking sequential failures across all active agent runs.</p><p>The circuit breaker operates as a distributed state machine directly inside your workflow layer, completely isolating broken dependencies until they&#x2019;re confirmed healthy again. In code-first frameworks, setting this up requires building custom, stateful middleware or pulling in complex, dedicated infrastructure libraries. But with a visual automation platform, you can design and wire the entire state machine directly into the workflow layout without adding much infrastructure overhead</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/tool-errors-state-registry--1-.png" class="kg-image" alt="Architectural Guide To Error Handling for LLM Tool Calling" loading="lazy" width="1200" height="896" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/tool-errors-state-registry--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/tool-errors-state-registry--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/tool-errors-state-registry--1-.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">In n8n, you can keep the state registry in a Data Table and check the availability of the service before making API calls</em></i></figcaption></figure><h2 id="implementing-tool-error-handling-in-n8n">Implementing tool error handling in n8n</h2><p>Troubleshooting an AI agent tool calling failure without LLM traces usually forces you to dig through mountains of messy terminal logs. n8n is a workflow automation platform that simplifies this cycle by bringing your execution data onto a visual canvas. The software surfaces in a single visual execution trace which <a href="https://blog.n8n.io/tool-calling-llm/"><u>LLM tool call</u></a> failed, why, and what parameters the LLM attempted to pass. This provides production-grade reliability without heavy DevOps infrastructure.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/n8n-agent-tool-error-1---1-.png" class="kg-image" alt="Architectural Guide To Error Handling for LLM Tool Calling" loading="lazy" width="1400" height="750" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/n8n-agent-tool-error-1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/n8n-agent-tool-error-1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/n8n-agent-tool-error-1---1-.png 1400w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">An example of 2 sub-workflow tools: one with simple built-in retries and the more advanced retry patterns</em></i></figcaption></figure><p>You can implement these resilient tool patterns natively on the canvas. <strong>Note, that a fully featured implementation will require wrapping AI Agent tools into sub-workflows. </strong>There are three core platform features to use:</p><ul><li><strong>Node-level retry configuration:</strong> Toggle automatic retries directly inside any individual node&apos;s settings. You define the maximum attempts and wait times. n8n handles simple backoff mechanics for transient drops behind the scenes before an error ever reaches your active AI Agent node. For more advanced retry strategies, use the looped IF node with the upper limit of retries.&#xA0;&#xA0;&#xA0;</li><li><strong>Error workflows and conditional fallback routing:</strong> Route a node&apos;s explicit error path directly into downstream IF or Switch nodes. If a primary API tool fails, n8n captures the error payload and dynamically reroutes execution to a backup sub-workflow or a secondary tool, ensuring your core LLM tool calling mechanics remain uninterrupted.</li><li><strong>Observability for failed tool calls:</strong> Isolate bugs instantly via the visual execution trace panel, which maps out input parameters, raw JSON payloads, and <a href="https://n8n.io/integrations/http-request/"><u>HTTP status codes</u></a> for each step. Note that while n8n exposes tool inputs and outputs, optimizing a function-calling LLM context or viewing full model-level hidden reasoning traces still require an external telemetry layer like LangSmith.</li></ul><h2 id="start-building-resilient-ai-agents-with-n8n">Start building resilient AI agents with n8n</h2><p>Building reliable, production-grade agents requires a layered defense strategy that treats error management as an architectural pillar. By combining system-level retries for transient network drops with model-level feedback loops for logic failures, n8n ensures your workflows remain stable under real-world pressure.</p><p>With visual execution traces that show each step and reveal where a failure occurred, n8n removes guesswork and makes debugging straightforward. It also provides a clear path to production. Each workflow includes execution history, scheduling, and built-in agent error handling, so teams can move from prototype to stable deployment without extra infrastructure.</p><p>Explore n8n&#x2019;s advanced <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a> to start building resilient automation pipelines without the heavy infrastructure code.</p>]]></content:encoded></item>
-<item><title><![CDATA[Agentic AI Design Patterns: From Architecture to Production]]></title><description><![CDATA[This practical guide to agentic AI design patterns covers validation, governance, context management, error recovery, and cost control in production.]]></description><link>https://blog.n8n.io/agentic-ai-design-patterns/</link><guid isPermaLink="false">6a428adce6916c0001c95337</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Wed, 01 Jul 2026 18:20:37 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--3--1.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/06/TL--3--1.jpeg" alt="Agentic AI Design Patterns: From Architecture to Production"><p>Building a strong LLM prototype is easy. But keeping it stable in production? That&#x2019;s the real challenge. Most engineers watch their early builds fall apart the second they hit messy real-world API schemas or unexpected data changes. To build automation that actually holds up, you have to move past basic prompt engineering and adopt agentic AI design patterns.</p><p>This guide breaks down the implementation patterns that help agentic AI systems operate in real-world environments.</p><h2 id="what%E2%80%99s-agentic-ai">What&#x2019;s agentic AI?</h2><p>In a traditional LLM setup, you send a prompt to an API and get text back. The model operates as a stateless generator, meaning it can&#x2019;t interact with external systems, remember past execution failures, or verify if its answers are correct.</p><p>You can turn this setup into agentic AI by giving the LLM an active execution loop. Instead of forcing the model to spit out a final answer immediately, your orchestration platform wraps it in a continuous cycle of observation, reasoning, and action.&#xA0;</p><p>This loop allows the model to evaluate a goal, choose external tools, and adjust its plan based on real outcomes. This shift from static text generation to autonomous execution is <a href="https://blog.n8n.io/agentic-rag/"><u>what makes a system agentic</u></a>.</p><h2 id="core-agentic-design-patterns">Core agentic design patterns</h2><p>When <a href="https://blog.n8n.io/ai-agents/"><u>building AI agents</u></a>, agentic AI architecture patterns help define how agents reason, access information, and complete tasks. Common examples include planning workflows, reflection loops, multi-agent systems, and the agentic AI tool use pattern, which allows agents to interact with external systems and data sources.</p><p>Once those systems move into production, you need to prevent bad outputs, manage context, recover from failures, control costs, and decide when a human should step in. That&#x2019;s what agentic AI design patterns are for.</p><h3 id="validation-pattern">Validation pattern</h3><p>LLMs don&#x2019;t always return what you expect. A response might break your JSON schema, miss required fields, or confidently invent information.</p><p>Validation patterns help you catch those issues before they reach downstream systems. You can enforce structured outputs, check responses against a schema, or run a reflection step that asks the model to review its own work before moving on.</p><p>In <a href="https://n8n.io/"><u>n8n</u></a>, you can add validation checks directly into a workflow. If an output doesn&#x2019;t pass, the workflow can retry the request, ask the model to correct itself, or route the task for human review.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Build AI agents that validate, recover, and scale</h3>
-    <p>Add validation checks, error recovery paths, and governance gates directly into your workflows</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
-</div>
-<!--kg-card-end: html-->
-<h3 id="error-recovery-pattern">Error recovery pattern</h3><p>No matter how well you design an AI workflow, failures are inevitable. APIs time out, models hit rate limits, and third-party services occasionally go offline. Without a recovery strategy, a single failure can bring an entire workflow to a halt.</p><p>Error recovery patterns help keep workflows running when those failures occur. Common approaches include retry logic, fallback models, fallback providers, and human escalation paths. Instead of terminating the workflow immediately, the system attempts alternative actions before involving a human. </p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">While most frameworks require custom code for error handling, n8n lets you build <a href="https://docs.n8n.io/flow-logic/error-handling/">recovery paths directly on the workflow canvas</a>, with retry logic, fallback models, and human escalation paths included out of the box.</div></div><h3 id="context-management-pattern">Context management pattern</h3><p>Giving an agent more information doesn&#x2019;t always improve performance. Too much context increases token usage and can distract the model from the details that actually matter. Too little context can cause the agent to lose important information and make poor decisions.</p><p>Context management patterns help balance these trade-offs. Teams commonly use memory systems, retrieval workflows, summarization techniques, and context-window optimization to make sure agents get the right information at the right time.</p><p>In n8n, engineers can combine vector databases, memory components, and workflow logic to control what enters an agent&#x2019;s context window. This approach reduces unnecessary token consumption while helping agents maintain awareness across longer workflows and conversations.</p><h3 id="governance-pattern">Governance pattern</h3><p>As AI agents gain access to business systems, governance becomes just as important as autonomy. An agent that can update records, trigger workflows, or access sensitive information needs clear operational boundaries.</p><p>Governance patterns help organizations control what agents can do and what requires human oversight. Common approaches include approval workflows, audit logging, role-based access controls, and human-in-the-loop checkpoints for high-impact actions.</p><p>In n8n, teams can build approval gates directly into workflows, maintain detailed execution histories for auditing purposes, and control access through role-based permissions. These safeguards make it easier to scale AI systems without sacrificing visibility or accountability.</p><h2 id="cost-control-pattern">Cost control pattern</h2><p>Without efficiently designed workflows, costs will skyrocket as AI usage grows. Large context windows, unnecessary model calls, and expensive reasoning models can drive up spending long before a workflow reaches production scale.</p><p>Cost control patterns help teams balance performance and efficiency. Common techniques include model cascading, where a smaller model handles routine tasks before escalating to a more capable model when necessary, as well as token budgeting, response caching, and selective use of advanced reasoning models.</p><p>n8n lets you use conditional logic and workflow branching to control when to invoke expensive models, which helps reduce costs while maintaining the quality and reliability users expect.</p><h2 id="agentic-workflow-patterns-in-practice">Agentic workflow patterns in practice</h2><p>In production, enterprise teams rarely deploy a single agentic design pattern in isolation. Instead, engineers combine multiple agentic AI patterns into a unified, resilient system.&#xA0;</p><p>For example, a production-grade automated customer support workflow might retrieve relevant information from a knowledge base, validate outputs against a predefined schema, escalate low-confidence responses for human review, and switch to a fallback model if the primary provider becomes unavailable. By combining multiple agentic patterns in a single workflow, teams can improve reliability without sacrificing automation.</p><p>As these systems scale across an organization, managing them via hardcoded custom infrastructure becomes difficult. Teams often face a growing set of operational demands, including:&#xA0;</p><ul><li>Deep API integration complexity</li><li>Rate-limit constraints across multiple LLM vendors</li><li>Distributed tracing requirements for debugging</li><li>Version-control pressure for evolving prompt schemas</li></ul><p></p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">n8n acts as a <a href="https://n8n.io/ai-agents/">visual orchestration layer</a> for this complexity, giving you a central execution engine to combine validation workflows, human approval steps, error recovery paths, and conditional branching logic into repeatable enterprise workflows without writing brittle boilerplate code.</div></div><h2 id="risks-safety-and-governance-of-agentic-ai">Risks, safety, and governance of agentic AI</h2><p>Giving language models the keys to your production infrastructure comes with serious operational hazards. If you deploy agentic patterns without built-in guardrails, failures become hard to trace.&#xA0;</p><p>Teams usually run into these issues when scaling autonomous workflows:</p><ul><li><strong>Infinite loops and runaway costs: </strong>An agent can easily get stuck in a recursive death loop if an external API sends back an unexpected response. Without strict loop prevention, the agent will keep hitting that endpoint over and over again, blowing through your token budget in minutes.</li><li><strong>Unintended tool misuse: </strong>If a model misinterprets a prompt or hits a messy data payload, it might construct a valid &#x2014; but destructive &#x2014; database query or API call that you never intended to trigger.</li><li><strong>Data leakage and privacy violations: </strong>Shoveling raw enterprise data into external agent loops means you risk leaking proprietary code or sensitive customer information directly to third-party model providers.</li></ul><p>To keep these systems from running off the rails, engineers use n8n to build strict governance directly into the workflow canvas. Instead of letting an agent act completely on its own, drop in <a href="https://blog.n8n.io/human-in-the-loop-automation/"><u>human-in-the-loop automation</u></a> using wait and approval nodes. This forces the agent to pause and ask for manual confirmation before executing high-risk tasks, like updating a production database. If something goes wrong, open up n8n&apos;s visual execution history to audit every single step and see exactly why the agent made that decision.</p><h2 id="balancing-autonomy-with-deterministic-control">Balancing autonomy with deterministic control</h2><p>Scaling an unstable AI prototype into a resilient production system requires more than just upgrading to a larger model. You have to build a deliberate architecture that balances agent autonomy with strict operational guardrails, comprehensive auditability, and clear human oversight.</p><p>While the <a href="https://blog.n8n.io/ai-agent-orchestration-frameworks/"><u>learning curve for orchestration</u></a> can be steep, n8n removes the infrastructural friction. The platform gives you the visual tools and native nodes needed to implement, govern, and <a href="https://blog.n8n.io/ai-agents-examples/"><u>scale complex agentic patterns</u></a> safely inside your existing enterprise infrastructure.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Ready to build smarter agents?</h3>
-    <p>Implement production-grade agentic patterns with validation, governance, and error recovery built in</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud free</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="faq">FAQ</h2><h3 id="can-you-combine-multiple-agentic-patterns-in-one-workflow">Can you combine multiple agentic patterns in one workflow?</h3><p>Absolutely, and production environments usually demand it. n8n allows you to link multiple patterns together seamlessly on a single canvas. For example, a complex enterprise workflow might use a planning pattern to break down an incoming request, route individual tasks to specialized sub-agents, and pass the final output through a reflection loop for verification before execution.</p><h3 id="how-do-you-prevent-infinite-loops-in-agentic-workflows">How do you prevent infinite loops in agentic workflows?</h3><p>Without guardrails, agents can repeat the same action while trying to fix a persistent error, which wastes tokens and time. n8n prevents this by giving you native execution limits and conditional branching rules. If an agent fails to resolve an issue after a set number of iterations, the platform automatically terminates the cycle and routes the workflow to an error-handling path or alerts an engineer.</p><h3 id="what%E2%80%99s-the-difference-between-agentic-patterns-and-agentic-frameworks">What&#x2019;s the difference between agentic patterns and agentic frameworks?</h3><p>Patterns are abstract architectural concepts like tool use or reflection that define how an agent behaves. Frameworks are the specific code libraries or tools you use to build them. While code-heavy frameworks require you to stitch infrastructure together manually, n8n lets you implement these design patterns visually using pre-built nodes.</p><h3 id="how-do-you-measure-the-success-of-agentic-workflows">How do you measure the success of agentic workflows?</h3><p>Instead of just tracking basic API uptime, you need to monitor execution success rates alongside token spend and specific evaluation metrics. n8n integrates directly with AI evaluation and observability platforms. This gives you deep visibility into agent latency, cost anomalies, and overall context health.</p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 24 Jul 2026 14:21:41 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 12:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -984,7 +1115,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 28 Jul 2026 12:21:41 GMT</pubDate>
+  <pubDate>Tue, 28 Jul 2026 17:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -993,7 +1124,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 25 Jul 2026 00:21:41 GMT</pubDate>
+  <pubDate>Thu, 30 Jul 2026 14:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1002,7 +1133,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 28 Jul 2026 02:21:41 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 01:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1011,7 +1142,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 23 Jul 2026 11:21:41 GMT</pubDate>
+  <pubDate>Fri, 24 Jul 2026 18:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1020,7 +1151,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 25 Jul 2026 04:21:41 GMT</pubDate>
+  <pubDate>Mon, 27 Jul 2026 00:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1029,7 +1160,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 28 Jul 2026 03:21:41 GMT</pubDate>
+  <pubDate>Fri, 31 Jul 2026 11:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1038,7 +1169,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 25 Jul 2026 06:21:41 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 16:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1047,7 +1178,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 26 Jul 2026 13:21:41 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 18:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1056,7 +1187,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 21 Jul 2026 15:21:41 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 17:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1065,7 +1196,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 24 Jul 2026 00:21:41 GMT</pubDate>
+  <pubDate>Fri, 31 Jul 2026 02:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1074,7 +1205,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 21 Jul 2026 16:21:41 GMT</pubDate>
+  <pubDate>Tue, 28 Jul 2026 07:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1083,7 +1214,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 26 Jul 2026 02:21:41 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 00:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1092,7 +1223,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 29 Jul 2026 12:21:41 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 23:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1101,7 +1232,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 24 Jul 2026 09:21:41 GMT</pubDate>
+  <pubDate>Wed, 29 Jul 2026 03:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1110,7 +1241,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 24 Jul 2026 07:21:41 GMT</pubDate>
+  <pubDate>Fri, 24 Jul 2026 01:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1119,7 +1250,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 24 Jul 2026 01:21:41 GMT</pubDate>
+  <pubDate>Wed, 29 Jul 2026 17:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1128,7 +1259,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 27 Jul 2026 07:21:41 GMT</pubDate>
+  <pubDate>Tue, 28 Jul 2026 20:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1137,7 +1268,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 30 Jul 2026 19:21:41 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 10:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1146,7 +1277,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 28 Jul 2026 06:21:41 GMT</pubDate>
+  <pubDate>Sat, 25 Jul 2026 03:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1155,7 +1286,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 30 Jul 2026 01:21:41 GMT</pubDate>
+  <pubDate>Fri, 24 Jul 2026 05:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1164,7 +1295,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 31 Jul 2026 01:21:41 GMT</pubDate>
+  <pubDate>Thu, 30 Jul 2026 23:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1173,7 +1304,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 30 Jul 2026 22:21:41 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 07:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1182,7 +1313,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 31 Jul 2026 06:21:41 GMT</pubDate>
+  <pubDate>Thu, 30 Jul 2026 14:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1191,7 +1322,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 25 Jul 2026 13:21:41 GMT</pubDate>
+  <pubDate>Fri, 24 Jul 2026 03:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1200,10 +1331,19 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 27 Jul 2026 01:21:41 GMT</pubDate>
+  <pubDate>Sat, 25 Jul 2026 07:01:05 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Le Mode IA de Google, ou le Shadow AI qui n&rsquo;a plus besoin de l&rsquo;ombre]]></title>
+  <link>https://www.ia-news.fr/le-mode-ia-de-google-ou-le-shadow-ai-qui-na-plus-besoin-de-lombre/</link>
+  <description><![CDATA[Depuis le 22 juillet, les RSSI français ont un nouveau problème. La plupart ne le savent pas encore, parce que rien n'a changé dans leurs ...]]></description>
+  <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/11/Intelligence-artificielle-IA-AI-13.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/11/Intelligence-artificielle-IA-AI-13.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/11/Intelligence-artificielle-IA-AI-13.jpg" /> <p>Depuis le 22 juillet, les RSSI français ont un nouveau problème. La plupart ne le savent pas encore, parce que rien n'a changé dans leurs ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Delinea sécurise l&rsquo;exécution des agents IA en temps réel]]></title>
@@ -1240,15 +1380,6 @@
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/ai-ia-logique-0004.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/ai-ia-logique-0004.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/ai-ia-logique-0004.jpg" /> <p>Selon une étude de Cato Networks, la capacité offensive des agents IA ne vient pas uniquement du modèle utilisé, mais de l’ensemble de la chaîne ...</p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Snowflake aide Sanofi à industrialiser l’IA dans la biopharma]]></title>
-  <link>https://www.ia-news.fr/snowflake-aide-sanofi-a-industrialiser-lia-dans-la-biopharma/</link>
-  <description><![CDATA[Sanofi s’appuie sur Snowflake Cortex AI pour accélérer le développement de médicaments et déployer des agents IA dans plusieurs fonctions de l’entreprise. Avec « Concierge ...]]></description>
-  <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" /> <p>Sanofi s’appuie sur Snowflake Cortex AI pour accélérer le développement de médicaments et déployer des agents IA dans plusieurs fonctions de l’entreprise. Avec « Concierge ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[OpenAI franchit le cap des 10M d’utilisateurs de ses agents IA et lance ChatGPT Sites en Europe]]></title>
@@ -1323,13 +1454,13 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/telephonie-ip-6.jpg" /> <p>L’intelligence artificielle est passée en quelques années du simple concept à un véritable moteur de productivité et d’amélioration de la qualité de service des entreprises. Dans ce contexte, nombre de processus sont aujourd’hui largement augmentés et viennent créer de nouvelles manières ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[delaware accélère son approche de delivery end-to-end en agentic AI grâce à un partenariat stratégique avec Luzid]]></title>
-  <link>https://www.ia-news.fr/delaware-accelere-son-approche-de-delivery-end-to-end-en-agentic-ai-grace-a-un-partenariat-strategique-avec-luzid/</link>
-  <description><![CDATA[delaware annonce une nouvelle étape dans sa stratégie de delivery end-to-end en agentic AI à travers un partenariat stratégique avec la start-up californienne Luzid. Ce partenariat vient renforcer l’écosystème d’outils agentic AI de delaware et s’intègre pleinement dans son approche structurée ...]]></description>
-  <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p>delaware annonce une nouvelle étape dans sa stratégie de delivery end-to-end en agentic AI à travers un partenariat stratégique avec la start-up californienne Luzid. Ce partenariat vient renforcer l’écosystème d’outils agentic AI de delaware et s’intègre pleinement dans son approche structurée ...</p>]]></content:encoded>
+  <title><![CDATA[Snowflake aide Sanofi à industrialiser l’IA dans la biopharma]]></title>
+  <link>https://www.ia-news.fr/snowflake-aide-sanofi-a-industrialiser-lia-dans-la-biopharma/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Rubrik veut sécuriser le déploiement des agents IA sur AWS]]></title>
@@ -1575,49 +1706,49 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/07/visuel-nutanix-article-1.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Telehouse inaugure un nouveau module d’hébergement IA ready au sein de son campus de data center TH3 Paris Magny]]></title>
-  <link>https://www.ia-news.fr/telehouse-inaugure-un-nouveau-module-dhebergement-ia-ready-au-sein-de-son-campus-de-data-center-th3-paris-magny/</link>
+  <title><![CDATA[L’IA Générative  va-t-elle mettre en péril l’approche low code no code ?]]></title>
+  <link>https://www.ia-news.fr/lia-generative-va-t-elle-mettre-en-peril-lapproche-low-code-no-code/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/data-center-with-server-racks-2022-07-26-17-02-57-utc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/data-center-with-server-racks-2022-07-26-17-02-57-utc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/data-center-with-server-racks-2022-07-26-17-02-57-utc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-code.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-code.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-code.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Comment l’IA peut impacter l’industrie des télécoms]]></title>
-  <link>https://www.ia-news.fr/comment-lia-peut-impacter-lindustrie-des-telecoms/</link>
+  <title><![CDATA[Environ 80 % des entreprises estiment que l’IA est freinée par un manque d’accessibilité aux données]]></title>
+  <link>https://www.ia-news.fr/environ-80-des-entreprises-estiment-que-lia-est-freinee-par-un-manque-daccessibilite-aux-donnees/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-0005.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-0005.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-0005.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Lancement de Clovis, l’IA générative qui protège les données des entreprises]]></title>
-  <link>https://www.ia-news.fr/lancement-de-clovis-lia-generative-qui-protege-les-donnees-des-entreprises/</link>
+  <title><![CDATA[AssurOne fait le choix d’une IA française de confiance]]></title>
+  <link>https://www.ia-news.fr/assurone-fait-le-choix-dune-ia-francaise-de-confiance/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/12/000000020503.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/12/000000020503.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/12/000000020503.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Les opérations autonomes qui peuvent alléger les lourdes charges de travail des équipes IT]]></title>
-  <link>https://www.ia-news.fr/les-operations-autonomes-qui-peuvent-alleger-les-lourdes-charges-de-travail-des-equipes-it/</link>
+  <title><![CDATA[L’orchestration agentique de Camunda fournit des résultats concrets]]></title>
+  <link>https://www.ia-news.fr/lorchestration-agentique-de-camunda-fournit-des-resultats-concrets/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[OutSystems dévoile Mentor, une solution unique en son genre pour générer des applications avec l&rsquo;IA]]></title>
-  <link>https://www.ia-news.fr/outsystems-devoile-mentor-une-solution-unique-en-son-genre-pour-generer-des-applications-avec-lia/</link>
+  <title><![CDATA[Avanoo présente une plateforme pour reprendre le contrôle sur le Shadow AI et le SaaS]]></title>
+  <link>https://www.ia-news.fr/avanoo-presente-une-plateforme-pour-reprendre-le-controle-sur-le-shadow-ai-et-le-saas/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/Intelligence-artificielle-IA-AI-4.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/Intelligence-artificielle-IA-AI-4.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/Intelligence-artificielle-IA-AI-4.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
