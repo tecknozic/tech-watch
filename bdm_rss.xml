@@ -247,12 +247,12 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/zrgn/" class="e-link badge badge-grey">Meta</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ivqrb/" class="e-link badge badge-grey">Vidéo</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/geninvyyre-qvtvgny/" class="e-link badge badge-grey">Travailler dans le digital</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
 			
 		</div>
 
@@ -1103,7 +1103,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 									<a href="https://www.blogdumoderateur.com/dossier/meta/" class="badge">Meta</a>
 									<a href="https://www.blogdumoderateur.com/dossier/reglementation/" class="badge">Réglementation</a>
 									<a href="https://www.blogdumoderateur.com/dossier/video/" class="badge">Vidéo</a>
-									<a href="https://www.blogdumoderateur.com/dossier/travailler-digital/" class="badge">Travailler dans le digital</a>
+									<a href="https://www.blogdumoderateur.com/dossier/cybersecurite/" class="badge">Cybersécurité</a>
 				
 			</div>
 
@@ -1321,7 +1321,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue100 ">
+<section class="newsletter-container bg-blue-dark ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1339,7 +1339,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 						<input type="hidden" name="action" value="subscribe_optin">
 						<input type="hidden" name="cord_theme" value="Club">
 						<input type="hidden" name="cord_title" value="70 000 pros sont déjà abonnés">
-						<input type="hidden" name="cord_bg_color" value="bg-blue100">
+						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1375,8 +1375,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
