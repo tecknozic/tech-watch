@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 12:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 18:16:53 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Is football AI-proof? Why tech investors wanted a slice of the World Cup]]></title>
+            <description><![CDATA[What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable? ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd7l4e3v238o#0</guid>
+            <pubDate>Sat, 08 Aug 2026 13:41:32 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Meta fined $567m in largest child safety ruling against social media giant]]></title>
             <description><![CDATA[The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c872r52x7jgo#0</guid>
             <pubDate>Mon, 03 Aug 2026 23:21:10 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xbox Series X price hiked by £170 due to rising memory chip costs]]></title>
-            <description><![CDATA[Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czjlvrd9e43o#0</guid>
-            <pubDate>Mon, 03 Aug 2026 11:18:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a2/live/784485e0-8f23-11f1-b5a8-c9ccaae98ebb.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
@@ -538,6 +538,7 @@
 		
 		
 			</item>
+<item><title><![CDATA[Metabase security incident update]]></title><description><![CDATA[<h2 id></h2><p>We were made aware on 6 August 2026 of a security incident affecting Metabase, a third-party analytics tool used internally by n8n. The unauthorised activity took place on 3 August 2026 - Metabase has since patched the vulnerability that allowed it.</p><p>We immediately began an investigation with Metabase and our</p>]]></description><link>https://blog.n8n.io/metabase-security-incident-update/</link><guid isPermaLink="false">6a774e0f0c1eb90001053ee3</guid><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Sat, 08 Aug 2026 16:22:39 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/D4-Blog-Header--1200x675--1--1-.jpg" medium="image"/><content:encoded><![CDATA[<h2 id></h2><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/D4-Blog-Header--1200x675--1--1-.jpg" alt="Metabase security incident update"><p>We were made aware on 6 August 2026 of a security incident affecting Metabase, a third-party analytics tool used internally by n8n. The unauthorised activity took place on 3 August 2026 - Metabase has since patched the vulnerability that allowed it.</p><p>We immediately began an investigation with Metabase and our security, legal, and data teams. Our investigation confirmed that an unauthorized third party accessed and queried certain data available through n8n&#x2019;s Metabase environment.</p><p>We&apos;re publishing this update to explain what we found and the action we&apos;re recommending for a small number of affected accounts.</p><p><strong>What information was involved</strong></p><p>We have confirmed that 136 records containing names and email addresses were accessed across all of our users, both self-hosted and n8n Cloud. Five of these records contained bcrypt-hashed passwords of n8n Cloud accounts, self-hosted passwords are never shared with n8n. Because the queries used returned a variable, non-deterministic set of rows each time they are run, we cannot determine which specific records were accessed.</p><p>Our investigation also identified a historical bug, which was previously <a href="https://github.com/n8n-io/n8n/pull/5842">fixed</a>, that caused a small number of n8n Cloud account passwords to be stored in plain text. Whilst we consider it unlikely that these records were accessed during this incident, we have contacted all 25 account holders directly as a precaution.</p><p><strong>What we have done</strong></p><p>Metabase has patched the vulnerability, terminated the relevant sessions, and revoked the credentials used in the incident. Since being notified, we have been reviewing our own audit logs; rotated potentially affected credentials; rectified any users affected by the historical bug; and notified our Data Protection Officer as well as the Berlin Commissioner for Data Protection and Freedom of Information.</p><p><strong>What you should do</strong></p><p>If you received a direct email from us about this incident, please follow the instructions in that email and reset your password as soon as possible.</p><p>If we have not directly contacted you about this, you may still choose to reset your n8n Cloud password as an additional precaution.</p><p>You can reset your password at any time on the page described in <a href="https://support.n8n.io/article/how-do-i-change-my-email">this helpdesk article</a>.</p><p><strong>Questions</strong></p><p>If you have questions about this notice or your account, please contact <a href="mailto:help@n8n.io">help@n8n.io</a>.</p><p>We take the security of your account seriously and are sorry for the concern this may cause.</p><p>The n8n team</p>]]></content:encoded></item>
 <item><title><![CDATA[When Semantic Chunking Beats Fixed-Size Splitting]]></title><description><![CDATA[Learn how semantic chunking improves RAG performance by preserving context, increasing retrieval accuracy, reducing token costs, and improving AI responses.
 ]]></description><link>https://blog.n8n.io/semantic-chunking/</link><guid isPermaLink="false">6a67c729a9eaeb00014960fd</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 06 Aug 2026 15:25:24 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--8-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--8-.jpeg" alt="When Semantic Chunking Beats Fixed-Size Splitting"><p>Choosing the right model is just one part of building a successful <a href="https://www.promptingguide.ai/research/rag"><u>retrieval-augmented generation</u></a> (RAG) pipeline. &#x421;hunking also plays a big role. The way you divide your documents affects what gets retrieved, how much context your LLM receives, and how accurate its responses are. That&apos;s why chunking is best treated as a design decision, instead of just a preprocessing step. There are various types of chunking, and semantic chunking is one of them.</p><p>In this article we&#x2019;ll help you understand the trade-offs so you can pick the right chunking approach for your data.</p><h2 id="what%E2%80%99s-semantic-chunking">What&#x2019;s semantic chunking?</h2><p>The easiest method to prepare a document for RAG is to split the content based on a fixed number of tokens or characters. This approach is fast, but it doesn&apos;t always respect the structure of the content. A paragraph, section, or even a sentence can end up split in two.</p><p>In RAG systems, semantic chunking is a type of data chunking that groups text by meaning instead of size. A semantic chunker applies this logic automatically, identifying natural topic boundaries instead of relying on fixed token or character limits.</p><p>Chunk sizes naturally vary. A glossary entry might only need a sentence or two, while a section explaining an authentication flow is usually better kept together. What matters is that the boundaries follow the content instead of an arbitrary limit.</p><h2 id="why-does-a-chunking-strategy-matter-for-rag">Why does a chunking strategy matter for RAG?</h2><p>Imagine someone searching your docs for rate limits. If the limits are stored in one chunk and the exceptions in another, your retriever may only surface half the answer.</p><p>Finding the right balance is what makes chunking so important. Larger chunks preserve more context but can reduce retrieval precision and increase token usage. Smaller chunks are more targeted, but they can separate ideas that belong together and leave the model without the context it needs to generate an accurate response.</p><p>That&apos;s why you shouldn&#x2019;t think of chunking as a one-size-fits-all decision. The best approach depends on your content and the trade-offs you&apos;re willing to make. A product manual, a company&#x2019;s annual meeting report , and legal contract all have different structures, so they often benefit from different chunking strategies.</p><h2 id="chunking-methods">Chunking methods</h2><p>There&apos;s no shortage of ways to approach text chunking, and most production RAG systems don&apos;t rely on just one method. The right strategy depends on the structure of your content, the quality of retrieval you need, and how much complexity you&apos;re willing to manage.</p><p>The methods below cover the most common approaches, along with the trade-offs to consider when choosing between them.</p><h3 id="fixed-size-chunking">Fixed-size chunking</h3><p>Fixed-size chunking splits text after a set number of tokens or characters, regardless of where sentences or topics begin and end. It&apos;s predictable, easy to implement, and often the fastest way to build a retrieval pipeline. The downside is that meaningful context can be split across chunks, making it harder for your retriever to return complete answers. If you&apos;re indexing consistent, well-structured content, fixed-size chunking is a solid baseline.</p><h3 id="recursive-character-splitting">Recursive character splitting</h3><p><a href="https://n8n.io/workflows/5521-process-documents-with-recursive-chunking-using-google-drive-openai-and-gemini-rag/"><u>Recursive character splitting</u></a> tries to preserve the structure of a document before it falls back to smaller units. Rather than cutting text at an exact length, it looks for natural breakpoints like headings, paragraphs, or sentences. This method produces cleaner chunk boundaries without adding much complexity, making it a practical choice for many production RAG systems.</p><h3 id="structure-aware-splitting">Structure-aware splitting</h3><p>Some documents already tell you where chunks should begin and end. API documentation, Markdown files, knowledge bases, and technical manuals all contain headings and sections that reflect the way people consume information. Structure-aware splitting preserves those boundaries, keeping related content together and helping retrieved chunks make more sense on their own.</p><h3 id="embedding-based-semantic-chunking">Embedding-based semantic chunking</h3><p>Instead of relying on formatting, embedding-based semantic chunking uses vector similarity to detect shifts in meaning. When the content moves from one topic to another, the system begins a new chunk. This often produces higher-quality retrieval, especially for unstructured text, but it also requires additional processing during indexing. The extra effort can be worthwhile when retrieval quality matters more than indexing speed.</p><h3 id="contextual-chunking">Contextual chunking</h3><p>Contextual chunking &#x2014; also known as <a href="https://n8n.io/workflows/2871-rag-context-aware-chunking-or-google-drive-to-pinecone-via-openrouter-and-gemini/"><u>context-aware chunking</u></a> &#x2014; goes a step further by considering the surrounding context that helps a chunk make sense after retrieval. Instead of focusing only on topic boundaries, it maintains relationships between neighboring sections when that extra context improves search results. The extra context can improve retrieval for complex documents, though it also increases indexing complexity and isn&apos;t necessary for every RAG pipeline.</p><h2 id="4-best-practices-for-implementing-semantic-chunking">4 best practices for implementing semantic chunking</h2><p>No single chunking strategy works well in every situation. Once you choose an approach, the following implementation decisions can influence retrieval quality as much as the chunking method itself.</p><h3 id="match-your-chunking-strategy-to-your-content">Match your chunking strategy to your content</h3><p>The best chunking strategy depends on what you&apos;re indexing. Technical documentation often benefits from structure-aware splitting. Research papers or long-form articles may require semantic boundaries to preserve context. Start by looking at how your documents are organized before choosing a strategy.</p><h3 id="don%E2%80%99t-optimize-for-chunk-size-alone">Don&#x2019;t optimize for chunk size alone</h3><p>It&apos;s tempting to chase an ideal chunk length. There&#x2019;s just one problem: No universal chunk length exists. Instead, focus on whether each chunk contains enough context to answer a question on its own. If important information is consistently split across chunks, that&apos;s usually a sign the boundaries need adjusting.</p><h3 id="measure-retrieval-performance-not-just-indexing-speed">Measure retrieval performance, not just indexing speed</h3><p>The only way to know if a chunking strategy works is to test it. Compare retrieval results across representative queries, look for missed context or irrelevant matches, and evaluate how those differences affect downstream responses. Small changes to chunk boundaries can have a surprisingly big impact on answer quality.</p><h3 id="build-chunking-into-your-workflow">Build chunking into your workflow</h3><p>Chunking isn&apos;t a one-time <a href="https://community.n8n.io/t/splitting-and-processing-a-long-document-in-chunks-using-a-language-model-in-n8n/43576"><u>preprocessing step</u></a>. As your documents, embedding models, or retrieval requirements change, your chunking strategy needs to evolve as well. <a href="https://n8n.io/"><u>n8n</u></a> is a source-available AI-native automation platform that helps teams do this without programming.&#xA0;</p><p>It gives non-technical users a visual canvas to test and refine chunking strategies, while technical teams can plug in more advanced logic when needed. You can route different document types through specific text splitters and inspect execution history to refine your approach over time.</p>
 <!--kg-card-begin: html-->
@@ -1309,30 +1310,11 @@
 </div>
 <!--kg-card-end: html-->
 ]]></content:encoded></item>
-<item><title><![CDATA[Fine-Tuning vs. RAG: When To Use Each for Production LLMs]]></title><description><![CDATA[Explore fine-tuning versus RAG to understand how they differ, when each approach works best, and why many production LLM systems use both.]]></description><link>https://blog.n8n.io/fine-tuning-vs-rag/</link><guid isPermaLink="false">6a5618595666b300014890d2</guid><category><![CDATA[AI]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 16 Jul 2026 10:28:50 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-5.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-5.jpeg" alt="Fine-Tuning vs. RAG: When To Use Each for Production LLMs"><p>If you&#x2019;re building an AI app for production, you&#x2019;ll eventually end up thinking about fine-tuning versus RAG. Should you give your model access to external knowledge at runtime or retrain it to behave differently?</p><p>The answer depends on the problem you&#x2019;re trying to solve. In this guide, you&#x2019;ll learn how RAG and fine-tuning work, where each approach excels, and why RAG became a go-to solution for most teams.&#xA0;</p><h2 id="what%E2%80%99s-rag-and-how-does-it-work">What&#x2019;s RAG and how does it work?</h2><p><a href="https://blog.n8n.io/advanced-rag/" rel="noreferrer">Retrieval-augmented generation (RAG)</a> gives a large language model (LLM) access to information that wasn&#x2019;t included in its training data. Instead of relying solely on what the model already knows, a RAG system retrieves relevant information from an external source like a vector database, documentation plain-text files, or specialized knowledge-graph base. The system includes that context in the prompt before the model generates a response.</p><p>Because the knowledge lives outside the model, you can update information without retraining the model. That&#x2019;s why many teams use RAG for applications that need access to large, frequently changing, or proprietary datasets like internal copilots or customer support assistants.</p><h2 id="what%E2%80%99s-fine-tuning-and-how-does-it-work">What&#x2019;s fine-tuning and how does it work?</h2><p>Fine-tuning <a href="https://blog.n8n.io/llm-observability/" rel="noreferrer">adapts an existing LLM</a> by training it on additional examples. Instead of supplying information at runtime, you teach the model new behaviors by updating its weights using domain-specific data.</p><p>This approach first appeared when the long-context LLMs were not widely available and tokens were relatively expensive. It helped improve how a model responded with zero-shot prompting. For example, you might fine-tune a model to follow a specific writing style, generate more consistent outputs, or perform better on specialized tasks in areas like healthcare or finance. Once training is complete, the model can apply those learned patterns without requiring additional context for every request.</p><p>Nowadays fine-tuning is less common compared to RAG for several reasons, but remains a viable option for niche use-cases.</p><h2 id="retrieval-augmented-generation-vs-fine-tuning-what%E2%80%99s-the-difference">Retrieval-augmented generation vs. fine-tuning: What&#x2019;s the difference?</h2><p>The main difference between LLM RAG versus fine-tuning lies in where adaptation happens. RAG keeps the underlying model unchanged and supplies relevant information at runtime. Fine-tuning changes the model itself through additional training. That distinction has important implications for everything from maintenance and governance to cost and performance.</p><p>&#xA0;In practice, the choice often comes down to the problem you&#x2019;re solving. If your model needs access to current information, proprietary documents, or a large body of knowledge that changes frequently, RAG is usually the better fit.&#xA0;</p><p>If the challenge is getting the model to respond more consistently or perform better on specialized tasks, fine-tuning may deliver better results if done correctly. However, the same task is doable via RAG too, as relevant examples can be retrieved in a similar way and passed to the LLM via a few-shot prompting technique.</p><h2 id="cost-and-latency-tradeoffs-at-scale">Cost and latency tradeoffs at scale</h2><p>RAG and fine-tuning shift costs to different parts of the AI lifecycle. With RAG, most costs occur in the execution . You need to generate embeddings, store them in a vector database, and retrieve relevant context before the model can respond. This makes it easy to keep knowledge up to date, but it adds infrastructure costs and an extra retrieval step to every request. Good retrieval could require additional engineering efforts, i.e. mixing sparse and dense vectors + re-ranking to achieve the optimal retrieval results.</p><p>Fine-tuning front-loads costs into data preparation and training. <a href="https://developers.openai.com/api/docs/guides/fine-tuning-best-practices"><u>Creating a set of quality examples is a non-trivial task</u></a> and can potentially deteriorate a model&apos;s results. Frontier cloud models don&#x2019;t support fine-tuning in general, and <a href="https://developers.openai.com/api/docs/deprecations#update-to-openais-self-serve-fine-tuning"><u>some of the hosted models are dropping fine-tuning features</u></a>. On a positive side, smaller open-weight LLMs, once fine-tuned, can often respond without retrieving external context or extensive prompting. This can reduce runtime overhead and improve response times.</p><p>The tradeoff is straightforward: RAG is typically easier and cheaper to update, while fine-tuning can be more efficient at inference. The choice depends on whether you&apos;re solving a knowledge problem or a behavior problem and which LLMs you need.</p><h2 id="when-to-use-rag-vs-fine-tuning">When to use RAG vs. fine-tuning</h2><p>The easiest way to choose between RAG and fine-tuning is to identify the root cause of the problem. If your model lacks access to the right information, RAG is usually the better place to start. If it has the information but still produces inconsistent or low-quality outputs, fine-tuning may be a better solution, especially when using smaller LLMs.</p><p>Choose RAG when:</p><ul><li><strong>Your knowledge changes frequently:</strong> RAG lets you update product documentation, policies, pricing information, and other knowledge sources without retraining the model.</li><li><strong>Factual accuracy matters:</strong> RAG can retrieve information from trusted sources at runtime, reducing the risk of outdated responses.</li><li><strong>You need source traceability:</strong> Responses can link back to the documents used to generate them.</li><li><strong>Your knowledge base is large:</strong> Retrieving relevant information is more practical than trying to encode everything into the model.</li><li><strong>Your cost-model allows few-shot prompting:</strong> Altering the model&#x2019;s behavior can be achieved with a set of frontloaded examples, but requires more tokens.</li></ul><p>Choose fine-tuning when:</p><ul><li><strong>You need more consistent outputs:</strong> The model struggles to follow specific formats, instructions, or response patterns.</li><li><strong>You want a particular tone or style:</strong> Responses need to reflect your brand and communication standards.</li><li><strong>You&apos;re solving specialized tasks:</strong> The base model doesn&apos;t perform reliably enough on your specific use case.</li><li><strong>You need stronger domain-specific reasoning:</strong> The model needs to apply concepts, terminology, or decision-making patterns that aren&apos;t well represented in its original training data.</li></ul><h2 id="combining-rag-and-fine-tuning">Combining RAG and fine-tuning</h2><p>RAG and fine-tuning aren&apos;t mutually exclusive. While RAG is suitable for most LLMs and generally easier to create, combining it with a fine-tuned model can further improve output quality.&#xA0;</p><p>In a hybrid architecture:</p><ul><li><strong>Fine-tuning improves behavior:</strong> Train the local model to follow a specific tone, format responses consistently</li><li><strong>RAG improves knowledge:</strong> Retrieve current, relevant information at runtime instead of relying on what the model learned during training.</li><li><strong>Together, they deliver better results:</strong> When both RAG and fine-tuning are set correctly, the model knows how to respond and has access to the information it needs to generate accurate answers.</li></ul><p>A customer support assistant is a good example. A private self-hosted fine-tuned model can learn your company&apos;s communication style and support processes. A <a href="https://blog.n8n.io/rag-pipeline/"><u>RAG pipeline</u></a> retrieves the latest product documentation, policies, and troubleshooting guides before a response is generated.</p><p>This hybrid approach can work well at scale, with initial fine-tuning efforts paying off in the long run. Instead of adding the same context over and over again, it is possible to fine-tune LLM only on the &#x201C;stable&#x201D; content and leave RAG for the &#x201C;dynamic&#x201D; knowledge that changes day to day. Platforms like <a href="https://n8n.io/"><u>n8n</u></a> make it possible to use this combination.</p><p>Researchers are also exploring ways to bring these techniques even closer together. One emerging approach is <a href="https://arxiv.org/abs/2403.10131"><u>retrieval-augmented fine-tuning (RAFT)</u></a>. This fine-tunes models on examples that already include retrieved context, helping them learn how to use external information more effectively.</p><h2 id="how-to-build-rag-and-fine-tuning-workflows-with-n8n">How to build RAG and fine-tuning workflows with n8n</h2><p>Once you choose an approach, the next step is implementation. n8n gives you one place to <a href="https://n8n.io/rag/"><u>build and refine RAG</u></a> and fine-tuning workflows. You can design, test, and adjust each pipeline without switching tools or managing separate systems.</p><p>For <a href="https://n8n.io/workflows/categories/ai-rag/"><u>RAG workflows</u></a>, n8n provides the building blocks to ingest and retrieve knowledge. You can load documents, split them into chunks, generate embeddings, and store them in vector databases like <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.vectorstorepinecone"><u>Pinecone </u></a>or <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.supabase"><u>Supabase</u></a>. From there, <a href="https://blog.n8n.io/ai-agents/"><u>AI Agent nodes</u></a> can then retrieve relevant context and pass it to an LLM at query time.</p><p>For fine-tuning workflows, n8n can store fine-tuning example datasets and connect to <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatollama"><u>local fine-tuned models via Ollama.</u></a> That means you can work with fine-tuned model endpoints alongside standard model deployments without introducing additional orchestration tools.</p><p>As requirements evolve, you can combine both approaches in the same workflow. Conditional branching makes it possible to route requests between RAG pipelines, direct model calls, and fine-tuned models based on the task at hand. Execution history provides visibility into retrieval quality, prompts, and model outputs, which makes it easier to test and refine AI systems over time.</p>
-<!--kg-card-begin: html-->
-<script>
-  workflowBanner([5148, 2753, 4966, 2440, 4748], document.currentScript, { 
-      workflowsHeader: "If you’re looking for a starting point, n8n also provides pre-built templates for common RAG use cases, including"
-  });
-</script>
-<!--kg-card-end: html-->
-<h2 id="choosing-the-right-approach-for-your-llm-application">Choosing the right approach for your LLM application</h2><p>For most use cases, RAG has proven to be more cost-effective and easier to implement compared to fine-tuning, but both complement each other when adapting LLMs to real-world applications. Choose based on your requirements today and how those requirements might change over time.</p><p>Many teams debating LLM fine-tuning versus RAG start with the latter because it&apos;s easier to update and experiment with. Others turn to fine-tuning when they need more specialized behavior on self-hosted infrastructure. As AI systems mature, it&apos;s possible to incorporate both approaches into the same architecture.</p><p>That&apos;s where orchestration becomes important. With support for RAG pipelines, direct model calls, fine-tuned model endpoints, <a href="https://blog.n8n.io/agentic-rag/"><u>AI agents</u></a>, and workflow orchestration, n8n gives teams a single place to build, test, and evolve AI systems without managing separate tools for each approach.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Ready to build production-ready AI workflows?</h3>
-    <p>Start with RAG pipelines and orchestration in n8n Cloud and move to self-hosted n8n when you need fine-tuning or local model control</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n now</a>
-</div>
-<!--kg-card-end: html-->
-]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 05 Aug 2026 08:18:31 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 00:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -1341,7 +1323,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 05 Aug 2026 13:18:31 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 10:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1350,7 +1332,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 31 Jul 2026 12:18:31 GMT</pubDate>
+  <pubDate>Sun, 02 Aug 2026 23:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1359,7 +1341,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 16:18:31 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 02:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1368,7 +1350,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 04 Aug 2026 10:18:31 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 06:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1377,7 +1359,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 15:18:31 GMT</pubDate>
+  <pubDate>Sat, 01 Aug 2026 15:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1386,7 +1368,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 08 Aug 2026 01:18:31 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 12:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1395,7 +1377,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 04 Aug 2026 21:18:31 GMT</pubDate>
+  <pubDate>Wed, 29 Jul 2026 22:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1404,7 +1386,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 30 Jul 2026 10:18:31 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 21:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1413,7 +1395,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 04 Aug 2026 14:18:31 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 08:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1422,7 +1404,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 01 Aug 2026 03:18:31 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 10:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1431,7 +1413,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 02:18:31 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 14:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1440,7 +1422,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 08 Aug 2026 02:18:31 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 20:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1449,7 +1431,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 01 Aug 2026 18:18:31 GMT</pubDate>
+  <pubDate>Sat, 01 Aug 2026 00:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1458,7 +1440,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 01 Aug 2026 23:18:31 GMT</pubDate>
+  <pubDate>Sat, 01 Aug 2026 16:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1467,7 +1449,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 07 Aug 2026 01:18:31 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 14:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1476,7 +1458,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 08 Aug 2026 10:18:31 GMT</pubDate>
+  <pubDate>Sun, 02 Aug 2026 11:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1485,7 +1467,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 30 Jul 2026 01:18:31 GMT</pubDate>
+  <pubDate>Sun, 02 Aug 2026 06:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1494,7 +1476,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 31 Jul 2026 16:18:31 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 22:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1503,7 +1485,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 01 Aug 2026 09:18:31 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 14:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1512,7 +1494,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 05:18:31 GMT</pubDate>
+  <pubDate>Fri, 31 Jul 2026 20:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1521,7 +1503,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 12:18:31 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 10:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1530,7 +1512,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 05 Aug 2026 15:18:31 GMT</pubDate>
+  <pubDate>Thu, 30 Jul 2026 08:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1539,7 +1521,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 07 Aug 2026 14:18:31 GMT</pubDate>
+  <pubDate>Sat, 01 Aug 2026 09:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1548,7 +1530,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 04 Aug 2026 23:18:31 GMT</pubDate>
+  <pubDate>Sat, 01 Aug 2026 17:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1557,7 +1539,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 01 Aug 2026 03:18:31 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 11:17:03 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
@@ -1923,40 +1905,49 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/partenariat-hand-shake-324-007.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Comment l’IA va-t-elle transformer les usages et créer de nouvelles opportunités]]></title>
-  <link>https://www.ia-news.fr/comment-lia-va-t-elle-transformer-les-usages-et-creer-de-nouvelles-opportunites-2/</link>
+  <title><![CDATA[Camunda présente ProcessOS]]></title>
+  <link>https://www.ia-news.fr/camunda-presente-processos/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Avanoo ouvre son programme de partenariats intégrateurs à l’échelle nationale]]></title>
-  <link>https://www.ia-news.fr/avanoo-ouvre-son-programme-de-partenariats-integrateurs-a-lechelle-nationale/</link>
+  <title><![CDATA[IA et SupplyChain : Colibri lance de nouveaux modules complémentaires à sa plateforme]]></title>
+  <link>https://www.ia-news.fr/ia-et-supplychain-colibri-lance-de-nouveaux-modules-complementaires-a-sa-plateforme/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-stat-equipe.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-stat-equipe.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-stat-equipe.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/supply-chain-07.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/supply-chain-07.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/supply-chain-07.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Les fondamentaux à connaître pour utiliser l’IA à bon escient]]></title>
-  <link>https://www.ia-news.fr/les-fondamentaux-a-connaitre-pour-utiliser-lia-a-bon-escient/</link>
+  <title><![CDATA[Comment lancer et industrialiser ses projets  d’Intelligence artificielle ? 6 bonnes raisons d’avoir recours à des freelances]]></title>
+  <link>https://www.ia-news.fr/comment-lancer-et-industrialiser-ses-projets-dintelligence-artificielle-6-bonnes-raisons-davoir-recours-a-des-freelances/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-generique-digital-ordinateur-it-workplace.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-generique-digital-ordinateur-it-workplace.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-generique-digital-ordinateur-it-workplace.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/03/office-start-up.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/03/office-start-up.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/03/office-start-up.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[OutSystems et KPMG dévoilent les résultats d’une nouvelle étude sur l’IA et le futur du développement logiciel]]></title>
-  <link>https://www.ia-news.fr/outsystems-et-kpmg-devoilent-les-resultats-dune-nouvelle-etude-sur-lia-et-le-futur-du-developpement-logiciel/</link>
+  <title><![CDATA[Répondre aux défis du GenAI Sprawl avec une approche unifiée de cybersécurité]]></title>
+  <link>https://www.ia-news.fr/repondre-aux-defis-du-genai-sprawl-avec-une-approche-unifiee-de-cybersecurite/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/06/cato-network.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/06/cato-network.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/06/cato-network.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Avanoo présente une plateforme pour reprendre le contrôle sur le Shadow AI et le SaaS]]></title>
+  <link>https://www.ia-news.fr/avanoo-presente-une-plateforme-pour-reprendre-le-controle-sur-le-shadow-ai-et-le-saas/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
