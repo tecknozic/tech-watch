@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 12:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 18:37:28 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -184,15 +184,35 @@
         </item>
     
 <item>
+		<title>Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision</title>
+		<link>https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 16:20:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Meta Superintelligence]]></category>
+		<category><![CDATA[superintelligence]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3151491</guid>
+
+					<description><![CDATA[Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Discovered Materials is playing AI whack-a-mole to hunt cooler chips</title>
 		<link>https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/</link>
 		
 		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
 		<pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[microchips]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3151410</guid>
 
 					<description><![CDATA[Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. ]]></description>
@@ -208,6 +228,7 @@
 		<pubDate>Sun, 09 Aug 2026 20:35:17 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[situational awareness]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3151435</guid>
 
@@ -226,6 +247,7 @@
 		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[claude code]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3151431</guid>
 
 					<description><![CDATA[Programming with Claude Code will soon require even less human oversight.]]></description>
@@ -261,23 +283,22 @@
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
 		<pubDate>Sun, 09 Aug 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
 		<category><![CDATA[Meta]]></category>
 		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[moonshot]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[Hugging Face]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3151324</guid>
 
-					<description><![CDATA[AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.]]></description>
+					<description><![CDATA[AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.]]></description>
 		
 		
 		
 			</item>
 <item>
-		<title>Planned Amazon data center could become the biggest climate polluter in the U.S.</title>
+		<title>Planned Amazon data center could become the biggest climate polluter in the US</title>
 		<link>https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/</link>
 		
 		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
@@ -285,9 +306,10 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3151379</guid>
 
-					<description><![CDATA[As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.]]></description>
+					<description><![CDATA[AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040. ]]></description>
 		
 		
 		
@@ -300,10 +322,11 @@
 		<pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3151377</guid>
 
-					<description><![CDATA[NextSlide says its team members are now working on ChatGPT.]]></description>
+					<description><![CDATA[Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”]]></description>
 		
 		
 		
@@ -518,26 +541,11 @@
 		
 		
 			</item>
-<item>
-		<title>Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce</title>
-		<link>https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Bessemer Venture Partners]]></category>
-		<category><![CDATA[e-commerce software]]></category>
-		<category><![CDATA[Gradient Ventures]]></category>
-		<category><![CDATA[recommendation engines]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3150351</guid>
-
-					<description><![CDATA[The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time. ]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[One-click connection to nearly 70 MCP servers and when to use them]]></title><description><![CDATA[You can now connect to dozens of MCP servers directly from the Node panel with a simple OAuth flow. Pick a server, sign in, and it's ready for your agent to use.]]></description><link>https://blog.n8n.io/one-click-connection-to-nearly-70-mcp-servers-and-when-to-use-them/</link><guid isPermaLink="false">6a798a3fa7a5f30001930992</guid><category><![CDATA[News]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[Desiree Lockwood, n8n]]></dc:creator><pubDate>Mon, 10 Aug 2026 17:46:54 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/MCP-Registry-blog-PMM-29.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/MCP-Registry-blog-PMM-29.jpg" alt="One-click connection to nearly 70 MCP servers and when to use them"><p>The team just rolled out a fresh batch of MCP servers you can add straight from the Node panel. New additions like Airtable, Grafana, New Relic, Jotform, and PandaDoc are joining the ones you could already connect to, like Notion, Stripe, GitLab, Apify, Linear, monday.com, and Hugging Face. Connecting to nearly 70 services is now a quick OAuth flow.</p>
+<!--kg-card-begin: html-->
+<!--ARCADE EMBED START--><div style="position: relative; padding-bottom: calc(50.9766% + 41px); height: 0px; width: 100%;"><iframe src="https://demo.arcade.software/zVQHBmWZdMEltrWlLozi?embed&amp;embed_mobile=tab&amp;embed_desktop=inline&amp;show_copy_link=true" title="Demo" frameborder="0" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="clipboard-write; autoplay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; color-scheme: light;"></iframe></div><!--ARCADE EMBED END-->
+<!--kg-card-end: html-->
+<p></p><p>If you already use any of these day to day, the unlock is pretty immediate. Take Notion, for example. I use it frequently in workflows, but getting it properly wired up to an Agent used to mean reaching out to an admin for the right permissions, creating an internal integration and sharing pages with it, and configuring multiple Notions tools with different operations. Now it&apos;s just an OAuth click and an agent can pull meeting notes for context, draft a page from the conversation, and update a database when something happens elsewhere.</p><p>All of these MCP server connections are similarly simple to set up. Additional connections are on the way, starting with more of the most-used MCP servers that have OAuth and Dynamic Client Registration (DCR). If you need one that&#x2019;s not yet listed, the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolmcp"><strong>MCP Client Tool</strong></a> lets you point at any MCP endpoint with a bit more setup.</p><p><strong>When to reach for a node, an agent tool, or an MCP server?</strong></p><p><strong>Native nodes</strong> are the right call for deterministic workflows. If you know the exact API call you need at a specific step, or you&apos;re building something that has to behave the same way every time, a node gives you fine-grained control over inputs, outputs, and error handling. Use nodes wherever the logic doesn&apos;t need a decision made.</p><p><em>Example: You want every new customer to get a welcome page in your team wiki. The Notion node creates that page in the same database, with the same fields, every single time. No judgment call needed, so a node is all you need.</em></p><p>When you <strong>add a node to your AI Agent as a tool</strong>, the agent chooses when to call it, but you still define the exact action ahead of time. Because the tool is fixed and well-defined, the agent needs less reasoning to use it correctly, which often means fewer LLM calls than if it had to work out what to do with a broader toolset.</p><p><em>Example: Your support agent has a &quot;Log escalation&quot; Notion tool. It&apos;s one specific action, pointed at one specific database. The agent decides when an issue needs escalating, but it can&apos;t do anything with Notion beyond that one job.</em></p><p><strong>MCP servers</strong> shine when you&#x2019;re letting an agent decide what to do. Connect once, and the agent gets a whole toolset it can pick from as needed. You can still toggle individual tools on or off, so you decide what&apos;s exposed, but the agent decides which to use, when, and how. That flexibility comes with more reasoning on the agent&apos;s side.</p><p><em>Example: Connect the Notion MCP server and your agent can search pages, pull meeting notes, create a draft, or update a database entry, whichever fits the request it gets. You didn&apos;t build a tool for each of those; they came with the connection.</em></p><p><strong>You don&#x2019;t have to pick just one</strong></p><p>None of these replace the others. Nodes give you precision as a workflow step, agent tools give the agent limited discretion over fixed actions, and MCP servers give it a broader surface to reason over. Depending on the goal, a workflow could end up mixing all three.</p>]]></content:encoded></item>
 <item><title><![CDATA[Metabase security incident update]]></title><description><![CDATA[<h2 id></h2><p>We were made aware on 6 August 2026 of a security incident affecting Metabase, a third-party analytics tool used internally by n8n. The unauthorised activity took place on 3 August 2026 - Metabase has since patched the vulnerability that allowed it.</p><p>We immediately began an investigation with Metabase and our</p>]]></description><link>https://blog.n8n.io/metabase-security-incident-update/</link><guid isPermaLink="false">6a774e0f0c1eb90001053ee3</guid><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Sat, 08 Aug 2026 16:22:39 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/D4-Blog-Header--1200x675--1--1-.jpg" medium="image"/><content:encoded><![CDATA[<h2 id></h2><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/D4-Blog-Header--1200x675--1--1-.jpg" alt="Metabase security incident update"><p>We were made aware on 6 August 2026 of a security incident affecting Metabase, a third-party analytics tool used internally by n8n. The unauthorised activity took place on 3 August 2026 - Metabase has since patched the vulnerability that allowed it.</p><p>We immediately began an investigation with Metabase and our security, legal, and data teams. Our investigation confirmed that an unauthorized third party accessed and queried certain data available through n8n&#x2019;s Metabase environment.</p><p>We&apos;re publishing this update to explain what we found and the action we&apos;re recommending for a small number of affected accounts.</p><p><strong>What information was involved</strong></p><p>We have confirmed that 136 records containing names and email addresses were accessed across all of our users, both self-hosted and n8n Cloud. Five of these records contained bcrypt-hashed passwords of n8n Cloud accounts, self-hosted passwords are never shared with n8n. Because the queries used returned a variable, non-deterministic set of rows each time they are run, we cannot determine which specific records were accessed.</p><p>Our investigation also identified a historical bug, which was previously <a href="https://github.com/n8n-io/n8n/pull/5842">fixed</a>, that caused a small number of n8n Cloud account passwords to be stored in plain text. Whilst we consider it unlikely that these records were accessed during this incident, we have contacted all 25 account holders directly as a precaution.</p><p><strong>What we have done</strong></p><p>Metabase has patched the vulnerability, terminated the relevant sessions, and revoked the credentials used in the incident. Since being notified, we have been reviewing our own audit logs; rotated potentially affected credentials; rectified any users affected by the historical bug; and notified our Data Protection Officer as well as the Berlin Commissioner for Data Protection and Freedom of Information.</p><p><strong>What you should do</strong></p><p>If you received a direct email from us about this incident, please follow the instructions in that email and reset your password as soon as possible.</p><p>If we have not directly contacted you about this, you may still choose to reset your n8n Cloud password as an additional precaution.</p><p>You can reset your password at any time on the page described in <a href="https://support.n8n.io/article/how-do-i-change-my-email">this helpdesk article</a>.</p><p><strong>Questions</strong></p><p>If you have questions about this notice or your account, please contact <a href="mailto:help@n8n.io">help@n8n.io</a>.</p><p>We take the security of your account seriously and are sorry for the concern this may cause.</p><p>The n8n team</p>]]></content:encoded></item>
 <item><title><![CDATA[When Semantic Chunking Beats Fixed-Size Splitting]]></title><description><![CDATA[Learn how semantic chunking improves RAG performance by preserving context, increasing retrieval accuracy, reducing token costs, and improving AI responses.
 ]]></description><link>https://blog.n8n.io/semantic-chunking/</link><guid isPermaLink="false">6a67c729a9eaeb00014960fd</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 06 Aug 2026 15:25:24 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--8-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--8-.jpeg" alt="When Semantic Chunking Beats Fixed-Size Splitting"><p>Choosing the right model is just one part of building a successful <a href="https://www.promptingguide.ai/research/rag"><u>retrieval-augmented generation</u></a> (RAG) pipeline. &#x421;hunking also plays a big role. The way you divide your documents affects what gets retrieved, how much context your LLM receives, and how accurate its responses are. That&apos;s why chunking is best treated as a design decision, instead of just a preprocessing step. There are various types of chunking, and semantic chunking is one of them.</p><p>In this article we&#x2019;ll help you understand the trade-offs so you can pick the right chunking approach for your data.</p><h2 id="what%E2%80%99s-semantic-chunking">What&#x2019;s semantic chunking?</h2><p>The easiest method to prepare a document for RAG is to split the content based on a fixed number of tokens or characters. This approach is fast, but it doesn&apos;t always respect the structure of the content. A paragraph, section, or even a sentence can end up split in two.</p><p>In RAG systems, semantic chunking is a type of data chunking that groups text by meaning instead of size. A semantic chunker applies this logic automatically, identifying natural topic boundaries instead of relying on fixed token or character limits.</p><p>Chunk sizes naturally vary. A glossary entry might only need a sentence or two, while a section explaining an authentication flow is usually better kept together. What matters is that the boundaries follow the content instead of an arbitrary limit.</p><h2 id="why-does-a-chunking-strategy-matter-for-rag">Why does a chunking strategy matter for RAG?</h2><p>Imagine someone searching your docs for rate limits. If the limits are stored in one chunk and the exceptions in another, your retriever may only surface half the answer.</p><p>Finding the right balance is what makes chunking so important. Larger chunks preserve more context but can reduce retrieval precision and increase token usage. Smaller chunks are more targeted, but they can separate ideas that belong together and leave the model without the context it needs to generate an accurate response.</p><p>That&apos;s why you shouldn&#x2019;t think of chunking as a one-size-fits-all decision. The best approach depends on your content and the trade-offs you&apos;re willing to make. A product manual, a company&#x2019;s annual meeting report , and legal contract all have different structures, so they often benefit from different chunking strategies.</p><h2 id="chunking-methods">Chunking methods</h2><p>There&apos;s no shortage of ways to approach text chunking, and most production RAG systems don&apos;t rely on just one method. The right strategy depends on the structure of your content, the quality of retrieval you need, and how much complexity you&apos;re willing to manage.</p><p>The methods below cover the most common approaches, along with the trade-offs to consider when choosing between them.</p><h3 id="fixed-size-chunking">Fixed-size chunking</h3><p>Fixed-size chunking splits text after a set number of tokens or characters, regardless of where sentences or topics begin and end. It&apos;s predictable, easy to implement, and often the fastest way to build a retrieval pipeline. The downside is that meaningful context can be split across chunks, making it harder for your retriever to return complete answers. If you&apos;re indexing consistent, well-structured content, fixed-size chunking is a solid baseline.</p><h3 id="recursive-character-splitting">Recursive character splitting</h3><p><a href="https://n8n.io/workflows/5521-process-documents-with-recursive-chunking-using-google-drive-openai-and-gemini-rag/"><u>Recursive character splitting</u></a> tries to preserve the structure of a document before it falls back to smaller units. Rather than cutting text at an exact length, it looks for natural breakpoints like headings, paragraphs, or sentences. This method produces cleaner chunk boundaries without adding much complexity, making it a practical choice for many production RAG systems.</p><h3 id="structure-aware-splitting">Structure-aware splitting</h3><p>Some documents already tell you where chunks should begin and end. API documentation, Markdown files, knowledge bases, and technical manuals all contain headings and sections that reflect the way people consume information. Structure-aware splitting preserves those boundaries, keeping related content together and helping retrieved chunks make more sense on their own.</p><h3 id="embedding-based-semantic-chunking">Embedding-based semantic chunking</h3><p>Instead of relying on formatting, embedding-based semantic chunking uses vector similarity to detect shifts in meaning. When the content moves from one topic to another, the system begins a new chunk. This often produces higher-quality retrieval, especially for unstructured text, but it also requires additional processing during indexing. The extra effort can be worthwhile when retrieval quality matters more than indexing speed.</p><h3 id="contextual-chunking">Contextual chunking</h3><p>Contextual chunking &#x2014; also known as <a href="https://n8n.io/workflows/2871-rag-context-aware-chunking-or-google-drive-to-pinecone-via-openrouter-and-gemini/"><u>context-aware chunking</u></a> &#x2014; goes a step further by considering the surrounding context that helps a chunk make sense after retrieval. Instead of focusing only on topic boundaries, it maintains relationships between neighboring sections when that extra context improves search results. The extra context can improve retrieval for complex documents, though it also increases indexing complexity and isn&apos;t necessary for every RAG pipeline.</p><h2 id="4-best-practices-for-implementing-semantic-chunking">4 best practices for implementing semantic chunking</h2><p>No single chunking strategy works well in every situation. Once you choose an approach, the following implementation decisions can influence retrieval quality as much as the chunking method itself.</p><h3 id="match-your-chunking-strategy-to-your-content">Match your chunking strategy to your content</h3><p>The best chunking strategy depends on what you&apos;re indexing. Technical documentation often benefits from structure-aware splitting. Research papers or long-form articles may require semantic boundaries to preserve context. Start by looking at how your documents are organized before choosing a strategy.</p><h3 id="don%E2%80%99t-optimize-for-chunk-size-alone">Don&#x2019;t optimize for chunk size alone</h3><p>It&apos;s tempting to chase an ideal chunk length. There&#x2019;s just one problem: No universal chunk length exists. Instead, focus on whether each chunk contains enough context to answer a question on its own. If important information is consistently split across chunks, that&apos;s usually a sign the boundaries need adjusting.</p><h3 id="measure-retrieval-performance-not-just-indexing-speed">Measure retrieval performance, not just indexing speed</h3><p>The only way to know if a chunking strategy works is to test it. Compare retrieval results across representative queries, look for missed context or irrelevant matches, and evaluate how those differences affect downstream responses. Small changes to chunk boundaries can have a surprisingly big impact on answer quality.</p><h3 id="build-chunking-into-your-workflow">Build chunking into your workflow</h3><p>Chunking isn&apos;t a one-time <a href="https://community.n8n.io/t/splitting-and-processing-a-long-document-in-chunks-using-a-language-model-in-n8n/43576"><u>preprocessing step</u></a>. As your documents, embedding models, or retrieval requirements change, your chunking strategy needs to evolve as well. <a href="https://n8n.io/"><u>n8n</u></a> is a source-available AI-native automation platform that helps teams do this without programming.&#xA0;</p><p>It gives non-technical users a visual canvas to test and refine chunking strategies, while technical teams can plug in more advanced logic when needed. You can route different document types through specific text splitters and inspect execution history to refine your approach over time.</p>
@@ -1201,120 +1209,11 @@
 </div>
 <!--kg-card-end: html-->
 <h3 id="configuring-rbac-and-project-scoped-permissions">Configuring RBAC and project-scoped permissions</h3><p>Start with n8n&#x2019;s <a href="https://docs.n8n.io/user-management/rbac/"><u>roles-based access controls</u></a> (RBAC), available on all paid plans. Gather workflows and credentials into projects, then give each user and each agent&#x2019;s service identity the narrowest role possible. On Enterprise plans, custom roles let you separate the right to run a workflow from the right to edit it, a strong control for sensitive automations.</p><h3 id="setting-up-log-streaming-for-agent-workflows">Setting up log streaming for agent workflows</h3><p>Send execution events to your SIEM with <a href="https://docs.n8n.io/log-streaming/"><u>log streaming</u></a> so agent activity lands in the same place as the rest of your monitoring. Encrypted syslog over TLS keeps the pipeline audit-ready, and reveal events &#x2014; when someone unmasks redacted data &#x2014; are captured too.&#xA0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">Log streaming is available on Enterprise plans. For teams without a centralized SIEM, n8n&apos;s <a href="https://docs.n8n.io/insights/"><u>Insights dashboard</u></a> (available from Pro plan) and <a href="https://docs.n8n.io/workflows/executions/"><u>execution history</u></a> (all plans) provide built-in observability. For systematic pre-deployment testing, <a href="https://docs.n8n.io/advanced-ai/evaluations/overview/"><u>n8n&apos;s Evaluations feature</u></a> runs agent workflows against test datasets and scores outputs for correctness.</div></div><h3 id="adding-hitl-approval-steps-to-sensitive-actions">Adding HITL approval steps to sensitive actions</h3><p>Gate actions you wouldn&#x2019;t want an agent taking alone with <a href="https://blog.n8n.io/production-ai-playbook-human-oversight/"><u>human oversight</u></a>. n8n&#x2019;s human-in-the-loop tools let the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a> pause before a specific tool runs and route an approval request to Slack, email, or chat. The reviewer sees the exact tool and parameters, then approves or denies before anything executes.</p><p>The same approval pattern works outside the agent loop &#x2014; any workflow step can pause for human review using Send and Wait operations across Slack, email, Telegram, and other channels.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">HITL pauses the workflow until a human approves. For lower-risk actions where full oversight isn&apos;t necessary, <a href="https://blog.n8n.io/human-in-the-loop-vs-human-on-the-loop/"><u>Human-on-the-Loop (HOTL)</u></a> offers asynchronous monitoring &#x2014; the agent acts autonomously while a human reviews results after the fact and intervenes only on exceptions.</div></div><h3 id="enforcing-output-policies-with-the-guardrails-node">Enforcing output policies with the Guardrails node</h3><p>The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails"><u>Guardrails node</u></a> validates text as it flows through a workflow. Run it on agent inputs and outputs to catch jailbreak attempts, block specific keywords, and sanitize PII and secret keys before they reach a downstream system. In check mode, it splits the workflow into pass and fail branches; in sanitize mode, it redacts and keeps going.</p><p>For teams who want a hard ceiling, an n8n <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.code"><u>Code node</u></a> can wrap a tool call with its own runtime&#xA0; limits. With custom code you can check an expiry window on every call and caps execution time&#xA0; before the tool runs, so an injected prompt cannot turn a quick lookup into a runaway process.</p><h3 id="self-hosting-for-data-residency-and-air-gapped-environments">Self-hosting for data residency and air-gapped environments</h3><p>For regulated or sensitive workloads, teams can self-host n8n so execution data, secrets, and logs never leave controlled infrastructure. This supports data residency rules and air-gapped environments where shipping agent telemetry to a third party is a non-starter. Execution data redaction, mentioned above, adds another layer, masking inputs and outputs at the API level.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">For teams using tracing, n8n supports <a href="https://docs.n8n.io/hosting/logging-monitoring/opentelemetry/"><u>OpenTelemetry</u></a> on self-hosted instances. Every workflow execution emits OTLP traces to any compatible backend &#x2014; Jaeger, Grafana, Datadog, or your existing collector &#x2014; so agent workflows show up in your observability stack alongside the rest of your production services.</div></div><p></p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/agent-governance.png" class="kg-image" alt="AI Agent Governance: Securing Autonomous Agents in Production" loading="lazy" width="1500" height="500" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/agent-governance.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/agent-governance.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/agent-governance.png 1500w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">In n8n you can add AI governance features directly on the same canvas, where you create your agent</em></i></figcaption></figure><h2 id="get-ai-agent-governance-in-platform-with-n8n">Get AI agent governance in-platform with n8n</h2><p>Governance is not the audit you run after something breaks. It&#x2019;s the infrastructure that determines what your agents can do in the first place &#x2014; identity, guardrails, logging, and approval gates wired into the workflow where the agent executes. Teams that get this right treat AI agent governance best practices as part of the build.</p><p><a href="https://n8n.io/"><u>n8n</u></a> keeps those elements in the workflow layer, so you don&#x2019;t need a separate control plane. If you&#x2019;re moving agents into <a href="https://n8n.io/enterprise/"><u>enterprise production</u></a>, try n8n Enterprise to access full governance controls from day one. Or sign up for <a href="https://app.n8n.cloud/register"><u>n8n&#x2019;s trial</u></a> and try governance features, like workflow history and admin roles.</p>]]></content:encoded></item>
-<item><title><![CDATA[AI Audit Trail: Tracing Data Usage in Production Workflows]]></title><description><![CDATA[Learn how to implement an AI audit trail for production workflows. Discover how execution records and data usage tracking ensures governance.
-]]></description><link>https://blog.n8n.io/ai-audit-trail/</link><guid isPermaLink="false">6a568a2b5666b30001489136</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><category><![CDATA[SecOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 24 Jul 2026 15:36:37 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--5-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--5-.jpeg" alt="AI Audit Trail: Tracing Data Usage in Production Workflows"><p>Say a loan-approval AI agent ran in production last quarter, pulled a customer&apos;s financial records, and declined the application. Months later, a regulator asks why. Nobody can answer, because there&#x2019;s no record of what the model saw or decided.&#xA0;</p><p>Traditional audit logging was built for deterministic software, where the same input always produces the same output. AI workflows break that assumption with non-deterministic models, multi-step tool calls, and data access that shifts from run to run.&#xA0;</p><p>Here&#x2019;s what an AI audit trail should capture and how to implement one.</p><h2 id="what%E2%80%99s-an-ai-audit-trail">What&#x2019;s an AI audit trail?</h2><p>An AI audit trail is a structured, time-ordered, tamper-resistant record of every action an AI system takes. It should be detailed enough to reconstruct any execution in full after the fact. A trail captures inputs, outputs, and the data each step touched, so an auditor can replay what happened months later without depending on the engineer who built the workflow.&#xA0;</p><p>Most teams already collect logs. Few collect a complete AI audit trail that answers an auditor&#x2019;s question rather than a debugging one. The difference comes down to three layers, each recording a different level of the same execution.</p><h3 id="workflow-execution-log">Workflow execution log</h3><p>The workflow-level record captures the Run ID, workflow ID, trigger, start and end timestamps, and final status. It answers what ran and when. On its own it proves an execution happens, but it says nothing about the data inside.</p><h3 id="data-access-events">Data access events</h3><p>The node-level layer records which data each step read or wrote, the source system, and the fields involved. For audit trails, AI governance experts and regulators care most here. This shows whether protected information &#x2014; PHI, payment details, financial records &#x2014; entered the pipeline and where it went.</p><h3 id="model-invocation-log">Model invocation log</h3><p>An AI audit trail for LLM workflows has to log the call itself, not just its result. It captures the user prompt, the response returned, the model and version, the temperature, token counts, and any tool calls the model triggered. Without it, you can prove a model ran but not why it produced a given output.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/data-src-image-14ea39da-55c7-4cdb-ba2b-1f9512d707c6.jpeg" class="kg-image" alt="AI Audit Trail: Tracing Data Usage in Production Workflows" loading="lazy" width="602" height="289" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/data-src-image-14ea39da-55c7-4cdb-ba2b-1f9512d707c6.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/data-src-image-14ea39da-55c7-4cdb-ba2b-1f9512d707c6.jpeg 602w"><figcaption><i><em class="italic" style="white-space: pre-wrap;">A robust AI audit trail captures execution data across three distinct layers to ensure full reconstructability</em></i></figcaption></figure><h2 id="ai-audit-trail-vs-observability-vs-monitoring">AI audit trail vs. observability vs. monitoring</h2><p>While audit trails, observability, and monitoring are related concepts, they all serve a distinct purpose. Let&#x2019;s take a look at the differences:&#xA0;</p>
-<!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 800px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 130px;">Concept</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 200px;">Primary Purpose</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;">Stakeholder</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 180px;">Retention Requirement</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 130px;">Tamper-Evident</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Monitoring</td>
-          <td style="padding: 16px;">Alert on system health and performance in the moment</td>
-          <td style="padding: 16px;">On-call engineer or SRE</td>
-          <td style="padding: 16px;">Short &#x2014; days to weeks</td>
-          <td style="padding: 16px;">No</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Observability</td>
-          <td style="padding: 16px;">Explain why the system behaved a certain way</td>
-          <td style="padding: 16px;">Engineer or platform team</td>
-          <td style="padding: 16px;">Medium &#x2014; weeks to months, often sampled</td>
-          <td style="padding: 16px;">No</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">Audit trail</td>
-          <td style="padding: 16px;">Reconstruct and defend a specific decision after the fact</td>
-          <td style="padding: 16px;">Auditor, regulator, or risk team</td>
-          <td style="padding: 16px;">Long &#x2014; months to years</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
-</div>
-<!--kg-card-end: html-->
-<p>Monitoring catches the outage, observability explains the latency spike, but only the audit trail tells a regulator which records the model read before it declined the application. Pairing automated records with <a href="https://blog.n8n.io/production-ai-playbook-human-oversight/"><u>human oversight</u></a> on high-stakes actions gives auditors both the machine log and the human sign-off.</p><p>Conflating an audit trail with observability is a common mistake in production AI systems. The two share plumbing &#x2014; traces, spans, and structured events &#x2014; but they serve different audiences. Observability tells you whether your agents are healthy right now; an audit trail proves what one agent decided six months ago. A trace sampled at 10 percent is fine for latency analysis and useless when the decision you must defend sits in the 90 percent you dropped.&#xA0;</p><h2 id="what-must-an-ai-audit-trail-capture">What must an AI audit trail capture?</h2><p>A useful field spec organizes capture by layer. Each layer carries a different retention and privacy weight, accounting for distinct governance programs. The tool and integration layer is the one most teams forget, yet it&#x2019;s where the audit trail meets the real world: A logged decision means little if the refund it triggered didn&#x2019;t log.&#xA0;</p><p>Here are the main layers a solid trail records:</p>
-<!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 700px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 150px;">Layer</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 220px;">Key Fields</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444;">Why It Matters</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Workflow-level</td>
-          <td style="padding: 16px;">Run ID, workflow ID, trigger, status, start and end timestamps</td>
-          <td style="padding: 16px;">Establishes that a specific run happened and defines the investigation</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Node-level</td>
-          <td style="padding: 16px;">Node name, input and output payloads, data source, records touched</td>
-          <td style="padding: 16px;">Builds data lineage and shows what information moved through each step</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">LLM-call level</td>
-          <td style="padding: 16px;">Model, version, temperature, prompt, response, token counts</td>
-          <td style="padding: 16px;">Explains why the system produced an output</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">Tool/integration level</td>
-          <td style="padding: 16px;">Tool name, parameters, external call ID, returned result</td>
-          <td style="padding: 16px;">Captures real-world effects, like the refund issued, the email sent, the record updated</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
-</div>
-<!--kg-card-end: html-->
-<p>What separates AI audit trail software that survives scrutiny from logs that merely look thorough. Let&#x2019;s have a look at three design decisions.</p><h3 id="retention-policy">Retention policy</h3><p>How long you keep records is a compliance decision. The <a href="https://artificialintelligenceact.eu/"><u>EU AI Act</u></a> requires providers of high-risk systems to retain automatically generated logs for at least six months; <a href="https://www.hipaajournal.com/hipaa-retention-requirements/"><u>HIPAA</u></a> and <a href="https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"><u>the IRS</u></a> often push retention to about seven years. AI audit trail solutions for financial services and healthcare face the strictest requirements, often layering tamper-evident storage on top of multi-year retention. Set it per layer &#x2014; execution metadata can outlive raw prompts, which carry the heaviest privacy risk.&#xA0;</p><h3 id="prompt-storage">Prompt storage</h3><p>Prompts and responses are the richest part of the record and the most sensitive. Storing them verbatim helps investigations but can capture PII or PHI you aren&#x2019;t allowed to retain. Redact or hash sensitive fields before they reach long-term storage, and document what you dropped so auditors know the gap is deliberate.</p><h3 id="schema-versioning">Schema versioning</h3><p>Your log schema changes as models and nodes evolve. Version it from the first release. An auditor reading a two-year-old record needs to know which schema produced it. Otherwise, fields shift meaning and the whole trail loses its authority.&#xA0;</p><h2 id="how-to-implement-an-ai-audit-trail-in-n8n">How to implement an AI audit trail in n8n</h2><p><a href="https://n8n.io/"><u>n8n</u></a> is a workflow automation platform built on a visual, node-based graph that supports both deterministic and agentic execution. Every run automatically generates structured records &#x2014; workflow ID, run ID, node-level inputs and outputs, timestamps, and error states &#x2014; with no extra instrumentation. That makes audit trail logging for AI a default property rather than a separate system to maintain.</p><p>You can <a href="https://docs.n8n.io/"><u>self-host n8n</u></a>, so sensitive prompt and response data never leaves your infrastructure. This doesn&#x2019;t just affect data sovereignty and security. Because n8n is source-available and extensible, you control the log schema, can add custom nodes, and route records exactly where your compliance stack expects them. This is a level of customization that closed AI audit trail tools rarely allow.&#xA0;</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Build audit-ready AI workflows by default</h3>
-    <p>Every n8n execution automatically logs run IDs, node-level I/O, and timestamps &#x2014; no extra instrumentation needed</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
-</div>
-<!--kg-card-end: html-->
-<h3 id="key-n8n-features-for-audit-trail-implementation">Key n8n features for audit trail implementation</h3><p>Here are a few key audit trail capabilities in n8n:</p><ul><li><strong>Execution logs as the default substrate:</strong> Every run records node-level inputs, outputs, run IDs, and timestamps automatically. You can attach business identifiers through the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executiondata"><u>Execution Data</u></a> or <a href="https://docs.n8n.io/build/code-in-n8n/using-the-code-node"><u>Code node</u></a>.</li><li><strong>Failure capture with error workflows:</strong> Error Trigger nodes catch any failed run and route it into a dedicated <a href="https://docs.n8n.io/flow-logic/error-handling/"><u>error workflow</u></a>.</li><li><strong>Export to your own stack:</strong> n8n supports workflow and node execution tracing with <a href="https://blog.n8n.io/trace-n8n-workflow-and-node-executions-with-opentelemetry/"><u>OpenTelemetry </u></a>on all self-hosted tiers, which means you can store logs in separate protected systems.&#xA0;</li></ul><p>On Enterprise plans, <a href="https://docs.n8n.io/log-streaming/"><u>log streaming</u></a> forwards even more events happening inside your n8n instance to your logging tools in real time, and <a href="https://docs.n8n.io/user-management/rbac/"><u>role-based access</u></a> controls decide who can read execution data &#x2014; the access record auditors expect alongside the data record itself.</p><p>n8n supports <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/security/redact-execution-data"><u>execution data redaction (Enterprise feature)</u></a>, which hides input and output payloads while preserving metadata like status and timing. It offers configurable pruning, so you can keep lightweight metadata long after your team purges the raw prompts. This is a clean way to satisfy long retention windows without hoarding the most sensitive part of every run.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/data-src-image-011df566-c8ec-486e-b946-8771fb2a8097.jpeg" class="kg-image" alt="AI Audit Trail: Tracing Data Usage in Production Workflows" loading="lazy" width="602" height="250" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/data-src-image-011df566-c8ec-486e-b946-8771fb2a8097.jpeg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/data-src-image-011df566-c8ec-486e-b946-8771fb2a8097.jpeg 602w"><figcaption><i><em class="italic" style="white-space: pre-wrap;">The n8n audit trail architecture stack, showing how execution data flows to your compliance team</em></i></figcaption></figure><h2 id="treat-the-audit-trail-as-architecture">Treat the audit trail as architecture</h2><p>An AI audit trail is an architectural decision. Bolt it on after a regulator asks, and you&#x2019;re reconstructing evidence from logs that were never built to hold it. Build it into the execution layer, and the record writes itself.&#xA0;</p><p><a href="https://n8n.io/features/"><u>n8n</u></a> generates that substrate by default, like execution logs, run IDs, and node-level I/O. It has clear export paths, plus Enterprise audit and access controls. Your team generates and retains a thorough, tamper-evident trail automatically, so auditors and engineers have instant access to decisions, failures, and paths.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Wire your audit trail into production</h3>
-    <p>Start on n8n Cloud, then explore the execution documentation and workflow templates to get started</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Start on n8n Cloud</a>
-</div>
-<!--kg-card-end: html-->
-]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/gemma-4</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 12:36:45 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 07:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe4c0efdb864612956a_6a19628bb52156163bfb299e_6a16edf129431911f1e415a6_Gemma%2525204%252520cube.avif" /> ]]></content:encoded>
@@ -1323,7 +1222,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 23:36:45 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 06:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1332,7 +1231,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 12:36:45 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 04:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1341,7 +1240,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 04 Aug 2026 15:36:45 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 23:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1350,7 +1249,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 04:36:45 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 19:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1359,7 +1258,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 05 Aug 2026 05:36:45 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 17:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1368,7 +1267,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 09:36:45 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 05:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1377,7 +1276,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 07 Aug 2026 15:36:45 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 16:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1386,7 +1285,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 06 Aug 2026 02:36:45 GMT</pubDate>
+  <pubDate>Sun, 02 Aug 2026 13:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1395,7 +1294,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 11:36:45 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 08:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1404,7 +1303,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 03:36:45 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 13:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1413,7 +1312,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 11:36:45 GMT</pubDate>
+  <pubDate>Sun, 02 Aug 2026 03:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1422,7 +1321,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 09 Aug 2026 07:36:45 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 15:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1431,7 +1330,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 01 Aug 2026 08:36:45 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 04:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1440,7 +1339,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 05:36:45 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 07:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1449,7 +1348,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 09 Aug 2026 16:36:45 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 14:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1458,7 +1357,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 05 Aug 2026 11:36:45 GMT</pubDate>
+  <pubDate>Sat, 01 Aug 2026 05:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1467,7 +1366,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 08 Aug 2026 00:36:45 GMT</pubDate>
+  <pubDate>Wed, 05 Aug 2026 22:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1476,7 +1375,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 09 Aug 2026 21:36:45 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 07:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1485,7 +1384,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 01 Aug 2026 19:36:45 GMT</pubDate>
+  <pubDate>Sun, 02 Aug 2026 03:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1494,7 +1393,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 15:36:45 GMT</pubDate>
+  <pubDate>Sun, 09 Aug 2026 10:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1503,7 +1402,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 12:36:45 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 03:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1512,7 +1411,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 04 Aug 2026 04:36:45 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 02:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1521,7 +1420,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 01:36:45 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 01:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1530,7 +1429,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 15:36:45 GMT</pubDate>
+  <pubDate>Sun, 09 Aug 2026 05:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1539,7 +1438,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/10-meilleurs-prompts-ia-pour-gagner-en-productivite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 05:36:45 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 08:37:41 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc06ea2391205eb9ca4_6a195faa490b49214621d419_69e256b555d46614d347ed79_meilleurs%252520prompts%252520ia.avif" /> ]]></content:encoded>
@@ -1905,40 +1804,40 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/partenariat-hand-shake-324-007.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Neocase intègre la technologie conversationnelle  dans ses solutions RH]]></title>
-  <link>https://www.ia-news.fr/neocase-integre-la-technologie-conversationnelle-dans-ses-solutions-rh/</link>
+  <title><![CDATA[UiPath présente les 4 tendances clés de l&rsquo;automatisation et de l&rsquo;IA en 2025]]></title>
+  <link>https://www.ia-news.fr/uipath-presente-les-4-tendances-cles-de-lautomatisation-et-de-lia-en-2025/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Telehouse et APL Data Center s’associent pour la rénovation d’un datacenter au service de l’intelligence artificielle]]></title>
-  <link>https://www.ia-news.fr/telehouse-et-apl-data-center-sassocient-pour-la-renovation-dun-datacenter-au-service-de-lintelligence-artificielle/</link>
+  <title><![CDATA[Souveraineté numérique : Tenexa annonce un partenariat avec Delos]]></title>
+  <link>https://www.ia-news.fr/souverainete-numerique-tenexa-annonce-un-partenariat-avec-delos/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/06/telehouse-magny1-magny-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/06/telehouse-magny1-magny-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/06/telehouse-magny1-magny-2.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Synapse Développement poursuit sa politique de recrutement avec l’arrivée d’Angéline Lacassagne]]></title>
-  <link>https://www.ia-news.fr/synapse-developpement-poursuit-sa-politique-de-recrutement-avec-larrivee-dangeline-lacassagne/</link>
+  <title><![CDATA[Agents IA : libérer de véritables gains d&rsquo;efficacité grâce à un processus autonome]]></title>
+  <link>https://www.ia-news.fr/agents-ia-liberer-de-veritables-gains-defficacite-grace-a-un-processus-autonome/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/Unknown-2000x1333.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/Unknown-2000x1333.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/Unknown-2000x1333.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Botmaster AI lance sa plateforme d’agents IA autonomes en France]]></title>
-  <link>https://www.ia-news.fr/botmaster-ai-lance-sa-plateforme-dagents-ia-autonomes-en-france/</link>
+  <title><![CDATA[Pega mise sur l’IA pour tourner la page de Lotus Notes]]></title>
+  <link>https://www.ia-news.fr/pega-mise-sur-lia-pour-tourner-la-page-de-lotus-notes/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/05/Intelligence-artificielle-IA-AI-15.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/05/Intelligence-artificielle-IA-AI-15.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/05/Intelligence-artificielle-IA-AI-15.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/10/ai-ia-digital-generique-donnees-2025-01-04.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/10/ai-ia-digital-generique-donnees-2025-01-04.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/10/ai-ia-digital-generique-donnees-2025-01-04.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
