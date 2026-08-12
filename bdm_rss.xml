@@ -107,7 +107,7 @@ var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
 			'theme' : 'ia',
 			'tag' : '',
 			'category_list' : '',
-			'search_result' : '1211',
+			'search_result' : '1212',
 			'article_publication_date' :  ''
 		}];
 	</script>
@@ -339,6 +339,41 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			</div>
 
 			<div class="archive-list row justify-content-center">
+
+				
+					<div class="col-xl-12">
+						<div aria-label="ChatGPT&nbsp;: le guide pour comprendre tous les outils, modèles et fonctionnalités" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-209846" class="d-flex my-md-5 my-4 post-209846 post type-post status-publish format-standard has-post-thumbnail category-ia tag-openai">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/08/guide-ecosysteme-openai-276x144.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ChatGPT&nbsp;: le guide pour comprendre tous les outils, modèles et fonctionnalités" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/08/guide-ecosysteme-openai-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/08/guide-ecosysteme-openai-510x267.jpeg 510w, https://f.hellowork.com/blogdumoderateur/2026/08/guide-ecosysteme-openai-370x194.jpeg 370w" />		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+							<span class="favtag color-b">OpenAI</span>
+			
+			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-08-12T07:00:16+02:00">12 août 2026</time></span>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/chatgpt-guide-comprendre-outils-modeles-et-fonctionnalites/" >
+					<h3 class="entry-title">ChatGPT&nbsp;: le guide pour comprendre tous les outils, modèles et fonctionnalités</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">OpenAI a multiplié les outils, les modèles et les fonctionnalités autour de ChatGPT. On fait le point sur les différentes briques de cet écosystème.</div>
+			
+		</div>
+
+	</article><!-- #post-209846 -->
+
+</div>
+					</div><!-- .col -->
 
 				
 					<div class="col-xl-12">
@@ -831,41 +866,6 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					</div><!-- .col -->
 
 				
-					<div class="col-xl-12">
-						<div aria-label="Avec Muse Code, Meta mise sur le prix pour rivaliser avec Claude Code et Codex" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-209990" class="d-flex my-md-5 my-4 post-209990 post type-post status-publish format-standard has-post-thumbnail category-ia tag-developpement tag-meta">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/08/Muse-Spark-Code-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Avec Muse Code, Meta mise sur le prix pour rivaliser avec Claude Code et Codex" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/08/Muse-Spark-Code-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/08/Muse-Spark-Code-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/08/Muse-Spark-Code-370x194.jpg 370w" />		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-							<span class="favtag color-b">Développement</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-08-06T10:52:46+02:00">6 août 2026</time></span>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/muse-code-meta-mise-prix-rivaliser-claude-codex/" >
-					<h3 class="entry-title">Avec Muse Code, Meta mise sur le prix pour rivaliser avec Claude Code et Codex</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Disponible en bêta sur macOS et Linux, Muse Code mise sur des sous-agents parallèles et une tarification à l'usage pour se faire une place face [...]</div>
-			
-		</div>
-
-	</article><!-- #post-209990 -->
-
-</div>
-					</div><!-- .col -->
-
-				
 				<div class="col-xl-12 pager">
 					<div class="pt-md-5 pt-4 bt-1">
 						<div class='wp-pagenavi' role='navigation'>
@@ -1041,8 +1041,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				<div class="popular-topics">
 					<h3 class="color-w pb-3">Sujets connexes</h3>
 											<a href="https://www.blogdumoderateur.com/dossier/gemini/" class="badge badge-blue">Gemini</a>
-											<a href="https://www.blogdumoderateur.com/dossier/developpement/" class="badge badge-blue">Développement</a>
 											<a href="https://www.blogdumoderateur.com/dossier/transformation-digitale/" class="badge badge-blue">Transformation digitale</a>
+											<a href="https://www.blogdumoderateur.com/dossier/developpement/" class="badge badge-blue">Développement</a>
 											<a href="https://www.blogdumoderateur.com/dossier/design/" class="badge badge-blue">Design</a>
 											<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge badge-blue">Interviews</a>
 											<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge badge-blue">Formation</a>
@@ -1318,8 +1318,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">Une communauté de 70 000 pros du digital</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Rejoignez le club&nbsp;:</div>
+					<div class="h2">On filtre, on vérifie, on rédige.</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous pour recevoir nos articles&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1328,8 +1328,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Club">
-						<input type="hidden" name="cord_title" value="Une communauté de 70 000 pros du digital">
+						<input type="hidden" name="cord_theme" value="Authenticité">
+						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
 						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
@@ -1362,14 +1362,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			<div class="corde-visuel d-lg-flex d-none">
 
 				<img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png" 
+					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
 				/>
 
 				<img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-dm.png" 
+					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
