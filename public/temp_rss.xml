@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 07:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 12:36:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -121,8 +121,8 @@
         <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[For years, schools have posted photos of their pupils online. But could they be misused?]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jy8#2</guid>
+            <link>https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa#2</guid>
             <pubDate>Tue, 11 Aug 2026 19:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p3vxfh.jpg"/>
         </item>
@@ -183,6 +183,27 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ny184j.jpg"/>
         </item>
     
+<item>
+		<title>AI code-testing startup Blacksmith&#8217;s valuation jumps almost 10x in less than a year</title>
+		<link>https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[GV]]></category>
+		<category><![CDATA[Peak XV Partners]]></category>
+		<category><![CDATA[Blacksmith]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3151847</guid>
+
+					<description><![CDATA[Blacksmith says revenue has grown more than tenfold over the past year.]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Accel closes oversubscribed $550M India fund within weeks, 19 months after its last</title>
 		<link>https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/</link>
@@ -516,23 +537,7 @@
 		
 		
 			</item>
-<item>
-		<title>OpenAI acquires presentation startup NextSlide</title>
-		<link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3151377</guid>
-
-					<description><![CDATA[Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[Introducing the n8n Culture/Code]]></title><description><![CDATA[<p>I&#x2019;m going to start this post by talking about dishes. Yes, it&#x2019;s a metaphor. But it&#x2019;s literal, too.&#xA0;</p><p>We recently launched our refreshed company values, in the Culture/Code, at our all-company offsite &#x2018;IRL&#x2019; in Berlin in April, which is</p>]]></description><link>https://blog.n8n.io/n8n-culture-code/</link><guid isPermaLink="false">6a7c3e43d66698000177edae</guid><dc:creator><![CDATA[Jan Oberhauser]]></dc:creator><pubDate>Wed, 12 Aug 2026 09:52:25 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-1_BlogHeader_Human-in-the-Loop-vs-Human-on-the-Loop.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-1_BlogHeader_Human-in-the-Loop-vs-Human-on-the-Loop.jpg" alt="Introducing the n8n Culture/Code"><p>I&#x2019;m going to start this post by talking about dishes. Yes, it&#x2019;s a metaphor. But it&#x2019;s literal, too.&#xA0;</p><p>We recently launched our refreshed company values, in the Culture/Code, at our all-company offsite &#x2018;IRL&#x2019; in Berlin in April, which is fitting, since Berlin is where I started n8n in 2019.</p><p>Somewhere between the bigger ideas about building infrastructure for a new era of work and what it means to operate with integrity, there&#x2019;s a line in there about doing the dishes: </p><blockquote>&#x201C;When something needs doing, you do it - from the strategic call to the dish in the sink.&#x201D;&#xA0;</blockquote><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/IMG_2301--1--2.jpg" class="kg-image" alt="Introducing the n8n Culture/Code" loading="lazy" width="2000" height="2667" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/IMG_2301--1--2.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/08/IMG_2301--1--2.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/08/IMG_2301--1--2.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w2400/2026/08/IMG_2301--1--2.jpg 2400w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Some workflows you don&apos;t automate. You just run them yourself.</span></figcaption></figure><p>This might be my favourite line in the whole Code, because it gets at something essential about what we&#x2019;re here to do at n8n, and how we&#x2019;re going to get there. But, we&#x2019;ll get to that shortly.</p><p>So why do the values refresh now?</p><p>The obvious answer is speed. We&#x2019;ve been growing fast, faster than most, and we&#x2019;re in the top 30 projects of all time on <a href="https://github.com/n8n-io/n8n"><u>Github</u></a>. Moving at the pace we do is a genuine test of how well a culture can flex and absorb change.&#xA0;</p><p>Because culture doesn&#x2019;t transmit automatically. Every month, people join n8n who didn&#x2019;t experience the company when it was small enough for the culture to be felt rather than explained - when a thread on Slack, or a decision made in front of everyone, naturally set the tone. That&#x2019;s not how it works at our size anymore, nor should it be.</p><p>The less comfortable reason for this values refresh is me. As a company scales, a founder necessarily gets farther from the day-to-day contact, which used to be the main way how vision and values traveled. I still love meeting every new hire, I just have less time with each of them than I used to, and less of the ongoing back-and-forth and daily interactions that used to follow. I can&#x2019;t be in every room where a hard call gets made. And as we build out our global team and our US operations - a market with its own norms, pressures, and pace - the risk of cultural drift, or disconnect, is something we couldn&#x2019;t ignore.</p><p>Scale, however, isn&#x2019;t our central goal - impact and longevity is. <strong>We want n8n to be a generational company</strong> - one that&#x2019;s still here, still trusted, and still building in twenty, thirty, and more years. <strong>For that to be true, the culture has to outlast the people who built it</strong> - understood, inherited, and owned by everyone who comes after.</p><p>There&#x2019;s also the remote-first reality. Building a coherent culture across time zones, languages, and working styles, without the ambient social glue of a single shared office (we do have local hubs in some major cities), requires more intentionality than most companies admit. The kind of informal calibration that happens when people are close to each other - overhearing a decision, reading the room, absorbing how a leader handles something under pressure, or recognising just how central our community is to how we make decisions - none of that exists for us by default. We have to create it deliberately, and the Culture/Code is part of how we&#x2019;ll do that. It&#x2019;s not a substitute for real human connection, of course. But it&#x2019;s certainly useful as a shared reference point that helps us to beat stubborn little things like geography, or daylight savings time.</p><p>Our values have always been present in the decisions we made: turning down investors over ethical concerns, letting go of talented people who weren&#x2019;t right for the culture, treating free users and paying ones alike. But we can&#x2019;t rely on osmosis anymore - so we&#x2019;ve written them down.</p><p>Another favourite part of our new Culture/Code is <strong><em>We are welcoming. </em></strong>That entire value gets at something really special about n8n: <strong>we are a truly global community</strong>. You can find people building with n8n on almost every continent. We may have started in Europe, but for a long time, our #1 community hub was in Brazil. If you have a dream and the drive to build something great, you belong here. That&#x2019;s the only entry requirement we have.&#xA0;</p><p>This breadth matters because n8n is a product for everyone: solo builders and global enterprises, developers and the people just starting to learn how to code, teams operating across dozens of countries and industries. And this is why that same inclusive spirit must be protected in our Culture/Code: if the people building n8n don&#x2019;t reflect the extraordinary diversity of our community, then I fear we will end up building something far narrower, and far less impactful, than we&#x2019;re capable of.</p><p>Importantly, n8n has always been more than a bunch of people with the same email signature - our community of contributors, users, template-builders, and forum regulars is part of how we actually work, and how we&#x2019;re going to thrive. And this new Culture/Code is a promise to them too: how we show up in our forums, how we respond when something breaks, how we credit the people building alongside us. The same values that govern how we treat each other internally have to govern how we treat the people building with us. Anything less than that is just corporate theatre - and that isn&#x2019;t us.&#xA0;</p><p>The Culture/Code is written in two parts, because a company&#x2019;s culture has two parts: the values you stand for, and the behaviours that demonstrate how you live those values every day. And the roll-out starts now.&#xA0;</p><p>We&#x2019;re embedding it everywhere, from how we hire to how we give feedback. We&#x2019;ll ask whether people are living it. We&#x2019;ll ask people to challenge us when we&#x2019;re not. Which brings us back to the kitchen sink.</p><p>I like the line about the dishes because it&#x2019;s not about the dishes at all. <strong>It&#x2019;s about the discipline of noticing. Not just the humility to roll up your sleeves but the naturalness of doing so</strong>. The sense of community that means you apply effort to something that maybe wasn&#x2019;t your fault, but you still see as your shared responsibility. Not because anyone&#x2019;s tracking this stuff, but because leaving it for someone else to do isn&#x2019;t who you are.</p><p>When I read the n8n Culture/Code, I see a mirror reflecting who we are, but I also see a map - helping us understand where we&#x2019;re headed, and how we&#x2019;re going to get there, together.</p><blockquote>The only thing I don&#x2019;t want to see&#x2026; is the dish in the sink.</blockquote><p></p>]]></content:encoded></item>
 <item><title><![CDATA[Easier connections to 70 MCP servers, plus when to use them in your workflows]]></title><description><![CDATA[You can now connect to dozens more MCP servers directly from the Node panel with a simple OAuth flow. Pick a server, sign in, and it's ready for your agent to use.]]></description><link>https://blog.n8n.io/one-click-connection-to-70-mcp-servers-and-when-to-use-them/</link><guid isPermaLink="false">6a798a3fa7a5f30001930992</guid><category><![CDATA[News]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[Desiree Lockwood, n8n]]></dc:creator><pubDate>Mon, 10 Aug 2026 17:46:54 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/MCP-Registry-blog-PMM-29.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/MCP-Registry-blog-PMM-29.jpg" alt="Easier connections to 70 MCP servers, plus when to use them in your workflows"><p>The team just rolled out a fresh batch of MCP servers you can add straight from the Node panel. New additions like Airtable, Grafana, Miro, New Relic, Jotform, and PandaDoc are joining the ones you could already connect to, like Notion, Stripe, GitLab, Apify, Linear, monday.com, and Hugging Face. Connecting to 70 services (and counting) is now a quick OAuth flow.</p>
 <!--kg-card-begin: html-->
 <!--ARCADE EMBED START--><div style="position: relative; padding-bottom: calc(50.9766% + 41px); height: 0px; width: 100%;"><iframe src="https://demo.arcade.software/zVQHBmWZdMEltrWlLozi?embed&amp;embed_mobile=tab&amp;embed_desktop=inline&amp;show_copy_link=true" title="Demo" frameborder="0" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="clipboard-write; autoplay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; color-scheme: light;"></iframe></div><!--ARCADE EMBED END-->
@@ -1144,77 +1149,20 @@
 <!--kg-card-end: html-->
 <h2 id="faq">FAQ</h2><h3 id="what-is-an-example-of-a-data-pipeline">What is an example of a data pipeline?</h3><p>Consider the case of a data pipeline used for fraud detection at a bank:</p><ol><li>Real-time data pipelines ingest customer transaction events from multiple data sources, such as ATMs and the online app.&#xA0;</li><li>Automated workflows feed the data collected from these transactions into machine learning algorithms to identify anomalies.&#xA0;</li><li>The system compares customer behavior to a baseline of normal activity to detect anomalies and flag potential fraud.</li></ol><h3 id="what-is-the-30-rule-in-ai">What is the 30% Rule in AI?</h3><p>The 30% rule suggests that AI technology should automate roughly 70% of tasks and leave the remaining 30% for human judgment. For example, a data engineer remains responsible for high-level architecture, data governance, and strategic validation in a modern AI system that complies with this best practice. Meanwhile, AI automates routine data transformation and feature engineering tasks.</p><h3 id="can-ai-replace-etl">Can AI replace ETL?</h3><p>AI enhances <a href="https://blog.n8n.io/open-source-etl-tools/"><u>ETL tools</u></a> and fundamentally changes how they work, but it doesn&#x2019;t replace them. The core need to ingest and transform raw data still exists. The main difference is that an AI tool automates data prepping and can validate data quality.</p>]]></content:encoded></item>
 <item><title><![CDATA[AI Maturity - Bridging the Orchestration Chasm]]></title><description><![CDATA[<p>The AI maturity framework in Section 2 may suggest a smooth, linear progression. The reality is different. Organizations do not advance evenly through these levels. There is a specific transition point where most enterprises stall, and understanding why is how anyone can reliably scale AI today.</p><p>The hardest leap is</p>]]></description><link>https://blog.n8n.io/ai-maturity-bridging-the-orchestration-chasm/</link><guid isPermaLink="false">6a638c1aefb98500010c2ee8</guid><dc:creator><![CDATA[Elvis Saravia]]></dc:creator><pubDate>Fri, 24 Jul 2026 16:03:38 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/BlogHeader_AI-Maturity-V3.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/BlogHeader_AI-Maturity-V3.jpg" alt="AI Maturity - Bridging the Orchestration Chasm"><p>The AI maturity framework in Section 2 may suggest a smooth, linear progression. The reality is different. Organizations do not advance evenly through these levels. There is a specific transition point where most enterprises stall, and understanding why is how anyone can reliably scale AI today.</p><p>The hardest leap is from <strong>Level 2 (Operational)</strong> to <strong>Level 3 (Systemic)</strong>. This is the orchestration chasm, and it is where the majority of enterprise AI initiatives plateau or fail.</p><h3 id="what-level-2-actually-looks-like"><strong>What Level 2 Actually Looks Like</strong></h3><p>At Level 2, an organization has real wins to point to. Marketing has a content-generation workflow that saves the team hours each week. Customer support has an AI-powered triage system that routes tickets faster. HR has automated parts of onboarding. Finance uses AI to flag anomalies in expense reports.</p><p>These are genuine improvements that deliver measurable value within their respective departments. But they share a common structural limitation: each one is a standalone system built for a single use case. The marketing tool does not talk to the CRM. The support triage system does not connect to the billing platform. The HR workflow cannot reach the IT provisioning system.</p><p>This is the pattern<a href="https://kpmg.com/us/en/media/news/q4-ai-pulse.html"> <u>KPMG&apos;s Q4 2025 AI Pulse Survey</u></a> captured when it found that 65% of leaders cite agentic system complexity as the top barrier to deployment, a figure that held steady for two consecutive quarters. Individual pilots often succeed. The deeper challenge is that success at the department level does not automatically translate to success at the enterprise level.</p><h3 id="why-the-gap-exists"><strong>Why the Gap Exists</strong></h3><p>Three structural barriers prevent organizations from making this leap.</p><p><strong>The integration barrier.</strong> At Level 2, AI tools operate as islands. They receive input from a human, process it, and return output to that same human. To reach Level 3, AI systems need to operate as part of the enterprise&apos;s nervous system, reading from and writing to the same systems that run the business: CRMs, ERPs, HR platforms, billing systems, communication tools, and databases, many of which were built long before AI existed. <a href="https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027"><u>Gartner predicts</u></a> that over 40% of agentic AI projects will be canceled by the end of 2027 because of escalating costs, unclear business value, and inadequate risk controls. Gartner also notes that integrating agents into legacy systems can be technically complex and costly.</p><p><strong>The governance barrier.</strong> Department-level pilots can operate with lightweight governance. A marketing team using AI for copy generation needs a usage policy and some prompt guidelines. But when AI systems start accessing customer data from the CRM, processing financial transactions, and making decisions that affect multiple departments, governance requirements expand dramatically.<a href="https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html"> <u>Deloitte&apos;s 2026 State of AI in the Enterprise</u></a> report found that only 21% of organizations have a mature model for governing autonomous agents, while 73% cite data privacy and security as their top concern. The governance infrastructure that worked at Level 2 is fundamentally insufficient for Level 3.</p><p><strong>The coordination barrier.</strong> At Level 2, each department owns its own AI initiatives. There is no central authority coordinating which systems AI can access, what standards agents must follow, or how cross-departmental workflows should be designed. Moving to Level 3 requires organizational coordination that most enterprises have not built. The same<a href="https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html"> <u>Deloitte research</u></a> found that 84% of companies have not redesigned jobs around AI capabilities, meaning the organizational structure itself is not yet ready for AI to operate at scale.</p><h3 id="the-solution-the-orchestration-layer"><strong>The Solution: The Orchestration Layer</strong></h3><p>The technical answer to bridging this chasm is what analysts increasingly call the <strong>orchestration layer</strong>. Enterprise demand for this capability is growing rapidly:<a href="https://www.gartner.com/en/articles/multiagent-systems"> <u>Gartner reported a 1,445% surge</u></a> in client inquiries about multi-agent systems from the first quarter of 2024 to the second quarter of 2025.<a href="https://www.forrester.com/blogs/announcing-our-evaluation-of-the-agent-control-plane-market/"> <u>Forrester has introduced an Agent Control Plane research stream</u></a> and announced a dedicated market evaluation for the category.</p><p>The orchestration layer is middleware that sits between AI models and enterprise systems. It serves three critical functions.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/AI-Maturity_Graphic-V3.jpg" class="kg-image" alt="AI Maturity - Bridging the Orchestration Chasm" loading="lazy" width="2000" height="1152" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/AI-Maturity_Graphic-V3.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/AI-Maturity_Graphic-V3.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/07/AI-Maturity_Graphic-V3.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/AI-Maturity_Graphic-V3.jpg 2320w" sizes="(min-width: 720px) 720px"></figure><p><strong>Context.</strong> It allows AI agents to fetch real-time data from enterprise systems before making decisions. Instead of operating on whatever information a human pastes into a chat window, the agent can authenticate into the CRM, pull the relevant customer record, check account status, and use that actual data to inform its response. Working from complete, current data is what separates a production system from a demo. Without it, the agent can only reason over whatever a human happens to paste into a chat window.</p><p><strong>Action.</strong> It allows AI agents to perform write operations, not just read operations. An agent can update a CRM record, create a support ticket, process a refund, send a notification, or trigger a downstream workflow. This is what transforms AI from an assistant that produces text into an actor that produces outcomes.<a href="https://www.forrester.com/blogs/predictions-2026-payments-innovation-takes-root-but-dont-expect-overnight-change/"> <u>Forrester predicts</u></a> that by the end of 2026, about a third of B2B payment workflows will use autonomous AI agents, with examples including supplier and buyer dispute management, invoice matching, and payment reconciliation. None of that is possible if agents can only generate text.</p><p><strong>Control.</strong> It keeps business logic within the enterprise&apos;s own infrastructure rather than inside a specific AI vendor&apos;s platform. When your workflows, data connections, and business rules live in your own orchestration layer, you can swap the underlying AI model, whether moving from one commercial provider to another or adopting an open-source alternative, without rebuilding the entire system. In a market where AI capabilities shift monthly, this architectural flexibility is not optional.</p><p><strong>n8n Enterprise.</strong> Scale robust, reliable workflows that meet compliance and governance standards. Find out why 34% of Fortune 500 companies trust n8n&apos;s advanced security and DevOps features to build and monitor business-critical AI workflows.<a href="https://n8n.io/enterprise/"> <u>Learn more about n8n Enterprise</u></a>.</p><h3 id="what-this-looks-like-in-practice"><strong>What This Looks Like in Practice</strong></h3><p>The organizations that have successfully bridged this chasm made the same architectural choice. Rather than deploying a better standalone model, they connected AI to the systems the business actually runs on.</p><p><strong>In Practice:</strong><a href="https://blogs.microsoft.com/bayarea/2025/05/07/as-ai-agents-transform-work-the-bay-area-is-on-the-cutting-edge/"> <u>Wells Fargo deployed an AI assistant to 35,000 bankers across roughly 4,000 branches</u></a>, connecting the agent to internal procedures and reference material. The result: bankers retrieve the information they need in about 30 seconds, down from up to 10 minutes of manual searching, and roughly 75% of relevant searches now run through the agent.<a href="https://www.jpmorganchase.com/about/technology/news/llmsuite-ab-award"> <u>JPMorgan Chase</u></a> built a proprietary platform, LLM Suite, which reached 200,000 onboarded users within eight months, while its<a href="https://www.abajournal.com/news/article/jpmorgan_chase_uses_tech_to_save_360000_hours_of_annual_work_by_lawyers_and"> <u>Contract Intelligence (COiN) system</u></a> performs the equivalent of 360,000 hours of legal and loan-officer work annually. In both cases, integration was what produced the breakthrough, and the choice of model was secondary.</p><p>On the other side,<a href="https://www.sweep.io/blog/2025-the-year-enterprise-ai-hit-the-system-wall"> <u>Sweep&apos;s 2025 post-mortem of stalled enterprise AI initiatives</u></a> found that organizations failed because their &quot;systems were illegible.&quot; Autonomous agents exposed years of hidden metadata debt in platforms like Salesforce. These companies had tried to modernize intelligence without modernizing how work gets done.</p><h3 id="why-orchestration-matters-more-than-model-selection"><strong>Why Orchestration Matters More Than Model Selection</strong></h3><p>A common mistake at the executive level is treating AI adoption as primarily a model-selection problem. &quot;Which AI should we buy?&quot; is the wrong first question. The right question is: &quot;How will AI connect to our existing systems, data, and workflows?&quot;</p><p>The AI model is the reasoning engine. It is important, but it is interchangeable. What gives that reasoning engine the ability to do useful work inside your organization is the layer that connects it to your actual data and tools. Without that layer, even the most capable model in the world is limited to answering questions based on whatever a human manually provides.</p><p>This is why the orchestration layer is the single most important architectural decision an enterprise makes in its AI journey. It determines whether AI remains a collection of departmental tools or becomes an integrated part of how the business operates. It is also where governance gets implemented in practice, because it is the single point through which all AI interactions with enterprise systems flow. Authentication, role-based access, audit logging, data classification, and compliance checks can all be enforced at this layer rather than rebuilt independently for every AI application. As the<a href="https://cloudsecurityalliance.org/blog/2025/12/18/ai-security-governance-your-maturity-multiplier"> <u>Cloud Security Alliance&apos;s 2025 assessment</u></a> reported that 26% of organizations had comprehensive AI security governance policies in place. The orchestration layer is where the other three-quarters can close that gap.</p><h3 id="what-comes-next"><strong>What Comes Next</strong></h3><p>Understanding why the chasm exists is one thing. Crossing it is another. Is your organization treating AI adoption as a model-selection problem, or as an integration and governance problem? The answer usually predicts whether your pilots scale or stall.</p><p>The next post in this series turns diagnosis into action: a phased playbook for advancing through the maturity levels, with concrete steps, realistic timelines, and the organizational changes each transition demands.</p>]]></content:encoded></item>
-<item><title><![CDATA[AI Agent Governance: Securing Autonomous Agents in Production]]></title><description><![CDATA[Discover enterprise AI agent governance. Inventory agents, enforce least-privilege access, and add runtime guardrails for security at the workflow level.
-]]></description><link>https://blog.n8n.io/ai-agent-governance/</link><guid isPermaLink="false">6a5684085666b3000148910a</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 24 Jul 2026 15:45:03 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--6-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--6-.jpeg" alt="AI Agent Governance: Securing Autonomous Agents in Production"><p>Your agents are already in production. They authenticate as real users, call internal APIs, and execute multi-step workflows without waiting for sign-off. That autonomy is the point &#x2014; and the problem. AI agent governance grants permissions, proves past actions, and prevents unauthorized behavior. This guide shows you how to treat it as architecture, not a policy document.</p><h2 id="why-is-ai-agent-governance-urgent">Why is AI agent governance urgent?</h2><p>The shift from prototype to production happens fast and rarely follows a planned release cycle. A weekend experiment becomes a customer-facing workflow before anyone files a review ticket. Risk climbs as the agent picks up integrations and inherits permissions that drift past its original purpose.</p><p>Higher autonomy and broader access call for stronger controls. When authority boundaries are vague during creation, the controls you add later tend to be reactive patches rather than preventative design. Enterprise AI agent governance has to start at deployment, or you spend the next quarter reconstructing what your agents can reach across identity, data access, and runtime behavior. Three forces make this issue a problem you need to address now:</p><ul><li><strong>Cross-system reach:</strong> Agents operate across SaaS and cloud environments at once, so a single compromised agent affects multiple areas.</li><li><strong>Inherited identity: </strong>Delegated credentials and API access grant permissions the agent was never scoped to need.</li><li><strong>Scale outpacing oversight:</strong> Agent sprawl grows faster than governance programs can register and review each new deployment. This is especially common once teams move from a single bot to <a href="https://blog.n8n.io/multi-agent-systems/"><u>multi-agent systems</u></a>.</li></ul><h2 id="core-pillars-of-ai-agent-governance-frameworks">Core pillars of AI agent governance frameworks</h2><p>AI agent security and governance involves several key components. Engineering teams need each one defined before an agent reaches production &#x2014; not bolted on after an incident.</p><h3 id="identity-and-access-control">Identity and access control</h3><p>Every agent action should run with the original user&#x2019;s scope rather than a shared, high-privilege service account. This is the core of AI agent identity governance: Tie each agent to a known identity, scope its credentials to the minimum it needs, and store secrets in a vault rather than a workflow parameter. <a href="https://genai.owasp.org/llmrisk/llm062025-excessive-agency/"><u>OWASP</u></a> flags this directly &#x2014; excessive permissions are one of the three root causes of excessive agency, alongside excessive functionality and autonomy.</p><h3 id="runtime-guardrails-and-policies">Runtime guardrails and policies</h3><p>Controls that only live in a design doc can&#x2019;t stop misfires at 2 a.m. Runtime enforcement means validating inputs and outputs as the agent runs: blocking prompt injection, redacting sensitive data before it leaves the workflow, and rejecting tool calls that fall outside policy. Guardrails belong in the execution path, where a failed check actually halts the action.</p><h3 id="observability-and-evaluation">Observability and evaluation</h3><p>You can only govern what you can see. Every tool call, decision, and credential use should be logged and replayable. Pair that record with ongoing evaluation &#x2014; red teaming, adversarial testing, and anomaly detection on tool-call sequences &#x2014; so unusual behavior surfaces as a signal before it becomes an incident.&#xA0;</p><h3 id="decision-boundaries-and-compliance">Decision boundaries and compliance</h3><p>Define which operations an agent may complete on its own and which require human approval: irreversible writes, external sends, and any action touching regulated data. Mapping these boundaries does double duty for compliance, since the <a href="https://artificialintelligenceact.eu/"><u>EU AI Act</u></a> and audit regimes expect a human-accountable record for automated decisions.&#xA0;</p><h2 id="inventory-agents-and-ownership">Inventory agents and ownership</h2><p>You can&#x2019;t secure agents you haven&#x2019;t catalogued, and shadow agents are where governance quietly fails. Before anything reaches production, every agent needs a record answering who owns it, what it can touch, and how to trace what it did. Keep the inventory short enough that teams actually maintain it. Here are the main elements to include:</p>
-<!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 600px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 180px;">Field</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444;">What to Capture</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Purpose and environment</td>
-          <td style="padding: 16px;">Business function, and whether it runs in dev, staging, or production</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Ownership</td>
-          <td style="padding: 16px;">Owning team and a named on-call contact</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Identity and credentials</td>
-          <td style="padding: 16px;">Delegated identity model and where its secrets are stored</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Tool and integration surface</td>
-          <td style="padding: 16px;">Connected tools and APIs and permission scopes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Data sensitivity</td>
-          <td style="padding: 16px;">Classifications the agent touches, such as PII, PHI, or secrets</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">Audit hooks</td>
-          <td style="padding: 16px;">Logging points that give end-to-end traceability</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
-</div>
-<!--kg-card-end: html-->
-<p></p><p>Treat the inventory as a living record across the agent lifecycle. An agent gets registered before deployment, then re-reviewed whenever something material changes &#x2014; a new integration, an expanded permission, or a swapped model or tool. Retirement matters just as much: revoke the agent&#x2019;s access, decommission its identity, and archive its logs so the audit trail outlives the workflow.&#xA0;</p><h2 id="visibility-monitoring-and-oversight">Visibility, monitoring, and oversight</h2><p>Observability and governance are not the same thing. Observability tells you what an agent did; governance determines what it was allowed to do. Production needs both because a perfect log of an unauthorized action is still an unauthorized action. Here&#x2019;s how observability fits into governance.</p><h3 id="audit-logging-and-decision-traceability">Audit logging and decision traceability</h3><p>Each agent decision should leave a record you can reconstruct later: which tool ran, with what inputs, under whose identity, and what came back. That traceability turns a vague log into a specific, reviewable event, and it is what auditors and incident responders ask for first.</p><h3 id="log-streaming-and-siem-integration">Log streaming and SIEM integration</h3><p>Local logs are not enough once agents touch real systems. Streaming events to your existing security information and event management (SIEM) system puts agent activity next to the rest of your security telemetry, so anomaly detection and alerting work the same way they do for any other workload. Encrypted transport keeps that pipeline compliant with enterprise requirements.</p><h2 id="how-to-implement-ai-agent-governance-in-n8n">How to implement AI agent governance in n8n</h2><p>Frameworks are easier to read than enforce. The difference shows up in where the controls live. <a href="https://n8n.io/"><u>n8n</u></a> runs agents on a visual, node-based canvas with deterministic and agentic execution.</p><p>Among workflow automation platforms, n8n enforces these controls where the agent actually runs &#x2014; governance decisions execute inside the workflow, not in a separate policy layer. Each pillar maps to a concrete n8n feature.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Enforce AI agent governance where it matters</h3>
-    <p>Identity, guardrails, logging, and approval gates wired directly into the workflow where your agent runs</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
-</div>
-<!--kg-card-end: html-->
-<h3 id="configuring-rbac-and-project-scoped-permissions">Configuring RBAC and project-scoped permissions</h3><p>Start with n8n&#x2019;s <a href="https://docs.n8n.io/user-management/rbac/"><u>roles-based access controls</u></a> (RBAC), available on all paid plans. Gather workflows and credentials into projects, then give each user and each agent&#x2019;s service identity the narrowest role possible. On Enterprise plans, custom roles let you separate the right to run a workflow from the right to edit it, a strong control for sensitive automations.</p><h3 id="setting-up-log-streaming-for-agent-workflows">Setting up log streaming for agent workflows</h3><p>Send execution events to your SIEM with <a href="https://docs.n8n.io/log-streaming/"><u>log streaming</u></a> so agent activity lands in the same place as the rest of your monitoring. Encrypted syslog over TLS keeps the pipeline audit-ready, and reveal events &#x2014; when someone unmasks redacted data &#x2014; are captured too.&#xA0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">Log streaming is available on Enterprise plans. For teams without a centralized SIEM, n8n&apos;s <a href="https://docs.n8n.io/insights/"><u>Insights dashboard</u></a> (available from Pro plan) and <a href="https://docs.n8n.io/workflows/executions/"><u>execution history</u></a> (all plans) provide built-in observability. For systematic pre-deployment testing, <a href="https://docs.n8n.io/advanced-ai/evaluations/overview/"><u>n8n&apos;s Evaluations feature</u></a> runs agent workflows against test datasets and scores outputs for correctness.</div></div><h3 id="adding-hitl-approval-steps-to-sensitive-actions">Adding HITL approval steps to sensitive actions</h3><p>Gate actions you wouldn&#x2019;t want an agent taking alone with <a href="https://blog.n8n.io/production-ai-playbook-human-oversight/"><u>human oversight</u></a>. n8n&#x2019;s human-in-the-loop tools let the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a> pause before a specific tool runs and route an approval request to Slack, email, or chat. The reviewer sees the exact tool and parameters, then approves or denies before anything executes.</p><p>The same approval pattern works outside the agent loop &#x2014; any workflow step can pause for human review using Send and Wait operations across Slack, email, Telegram, and other channels.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">HITL pauses the workflow until a human approves. For lower-risk actions where full oversight isn&apos;t necessary, <a href="https://blog.n8n.io/human-in-the-loop-vs-human-on-the-loop/"><u>Human-on-the-Loop (HOTL)</u></a> offers asynchronous monitoring &#x2014; the agent acts autonomously while a human reviews results after the fact and intervenes only on exceptions.</div></div><h3 id="enforcing-output-policies-with-the-guardrails-node">Enforcing output policies with the Guardrails node</h3><p>The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails"><u>Guardrails node</u></a> validates text as it flows through a workflow. Run it on agent inputs and outputs to catch jailbreak attempts, block specific keywords, and sanitize PII and secret keys before they reach a downstream system. In check mode, it splits the workflow into pass and fail branches; in sanitize mode, it redacts and keeps going.</p><p>For teams who want a hard ceiling, an n8n <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.code"><u>Code node</u></a> can wrap a tool call with its own runtime&#xA0; limits. With custom code you can check an expiry window on every call and caps execution time&#xA0; before the tool runs, so an injected prompt cannot turn a quick lookup into a runaway process.</p><h3 id="self-hosting-for-data-residency-and-air-gapped-environments">Self-hosting for data residency and air-gapped environments</h3><p>For regulated or sensitive workloads, teams can self-host n8n so execution data, secrets, and logs never leave controlled infrastructure. This supports data residency rules and air-gapped environments where shipping agent telemetry to a third party is a non-starter. Execution data redaction, mentioned above, adds another layer, masking inputs and outputs at the API level.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">For teams using tracing, n8n supports <a href="https://docs.n8n.io/hosting/logging-monitoring/opentelemetry/"><u>OpenTelemetry</u></a> on self-hosted instances. Every workflow execution emits OTLP traces to any compatible backend &#x2014; Jaeger, Grafana, Datadog, or your existing collector &#x2014; so agent workflows show up in your observability stack alongside the rest of your production services.</div></div><p></p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/agent-governance.png" class="kg-image" alt="AI Agent Governance: Securing Autonomous Agents in Production" loading="lazy" width="1500" height="500" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/agent-governance.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/agent-governance.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/agent-governance.png 1500w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">In n8n you can add AI governance features directly on the same canvas, where you create your agent</em></i></figcaption></figure><h2 id="get-ai-agent-governance-in-platform-with-n8n">Get AI agent governance in-platform with n8n</h2><p>Governance is not the audit you run after something breaks. It&#x2019;s the infrastructure that determines what your agents can do in the first place &#x2014; identity, guardrails, logging, and approval gates wired into the workflow where the agent executes. Teams that get this right treat AI agent governance best practices as part of the build.</p><p><a href="https://n8n.io/"><u>n8n</u></a> keeps those elements in the workflow layer, so you don&#x2019;t need a separate control plane. If you&#x2019;re moving agents into <a href="https://n8n.io/enterprise/"><u>enterprise production</u></a>, try n8n Enterprise to access full governance controls from day one. Or sign up for <a href="https://app.n8n.cloud/register"><u>n8n&#x2019;s trial</u></a> and try governance features, like workflow history and admin roles.</p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 04 Aug 2026 08:00:53 GMT</pubDate>
-  <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7aea52e5a311c3e3ee9d6b_ai-act-ce-qui-change-pour-entreprises-salaries-createursia%20(1).png" medium="image" />
-  <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7aea52e5a311c3e3ee9d6b_ai-act-ce-qui-change-pour-entreprises-salaries-createursia%20(1).png" />
-  <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7aea52e5a311c3e3ee9d6b_ai-act-ce-qui-change-pour-entreprises-salaries-createursia%20(1).png" /> ]]></content:encoded>
+  <pubDate>Mon, 10 Aug 2026 12:36:18 GMT</pubDate>
+  <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
+  <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
+  <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 18:00:53 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 15:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1223,7 +1171,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 23:00:53 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 14:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1232,7 +1180,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 22:00:53 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 07:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1241,7 +1189,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 07:00:53 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 19:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1250,7 +1198,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 09 Aug 2026 13:00:53 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 09:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1259,7 +1207,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 15:00:53 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 22:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1268,7 +1216,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 11 Aug 2026 11:00:53 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 23:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1277,7 +1225,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 04 Aug 2026 05:00:53 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 09:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1286,7 +1234,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 06 Aug 2026 16:00:53 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 13:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1295,7 +1243,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 05 Aug 2026 09:00:53 GMT</pubDate>
+  <pubDate>Sun, 09 Aug 2026 15:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1304,7 +1252,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 07 Aug 2026 04:00:53 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 01:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1313,7 +1261,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 15:00:53 GMT</pubDate>
+  <pubDate>Tue, 04 Aug 2026 17:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1322,7 +1270,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 04:00:53 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 09:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1331,7 +1279,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 08:00:53 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1340,7 +1288,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 08 Aug 2026 12:00:53 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 01:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1349,7 +1297,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 02 Aug 2026 16:00:53 GMT</pubDate>
+  <pubDate>Sun, 09 Aug 2026 20:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1358,7 +1306,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 09 Aug 2026 19:00:53 GMT</pubDate>
+  <pubDate>Sat, 08 Aug 2026 04:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1367,7 +1315,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 08 Aug 2026 20:00:53 GMT</pubDate>
+  <pubDate>Sun, 09 Aug 2026 19:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1376,7 +1324,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 03 Aug 2026 03:00:53 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 04:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1385,7 +1333,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 06 Aug 2026 04:00:53 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 00:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1394,7 +1342,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 08 Aug 2026 23:00:53 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 09:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1403,7 +1351,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 06 Aug 2026 01:00:53 GMT</pubDate>
+  <pubDate>Fri, 07 Aug 2026 01:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1412,7 +1360,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 11 Aug 2026 19:00:53 GMT</pubDate>
+  <pubDate>Mon, 03 Aug 2026 05:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1421,7 +1369,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 12 Aug 2026 00:00:53 GMT</pubDate>
+  <pubDate>Thu, 06 Aug 2026 09:36:18 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1787,40 +1735,49 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/partenariat-hand-shake-324-007.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[1re édition du baromètre Digital Workplace par Experteam et Mozzaik 365]]></title>
-  <link>https://www.ia-news.fr/1re-edition-du-barometre-digital-workplace-par-experteam-et-mozzaik-365/</link>
+  <title><![CDATA[Les fondamentaux à connaître pour utiliser l’IA à bon escient]]></title>
+  <link>https://www.ia-news.fr/les-fondamentaux-a-connaitre-pour-utiliser-lia-a-bon-escient/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-generique-digital-ordinateur-it-workplace.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-generique-digital-ordinateur-it-workplace.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-generique-digital-ordinateur-it-workplace.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Qlik présente une expérience agentique]]></title>
-  <link>https://www.ia-news.fr/qlik-presente-une-experience-agentique/</link>
+  <title><![CDATA[IA souveraine : 91 % des entreprises s&rsquo;appuient sur le stockage objet pour leurs déploiements en production]]></title>
+  <link>https://www.ia-news.fr/ia-souveraine-91-des-entreprises-sappuient-sur-le-stockage-objet-pour-leurs-deploiements-en-production/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/users-ux-ui.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/users-ux-ui.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/users-ux-ui.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Les « zombies de l’IA » : un nouveau défi pour les entreprises]]></title>
-  <link>https://www.ia-news.fr/les-zombies-de-lia-un-nouveau-defi-pour-les-entreprises/</link>
+  <title><![CDATA[Réussir son Projet Numérique en 2024 : Les Points Stratégiques]]></title>
+  <link>https://www.ia-news.fr/reussir-son-projet-numerique-en-2024-les-points-strategiques/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/digital-bleu-rose.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/digital-bleu-rose.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/digital-bleu-rose.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Eurêka Solutions intègre l’IA dans son ERP]]></title>
-  <link>https://www.ia-news.fr/eureka-solutions-integre-lia-dans-son-erp/</link>
+  <title><![CDATA[OroCommerce 7.0 : Une plateforme d&rsquo;IA native et prête à l&#8217;emploi pour les entreprises B2B]]></title>
+  <link>https://www.ia-news.fr/orocommerce-7-0-une-plateforme-dia-native-et-prete-a-lemploi-pour-les-entreprises-b2b/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/erp-chiffres-00.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/erp-chiffres-00.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/erp-chiffres-00.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-04.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-04.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-04.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Limova met l’IA au service des entrepreneurs]]></title>
+  <link>https://www.ia-news.fr/limova-met-lia-au-service-des-entrepreneurs/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
