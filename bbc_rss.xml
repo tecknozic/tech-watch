@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 06:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 12:16:45 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[OpenAI slows down training after its AI carried out hack]]></title>
+            <description><![CDATA[The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c235dmndylzo#0</guid>
+            <pubDate>Wed, 19 Aug 2026 11:19:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg"/>
+        </item>
         <item>
             <title><![CDATA[The critical tech staying safe by going underground]]></title>
             <description><![CDATA[The war in Ukraine has spurred people to consider putting vital infrastructure underground.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwyq22g0ylxo#0</guid>
             <pubDate>Thu, 13 Aug 2026 07:04:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f293/live/a0e50b20-96dd-11f1-870d-5d08c49babb2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Japanese firms are being so slow to use AI]]></title>
-            <description><![CDATA[Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwymw4434v7o#0</guid>
-            <pubDate>Wed, 12 Aug 2026 23:00:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
