@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 06:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 12:18:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK business hit by 'daylight robbery' 1500% price hike for invoicing software]]></title>
+            <description><![CDATA[Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyq011414eo#0</guid>
+            <pubDate>Thu, 20 Aug 2026 09:44:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b9f/live/adebd4a0-9c70-11f1-8efc-bf1ca073197a.jpg"/>
+        </item>
         <item>
             <title><![CDATA[81,000 warning letters sent to crypto holders in HMRC tax crackdown ]]></title>
             <description><![CDATA[According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2c2/live/34e5f670-972b-11f1-808c-532494fd22c7.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Flock boss admits surveillance firm took too long to act over police abuse]]></title>
-            <description><![CDATA[US police officers have quit after using licence plate-reading cameras to track romantic partners.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crrv1rjwgl9o#0</guid>
-            <pubDate>Thu, 13 Aug 2026 13:02:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/041d/live/7f342ef0-9720-11f1-bb91-6bb44c42ed47.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[Vapour trails from aircraft contribute to warming in the atmosphere.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,6 +183,40 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0ny184j.jpg"/>
         </item>
     
+<item>
+		<title>Meta AI&#8217;s new Mac app wants you to talk to your apps</title>
+		<link>https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 12:11:57 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Dictation]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3154766</guid>
+
+					<description><![CDATA[Meta said its Muse Spark model is powering the dictation feature.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Binance now lets AI agents trade, but keeping them in check is largely up to users</title>
+		<link>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 09:30:00 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3154391</guid>
+
+					<description><![CDATA[Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Stripe didn&#8217;t really buy OpenRouter because of the &#8216;singularity&#8217;</title>
 		<link>https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/</link>
@@ -490,40 +524,113 @@
 		
 		
 			</item>
-<item>
-		<title>Perplexity’s free AI offer left it with millions more users in India</title>
-		<link>https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 18 Aug 2026 13:45:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Airtel]]></category>
-		<category><![CDATA[Perplexity]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3153831</guid>
-
-					<description><![CDATA[Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Anthropic&#8217;s annualized revenue surges to $65B</title>
-		<link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Mon, 17 Aug 2026 23:56:26 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3153733</guid>
-
-					<description><![CDATA[The model maker added $18 billion in annualized revenue in two months.]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore]]></title><description><![CDATA[A triage agent routes each customer question to one of three specialists: one computes real numbers in a sandbox, one loads AWS guidance, one investigates. All four run on a single Amazon Bedrock AgentCore harness and share one memory per customer, so no one is asked to repeat themselves.]]></description><link>https://blog.n8n.io/node-spotlight-amazon-bedrock-agentcore/</link><guid isPermaLink="false">6a842158406611000147560c</guid><category><![CDATA[By partners]]></category><category><![CDATA[AI agents]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 20 Aug 2026 10:24:30 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/BlogHeader_Node-Spotlight.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/BlogHeader_Node-Spotlight.jpg" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore"><p><em>This Verified Node Spotlight is a guest post written by Sundar Raghavan, Agentic AI Foundations Lead at AWS.</em></p><p>A customer messages your support bot that their nightly sync has been failing since they rotated their API keys. The triage agent reads it, decides this is a configuration problem, and hands off to your integrations specialist. The specialist asks which integration they mean.</p><p>The customer already said. They said it in the message that started the conversation, forty seconds ago, in the same thread they are still looking at. From their side this is one conversation with one company. From the workflow&apos;s side it was two agents, and the second one started with nothing. You can pass the full transcript to every specialist, which works until the conversation outgrows the context window. You can put the history in a vector database, which works and now you operate a database and an embedding pipeline. This post takes a third route.</p><p><a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html">Amazon Bedrock AgentCore</a> is a platform to build, connect, and optimize agents at scale, with any framework or model. <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html">AgentCore harness</a>, now generally available, provides the scaffolding around a model as a managed capability: you define an agent in configuration, including the model it uses, the tools it calls, the skills it has access to, and the instructions it follows, and AgentCore assembles and runs the loop for you. Two properties of that capability are what make a team of specialists practical.</p><p><a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html">AgentCore&apos;s Managed memory</a> is scoped by actor and session, so an <strong>Actor ID</strong> that identifies the customer rather than any single agent gives every specialist the same history to read and write, and that history outlives an individual workflow execution. And because the tools, skills, model, and instructions travel with each invocation rather than being fixed on a deployed agent, one agent can serve all four specialists instead of provisioning four.</p><p>In this post you will build that support team in the n8n editor: a triage agent that classifies each incoming question and routes it to one of three specialists, one holding the <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/code-interpreter-tool.html">AgentCore Code Interpreter</a>, a capability of Amazon Bedrock AgentCore, for calculation, one holding the AWS skills catalog for architecture guidance, and one for everything else. The specialist answering the third question already knows what the first one learned, with no vector store to operate and no infrastructure to deploy.</p><h3 id="in-this-post">In this post</h3>
+<!--kg-card-begin: html-->
+<div style="border-left: 3px solid #f97316; padding: 2px 0 2px 16px; margin: 32px 0; font-family: inherit;">
+  <ul style="list-style: none; margin: 0; padding: 0;">
+    <li style="margin-bottom: 8px;"><a href="#how-the-team-works" style="color: inherit; text-decoration: underline;">How the team works</a></li>
+    <li style="margin-bottom: 8px;"><a href="#before-you-start" style="color: inherit; text-decoration: underline;">Before you start</a></li>
+    <li style="margin-bottom: 8px;"><a href="#get-the-workflow" style="color: inherit; text-decoration: underline;">Get the workflow</a></li>
+    <li style="margin-bottom: 8px;"><a href="#step-1-connect-your-credentials" style="color: inherit; text-decoration: underline;">Step 1: Connect your credentials</a></li>
+    <li style="margin-bottom: 8px;"><a href="#step-2-see-how-one-harness-serves-four-agents" style="color: inherit; text-decoration: underline;">Step 2: See how one harness serves four agents</a></li>
+    <li style="margin-bottom: 8px;"><a href="#step-3-the-customer-asks-about-their-bill" style="color: inherit; text-decoration: underline;">Step 3: The customer asks about their bill</a></li>
+    <li style="margin-bottom: 8px;"><a href="#step-4-the-same-customer-asks-what-to-do-about-it" style="color: inherit; text-decoration: underline;">Step 4: The same customer asks what to do about it</a></li>
+    <li style="margin-bottom: 8px;"><a href="#where-to-go-from-here" style="color: inherit; text-decoration: underline;">Where to go from here</a></li>
+    <li style="margin-bottom: 8px;"><a href="#clean-up" style="color: inherit; text-decoration: underline;">Clean up</a></li>
+    <li><a href="#conclusion" style="color: inherit; text-decoration: underline;">Conclusion</a></li>
+  </ul>
+</div>
+<!--kg-card-end: html-->
+<h3 id="how-the-team-works">How the team works</h3><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-e778b517-082d-4f2e-a8dd-d1b53f972f5a.png" class="kg-image" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" loading="lazy" width="576" height="351"></figure><p><em>Figure 1: Triage picks one specialist per question. All four agents run on the same harness and read and write one memory of the customer.</em></p><p>A customer asks a question in <strong>When Chat Message Received</strong>. <strong>Set Customer Context</strong> turns the chat session into a customer identifier, which every agent then sends as both its Actor ID and its Session ID. The <strong>Triage Agent</strong> reads the question and returns a category as JSON, which <strong>Read Triage Decision</strong> parses. <strong>Route To Specialist</strong> sends the question to the matching agent, which answers using the tools granted for that call. <strong>Format Reply</strong> unwraps the answer and <strong>Post Answer To Slack</strong> posts it, tagged with the specialist that produced it.</p><p>Because every call carries the same Actor ID, every specialist reads and writes the same history, and the second question benefits from the first. A customer disputes their usage figures and the analysis specialist computes them. They follow up asking how to restructure, and a different specialist answers using those same figures without being told them again.</p><p>Where all of this runs matters as much as what it does, because it determines what you have to operate.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-b96c55ce-2c78-4a3a-85b4-ac59d7298497.png" class="kg-image" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" loading="lazy" width="762" height="341" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/data-src-image-b96c55ce-2c78-4a3a-85b4-ac59d7298497.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-b96c55ce-2c78-4a3a-85b4-ac59d7298497.png 762w" sizes="(min-width: 720px) 720px"></figure><p><em>Figure 2: Your n8n instance holds the workflow and the credentials. AgentCore runs the agent in your AWS account, under the execution role rather than the caller&apos;s keys.</em></p><p>The division of responsibility is straightforward. n8n handles the trigger, the routing decision, and the reply. AgentCore handles the agent loop and memory that outlives a workflow run, and runs every session in its own Firecracker microVM with no shared state and no shared filesystem. Ten nodes on the canvas, two credentials, and one harness resource rather than four. Traffic is outbound only, so nothing on your side needs to be exposed to the internet: n8n signs each request with SigV4 and calls AWS. And two IAM identities are doing different jobs, which the next section sets up.</p><h3 id="before-you-start">Before you start</h3><ul><li><strong>An n8n instance.</strong> Self-hosted or n8n Cloud both work with this node.</li><li><strong>The node installed.</strong> @aws/n8n-nodes-agentcore is a verified community node, so you can find it in the nodes panel. Add a node, search for <strong>Amazon Bedrock AgentCore</strong>, and select it. You can also install it from <strong>Settings &gt; Community Nodes &gt; Install</strong> by entering @aws/n8n-nodes-agentcore.</li><li><strong>An AWS account</strong> with access to AgentCore harness in a <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-regions.html">supported AWS Region</a>.</li><li><strong>A foundation model enabled</strong> in the Amazon Bedrock console. Model access is opt-in per account and per Region, so enable the Claude model you plan to use before the first run.</li><li><strong>Two AWS IAM identities</strong>, described in the next section.</li><li><strong>A Slack credential</strong> for the reply. Delete that node if you would rather read the answer in n8n.</li></ul><p><strong>The two IAM identities</strong></p><p>AgentCore harness uses two separate IAM principals, and knowing which is which saves most first-run debugging. <strong>The caller</strong> is the identity whose access keys go into the n8n credential; it creates and invokes the harness. <strong>The execution role</strong> is what the agent runs as at runtime, so it needs the permissions for the model, the code interpreter, the skills catalog and memory.</p><p>The <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-security.html">AgentCore harness security guide</a> holds the canonical policies for both, and its sample execution role policy already covers everything this workflow uses. The node repository ships the trust policy at <a href="https://github.com/aws/n8n-nodes-agentcore/blob/main/docs/iam-trust-policy.json">`docs/iam-trust-policy.json`</a>, and the <a href="https://github.com/aws/n8n-nodes-agentcore#which-permissions-each-feature-needs">README</a> maps each feature to the block it needs. An AccessDenied on the first run is almost always a missing action on the execution role rather than on the caller.</p><p>Where you can, use temporary credentials from AWS IAM Identity Center or AWS STS.</p><p><strong>A note on cost:</strong> there is no separate charge for the harness itself. You pay for the underlying AgentCore capabilities you use, and managed memory incurs standard AgentCore Memory charges for short-term events, stored long-term memory records, and retrieval requests. This workflow creates one harness for all four agents rather than one each. Delete the agent when you are finished, and see <a href="https://aws.amazon.com/bedrock/agentcore/pricing/">Amazon Bedrock AgentCore pricing</a>.</p><h3 id="get-the-workflow">Get the workflow</h3><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-immersive  kg-cta-has-img  " data-layout="immersive">
+            
+                <div class="kg-cta-sponsor-label-wrapper">
+                    <div class="kg-cta-sponsor-label">
+                        <span style="white-space: pre-wrap;">TRY IT YOUrSELF</span>
+                    </div>
+                </div>
+            
+            <div class="kg-cta-content">
+                
+                    <div class="kg-cta-image-container">
+                        <a href="https://n8n.io/workflows/17966-build-a-multi-agent-support-triage-system-with-amazon-bedrock-agentcore-and-slack/"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/clean-workflow.png" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" data-image-dimensions="1555x794"></a>
+                    </div>
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p><span style="white-space: pre-wrap;">Import the free template to your n8n instance to follow along. The canvas will load with all ten nodes wired and configured.</span></p>
+                        </div>
+                    
+                    
+                        <a href="https://n8n.io/workflows/17966-build-a-multi-agent-support-triage-system-with-amazon-bedrock-agentcore-and-slack/" class="kg-cta-button kg-style-accent" style="color: #FFFFFF;">
+                            Get the template
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><h3 id="step-1-connect-your-credentials">Step 1: Connect your credentials</h3><ol><li> Open each of the four agent nodes and select your <strong>Amazon Bedrock AgentCore API</strong> credential.</li><li>Open <strong>Post Answer To Slack</strong> and select your <strong>Slack</strong> credential.</li><li>In <strong>Set Customer Context</strong>, set slackChannel to a channel your bot has joined.</li></ol><p>There is no harness to deploy, no container to build, no agent code to write, and no vector store to provision.</p><p>Before running, check the canvas for warning markers on any node. n8n validates every node before it runs any of them, so a single unset credential stops the workflow.</p><h3 id="step-2-see-how-one-harness-serves-four-agents">Step 2: See how one harness serves four agents</h3><p>Open <strong>Triage Agent</strong>. Its <strong>Harness ARN</strong> field is blank, which tells the node to create the agent on the first run and reuse it afterwards. Under <strong>Provisioning Options</strong>, managed memory is enabled with the semantic, summarization, and user-preference strategies.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-aad65d4f-bf3d-41d5-8113-02d4e95b7b9e.png" class="kg-image" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" loading="lazy" width="408" height="765"></figure><p><em>Figure 3: Only the Triage Agent provisions a harness. Memory is configured here because memory is a property of the harness rather than of an individual call.</em></p><p>Now open <strong>Analysis Specialist</strong>. Its Harness ARN is an expression:</p>
+<!--kg-card-begin: html-->
+<div style="background-color: #1a1a1a; border-radius: 6px; padding: 20px 24px; margin: 24px 0;">
+  <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.08em; color: #888888; margin: 0 0 14px 0; font-family: &apos;Courier New&apos;, Courier, monospace;">Expression</p>
+  <pre style="color: #e0e0e0; margin: 0; font-family: &apos;Courier New&apos;, Courier, monospace; font-size: 0.9em; line-height: 1.5; white-space: pre; overflow-x: auto;">{{ $json.harnessArn }}</pre>
+</div>
+<!--kg-card-end: html-->
+<p>That is the ARN the Triage Agent returned. The specialist invokes the same harness instead of creating its own, and grants itself the AgentCore Code Interpreter for that single call. The Architecture Specialist does the same with the AWS skills catalog.</p><p>Granting tools per call also keeps each specialist cheap, because tool definitions count toward model input tokens even when the agent never calls the tool. And every session arrives with two built-in tools regardless of what you configure, a shell and file_operations, which is why the Research Specialist works with nothing configured at all.</p><p>One detail to keep in mind: <strong>Agent Name</strong> in Set Customer Context is the cache key for the harness, and therefore for the team&apos;s memory. Changing it creates a new harness, and the accumulated customer history is no longer reachable from the workflow.</p><h3 id="step-3-the-customer-asks-about-their-bill">Step 3: The customer asks about their bill</h3><p>Open the chat panel at the bottom of the canvas and send the kind of message a real customer sends, one with numbers buried in it:</p><p>Your dashboard says I went over my 50,000 API calls a day plan but my own logs for the five busiest days are 41200, 38900, 52300, 61800, 58400. Am I actually over on average?</p><p>The first run takes two to three minutes while AWS provisions the agent. Later runs answer in seconds.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-081401f1-0fd3-44cb-9a7c-d51e302017d9.png" class="kg-image" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" loading="lazy" width="864" height="488" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/data-src-image-081401f1-0fd3-44cb-9a7c-d51e302017d9.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-081401f1-0fd3-44cb-9a7c-d51e302017d9.png 864w" sizes="(min-width: 720px) 720px"></figure><p><em>Figure 4: Triage classified this as analysis because answering it means computing something, and routed it to the specialist holding the code interpreter.</em></p><p>Open the Analysis Specialist&apos;s output and expand toolUses. It contains the Python the agent wrote and executed:</p>
+<!--kg-card-begin: html-->
+<div style="background-color: #1a1a1a; border-radius: 6px; padding: 20px 24px; margin: 24px 0;">
+  <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.08em; color: #888888; margin: 0 0 14px 0; font-family: &apos;Courier New&apos;, Courier, monospace;">Python</p>
+  <pre style="color: #e0e0e0; margin: 0; font-family: &apos;Courier New&apos;, Courier, monospace; font-size: 0.9em; line-height: 1.5; white-space: pre-wrap; overflow-wrap: anywhere;">import statistics
+calls = [<span style="color: #a8e6a1;">41200</span>, <span style="color: #a8e6a1;">38900</span>, <span style="color: #a8e6a1;">52300</span>, <span style="color: #a8e6a1;">61800</span>, <span style="color: #a8e6a1;">58400</span>]
+print(statistics.mean(calls), statistics.pstdev(calls))</pre>
+</div>
+<!--kg-card-end: html-->
+<figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-0f2625c8-f398-4cfa-ae37-0800672f45f1.png" class="kg-image" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" loading="lazy" width="705" height="501" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/data-src-image-0f2625c8-f398-4cfa-ae37-0800672f45f1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-0f2625c8-f398-4cfa-ae37-0800672f45f1.png 705w"></figure><p><em>Figure 5: The AgentCore Code Interpreter runs Python in a sandbox, so the number in the answer is the output of an execution rather than a prediction of one.</em></p><p>The mean is 50,520. The customer is over, by 520 calls a day out of 50,000, which is one percent. &#xA0;Here the answer is an execution, and the trace shows exactly what produced it. On a billing dispute that difference is the whole conversation.</p><h3 id="step-4-the-same-customer-asks-what-to-do-about-it">Step 4: The same customer asks what to do about it</h3><p>Stay in the same chat and send a follow-up that contains no numbers at all:</p><p>That is closer than I thought. How should I restructure things so I stop going over?</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-6e94ce12-bbd5-4664-ab7d-c5254f5a39fb.png" class="kg-image" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" loading="lazy" width="705" height="448" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/data-src-image-6e94ce12-bbd5-4664-ab7d-c5254f5a39fb.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-6e94ce12-bbd5-4664-ab7d-c5254f5a39fb.png 705w"></figure><p><em>Figure 6: A different specialist answers, and it uses the call volumes from the first question.</em></p><p>Triage classified this as architecture guidance and routed it to a different agent with different tools: the AWS skills catalog instead of the code interpreter. That agent was never sent the customer&apos;s call volumes, and it uses them anyway, because both calls went to the same harness with the same Actor ID. The first exchange was written into this customer&apos;s memory and the second call read it back. Neither specialist needed to know the other existed.</p><p>This is the part a support team feels immediately. Without shared memory the customer would be asked to paste those five numbers again, in the same conversation, to a company that already has them.</p><p>One scoping detail matters before this faces real customers: memory events are scoped by <strong>Actor ID</strong> plus <strong>Session ID</strong>, so a different Actor ID on the same harness gets an entirely separate memory. In this template the Actor ID comes from the chat session; in production you would set it from your own user, account or ticket ID. See <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-memory.html">Memory</a> for the retention strategies and how retrieval is tuned.</p><p>Now send something that is neither a calculation nor an architecture question:</p><p>Also, does the daily limit reset at midnight UTC or in my local time?</p><p>Open questions route to the Research Specialist, which works from the shell and file tools available in every harness session<em>.</em> Three messages from one customer, three specialists, one accumulating memory. From the customer&apos;s side it was a single conversation with a single company.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-231cae92-8edd-496c-a4d1-1a14b84ef7f6.png" class="kg-image" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" loading="lazy" width="865" height="554" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/data-src-image-231cae92-8edd-496c-a4d1-1a14b84ef7f6.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/data-src-image-231cae92-8edd-496c-a4d1-1a14b84ef7f6.png 865w" sizes="(min-width: 720px) 720px"></figure><p><em>Figure 7: Each answer arrives in Slack tagged with the specialist that produced it.</em></p><h3 id="where-to-go-from-here">Where to go from here</h3><p>The template is a starting point, and each direction below is configured the same way as the features above.</p><p><strong>Trigger it from where your customers already are.</strong> The chat panel needs no setup, which is why the template ships with it. A Slack Trigger or a Webhook is the natural production choice; both need an n8n instance reachable from the internet.</p><p><strong>Use agents you have already built.</strong> Replace a specialist&apos;s Harness ARN expression with the ARN of a harness you created through the AgentCore CLI, the console, CloudFormation, or Terraform. The node invokes it directly, and the configuration fields become per-invocation overrides.</p><p><strong>Add a specialist.</strong> One more branch on the Switch and one more agent node. Give it a remote <a href="https://modelcontextprotocol.io/">Model Context Protocol</a> server, an <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html">AgentCore Gateway</a> for governed access to your own APIs, or the <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/browser-tool.html">AgentCore Browser</a>.</p><p>For private VPC networking, OAuth-authenticated invocation, multi-provider model switching and the rest of what the node supports, see the <a href="https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/">AWS Machine Learning Blog post</a>.</p><h3 id="clean-up">Clean up</h3><p>The team is one harness resource in your AWS account, and it provisioned a managed memory store. Delete it when you are finished to avoid ongoing charges.</p><p>List your harnesses:</p>
+<!--kg-card-begin: html-->
+<div style="background-color: #1a1a1a; border-radius: 6px; padding: 20px 24px; margin: 24px 0;">
+  <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.08em; color: #888888; margin: 0 0 14px 0; font-family: &apos;Courier New&apos;, Courier, monospace;">Bash</p>
+  <pre style="color: #e0e0e0; margin: 0; font-family: &apos;Courier New&apos;, Courier, monospace; font-size: 0.9em; line-height: 1.5; white-space: pre; overflow-x: auto;">aws bedrock-agentcore-control list-harnesses --region us-west-2</pre>
+</div>
+<!--kg-card-end: html-->
+<p>Then delete the one this template created, support_team:</p>
+<!--kg-card-begin: html-->
+<div style="background-color: #1a1a1a; border-radius: 6px; padding: 20px 24px; margin: 24px 0;">
+  <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.08em; color: #888888; margin: 0 0 14px 0; font-family: &apos;Courier New&apos;, Courier, monospace;">Bash</p>
+  <pre style="color: #e0e0e0; margin: 0; font-family: &apos;Courier New&apos;, Courier, monospace; font-size: 0.9em; line-height: 1.5; white-space: pre; overflow-x: auto;">aws bedrock-agentcore-control delete-harness \
+  --harness-id &lt;harness-id&gt; --region us-west-2</pre>
+</div>
+<!--kg-card-end: html-->
+<p>Because the node reuses one harness per Agent Name, testing this workflow leaves a single resource behind regardless of how many questions you ask.</p><h3 id="conclusion">Conclusion</h3><p>You built a team of specialist agents that share one memory of each customer, without a vector store, a database, or any deployed infrastructure. Three ideas make it work: specialists do better work than generalists because each has the right tool for its job, memory scoped to the customer lets a team hand work between its members without asking the customer to repeat themselves, and tools granted per invocation mean a team of specialists does not have to become a fleet of separate resources to operate.</p><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  " data-layout="minimal">
+            
+                <div class="kg-cta-sponsor-label-wrapper">
+                    <div class="kg-cta-sponsor-label">
+                        <span style="white-space: pre-wrap;">Try it now</span>
+                    </div>
+                </div>
+            
+            <div class="kg-cta-content">
+                
+                    <div class="kg-cta-image-container">
+                        <a href="https://n8n.io/workflows/17966-build-a-multi-agent-support-triage-system-with-amazon-bedrock-agentcore-and-slack/"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/clean-workflow-1.png" alt="Build multi-agent teams that remember every customer with Amazon Bedrock AgentCore" data-image-dimensions="1555x794"></a>
+                    </div>
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p><span style="white-space: pre-wrap;">Import the workflow to drop all nodes, wired and configured, to your n8n instance.</span></p>
+                        </div>
+                    
+                    
+                        <a href="https://n8n.io/workflows/17966-build-a-multi-agent-support-triage-system-with-amazon-bedrock-agentcore-and-slack/" class="kg-cta-button kg-style-accent" style="color: #FFFFFF;">
+                            Get the template
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><p>For the rest of what the node supports, including private VPC networking and OAuth-authenticated invocation, see <a href="https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/">Run production AI agents in n8n with Amazon Bedrock AgentCore harness</a> on the AWS Machine Learning Blog. To learn more about the underlying capability, refer to the <a href="https://docs.aws.amazon.com/bedrock-agentcore/">AgentCore documentation</a>.</p><p>The node is open source under MIT. AgentCore harness itself is powered by <a href="https://strandsagents.com/">Strands Agents</a>, the open source agent framework from AWS. Contributions and feedback are welcome on the <a href="https://github.com/aws/n8n-nodes-agentcore">GitHub repository</a>.</p>]]></content:encoded></item>
 <item><title><![CDATA[6 Workato Alternatives for Enterprise Automation]]></title><description><![CDATA[Comparing RPA versus workflow automation? See how they stack up across reliability, security, scalability, observability, and long-term operations.]]></description><link>https://blog.n8n.io/workato-alternatives-for-enterprise-automation/</link><guid isPermaLink="false">6a64e65aefb98500010c2f61</guid><category><![CDATA[Guides]]></category><category><![CDATA[SecOps]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Wed, 19 Aug 2026 23:18:57 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-3_BlogHeader_workato-alternatives-2.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL-3_BlogHeader_workato-alternatives-2.jpg" alt="6 Workato Alternatives for Enterprise Automation"><p>Engineering and IT teams rarely leave Workato because it stops working. They leave when its cloud-only runtime, per-task billing, and limited code execution collide with real production needs.</p><p>This guide compares the strongest Workato alternatives across deployment, pricing, and code extensibility. Read on to see which platforms match your team&apos;s workflow needs.</p><h2 id="workato-alternatives-cheat-sheet">Workato alternatives: Cheat sheet</h2><p>Each platform below closes a different Workato gap. Here&apos;s a quick snapshot of how these tools differ and where they fit.</p><div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
   <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 8px; border-bottom: 2px solid #444;">
     <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1E1E24; color: #E0E0E0; border-radius: 8px; overflow: hidden; min-width: 950px;">
@@ -1139,33 +1246,11 @@
 
 <!--kg-card-end: html-->
 <h2 id="faq">FAQ</h2><h3 id="what%E2%80%99s-a-semantic-chunker">What&#x2019;s a semantic chunker?</h3><p>A semantic chunker is a tool or algorithm that splits text into chunks based on meaning instead of a fixed number of tokens or characters. Semantic chunkers use different techniques, including embeddings, topic modeling, document structure, to detect where one idea ends and the next begins.</p><h3 id="how-is-semantic-chunking-different-from-text-chunking">How is semantic chunking different from text chunking?</h3><p>Text chunking is the general process of dividing documents into smaller pieces for indexing or retrieval. Semantic chunking is a strategy that creates chunks based on meaning. Instead of splitting consecutive sentences at arbitrary boundaries, it aims to keep related information together: sentences with high similarity scores remain within one chunk. If the similarity scores fall below a certain threshold, a new section begins automatically.</p><h3 id="does-semantic-chunking-always-improve-rag-performance">Does semantic chunking always improve RAG performance?</h3><p>Not necessarily. Semantic chunking often improves retrieval quality for unstructured documents, but it also increases indexing complexity. For structured content like API documentation or product manuals, simpler approaches like recursive or structure-aware splitting may produce comparable results with less overhead.</p><h3 id="what-makes-a-good-chunk">What makes a good chunk?</h3><p>A good chunk can stand on its own when retrieved. It contains enough context to answer a question without including large amounts of unrelated information. In practice, that means preserving meaning while keeping the chunk focused on a single topic or task.</p>]]></content:encoded></item>
-<item><title><![CDATA[The Best AI Observability Tools for Engineering Teams]]></title><description><![CDATA[Discover the best AI observability tools for tracing, evaluation, monitoring, and cost tracking, plus expert guidance on choosing the right platform.
-]]></description><link>https://blog.n8n.io/ai-observability-tools/</link><guid isPermaLink="false">6a62ed5fefb98500010c2eb0</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Thu, 06 Aug 2026 15:20:45 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--9--1.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/TL--9--1.jpeg" alt="The Best AI Observability Tools for Engineering Teams"><p>AI applications don&#x2019;t fail the same way traditional software does. Even with healthy servers and zero infrastructure alerts, you may still ship inaccurate or inconsistent AI responses.</p><p>AI observability tools help solve this problem by showing what&#x2019;s happening across your AI stack, from prompts and <a href="https://n8n.io/workflows/4268-evaluation-metric-example-check-if-tool-was-called/"><u>model calls</u></a> to evaluations and user feedback. In this guide to the best platforms, we&#x2019;ll walk you through the features that matter most and offer tips for choosing the right solution for your team.</p><h2 id="the-main-features-to-look-for-in-an-ai-observability-tool">The main features to look for in an AI observability tool</h2><p>As AI applications become more complex, so do the ways they can fail. The right observability platform should help you understand what&apos;s happening, why it&apos;s happening, and what to do next &#x2014; without adding unnecessary operational complexity.</p><p>As you compare platforms, these are the features to watch for:</p><ul><li><strong>Tracing and debugging:</strong> Follow every request from prompt to output so you can quickly identify where failures occur.</li><li><strong>Evaluation:</strong> Measure response quality with automated or human evaluations, not just uptime.</li><li><strong>Monitoring and alerting:</strong> Track latency, token usage, errors, and other signals that indicate something&apos;s wrong.</li><li><strong>Drift detection:</strong> Spot changes in model behavior before they affect too many users.</li><li><strong>Human feedback:</strong> Capture user feedback alongside traces and evaluations to improve performance over time.</li><li><strong>Cost tracking:</strong> Understand where token usage and API spend are going, as well as how different models affect your costs.</li></ul><h2 id="the-7-best-ai-observability-tools">The 7 best AI observability tools</h2><p>Some teams want open-source observability they can self-host and customize, while others prefer fully managed platforms that reduce <a href="https://blog.n8n.io/aiops-tools/"><u>overhead for AI ops</u></a>. Some prioritize tools designed for debugging LLM applications. For others, evaluation, enterprise monitoring, or full-stack observability matter more.&#xA0;</p><p>It all comes down to what you&#x2019;re building. Here are seven platforms worth considering and which teams they&#x2019;re a good fit for.</p><h3 id="langfuse">Langfuse</h3><p><a href="https://langfuse.com/"><u>Langfuse</u></a> is an open-source LLM engineering platform that brings together tracing, prompt management, evaluations, datasets, and analytics. Its observability solution gives teams the tools to monitor production applications while continuously improving prompts and <a href="https://n8n.io/workflows/9971-track-ai-model-executions-with-langfuse-observability-for-better-performance-insights/"><u>model performance</u></a>.</p><ul><li><strong>Best for: </strong>Teams looking for an open-source platform to observe and iterate on production LLM applications</li><li><strong>Keep in mind: </strong>Separate orchestration layer required for workflow automation</li></ul><h3 id="arize-phoenix">Arize Phoenix</h3><p><a href="https://arize.com/phoenix/"><u>Arize Phoenix</u></a> is an open-source observability platform focused on debugging and improving AI applications. Alongside tracing, it offers built-in evaluations, prompt experimentation, and tools for inspecting RAG pipelines, making it especially useful during development and iteration.</p><ul><li><strong>Best for: </strong>Teams building and refining LLM or RAG applications</li><li><strong>Keep in mind:</strong> More focused on observability and evaluation than operational automation</li></ul><h3 id="braintrust">Braintrust</h3><p><a href="https://www.braintrust.dev/"><u>Braintrust</u></a> emphasizes AI quality over infrastructure metrics. It combines production traces with evaluations, regression testing, and experiment management, helping teams measure whether model changes actually improve application performance.</p><ul><li><strong>Best for:</strong> Teams that want to build continuous evaluation into their AI development workflow</li><li><strong>Keep in mind:</strong> Stronger on AI quality than infrastructure observability</li></ul><h3 id="langsmith">LangSmith</h3><p>Built by the team behind LangChain, <a href="https://www.langchain.com/langsmith/observability"><u>LangSmith</u></a> helps developers trace, debug, and monitor AI applications and agents. It&apos;s framework agnostic, supports multiple model providers, and offers detailed execution traces that simplify troubleshooting in production.</p><ul><li><strong>Best for:</strong> Teams building complex AI agents that need deep execution tracing</li><li><strong>Keep in mind:</strong> Best suited to AI application development rather than general infrastructure monitoring</li></ul><h3 id="helicone">Helicone</h3><p><a href="https://www.helicone.ai/"><u>Helicone</u></a> combines AI observability with AI gateway capabilities. In addition to tracing requests and tracking costs, it offers features like model routing, caching, and provider management, making it a good fit for teams working across multiple LLMs.</p><ul><li><strong>Best for:</strong> Organizations managing traffic across multiple AI providers</li><li><strong>Keep in mind:</strong> Broader AI gateway capabilities than some teams may need</li></ul><h3 id="datadog-llm-observability">Datadog LLM Observability</h3><p>If your organization already relies on <a href="https://www.datadoghq.com/products/ai/agent-observability/"><u>Datadog</u></a>, its AI observability capabilities let you monitor LLM applications alongside the rest of your infrastructure. It connects AI traces with logs, metrics, and application performance data, giving platform teams a unified operational view.</p><ul><li><strong>Best for:</strong> Enterprises already using Datadog for infrastructure observability</li><li><strong>Keep in mind:</strong> Greater platform breadth than many smaller teams require, which also means greater complexity</li></ul><h3 id="openlit">OpenLIT</h3><p><a href="https://openlit.io/"><u>OpenLIT</u></a> is an open-source, OpenTelemetry-native observability platform for AI systems. It automatically instruments LLM frameworks, vector databases, and AI agents, providing end-to-end visibility with minimal setup.</p><ul><li><strong>Best for:</strong> Teams that want OpenTelemetry-native, full-stack AI observability</li><li><strong>Keep in mind:</strong> A developer-focused experience that assumes familiarity with OpenTelemetry</li></ul><h2 id="how-to-choose-the-right-ai-observability-tool">How to choose the right AI observability tool</h2><p>Finding the right observability software depends less on the size of your team and more on what you&apos;re trying to optimize. Some teams prioritize complete control over their data, while others want the fastest path to production.&#xA0;</p><p>As you narrow down your choices, these are the biggest trade-offs to consider.</p><h3 id="self-hosted-vs-managed">Self-hosted vs. managed</h3><p>If you work in a regulated industry or need complete control over your infrastructure, a self-hosted platform may be the better fit. Teams that value open observability often prefer platforms built around open standards and interoperable tooling, making it easier to adapt as requirements evolve. Managed platforms, on the other hand, reduce operational overhead and are often faster to get up and running. The right choice comes down to how much infrastructure your team wants to own versus outsource.</p><h3 id="framework-compatibility">Framework compatibility</h3><p>Most AI observability tools support popular frameworks and model providers, but the level of integration varies. If your applications rely on tools like LangChain or LlamaIndex, or if you expect your stack to evolve, look for a framework-agnostic platform that can adapt as your architecture changes.</p><h3 id="evaluation-depth-vs-observability-breadth">Evaluation depth vs. observability breadth</h3><p>Some platforms specialize in tracing and monitoring, while others put more emphasis on evaluating AI quality through experiments, benchmarks, and human feedback. If improving model performance is your top priority, evaluation capabilities may matter more than broad infrastructure monitoring.</p><h3 id="cost-and-scalability">Cost and scalability</h3><p>Pricing models differ widely. Some tools charge based on usage. Some offer self-hosted deployments with infrastructure costs instead of subscription fees. As your AI workloads grow, consider not just software costs but also how easily the platform can scale with your applications. The best monitoring and observability tools should grow with your infrastructure instead of becoming another operational bottleneck.</p><h3 id="ecosystem-compatibility">Ecosystem compatibility</h3><p>The best observability tool is one that fits into your existing stack. Look for tools with robust APIs, webhook support, and integrations that make it easy to <a href="https://docs.n8n.io/deploy/host-n8n/keep-n8n-running/trace-executions-with-opentelemetry"><u>automate downstream workflows</u></a>.&#xA0;</p><p>Platforms that integrate with n8n let you move beyond monitoring by automatically routing incidents, triggering evaluations, updating prompts, and logging every step for auditing.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Turn AI observability insights into automated action</h3>
-    <p>Route alerts, trigger evaluations, and update prompts automatically with n8n</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="turn-ai-insights-into-action-with-n8n">Turn AI insights into action with n8n</h2><p>AI observability is only the first step. The real value comes from using production insights to continuously improve your AI applications. That requires end-to-end visibility into prompts, model calls, tool usage, and output quality, along with a way to act on what you learn.</p><p>n8n is a platform for AI development, so observability platforms are needed to connect to n8n. Initially, n8n&#x2019;s native observability is sufficient, but external tools are required for advanced use cases: LangSmith for tracing, OpenTelemetry integrations, and custom LLM URL endpoints that can be connected directly to observability tools via AI gateways&#xA0;</p><p>By pairing your AI observability platform with n8n, you can automatically route alerts, trigger evaluation workflows, update prompts or datasets, and notify the right teams. Instead of another dashboard to monitor, your observability data becomes the starting point for automated workflows that help your AI applications become more reliable over time.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Ready to automate your AI workflows?</h3>
-    <p>Pair your observability platform with n8n to build automated feedback loops that keep your AI applications improving</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud free</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="faq">FAQ</h2><h3 id="what%E2%80%99s-the-difference-between-monitoring-and-observability">What&#x2019;s the difference between monitoring and observability?</h3><p>Monitoring tells you that something is wrong, while observability helps you understand why. Traditional monitoring and observability tools focus on infrastructure health &#x2014; factors like CPU usage, latency, and uptime. AI observability adds another layer by <a href="https://community.n8n.io/t/add-langsmith-configuration-ability-to-work-along-side-langchain-ai-tools-framework/52815"><u>tracing prompts</u></a>, model calls, retrieval pipelines, and output quality so you can investigate failures and improve AI behavior over time.</p><h3 id="can-i-use-grafana-prometheus-or-the-elk-stack-for-ai-observability">Can I use Grafana, Prometheus, or the ELK Stack for AI observability?</h3><p>Tools like Grafana, Prometheus, and the ELK Stack are excellent for monitoring infrastructure and applications, but they weren&apos;t designed specifically for AI workloads. While they can complement an AI observability platform by visualizing metrics and logs, most engineering teams also need AI-specific capabilities like prompt tracing, evaluations, and model performance monitoring.</p><h3 id="what%E2%80%99s-distributed-tracing-in-ai-observability">What&#x2019;s distributed tracing in AI observability?</h3><p>Distributed tracing follows a request as it moves through multiple services. For AI applications, that might include your application, retrieval pipeline, vector database, LLM, and external tools. A good AI observability platform builds on this type of tracing system to show every step of a request, making it easier to identify bottlenecks, debug failures, and understand how different components interact.</p><h3 id="do-i-need-kubernetes-or-a-time-series-database">Do I need Kubernetes or a time series database?</h3><p>Not necessarily. Many managed AI observability platforms handle the underlying infrastructure for you. If you&apos;re self-hosting at scale, technologies like Kubernetes and a time series database can play an important role in storing metrics and running observability infrastructure. But they&apos;re implementation details, not requirements for evaluating observability platforms.</p><h3 id="what-open-source-observability-tools-work-well-with-ai-applications">What open-source observability tools work well with AI applications?</h3><p>If you&apos;re building your own observability stack, there are plenty of open-source observability projects worth considering. SigNoz and LangFuse are popular open-source alternatives to Datadog and LangSmith respectively. OpenLIT combines metrics and traces into an OpenTelemetry-native platform. Prometheus is widely used for metrics, and Grafana provides dashboards and visualization. These tools complement AI observability platforms by giving you visibility into the infrastructure your applications run on, while AI observability focuses on prompts, model behavior, evaluations, and output quality.</p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 15 Aug 2026 19:21:00 GMT</pubDate>
+  <pubDate>Thu, 13 Aug 2026 09:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1174,7 +1259,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 19 Aug 2026 13:21:00 GMT</pubDate>
+  <pubDate>Thu, 13 Aug 2026 20:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1183,7 +1268,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 17 Aug 2026 13:21:00 GMT</pubDate>
+  <pubDate>Sat, 15 Aug 2026 23:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1192,7 +1277,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 11:21:00 GMT</pubDate>
+  <pubDate>Tue, 18 Aug 2026 01:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1201,7 +1286,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 16 Aug 2026 06:21:00 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 19:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1210,7 +1295,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 15:21:00 GMT</pubDate>
+  <pubDate>Thu, 13 Aug 2026 04:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1219,7 +1304,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 16 Aug 2026 22:21:00 GMT</pubDate>
+  <pubDate>Sun, 16 Aug 2026 00:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1228,7 +1313,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 11 Aug 2026 05:21:00 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 03:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1237,7 +1322,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 19 Aug 2026 12:21:00 GMT</pubDate>
+  <pubDate>Fri, 14 Aug 2026 04:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1246,7 +1331,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 19 Aug 2026 14:21:00 GMT</pubDate>
+  <pubDate>Thu, 13 Aug 2026 14:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1255,7 +1340,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 11 Aug 2026 03:21:00 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 15:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1264,7 +1349,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 10 Aug 2026 20:21:00 GMT</pubDate>
+  <pubDate>Sat, 15 Aug 2026 23:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1273,7 +1358,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 14 Aug 2026 16:21:00 GMT</pubDate>
+  <pubDate>Sat, 15 Aug 2026 14:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1282,7 +1367,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 18 Aug 2026 00:21:00 GMT</pubDate>
+  <pubDate>Sun, 16 Aug 2026 05:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1291,7 +1376,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 16 Aug 2026 20:21:00 GMT</pubDate>
+  <pubDate>Mon, 17 Aug 2026 09:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1300,7 +1385,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 19 Aug 2026 07:21:00 GMT</pubDate>
+  <pubDate>Mon, 17 Aug 2026 21:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1309,7 +1394,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 15 Aug 2026 13:21:00 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 00:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1318,7 +1403,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 17 Aug 2026 03:21:00 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 14:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1327,7 +1412,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 17 Aug 2026 00:21:00 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 23:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1336,7 +1421,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 18 Aug 2026 19:21:00 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 13:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1345,7 +1430,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 15 Aug 2026 08:21:00 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 06:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1354,7 +1439,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 12 Aug 2026 08:21:00 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 18:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1363,7 +1448,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 18 Aug 2026 00:21:00 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 02:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1372,7 +1457,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 13 Aug 2026 17:21:00 GMT</pubDate>
+  <pubDate>Thu, 13 Aug 2026 06:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1381,7 +1466,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 13 Aug 2026 03:21:00 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 16:18:49 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1783,58 +1868,49 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Conscio Technologies enrichit son offre d’un Chatbot dédié à la sensibilisation à la cybersécurité]]></title>
-  <link>https://www.ia-news.fr/conscio-technologies-enrichit-son-offre-dun-chatbot-dedie-a-la-sensibilisation-a-la-cybersecurite/</link>
+  <title><![CDATA[Blitzzz Media crée DEMIUS, L’ESN de contenus IA]]></title>
+  <link>https://www.ia-news.fr/blitzzz-media-cree-demius-lesn-de-contenus-ia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-humain.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[IA GÉNÉRATIVES ET RELATION CLIENT : CAS D’USAGES, COMPLEXITÉ ET RISQUES]]></title>
-  <link>https://www.ia-news.fr/ia-generatives-et-relation-client-cas-dusages-complexite-et-risques/</link>
+  <title><![CDATA[Databricks va investir plus de 300 millions de dollars en France]]></title>
+  <link>https://www.ia-news.fr/databricks-va-investir-plus-de-300-millions-de-dollars-en-france/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/06/Croissance-courbe-evolution-progression-graphique-expension-06.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/06/Croissance-courbe-evolution-progression-graphique-expension-06.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/06/Croissance-courbe-evolution-progression-graphique-expension-06.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Avanoo lève des fonds auprès d’Auriga Cyber Ventures pour accélérer sa croissance]]></title>
-  <link>https://www.ia-news.fr/avanoo-leve-des-fonds-aupres-dauriga-cyber-ventures-pour-accelerer-sa-croissance/</link>
+  <title><![CDATA[TELEHOUSE France nomme son Directeur IT en charge de la transformation digitale]]></title>
+  <link>https://www.ia-news.fr/telehouse-france-nomme-son-directeur-it-en-charge-de-la-transformation-digitale/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/hand-shake-tech.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/hand-shake-tech.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/hand-shake-tech.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[OutSystems dévoile Mentor, une solution unique en son genre pour générer des applications avec l&rsquo;IA]]></title>
-  <link>https://www.ia-news.fr/outsystems-devoile-mentor-une-solution-unique-en-son-genre-pour-generer-des-applications-avec-lia/</link>
+  <title><![CDATA[Synotis CH rejoint le Groupe Smile]]></title>
+  <link>https://www.ia-news.fr/synotis-ch-rejoint-le-groupe-smile/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/Intelligence-artificielle-IA-AI-4.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/Intelligence-artificielle-IA-AI-4.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/Intelligence-artificielle-IA-AI-4.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/markus-spiske-70Rir5vB96U-unsplash.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/markus-spiske-70Rir5vB96U-unsplash.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/markus-spiske-70Rir5vB96U-unsplash.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[InstaDeep lance Kyber]]></title>
-  <link>https://www.ia-news.fr/instadeep-lance-kyber/</link>
+  <title><![CDATA[Étude Adobe : la France se classe 3e puissance mondiale de l&rsquo;IA derrière les États-Unis et le Royaume-Uni]]></title>
+  <link>https://www.ia-news.fr/etude-adobe-la-france-se-classe-3e-puissance-mondiale-de-lia-derriere-les-etats-unis-et-le-royaume-uni/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[La course à l’IA générative révèle une déconnexion entre directions métiers et directions informatiques, selon une étude de Salesforce]]></title>
-  <link>https://www.ia-news.fr/la-course-a-lia-generative-revele-une-deconnexion-entre-directions-metiers-et-directions-informatiques-selon-une-etude-de-salesforce/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-2000x1125.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/logo-ia-news-footer.png" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/logo-ia-news-footer.png" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/logo-ia-news-footer.png" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
