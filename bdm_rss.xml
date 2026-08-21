@@ -234,15 +234,15 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="popular-tags mb-1 mb-md-4 mt-5">
 
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/zrgn/" class="e-link badge badge-grey">Meta</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/trzvav/" class="e-link badge badge-grey">Gemini</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
@@ -1095,8 +1095,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 									<a href="https://www.blogdumoderateur.com/dossier/reglementation/" class="badge">Réglementation</a>
 									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 									<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge">Productivité</a>
-									<a href="https://www.blogdumoderateur.com/dossier/moteurs-de-recherche/" class="badge">Moteurs de recherche</a>
 									<a href="https://www.blogdumoderateur.com/dossier/video/" class="badge">Vidéo</a>
+									<a href="https://www.blogdumoderateur.com/dossier/publicite/" class="badge">Publicité</a>
 				
 			</div>
 
@@ -1314,14 +1314,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-green ">
+<section class="newsletter-container bg-blue-dark ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">Envie de parler le même langage que vos collègues&nbsp;?</div>
-					<div class="nl-title pt-1 pb-4 h3bis">On vous aide à avoir les bonnes références</div>
+					<div class="h2">Vous ne voulez que le meilleur de l&#039;actualité digitale&nbsp;?</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous simplement à notre newsletter&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1330,9 +1330,9 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				
 					<div class="input-div d-flex">
 						<input type="hidden" name="action" value="subscribe_optin">
-						<input type="hidden" name="cord_theme" value="Référence">
-						<input type="hidden" name="cord_title" value="Envie de parler le même langage que vos collègues&nbsp;?">
-						<input type="hidden" name="cord_bg_color" value="bg-green">
+						<input type="hidden" name="cord_theme" value="Veille">
+						<input type="hidden" name="cord_title" value="Vous ne voulez que le meilleur de l'actualité digitale&nbsp;?">
+						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1368,8 +1368,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgd.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgd.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1380,8 +1380,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
@@ -1471,5 +1471,5 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt,l){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="Lire la vidéo Youtube"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=[];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi/ID/hqdefault.jpg'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
-<script>var rocket_beacon_data = {"ajax_url":"https:\/\/www.blogdumoderateur.com\/core\/wp-admin\/admin-ajax.php","nonce":"5d31773d16","url":"https:\/\/www.blogdumoderateur.com\/ia","is_mobile":true,"width_threshold":393,"height_threshold":830,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script type="text/rocketlazyloadscript" data-name="wpr-wpr-beacon" data-rocket-src='https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script><script>"use strict";function wprRemoveCPCSS(){var preload_stylesheets=document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]');if(preload_stylesheets&&0<preload_stylesheets.length)for(var stylesheet_index=0;stylesheet_index<preload_stylesheets.length;stylesheet_index++){var media=preload_stylesheets[stylesheet_index].getAttribute("media")||"all";if(window.matchMedia(media).matches)return void setTimeout(wprRemoveCPCSS,200)}var elem=document.getElementById("rocket-critical-css");elem&&"remove"in elem&&elem.remove()}window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link data-minify="1" rel='stylesheet' id='banner_style-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1785944094' media='all' /><link data-minify="1" rel='stylesheet' id='bdm-core-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1785944094' media='all' /></noscript></body>
+<script>var rocket_beacon_data = {"ajax_url":"https:\/\/www.blogdumoderateur.com\/core\/wp-admin\/admin-ajax.php","nonce":"05eb561b26","url":"https:\/\/www.blogdumoderateur.com\/ia","is_mobile":true,"width_threshold":393,"height_threshold":830,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script type="text/rocketlazyloadscript" data-name="wpr-wpr-beacon" data-rocket-src='https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script><script>"use strict";function wprRemoveCPCSS(){var preload_stylesheets=document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]');if(preload_stylesheets&&0<preload_stylesheets.length)for(var stylesheet_index=0;stylesheet_index<preload_stylesheets.length;stylesheet_index++){var media=preload_stylesheets[stylesheet_index].getAttribute("media")||"all";if(window.matchMedia(media).matches)return void setTimeout(wprRemoveCPCSS,200)}var elem=document.getElementById("rocket-critical-css");elem&&"remove"in elem&&elem.remove()}window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link data-minify="1" rel='stylesheet' id='banner_style-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1785944094' media='all' /><link data-minify="1" rel='stylesheet' id='bdm-core-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1785944094' media='all' /></noscript></body>
 </html>
