@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 25 Aug 2026 00:23:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Aug 2026 17:50:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,93 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Claude Cowork finally remembers what you told the app in chat</title>
+		<link>https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 17:50:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3156630</guid>
+
+					<description><![CDATA[Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gamma acquires Accel-backed design startup Lica</title>
+		<link>https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Accel]]></category>
+		<category><![CDATA[AI design tools]]></category>
+		<category><![CDATA[Gamma]]></category>
+		<category><![CDATA[presentaiton]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3154850</guid>
+
+					<description><![CDATA[Lica co-founders are going to work on Gamma's new research team.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show</title>
+		<link>https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 14:22:04 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Broadcom]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3156453</guid>
+
+					<description><![CDATA[Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Accel-backed Keenable is indexing the web for AI agents</title>
+		<link>https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[search engines]]></category>
+		<category><![CDATA[Yandex]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3156161</guid>
+
+					<description><![CDATA[Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux</title>
+		<link>https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3156075</guid>
+
+					<description><![CDATA[TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</title>
 		<link>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</link>
 		
@@ -289,91 +376,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3155518</guid>
 
 					<description><![CDATA[A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Michael Polansky is training an AI model on skin that’s still alive</title>
-		<link>https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Sat, 22 Aug 2026 01:31:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155800</guid>
-
-					<description><![CDATA[Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic’s Opus 4.6 is a smut-machine</title>
-		<link>https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 21 Aug 2026 23:07:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155131</guid>
-
-					<description><![CDATA[Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia partners with data center developer Cloverleaf</title>
-		<link>https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Fri, 21 Aug 2026 22:37:38 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155585</guid>
-
-					<description><![CDATA[Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia just showed that the harness, not the AI model, is now the real hero</title>
-		<link>https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Fri, 21 Aug 2026 19:43:39 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155284</guid>
-
-					<description><![CDATA[Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Starcloud raises $250 million for orbital data centers as launch options dry up</title>
-		<link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[orbital data centers]]></category>
-		<category><![CDATA[Starcloud]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155064</guid>
-
-					<description><![CDATA[There's about to be a big fight to secure access to space. ]]></description>
 		
 		
 		
