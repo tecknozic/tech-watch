@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 12:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 19:26:49 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Meta to pay up to $18bn to settle claims its platforms harm children]]></title>
+            <description><![CDATA[The deal has been reached during a California federal court trial over claims brought by US states.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd68q3wynnqo#0</guid>
+            <pubDate>Wed, 26 Aug 2026 17:44:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa89/live/9a0f4c00-a152-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xbox boss 'thinking about affordability' of next-gen console]]></title>
+            <description><![CDATA[In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c17jlngexy9o#0</guid>
+            <pubDate>Wed, 26 Aug 2026 15:38:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e75/live/80f6b0f0-a15c-11f1-aaf8-119f176ff4ce.jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI gold rush draws crypto firms away from Bitcoin]]></title>
             <description><![CDATA[The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.]]></description>
@@ -96,22 +112,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Monzo says issue with card payments and transfers now resolved]]></title>
-            <description><![CDATA[The digital bank said all of its services were now "back up and running"]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo#0</guid>
-            <pubDate>Wed, 19 Aug 2026 16:04:16 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d7/live/94b09ad0-9bd4-11f1-bb4d-1147ef2e78e5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI slows down training after its AI carried out hack]]></title>
-            <description><![CDATA[The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c235dmndylzo#0</guid>
-            <pubDate>Wed, 19 Aug 2026 11:19:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The government agency that's encouraging high-risk and high-reward research.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&amp;at_campaign=rss</link>
@@ -177,19 +177,174 @@
         </item>
     
 <item>
+		<title>OpenAI releases its official report on the Hugging Face breach</title>
+		<link>https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 19:05:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3157343</guid>
+
+					<description><![CDATA[The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Radar makes podcasts searchable — and usable by AI agents</title>
+		<link>https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 15:47:28 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[particle]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3157086</guid>
+
+					<description><![CDATA[Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Ex-Meta scientists want to bring visual AI to the factory floor</title>
+		<link>https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[perceptron]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3139375</guid>
+
+					<description><![CDATA[Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Bill Gates wants to see a robot tax and &#8216;Human Reserved&#8217; jobs to mitigate harms from AI</title>
+		<link>https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 14:37:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bill Gates]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3157087</guid>
+
+					<description><![CDATA[Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model</title>
+		<link>https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 14:19:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[GLM]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[open weight]]></category>
+		<category><![CDATA[Z.ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3157083</guid>
+
+					<description><![CDATA[Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Robot brain builders are pushing out of their GPT-2 era</title>
+		<link>https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 13:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[physical ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3155979</guid>
+
+					<description><![CDATA[Robot bodies are waiting for their AI brains to catch up. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>QueryStory wants you to believe what AI is telling you</title>
+		<link>https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3156754</guid>
+
+					<description><![CDATA[The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Arga Labs is building a better way to train enterprise AI agents</title>
+		<link>https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 12:55:28 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3157018</guid>
+
+					<description><![CDATA[Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses</title>
+		<link>https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[hearing aid]]></category>
+		<category><![CDATA[smartglasses]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3156546</guid>
+
+					<description><![CDATA[The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Runable hits $21M to bet AI agents can go from building businesses to growing them</title>
 		<link>https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/</link>
 		
 		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
 		<pubDate>Wed, 26 Aug 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[Nexus Venture Partners]]></category>
 		<category><![CDATA[Susquehanna Asia Venture Capital]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3156706</guid>
 
-					<description><![CDATA[Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.]]></description>
+					<description><![CDATA[Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.]]></description>
 		
 		
 		
@@ -363,167 +518,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3156230</guid>
 
 					<description><![CDATA[The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Trump bought SpaceX shares two weeks after blockbuster IPO</title>
-		<link>https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 21:24:17 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3156185</guid>
-
-					<description><![CDATA[The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 </title>
-		<link>https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 19:54:19 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Amjad Masad]]></category>
-		<category><![CDATA[Replit]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3156061</guid>
-
-					<description><![CDATA[At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Instinct’s powerful AI assistant is raising privacy and security concerns</title>
-		<link>https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 18:03:55 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[AI assistants]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155931</guid>
-
-					<description><![CDATA[Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</title>
-		<link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 15:24:18 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[general intuition]]></category>
-		<category><![CDATA[Point72 Ventures]]></category>
-		<category><![CDATA[robotics]]></category>
-		<category><![CDATA[valor equity partners]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155937</guid>
-
-					<description><![CDATA[General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>OpenAI is building AI agents for everything. Will everyone use them?</title>
-		<link>https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155884</guid>
-
-					<description><![CDATA[Inside the frontier lab’s push to bring AI agents from software engineers to the masses.
-]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Hugging Face reportedly in talks to be acquired for $13B</title>
-		<link>https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 13:47:26 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[open source]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155919</guid>
-
-					<description><![CDATA[Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Who&#8217;s behind the new ‘stealth model’ Ox Alpha?</title>
-		<link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 23 Aug 2026 20:01:36 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[openrouter]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155879</guid>
-
-					<description><![CDATA[A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
-		<link>https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Sun, 23 Aug 2026 19:14:08 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[smart calendar]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155017</guid>
-
-					<description><![CDATA[Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash</title>
-		<link>https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 23 Aug 2026 15:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[flock safety]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3155870</guid>
-
-					<description><![CDATA[Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.]]></description>
 		
 		
 		
@@ -1213,7 +1207,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
 <!--kg-card-end: html-->
 <p></p><ul><li><strong>llama.cpp</strong> supports both CPU- and GPU-based architectures, but has been the preferred option for CPU-based use cases. It&apos;s a highly portable reference runtime. It supports AVX2, AVX-512, and ARM NEON instruction sets, runs with zero GPU dependency, and is what Ollama uses under the hood. It is the right choice for development environments and low-traffic deployments.</li><li><strong>vLLM</strong> is the production-grade, GPU-optimised server. It implements continuous batching and PagedAttention, making it a good choice when multiple n8n workers are firing AI Agent nodes simultaneously and you need the GPU to handle concurrent requests efficiently rather than serialising them.</li><li><strong>Ollama</strong> is the developer-friendly entry point. It wraps llama.cpp behind a clean API, handles model lifecycle management, and is what the n8n self-hosted AI starter kit targets by default. It trades some performance ceiling for considerably lower operational friction.</li><li><strong>LM Studio</strong> provides a desktop GUI for running local models. It is useful for internal teams who want to experiment without a terminal, but is not designed for headless server deployments.&#xA0;</li><li><strong>SGLang</strong> is optimised for structured and constrained generation. It is particularly relevant for n8n tool-calling nodes that require valid JSON back from the model &#x2014; a category of failure that is more common than it should be with general-purpose inference servers.</li><li><strong>ExLlamaV3</strong> pushes quantisation efficiency further than most alternatives on NVIDIA hardware. Its primary value is fitting larger models into a limited VRAM budget.</li></ul><h3 id="model-choices"><strong>Model Choices</strong></h3><p>High parameter models will behave more like the foundational models provided by the likes of Anthropic and OpenAI, but are resource-intensive. Most organizations can achieve a good balance between performance and resource consumption when self-hosting on general-purpose hardware with 3B&#x2013;13B parameter range models at Q4 quantisation. Models in this range run on a single consumer GPU (or a capable CPU server), produce output quality sufficient for the majority of business automation tasks, and have short enough context processing times to be viable in interactive workflows.</p><p>Besides text generation itself, model sizes have an impact on the quality of function or tool calling, which is <a href="https://gorilla.cs.berkeley.edu/leaderboard.html"><u>evaluated here</u></a>.</p><ul><li><strong>Llama (Meta)(1B-70B)</strong> is the reference open-weight family. Llama 3.x models are strong general-purpose choices, well-supported by every runtime in the stack, and available under a licence that permits commercial use for most organisations. The 8B and 70B variants are the most widely deployed.</li><li><strong>Qwen (Alibaba) (</strong>0.8B &#x2013; 72B) is particularly strong on code generation and multilingual tasks. The Qwen2.5-Coder variants are competitive with much larger general models for tool-calling agents, and the Qwen3.5 series extends the range down to sub-1B models suitable for routing and classification tasks.</li><li><strong>Mistral</strong> (7B &#x2013; 22B) offers efficient mid-size models in the 7B&#x2013;22B range. Mistral Nemo and Mixtral (a mixture-of-experts architecture) are good defaults when GPU VRAM is constrained and you need a capable general-purpose model without reaching for a 70B.</li><li><strong>Google Gemma 3 / Gemma 4 (</strong>2B &#x2013; 27B) &#x2014; The smallest Gemma 4 variants (2B and 4B effective parameters) run at approximately 5 GB of RAM with 4-bit quantisation on modern hardware. The Apache 2.0 licence makes commercial deployment straightforward.</li><li><strong>Qwen 3.5 Small (0.8B&#x2013;9B)</strong> &#x2014; The Qwen3.5 series spans 0.8B to 9B parameters with a 256K context window and support for 201 languages. It offers thinking and non-thinking modes, which is useful when you want to suppress chain-of-thought reasoning for simple tasks to save tokens. Strong for multilingual n8n deployments.</li><li><strong>Meta Llama 3.2 (1B, 3B)</strong> &#x2014; Designed explicitly for edge and CPU deployment. The 1B variant fits in under 1 GB at Q4 and is suitable for lightweight classification and routing tasks inside n8n workflows &#x2014; deciding which branch a document goes down, extracting a small set of structured fields, tagging incoming records.</li><li><strong>SmolLM3-3B</strong> (HuggingFace) &#x2014; At the 3B scale it outperforms Llama 3.2 3B and Qwen 2.5 3B while staying competitive with 4B-class alternatives across a broad set of benchmarks. HuggingFace published the full engineering blueprint including architecture decisions, data mixture, and post-training methodology.</li></ul><h1 id="self-host-with-n8n">Self-host with n8n</h1><ul><li><a href="https://n8n.io/workflows/1980-use-an-open-source-llm-via-huggingface/"><u>Use an open-source LLM (via HuggingFace)</u></a></li><li><a href="https://n8n.io/workflows/3139-private-and-local-ollama-self-hosted-dynamic-llm-router/"><u>Private &amp; local Ollama self-hosted + dynamic LLM router&#xA0;</u></a></li><li><a href="https://n8n.io/workflows/2384-chat-with-local-llms-using-n8n-and-ollama/"><u>Chat with local LLMs using n8n and Ollama</u></a></li><li><a href="https://n8n.io/workflows/10157-local-document-question-answering-with-ollama-ai-agentic-rag-and-pgvector/"><u>Local document question answering with Ollama AI, Agentic RAG &amp; PGVector</u></a></li><li><a href="https://n8n.io/workflows/4869-process-legal-documents-with-ollama-ai-and-generate-html-reports-100percent-local/"><u>Process legal documents with Ollama AI &amp; generate HTML reports (100% local)</u></a></li><li><a href="https://n8n.io/workflows/5148-local-chatbot-with-retrieval-augmented-generation-rag/"><u>Local chatbot with retrieval augmented generation (RAG)</u></a></li></ul>]]></content:encoded></item>
 <item><title><![CDATA[Introducing the n8n Culture/Code]]></title><description><![CDATA[<p>I&#x2019;m going to start this post by talking about dishes. Yes, it&#x2019;s a metaphor. But it&#x2019;s literal, too.&#xA0;</p><p>We recently launched our refreshed company values, in the <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a>, at our all-company offsite &#x2018;IRL&#x2019; in Berlin in April, which is</p>]]></description><link>https://blog.n8n.io/n8n-culture-code/</link><guid isPermaLink="false">6a7c3e43d66698000177edae</guid><dc:creator><![CDATA[Jan Oberhauser]]></dc:creator><pubDate>Wed, 12 Aug 2026 09:52:25 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-1_BlogHeader_Human-in-the-Loop-vs-Human-on-the-Loop.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-1_BlogHeader_Human-in-the-Loop-vs-Human-on-the-Loop.jpg" alt="Introducing the n8n Culture/Code"><p>I&#x2019;m going to start this post by talking about dishes. Yes, it&#x2019;s a metaphor. But it&#x2019;s literal, too.&#xA0;</p><p>We recently launched our refreshed company values, in the <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a>, at our all-company offsite &#x2018;IRL&#x2019; in Berlin in April, which is fitting, since Berlin is where I started n8n in 2019.</p><p>Somewhere between the bigger ideas about building infrastructure for a new era of work and what it means to operate with integrity, there&#x2019;s a line in there about doing the dishes: </p><blockquote>&#x201C;When something needs doing, you do it - from the strategic call to the dish in the sink.&#x201D;&#xA0;</blockquote><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/IMG_2301--1--2.jpg" class="kg-image" alt="Introducing the n8n Culture/Code" loading="lazy" width="2000" height="2667" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/IMG_2301--1--2.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/08/IMG_2301--1--2.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/08/IMG_2301--1--2.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w2400/2026/08/IMG_2301--1--2.jpg 2400w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Some workflows you don&apos;t automate. You just run them yourself.</span></figcaption></figure><p>This might be my favourite line in the whole Code, because it gets at something essential about what we&#x2019;re here to do at n8n, and how we&#x2019;re going to get there. But, we&#x2019;ll get to that shortly.</p><p>So why do the values refresh now?</p><p>The obvious answer is speed. We&#x2019;ve been growing fast, faster than most, and we&#x2019;re in the top 30 projects of all time on <a href="https://github.com/n8n-io/n8n">GitHub</a>. Moving at the pace we do is a genuine test of how well a culture can flex and absorb change.&#xA0;</p><p>Because culture doesn&#x2019;t transmit automatically. Every month, people join n8n who didn&#x2019;t experience the company when it was small enough for the culture to be felt rather than explained - when a thread on Slack, or a decision made in front of everyone, naturally set the tone. That&#x2019;s not how it works at our size anymore, nor should it be.</p><p>The less comfortable reason for this values refresh is me. As a company scales, a founder necessarily gets farther from the day-to-day contact, which used to be the main way how vision and values traveled. I still love meeting every new hire, I just have less time with each of them than I used to, and less of the ongoing back-and-forth and daily interactions that used to follow. I can&#x2019;t be in every room where a hard call gets made. And as we build out our global team and our US operations - a market with its own norms, pressures, and pace - the risk of cultural drift, or disconnect, is something we couldn&#x2019;t ignore.</p><p>Scale, however, isn&#x2019;t our central goal - impact and longevity is. <strong>We want n8n to be a generational company</strong> - one that&#x2019;s still here, still trusted, and still building in twenty, thirty, and more years. <strong>For that to be true, the culture has to outlast the people who built it</strong> - understood, inherited, and owned by everyone who comes after.</p><p>There&#x2019;s also the remote-first reality. Building a coherent culture across time zones, languages, and working styles, without the ambient social glue of a single shared office (we do have local hubs in some major cities), requires more intentionality than most companies admit. The kind of informal calibration that happens when people are close to each other - overhearing a decision, reading the room, absorbing how a leader handles something under pressure, or recognising just how central our community is to how we make decisions - none of that exists for us by default. We have to create it deliberately, and the <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is part of how we&#x2019;ll do that. It&#x2019;s not a substitute for real human connection, of course. But it&#x2019;s certainly useful as a shared reference point that helps us to beat stubborn little things like geography, or daylight savings time.</p><p>Our values have always been present in the decisions we made: turning down investors over ethical concerns, letting go of talented people who weren&#x2019;t right for the culture, treating free users and paying ones alike. But we can&#x2019;t rely on osmosis anymore - so we&#x2019;ve written them down.</p><p>Another favourite part of our new <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is <strong><em>We are welcoming. </em></strong>That entire value gets at something really special about n8n: <strong>we are a truly global community</strong>. You can find people building with n8n on almost every continent. We may have started in Europe, but for a long time, our #1 community hub was in Brazil. If you have a dream and the drive to build something great, you belong here. That&#x2019;s the only entry requirement we have.&#xA0;</p><p>This breadth matters because n8n is a product for everyone: solo builders and global enterprises, developers and the people just starting to learn how to code, teams operating across dozens of countries and industries. And this is why that same inclusive spirit must be protected in our <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a>: if the people building n8n don&#x2019;t reflect the extraordinary diversity of our community, then I fear we will end up building something far narrower, and far less impactful, than we&#x2019;re capable of.</p><p>Importantly, n8n has always been more than a bunch of people with the same email signature - our community of contributors, users, template-builders, and forum regulars is part of how we actually work, and how we&#x2019;re going to thrive. And this new <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is a promise to them too: how we show up in our forums, how we respond when something breaks, how we credit the people building alongside us. The same values that govern how we treat each other internally have to govern how we treat the people building with us. Anything less than that is just corporate theatre - and that isn&#x2019;t us.&#xA0;</p><p>The <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is written in two parts, because a company&#x2019;s culture has two parts: the values you stand for, and the behaviours that demonstrate how you live those values every day. And the roll-out starts now.&#xA0;</p><p>We&#x2019;re embedding it everywhere, from how we hire to how we give feedback. We&#x2019;ll ask whether people are living it. We&#x2019;ll ask people to challenge us when we&#x2019;re not. Which brings us back to the kitchen sink.</p><p>I like the line about the dishes because it&#x2019;s not about the dishes at all. <strong>It&#x2019;s about the discipline of noticing. Not just the humility to roll up your sleeves but the naturalness of doing so</strong>. The sense of community that means you apply effort to something that maybe wasn&#x2019;t your fault, but you still see as your shared responsibility. Not because anyone&#x2019;s tracking this stuff, but because leaving it for someone else to do isn&#x2019;t who you are.</p><p>When I read the n8n <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a>, I see a mirror reflecting who we are, but I also see a map - helping us understand where we&#x2019;re headed, and how we&#x2019;re going to get there, together.</p><blockquote>The only thing I don&#x2019;t want to see&#x2026; is the dish in the sink.</blockquote><hr><p><strong>Want to know what it&#x2019;s like to work at n8n?</strong></p><p>The <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is the most honest preview we can give you, and <a href="https://n8n.io/careers/">we&apos;re hiring</a> across the company. Have a look at our open roles, and hear from the people already living it.</p><p></p>]]></content:encoded></item>
-<item><title><![CDATA[Easier connections to 70 MCP servers, plus when to use them in your workflows]]></title><description><![CDATA[You can now connect to dozens more MCP servers directly from the Node panel with a simple OAuth flow. Pick a server, sign in, and it's ready for your agent to use.]]></description><link>https://blog.n8n.io/one-click-connection-to-70-mcp-servers-and-when-to-use-them/</link><guid isPermaLink="false">6a798a3fa7a5f30001930992</guid><category><![CDATA[News]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[Desiree Lockwood, n8n]]></dc:creator><pubDate>Mon, 10 Aug 2026 17:46:54 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/MCP-Registry-blog-PMM-29.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/MCP-Registry-blog-PMM-29.jpg" alt="Easier connections to 70 MCP servers, plus when to use them in your workflows"><p>The team just rolled out a fresh batch of MCP servers you can add straight from the Node panel. New additions like Airtable, Grafana, Miro, New Relic, Jotform, and PandaDoc are joining the ones you could already connect to, like Notion, Stripe, GitLab, Apify, Linear, monday.com, and Hugging Face. Connecting to 70 services (and counting) is now a quick OAuth flow.</p>
+<item><title><![CDATA[Easier connections to 70 MCP servers, plus when to use them in your workflows]]></title><description><![CDATA[You can now connect to dozens more MCP servers directly from the Node panel with a simple OAuth flow. Pick a server, sign in, and it's ready for your agent to use.]]></description><link>https://blog.n8n.io/one-click-connection-to-70-mcp-servers-and-when-to-use-them/</link><guid isPermaLink="false">6a798a3fa7a5f30001930992</guid><category><![CDATA[News]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[Desiree Lockwood, n8n]]></dc:creator><pubDate>Mon, 10 Aug 2026 17:46:54 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/MCP-Registry-blog-PMM-29.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/MCP-Registry-blog-PMM-29.jpg" alt="Easier connections to 70 MCP servers, plus when to use them in your workflows"><p>The team just rolled out a fresh batch of <a href="https://docs.n8n.io/build/integrate-ai/mcp-servers" rel="noreferrer">MCP servers</a> you can add straight from the Node panel. New additions like Airtable, Grafana, Miro, New Relic, Jotform, and PandaDoc are joining the ones you could already connect to, like Notion, Stripe, GitLab, Apify, Linear, monday.com, and Hugging Face. Connecting to 70 services (and counting) is now a quick OAuth flow.</p>
 <!--kg-card-begin: html-->
 <!--ARCADE EMBED START--><div style="position: relative; padding-bottom: calc(50.9766% + 41px); height: 0px; width: 100%;"><iframe src="https://demo.arcade.software/zVQHBmWZdMEltrWlLozi?embed&amp;embed_mobile=tab&amp;embed_desktop=inline&amp;show_copy_link=true" title="Demo" frameborder="0" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="clipboard-write; autoplay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; color-scheme: light;"></iframe></div><!--ARCADE EMBED END-->
 <!--kg-card-end: html-->
@@ -1254,7 +1248,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 18 Aug 2026 07:21:24 GMT</pubDate>
+  <pubDate>Tue, 18 Aug 2026 08:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1263,7 +1257,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 19 Aug 2026 13:21:24 GMT</pubDate>
+  <pubDate>Tue, 18 Aug 2026 11:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1272,7 +1266,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 24 Aug 2026 17:21:24 GMT</pubDate>
+  <pubDate>Wed, 19 Aug 2026 04:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1281,7 +1275,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 24 Aug 2026 12:21:24 GMT</pubDate>
+  <pubDate>Fri, 21 Aug 2026 05:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1290,7 +1284,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 25 Aug 2026 03:21:24 GMT</pubDate>
+  <pubDate>Tue, 18 Aug 2026 19:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1299,7 +1293,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 24 Aug 2026 19:21:24 GMT</pubDate>
+  <pubDate>Fri, 21 Aug 2026 17:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1308,7 +1302,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 17 Aug 2026 03:21:24 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 02:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1317,7 +1311,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 18 Aug 2026 07:21:24 GMT</pubDate>
+  <pubDate>Fri, 21 Aug 2026 18:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1326,7 +1320,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 20 Aug 2026 01:21:24 GMT</pubDate>
+  <pubDate>Wed, 19 Aug 2026 02:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1335,7 +1329,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 16 Aug 2026 15:21:24 GMT</pubDate>
+  <pubDate>Tue, 25 Aug 2026 11:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1344,7 +1338,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 24 Aug 2026 21:21:24 GMT</pubDate>
+  <pubDate>Thu, 20 Aug 2026 11:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1353,7 +1347,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 20 Aug 2026 19:21:24 GMT</pubDate>
+  <pubDate>Mon, 17 Aug 2026 18:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1362,7 +1356,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 18 Aug 2026 19:21:24 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 07:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1371,7 +1365,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 20 Aug 2026 06:21:24 GMT</pubDate>
+  <pubDate>Mon, 17 Aug 2026 21:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1380,7 +1374,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 17 Aug 2026 09:21:24 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 05:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1389,7 +1383,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 19 Aug 2026 05:21:24 GMT</pubDate>
+  <pubDate>Sun, 16 Aug 2026 23:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1398,7 +1392,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 19 Aug 2026 03:21:24 GMT</pubDate>
+  <pubDate>Thu, 20 Aug 2026 22:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1407,7 +1401,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 22 Aug 2026 01:21:24 GMT</pubDate>
+  <pubDate>Wed, 26 Aug 2026 17:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1416,7 +1410,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 21 Aug 2026 12:21:24 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 00:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1425,7 +1419,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 24 Aug 2026 01:21:24 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 19:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1434,7 +1428,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 18 Aug 2026 13:21:24 GMT</pubDate>
+  <pubDate>Thu, 20 Aug 2026 01:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1443,7 +1437,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 26 Aug 2026 11:21:24 GMT</pubDate>
+  <pubDate>Fri, 21 Aug 2026 16:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1452,7 +1446,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 21 Aug 2026 02:21:24 GMT</pubDate>
+  <pubDate>Sun, 23 Aug 2026 06:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1461,7 +1455,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 18 Aug 2026 12:21:24 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 07:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1470,7 +1464,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 25 Aug 2026 21:21:24 GMT</pubDate>
+  <pubDate>Tue, 25 Aug 2026 07:27:00 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1845,58 +1839,58 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/07/visuel-zoom-article-1-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Sept vulnérabilités critiques exposent ChatGPT au vol de données et au détournement]]></title>
-  <link>https://www.ia-news.fr/sept-vulnerabilites-critiques-exposent-chatgpt-au-vol-de-donnees-et-au-detournement/</link>
+  <title><![CDATA[Datacenters : L&rsquo;Impact de l&rsquo;IA sur la Consommation Électrique, la Climatisation et l&rsquo;ESG]]></title>
+  <link>https://www.ia-news.fr/datacenters-limpact-de-lia-sur-la-consommation-electrique-la-climatisation-et-lesg/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/11/ia-ai-intelligence-artificielle-2486.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/11/ia-ai-intelligence-artificielle-2486.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/11/ia-ai-intelligence-artificielle-2486.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-green-reseaux.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-green-reseaux.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-green-reseaux.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Ascension fulgurante des startups IA : vision ou folie ?]]></title>
-  <link>https://www.ia-news.fr/ascension-fulgurante-des-startups-ia-vision-ou-folie/</link>
+  <title><![CDATA[Gabriel  Nitulescu pilote le pôle data management del&rsquo;ESN  Komposite]]></title>
+  <link>https://www.ia-news.fr/gabriel-nitulescu-pilote-le-pole-data-management-delesn-komposite/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/Gabriel.png" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/Gabriel.png" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/Gabriel.png" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Docaposte et Golem.ai, une collaboration Grand Groupe start-up au service des citoyens]]></title>
-  <link>https://www.ia-news.fr/docaposte-et-golem-ai-une-collaboration-grand-groupe-start-up-au-service-des-citoyens/</link>
+  <title><![CDATA[IA : les ETI françaises devancent les grands groupes]]></title>
+  <link>https://www.ia-news.fr/ia-les-eti-francaises-devancent-les-grands-groupes/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/06/896d2b393b445f4eef479a10ad5c98b3274bad42.jpeg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/06/896d2b393b445f4eef479a10ad5c98b3274bad42.jpeg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/06/896d2b393b445f4eef479a10ad5c98b3274bad42.jpeg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/blue-night-cityscape-urban-environment-data-proc-2021-10-15-17-23-47-utc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/blue-night-cityscape-urban-environment-data-proc-2021-10-15-17-23-47-utc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/blue-night-cityscape-urban-environment-data-proc-2021-10-15-17-23-47-utc.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Nouvelle étude de Cloudera]]></title>
-  <link>https://www.ia-news.fr/nouvelle-etude-de-cloudera/</link>
+  <title><![CDATA[Stratégie d’automatisation : intégrer les agents d’IA de manière fiable et transparente]]></title>
+  <link>https://www.ia-news.fr/strategie-dautomatisation-integrer-les-agents-dia-de-maniere-fiable-et-transparente/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-bleu-ia.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-bleu-ia.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-bleu-ia.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Les tokens dans l’IA expliqués simplement : comment les modèles comprennent le langage]]></title>
-  <link>https://www.ia-news.fr/les-tokens-dans-lia-expliques-simplement-comment-les-modeles-comprennent-le-langage/</link>
+  <title><![CDATA[Le Crédit Mutuel Arkéa lance un chatbot pour ses clients particuliers équipé d’une solution d’IA générative]]></title>
+  <link>https://www.ia-news.fr/le-credit-mutuel-arkea-lance-un-chatbot-pour-ses-clients-particuliers-equipe-dune-solution-dia-generative/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0002.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0002.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0002.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Le Groupement Les Mousquetaires lance la 2ème édition du « Défi Innovation » centré sur l&rsquo;Intelligence Artificielle]]></title>
-  <link>https://www.ia-news.fr/le-groupement-les-mousquetaires-lance-la-2eme-edition-du-defi-innovation-centre-sur-lintelligence-artificielle/</link>
+  <title><![CDATA[IA et ARM : MINT ouvre un bureau en France]]></title>
+  <link>https://www.ia-news.fr/ia-et-arm-mint-ouvre-un-bureau-en-france/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/12/MINT_ARM_Forum-2000x1125.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/12/MINT_ARM_Forum-2000x1125.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/12/MINT_ARM_Forum-2000x1125.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
