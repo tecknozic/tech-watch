@@ -235,15 +235,15 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/zrgn/" class="e-link badge badge-grey">Meta</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ivqrb/" class="e-link badge badge-grey">Vidéo</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrfvta/" class="e-link badge badge-grey">Design</span>
 			
 		</div>
 
@@ -1091,10 +1091,10 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 									<a href="https://www.blogdumoderateur.com/dossier/seo/" class="badge">SEO</a>
 									<a href="https://www.blogdumoderateur.com/dossier/reglementation/" class="badge">Réglementation</a>
-									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
-									<a href="https://www.blogdumoderateur.com/dossier/video/" class="badge">Vidéo</a>
 									<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge">Productivité</a>
+									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 									<a href="https://www.blogdumoderateur.com/dossier/apple/" class="badge">Apple</a>
+									<a href="https://www.blogdumoderateur.com/dossier/video/" class="badge">Vidéo</a>
 				
 			</div>
 
@@ -1312,7 +1312,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 	<div class="footer-nl">
 		
-<section class="newsletter-container bg-blue-dark ">
+<section class="newsletter-container bg-green ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1330,7 +1330,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 						<input type="hidden" name="action" value="subscribe_optin">
 						<input type="hidden" name="cord_theme" value="Authenticité">
 						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
-						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
+						<input type="hidden" name="cord_bg_color" value="bg-green">
 						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1362,7 +1362,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			<div class="corde-visuel d-lg-flex d-none">
 
 				<img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png" 
+					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
