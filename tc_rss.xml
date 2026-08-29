@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 28 Aug 2026 16:04:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Aug 2026 20:43:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,59 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Neocloud Lambda secures $1B in debt to buy more chips</title>
+		<link>https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 20:24:11 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[AI chips]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Lambda]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[neocloud]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3158531</guid>
+
+					<description><![CDATA[Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>An Anthropic researcher just gave us a peek at self-improving AI</title>
+		<link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 19:30:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3158505</guid>
+
+					<description><![CDATA[Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Open-weight AI companies are the Valley&#8217;s hottest acquisition targets</title>
+		<link>https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 18:19:40 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[openrouter]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3158461</guid>
+
+					<description><![CDATA[There's a lot of capital pouring into the business of giving models away.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Anthropic gets its first court win over the Pentagon’s supply-chain risk label</title>
 		<link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
 		
@@ -313,75 +366,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3157316</guid>
 
 					<description><![CDATA[Consumer AI apps need to stop making users learn their product architecture.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How do we explain OpenAI&#8217;s executive exodus?</title>
-		<link>https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 19:34:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[greg brockman]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3157219</guid>
-
-					<description><![CDATA[Was Greg Brockman the right executive all along?]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI releases its official report on the Hugging Face breach</title>
-		<link>https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/</link>
-		
-		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 19:05:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3157343</guid>
-
-					<description><![CDATA[The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Radar makes podcasts searchable — and usable by AI agents</title>
-		<link>https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 15:47:28 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[particle]]></category>
-		<category><![CDATA[podcasts]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3157086</guid>
-
-					<description><![CDATA[Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ex-Meta scientists want to bring visual AI to the factory floor</title>
-		<link>https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[perceptron]]></category>
-		<category><![CDATA[Startups]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3139375</guid>
-
-					<description><![CDATA[Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. ]]></description>
 		
 		
 		
