@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 11:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 18:13:55 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[AI could cause global economic downturn, Andrew Bailey warns G20]]></title>
+            <description><![CDATA[The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c99dym3prl1o#0</guid>
+            <pubDate>Mon, 31 Aug 2026 16:49:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
         <item>
             <title><![CDATA[I've been to Gamescom six times - here's what excited me this year]]></title>
             <description><![CDATA[The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.]]></description>
@@ -104,14 +112,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sharing dangerous driving videos is 'truly reprehensible', PM says]]></title>
-            <description><![CDATA[His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce308l1w5q5o#0</guid>
-            <pubDate>Mon, 24 Aug 2026 16:03:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e91/live/1f2e1410-9fb0-11f1-a291-b542ee92de7c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The government agency that's encouraging high-risk and high-reward research.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&amp;at_campaign=rss</link>
@@ -177,14 +177,67 @@
         </item>
     
 <item>
-		<title>The U.S. is building barriers around drones and robots, but China has scale to get around them</title>
+		<title>Clipto uses AI to search terabytes of video and is now valued at $250M</title>
+		<link>https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[ai agent]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3158701</guid>
+
+					<description><![CDATA[The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech&#8217;s AI chip buildout</title>
+		<link>https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 15:15:25 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI chips]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[MediaTek]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3158734</guid>
+
+					<description><![CDATA[Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Meeting note-taker Circleback adds a free tier to attract more customers</title>
+		<link>https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 12:56:46 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[circleback]]></category>
+		<category><![CDATA[Meeting notetakers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3158688</guid>
+
+					<description><![CDATA[Circleback is also introducing new pricing plans starting from $14 per month.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>The US is building barriers around drones and robots, but China has scale to get around them</title>
 		<link>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</link>
 		
 		<dc:creator><![CDATA[Kate Park]]></dc:creator>
 		<pubDate>Mon, 31 Aug 2026 02:34:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[China]]></category>
 		<category><![CDATA[drones]]></category>
 		<category><![CDATA[Federal Communications Commission]]></category>
 		<category><![CDATA[geopolitics]]></category>
@@ -205,6 +258,8 @@
 		<pubDate>Sun, 30 Aug 2026 16:54:25 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[pollution]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3158648</guid>
 
 					<description><![CDATA[Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.]]></description>
@@ -230,13 +285,17 @@
 		
 			</item>
 <item>
-		<title>Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft</title>
+		<title>Sony Music, Warner sue Anthropic, alleging a &#8216;brazen campaign&#8217; of intellectual property theft</title>
 		<link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
 		
 		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
 		<pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[intellectual property]]></category>
+		<category><![CDATA[Sony Music]]></category>
+		<category><![CDATA[Warner Chappell]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3158639</guid>
 
 					<description><![CDATA[This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.]]></description>
@@ -245,14 +304,29 @@
 		
 			</item>
 <item>
-		<title>&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z</title>
+		<title>At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?</title>
+		<link>https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Sat, 29 Aug 2026 17:51:10 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Denmark]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3158394</guid>
+
+					<description><![CDATA[Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>&#8216;We&#8217;re not doing 30 bets a year&#8217;: Vijay Pande on betting small after running $4B at a16z</title>
 		<link>https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/</link>
 		
 		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
 		<pubDate>Sat, 29 Aug 2026 17:36:47 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Andreessen Horowitz]]></category>
 		<category><![CDATA[Vijay Pande]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3156771</guid>
@@ -268,10 +342,9 @@
 		
 		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
 		<pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[nvidia]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[nvidia]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3158515</guid>
 
 					<description><![CDATA[The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.]]></description>
@@ -439,83 +512,7 @@
 		
 		
 			</item>
-<item>
-		<title>Hugging Face is selling a cute $399 open source duck robot, Microduck</title>
-		<link>https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 14:56:52 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[pollen robotics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3157743</guid>
-
-					<description><![CDATA[Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.” ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>AI&#8217;s memory crunch is coming for Android apps</title>
-		<link>https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 14:27:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3157663</guid>
-
-					<description><![CDATA[Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Here’s all the times AI has gone rogue and hacked other companies</title>
-		<link>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 14:01:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[Irregular]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[meta ai]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3156027</guid>
-
-					<description><![CDATA[A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI agents</title>
-		<link>https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[AI hardware]]></category>
-		<category><![CDATA[AI notetaker]]></category>
-		<category><![CDATA[earbuds]]></category>
-		<category><![CDATA[plaud]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3157528</guid>
-
-					<description><![CDATA[Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[Long-running agents beyond prompt engineering]]></title><description><![CDATA[<p>Y&apos;all relying too much on prompting your way through agent design. Call it context engineering or god damn loop engineering, you still ask the LLM to make sure it only generates factual information and that it reviews information itself.</p><p>The more you use an LLM to evaluate itself</p>]]></description><link>https://blog.n8n.io/long-running-agents-beyond-prompt-engineering/</link><guid isPermaLink="false">6a95888009161b000123a5a7</guid><category><![CDATA[AI]]></category><dc:creator><![CDATA[Andrew Green]]></dc:creator><pubDate>Mon, 31 Aug 2026 14:01:21 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/long-running-agents-header.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/long-running-agents-header.jpg" alt="Long-running agents beyond prompt engineering"><p>Y&apos;all relying too much on prompting your way through agent design. Call it context engineering or god damn loop engineering, you still ask the LLM to make sure it only generates factual information and that it reviews information itself.</p><p>The more you use an LLM to evaluate itself or perform analysis, the more points of hallucination and drift you introduce.</p><p>When you use text generators to automate the stuff you don&#x2019;t want to do, you still need to treat it as any other piece of software, and design its operating logic.</p><p>Before talking about long running agents, remind yourself of the following:</p><ul><li>It&#x2019;s fine to use short-running agents. Use the simplest tool for the job.</li><li>Differentiate between models and agents. A model takes a text input and generates a text output, but it does not do anything else. The agent is the execution part. Agents rely on models, for example a model hitting its token limit mid-JSON-object is a model-level event (truncated output) with an agent-level consequence (malformed tool call, broken state write, corrupted ledger entry).</li></ul><p>This series is about the harness. An LLM call can be <em>used</em> as a tool (e.g., summarize these 40 tool results into 200 words) but it should be part of a deterministic function call the harness decides to make, on its own schedule, with its own validation of the output. It is not the agent deciding, mid-task &quot;oh man, I should really compress my context now.&quot;</p><h2 id="part-1-context-and-memory">Part 1: Context and Memory</h2><p>Every prompt you send to an LLM resends the full conversation history. The chat-like experience is a UI. A user illusion&#x2122;. This means that in longer conversations, you can max out the context window and the model starts truncating it, and/or you experience context rot and drift where the model gets off-point.</p><p>The fact you always send the full conversation makes context management easier. It means you can massage the context inside the window to get rid of knots behind the shoulderblade and keep it as semantically packed as possible. Even if you get a one million dollar- sorry, token window, you will still experience rot and drift.</p><p>It also means that you can pick up the context from one agent and dump it into another and carry on the session. You can therefore get rid of the thinking tokens and tool call overhead to only keep what is semantically relevant.</p><p>Context has its own lifecycle. You start with the system prompt, tool definitions, user prompt, conversation, reasoning, tool calls, etc. So when thinking about managing context for these long-running sessions, we should think about what to do throughout the lifecycle.</p><h3 id="create-and-understand-context">Create (and understand) context</h3><p>Context is built naturally as you use the LLM. What you need to be intentional about is visibility of what goes in the window. Gumloop has this cool Context Usage Meter that gives you real-time visibility into how much of the LLMs model&#x2019;s context window is being used during a conversation. It shows token breakdown with categories like:</p><ul><li>System</li><li>AI Instructions</li><li>Abilities</li><li>Tools</li><li>Skills</li><li>Subagents</li><li>Conversation</li></ul><p>In long-running agents, you will see that conversation portion increases while the system prompt tool definitions remain stable.</p><h3 id="compress-context">Compress context</h3><p>As context accrues, you can trim semantically irrelevant tokens and summarize larger chunks into semantically equivalent smaller chunks.</p><p>Google&#x2019;s ADK Context Compaction reduces the size of context by summarizing older parts of the agent workflow event history. It uses a sliding window approach for collecting and summarizing agent workflow event data within a session. It summarizes data from older events once it reaches a threshold of a specific number of workflow events, or invocations, with the current session.</p><p>You can&#x2019;t get away with constantly summarizing previous context. At some point, the harness should perform a full context reset. This means it will tear down the session and rebuild the next request from durable artifacts, explored in the next session.</p><h3 id="store-context">Store context</h3><p>LLMs are stateless, so if your context is ephemeral, you will lose the whole agent session. You can, however, write context in persistent storage. Bonus points for architecting these as immutable ledgers, where agents can write, and read, but not modify or delete.</p><p>These storage services must be provisioned by you, the developer, where you can define permissions deterministically. Asking the LLM &#x201C;pls never update ledger pls&#x201D; is not software engineering.</p><p>What goes in the storage is up to you. Dump the whole window, summarize it, write H1s only, etc.</p><p>In Google&#x2019;s EAP, memory generation bundles several of these decisions together.</p><ul><li>Extraction pulls only the most meaningful information out of the source data to persist as memories, rather than dumping everything in.</li><li>Consolidation merges newly extracted information with what already exists, letting memories evolve as new information is ingested.</li><li>Generation runs asynchronously in the background, so the agent doesn&apos;t have to wait for it to complete.</li><li>Event ingestion streams and manages conversation events continuously, automatically triggering generation based on batching rules you configure.</li><li>And extraction is customizable. You tell Memory Bank what counts as meaningful by giving it specific topics and few-shot examples.</li></ul><h3 id="recall-context">Recall context</h3><p>With stored context, you can use the ledger as a reconstruction mechanism. On a fresh session, an agent can read the durable plan, the progress notes, and the append-only record of what has already happened to reconstruct &quot;where am I&quot; without replaying the full conversation history.</p><p>As Cloudflare put it, you can fire 20% of your employees to replace them with AI and use the Agent&#x2019;s plan as context. If the agent has a structured plan, the plan itself provides sufficient context: &quot;I am on step 3 of 7, the step was &apos;await the sanctions-check result&apos;, and the result just arrived.&quot;</p><p>Once again in Google&apos;s EAP, managed storage and retrieval brings its own set of features.</p><ul><li>Consolidation and retrieval are isolated per identity, so one entity&apos;s memories don&apos;t bleed into another&apos;s.</li><li>Storage is persistent and accessible from multiple environments: Agent Runtime, your local environment, or other deployment options. Retrieval can use similarity search scoped to a specific identity, pulling only what&apos;s relevant rather than everything.</li><li>A time-to-live can be set so stale information expires automatically, with the TTL applied to inserted or generated memories.</li><li>Revisions are maintained automatically, letting you inspect how a memory transforms as new information is ingested.</li><li>IAM conditions restrict which principals can read or write a given scope&apos;s memories.</li></ul><h3 id="identity-as-a-context-management-concern">Identity as a context-management concern</h3><p>You can retrieve all the memories scoped to a particular user identity. A memory&apos;s scope is defined when the memory is generated or created and is immutable.</p><p>That makes identity-scoped memory durable across separate jobs and sessions for a given user or entity. In Google&apos;s Agent Memory Bank, memories are extracted and consolidated via an LLM from session events, scoped to a user or agent identity, retrieved via similarity search, and managed with TTL-based expiry and revision history.</p><p>In Cloudflare, Identity is a durable, addressable property of the agent. Durable Object identity persists across hibernation/restart without re-establishment; this is the anchor that lets task state and identity memory be found again after a crash.</p><p>This durability quality requires additional mechanism for ensuring continuity across instances and through failure points, which we address in the following part.</p><h2 id="part-2-durable-execution">Part 2: Durable Execution</h2><p>As part of your context management, you now have some persistent storage. Cool, you can use it to pull the context back into an agent if you lose the session.</p><p>&#x201C;Hey Claude, retrieve this and pick up fro-&#x201D;</p><p>No!</p><p>We look at deterministic ways of resuming agents in case of failure.</p><p>A long-running agent doesn&#x2019;t run for long. It runs when needed, keeping track of tasks, context, and previous context. Expect the agent to wait quite a lot. But as we discussed in the first part, LLMs always get the whole conversation request with every prompt, so the whole concept of durability comes to &#x201C;how do I structure this data effectively such that task-to-task the LLM behaves consistently&#x201D;.</p><h3 id="what-persists-and-what-doesn%E2%80%99t-need-to"><strong>What persists, and what doesn&#x2019;t need to</strong></h3><p>Referring back to Cloudflare&#x2019;s piece, their long-running agent pattern ensures the following persists across calls:</p><ul><li>Agent state, the persistent data the agent requires to continue a session</li><li>All SQLite tables created, including abstractions built on SQLite</li><li>Scheduled tasks, which are stored in SQLite, trigger alarms to wake the agent</li><li>Connection states for each WebSocket client</li></ul><p>The following don&#x2019;t need to survive:</p><ul><li>In-memory variables</li><li>Running timers</li><li>Open HTTP calls</li><li>Callbacks and promise chains</li></ul><p>An agent has an identity and persistent state. It does not need an active compute instance. It can be configured to wake on an event and go back to sleep upon completion. Wake sources are the agent&apos;s entire interface to the outside world; you don&apos;t need an always-on loop required to keep an agent &quot;running&quot; over weeks.</p><p>To wake an agent up, you can use a webhook callback, where the agent kicks off external work, registers its own callback URL, and hibernates, waking only when the callback arrives. You can also define polling with backoff for services that don&apos;t support callbacks. The agent schedules a poll, reschedules it with an increasing delay, and caps the interval.</p><p>Lastly, you can define wide automation workflows with, independently-retryable multi-step pipeline, and hand it to a dedicated workflow engine rather than managing the step sequencing inside the agent.</p><p>Sub-agents get this same durability on their own terms. Each child has its own state, schedules, durable fibers, and lifecycle, and stores its own data colocated under the parent.</p><p>The property that matters for durability is that the parent doesn&apos;t have to stay active while the child works. It can start the work, hibernate, and be woken when the child&apos;s schedule or recovery check fires. A crash doesn&apos;t take down the whole family at once; each identity is recoverable on its own.</p><h3 id="token-and-rate-limit-monitoring-as-a-predictive-signal"><strong>Token and rate-limit monitoring as a predictive signal</strong></h3><p>With per-session and per-tenant token consumption monitoring, you can define continuation and retry policies when hitting rate-limits or errors. If cumulative usage trajectory projects a rate-limit hit before the next checkpoint, the harness can proactively checkpoint, throttle, or switch model/provider.</p><h3 id="recovery-mechanics"><strong>Recovery mechanics</strong></h3><p>Recovery at the coarsest level can be a session that reads the ledger on startup. A simple &quot;where am I&quot; check can resume the task even without finer policies. You can then persist a row for the duration of a piece of work, stash intermediate state at defined points, and recover from the last stash on restart.</p><p>Idempotency matters here for durable acceptance, particularly for webhook-driven agents where callers retry delivery and duplicate side effects must be avoided. The general pattern underneath all of this is event-sourcing or journal-based recovery:</p><p>We described an immutable task ledger consisting of the agent&#x2019;s plan: <em>what should happen</em>, in what order, etc. You also need a separate append-only execution log containing what actually happened, containing every tool call, every model response, every state transition. It can be replayed deterministically to reconstruct the state, regardless of which process or container resumes the work.</p><p>This is the underlying idea in Restate&apos;s journal feature and DBOS&apos;s workflow/step annotations.</p><p>Restate persists every step before proceeding and replays deterministically to reconstruct pre-crash state, while DBOS checkpoints into Postgres.</p><p>These tools also offer compensation and rollback mechanisms for agents that need to undo partial work when failures occur. When agents perform multiple actions and something goes wrong, you need to systematically undo the changes to maintain consistency.</p><h3 id="durable-execution-vendor-landscape"><strong>Durable execution vendor landscape</strong></h3><p>You can look at different implementation ideas by evaluating the vendors such as DBOS, Restate, Inngest. Some general examples include:</p><ul><li><strong>Suspend-and-resume on external events</strong> &#x2014; first-class primitives for pausing a workflow until a signal arrives (a webhook, an approval, a human decision) and resuming it later, potentially across redeploys, without holding compute open while waiting.</li><li><strong>Flow control and concurrency limits</strong> &#x2014; durable queues with per-tenant or per-workflow concurrency caps and rate limits, so retries and fan-out don&apos;t overwhelm downstream systems.</li><li><strong>Durability expressed in application code vs. a separate orchestration layer</strong>: some make durability transparent to ordinary control flow (a library or annotations in your language), others offer it as a managed platform primitive with its own execution model.</li></ul><p>You can also design your own durable execution logic in n8n by implementing its deterministic workflow-based features to define retries, writing data in persistent storage, deterministic triggers such as schedules and webhooks.</p><h3 id="identity-as-a-durability-property"><strong>Identity as a durability property</strong></h3><p>In Cloudflare&apos;s model the agent&apos;s name is the routing key, and that identity persists across hibernation, restart, and redeploy. Credentials are scoped per agent or sub-agent identity. The payoff for durability is attribution: because identity is durable, every entry in the execution log ties back to a persistent agent identity.</p><p>At the platform level, Google&apos;s Agent Identity and Registry are the productized version of this, tracking which identity, at which version, is running which task.</p><h2 id="part-3-task-progression-evaluation">Part 3: Task Progression &amp; Evaluation</h2><p>You&#x2019;ll notice your agent slowly slipping into mistakes and hallucinations. To determine whether the agent is still on task without asking it, most AI engineers found the perfect solution: ask another LLM.</p><p>Huh&#x2026;</p><p>LLM-as-judge is the easiest fix and the least reliable one. It&apos;s the same model class making the same kind of error, one level removed. This article is about minimizing how much progress validation depends on any LLM&apos;s judgment at all, and where an LLM is still useful, constraining it to narrow, checkable roles.</p><h3 id="the-checklist-as-the-unit-of-progress"><strong>The checklist as the unit of progress</strong></h3><p>In a task ledger or checklist, each entry needs a completion criterion defined before an agent executes against it. Writing down the done condition before the agent starts is the single highest-leverage move, precisely because it stops the agent from redefining &quot;done&quot; mid-run.</p><p>The companion rule is to work one entry at a time. Working a single entry per pass keeps the agent from trying to do everything at once and leaving things half-done, and it makes validation tractable, since each pass has exactly one claimed state transition to check.</p><h3 id="deterministic-validation-gates"><strong>Deterministic validation gates</strong></h3><p>The alternative to &quot;ask the model if it&apos;s done&quot; is to run a check against the execution log or live system state that returns a boolean, independent of any model call.</p><p>A taxonomy of gate types, from cheapest/most reliable to more involved:</p><ul><li><strong>Status/response codes</strong>: did the API call return 200, not 4xx/5xx.</li><li><strong>Schema validation</strong>: does the response parse as valid JSON/XML and match an expected shape (required fields present, correct types).</li><li><strong>Cross-field consistency checks</strong>: does the username in the response payload match the identity of the requesting user; does a returned ID match the one requested.</li><li><strong>State-diff checks</strong>: did the thing the step claimed to create/update/delete actually appear/change/disappear in the target system (re-query after the action).</li><li><strong>Test execution</strong>: unit/integration tests run against code changes.</li></ul><p>Other mechanism for validating activities include:</p><p><strong>State machines for valid progress</strong> - A Finite-state-machine approach to semantic parsing defines states as tool-call/step types and transitions as the allowable sequences between them; the observed action sequence is parsed through the FSM at runtime. States outside the machine are violations; unexpected transitions are anomalies. With a small fixed set of legal states, each transition can be validated against the execution log before it&apos;s committed to the ledger.</p><p><strong>Sandboxing and behavioral baselines</strong> - you can also run the agent in a controlled environment first (the sandbox) and observe what it actually does: which tools it calls, what data volumes it moves, what destinations it reaches, what system calls it makes. You can then:</p><ul><li>Graduate specific actions to production once observed-safe, ideally as deterministic allowlist entries rather than re-invoking an agent&apos;s judgment;</li><li>Use the profile as the reference baseline for least-privilege permissions and deviation alerting.</li></ul><p><strong>Non-generative checks for agent behavior </strong>- Some useful checks don&apos;t generate text at all. Encoder-only classifiers (BERT-family models such as DeBERTa, RoBERTa, or ModernBERT) can be fine-tuned on labeled aligned/misaligned or benign/malicious examples and output a scalar against a threshold, giving you a verdict without a generative model in the loop.</p><p><strong>Anomaly detection on tool-call patterns</strong> - monitoring recursive loops (same tool called repeatedly with minor argument variations), token count spikes, out-of-order executions and kills the run before they accrue.</p><p><strong>Acceptable LLM-as-judge usage</strong></p><p>Intent evaluation is only possible if intent was explicitly defined <em>before</em> execution</p><p>&#x2018;Explicit&#x2019; means an enumerated tool allowlist, a defined sequence of steps or states the task must cycle through, defined data sources, defined rules-based mechanisms for spawning sub-agents, and defined API endpoints and methods.</p><p>Once that exists, evaluation collapses into a set of Yes/No questions asked against the execution log: did this step execute, were the fields filled in correctly, did the call return the expected code, was the retrieved data validated against its schema, etc.</p><p>Where an LLM is used for evaluation at all, it should be constrained to a narrow, checkable judgment. For example &quot;does this trace match taxonomy category X.&quot; That&apos;s acceptable precisely because the model is acting as a fuzzy compiler mapping observed behavior onto a deterministic category, not inventing &quot;good&quot; on the fly.</p><h2 id="implementation">Implementation</h2><p>Everything described in this article will span across multiple products and require ongoing engineering. Do not treat this as a step-by-step blueprint or framework for how to construct reliable long-running agents, but rather an exploration of the deterministic components which are overlooked by all self-titled loop engineering experts.</p><p>I will continue exploring these topics and how they apply for n8n and in the wide market. I welcome improvements, feedback and corrections, so please <a href="https://www.linkedin.com/in/andrew-green-tech/">reach out to me on LinkedIn.</a></p>]]></content:encoded></item>
 <item><title><![CDATA[RBAC for AI Agents: Why Static Roles Break and What Replaces Them]]></title><description><![CDATA[RBAC for AI agents introduces risky security gaps. Learn why traditional access control breaks at the agentic layer and how task-based rules help.]]></description><link>https://blog.n8n.io/rbac-for-ai-agents/</link><guid isPermaLink="false">6a8efc6257de1e00013b20c4</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Thu, 27 Aug 2026 20:41:43 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-3_BlogHeader_rbac-ai-agents_6_11zon.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-3_BlogHeader_rbac-ai-agents_6_11zon.jpg" alt="RBAC for AI Agents: Why Static Roles Break and What Replaces Them"><p>Roles-based access control (RBAC) for AI agents can be risky. Unlike human users, agents operate at machine speed while making decisions with varying degrees of autonomy. In these environments, fixed roles, broad permissions, and static access control create serious security and governance issues.</p><p>This article explains why traditional RBAC is insufficient in agentic systems, what dynamic authorization looks like, and how to implement AI agent access control in production settings.&#xA0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">Read our guide on building <a href="https://blog.n8n.io/make-ai-agents-more-reliable-and-restrict-the-actions-they-can-take/"><u>reliable, controlled AI agents</u></a> for more information.</div></div><h2 id="why-rbac-fails-at-the-agentic-layer">Why RBAC fails at the agentic layer</h2><p><a href="https://docs.n8n.io/user-management/rbac/"><u>Standard RBAC</u></a> assumes that once you assign a role, the user or account will act predictably. This works well for human users, but it&#x2019;s not always applicable to machines.</p><p>Human actions give RBAC tools enough time to change access and maintain security. But autonomous systems move differently and react much faster than human users do. By the time traditional RBAC tools catch up, the model has likely executed thousands of multi-step tasks.</p><p>Regular users also use human logic and ethics and stop before performing dangerous tasks, like deleting data or sharing sensitive information.</p><p>Because agentic behavior changes dynamically with input, relying on a rigid access management system amplifies risks. Here are four common ways static RBAC breaks down in agentic environments.</p><h3 id="over-permissioned-actors-without-judgment">Over-permissioned actors without judgment&#xA0;</h3><p>When IT teams define roles for AI systems, they often grant wide capabilities so models can solve a range of tasks. However, agents usually don&#x2019;t judge if an action is safe or ethical in the way humans do. If teams don&#x2019;t build least privilege AI agents, a single compromised or misbehaving agent could cause serious damage. For instance, AI with deletion permission could misinterpret a prompt and erase a company database. One example is a Claude-powered AI agent that deleted <a href="https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database"><u>PocketOS&#x2019;s entire production database</u></a> and its backups. This agent had broad, root-level permissions and violated every principle it was given knowingly.</p><h3 id="role-expansion-and-granularity-failure">Role expansion and granularity failure</h3><p>As agents develop more capabilities and organizations find more use cases in production, IT teams might create thousands of hyper-granular roles to control agent behavior. However, the number of distinct tasks may grow faster than teams define and maintain new roles. Too much granularity leads to permissions sprawl and creates maintenance problems.</p><h3 id="machine-speed-failure-amplification">Machine-speed failure amplification</h3><p>People make mistakes or take malicious actions at human speed, which gives role-based access controls and admins enough time to react. Autonomous systems can execute multi-step actions in milliseconds. Consequently, errors and malicious behaviors can spread or escalate in a system before technical controls or a human reviewer notices them.</p><h3 id="the-data-layer-gap-rbac-in-retrieval">The data-layer gap: RBAC in retrieval</h3><p>RBAC is often not enforced at the data retrieval layer. AI agents frequently retrieve information from knowledge sources like vector stores, APIs, and databases without consistently preserving the permission context associated with that data. Without real-time authorization checks, agents have no way of verifying what systems and data they have permission to access. This is one of the most overlooked gaps in AI agent access control, and it compounds the risks associated with other failure points.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/RBAC-loss_4_11zon.png" class="kg-image" alt="RBAC for AI Agents: Why Static Roles Break and What Replaces Them" loading="lazy" width="1070" height="583" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/RBAC-loss_4_11zon.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/08/RBAC-loss_4_11zon.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/RBAC-loss_4_11zon.png 1070w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Static roles fail at the retrieval layer. If an agent has broad system access, it will bypass user-level restrictions and leak protected data</span></figcaption></figure><h2 id="what-replaces-rbac-in-agentic-systems">What replaces RBAC in agentic systems</h2><p>Organizations need a different type of access control for AI agents. They should choose a new model that can keep up with the speed of automated workflows.</p><p>Task, tool, and transaction-based access control (TBAC) is currently gaining traction as an alternative. Unlike traditional control models that focus on identity, TBAC looks at the specific task the agent is completing in real time. It checks the active context and request conditions before allowing an API call or data request.</p><p>Agents can still complete useful work, but access remains scoped to the current task rather than a broad set of permissions.&#xA0;</p><p>Here are the three main pillars needed to make this security model work.</p><h3 id="central-policy-engine-and-runtime-enforcement">Central policy engine and runtime enforcement</h3><p>Teams use a centralized policy engine to reduce permissions sprawl. It evaluates each agent action against a defined set of security, compliance, and business-logic rules. The engine analyzes factors like payload, environmental elements, and the specific API call. The policy engine makes the final decision on whether to allow the action.</p><h3 id="a-firm-identity-and-declared-purpose-for-every-agent">A firm identity and declared purpose for every agent</h3><p>A verifiable digital identity is similar to a service account but with more metadata and tighter context. It should link to an agent&#x2019;s purpose, the tools it&#x2019;s allowed to use, and the scope of its data access. Without this security foundation, runtime policy engines may not have enough context to make accurate enforcement decisions.</p><h3 id="enforcement-that-sits-outside-the-agent">Enforcement that sits outside the agent</h3><p>Allowing agents to enforce their own security rules makes them vulnerable to prompt injection attacks. Malicious inputs could cause the agent to take actions that a distinct enforcer engine would flag as suspicious and block. Security at an external layer or API gateway enforces reliable, deterministic enforcement.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TBAC-v2_5_11zon.png" class="kg-image" alt="RBAC for AI Agents: Why Static Roles Break and What Replaces Them" loading="lazy" width="864" height="460" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/TBAC-v2_5_11zon.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TBAC-v2_5_11zon.png 864w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Task-based access control (TBAC) places a central policy engine outside the agent. It evaluates requests in real time and blocks unauthorized retrieval before it happens</span></figcaption></figure><h2 id="rbac-ai-agents-and-compliance-requirements">RBAC, AI agents, and compliance requirements</h2><p>AI agents processing regulated data face demanding compliance requirements. HIPAA, GDPR, and SOC 2 have security and access control expectations companies must apply to their agentic workflows. Organizations that fail to do so could face legal issues.</p><p>Teams need to show real-time data protection and security across relevant compliance frameworks:</p><ul><li><strong>GDPR Article 32:</strong> <a href="https://gdpr-info.eu/art-32-gdpr/"><u>This regulation</u></a> requires companies to implement appropriate technical processes to securely handle personal data. Agents operating with broad permissions may create security risks by sharing details in outputs.&#xA0;</li><li><strong>HIPAA Technical safeguards and ePHI:</strong> This requires organizations to <a href="https://www.hipaajournal.com/hipaa-technical-safeguards/"><u>protect patient data</u></a> at rest and in transit so it remains confidential and accessible to only authorized parties. Agents accessing ePHI need to face task-scoped enforcement, and their actions should generate full audit trails to prove compliance.</li><li><strong>SOC 2 access control criteria:</strong> To comply with <a href="https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"><u>SOC 2</u></a>, auditors need evidence that agent access follows defined policies and that enforced permissions occurred at runtime. Showing the roles assigned at setup won&#x2019;t be sufficient.</li></ul><p>Passing modern audits requires technical teams to prove that their autonomous systems operate within approved security and compliance controls. Workflow automation platforms like <a href="https://n8n.io/"><u>n8n</u></a> make this possible and intuitive.&#xA0;</p><p>n8n&#x2019;s node-based canvas provides simple observability and auditability through a visual interface. Teams can verify input and output of every run, including <a href="https://blog.n8n.io/tool-calling-llm/"><u>tool calls</u></a>, <a href="http://docs.n8n.io/integrations/builtin/credentials"><u>credential uses</u></a>, and decisions. This provides a thorough, audit log for each execution.</p><p>n8n helps secure sensitive information to comply with regulations like HIPAA and GDPR. Agents process data, and the tool&#x2019;s execution data redaction limits exposure by removing PII from <a href="https://docs.n8n.io/log-streaming/"><u>audit logs</u></a> before storing them.</p><h2 id="implementing-rbac-in-agentic-workflows">Implementing RBAC in agentic workflows</h2><p>Many organizations continue to use RBAC because it&#x2019;s already part of their security program. Still, teams can make that setup much safer by applying task-based rules to existing roles and logging every action.&#xA0;</p><p>Instead of giving agents broad access through static roles, teams add controls evaluating requests before execution. This means tying access to specific tasks and checking permissions at runtime, and creating clear audit records.</p><p>Follow these best practices to achieve safe AI agent access control:</p><ul><li><strong>Classify projects and give specific permissions:</strong> Group tools by their exact business purpose. You can use n8n&#x2019;s <a href="https://blog.n8n.io/introducing-custom-project-roles-and-user-provisioning-via-sso-built-for-enterprise-governance/"><u>custom project roles</u></a> to set up tight boundaries so each team member only has access to the appropriate workflows and projects. This reduces sprawl, but it doesn&#x2019;t remove the need for a separate policy engine for AI agent identity management.</li><li><strong>Define agent purpose as a machine-enforceable constraint:</strong> Every agent should have a clear purpose that security controls can verify before granting access. If an agent&#x2019;s actions fall outside its defined scope, enforcement should block them automatically.&#xA0;</li><li><strong>Treat permission policies as code:</strong> Access policies should live in version control, and teams should test them like any other piece of infrastructure.</li><li><strong>Scope spawned agent permissions explicitly:</strong> Isolate spawned AI agent permissions from the parent workflow. With n8n, you can easily ensure each sub-workflow runs with its own credentials and data access boundaries.</li><li><strong>Use audit logs as an operational feedback loop:</strong> Track agent control, and keep a detailed record of every run. n8n&#x2019;s log streaming can connect to a security information and event management platform for real-time agent activity monitoring with minimal custom instrumentation.</li></ul>
 <!--kg-card-begin: html-->
 <div class="content-banner">
@@ -1272,12 +1269,11 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
 </table>
 <!--kg-card-end: html-->
 <p></p><ul><li><strong>llama.cpp</strong> supports both CPU- and GPU-based architectures, but has been the preferred option for CPU-based use cases. It&apos;s a highly portable reference runtime. It supports AVX2, AVX-512, and ARM NEON instruction sets, runs with zero GPU dependency, and is what Ollama uses under the hood. It is the right choice for development environments and low-traffic deployments.</li><li><strong>vLLM</strong> is the production-grade, GPU-optimised server. It implements continuous batching and PagedAttention, making it a good choice when multiple n8n workers are firing AI Agent nodes simultaneously and you need the GPU to handle concurrent requests efficiently rather than serialising them.</li><li><strong>Ollama</strong> is the developer-friendly entry point. It wraps llama.cpp behind a clean API, handles model lifecycle management, and is what the n8n self-hosted AI starter kit targets by default. It trades some performance ceiling for considerably lower operational friction.</li><li><strong>LM Studio</strong> provides a desktop GUI for running local models. It is useful for internal teams who want to experiment without a terminal, but is not designed for headless server deployments.&#xA0;</li><li><strong>SGLang</strong> is optimised for structured and constrained generation. It is particularly relevant for n8n tool-calling nodes that require valid JSON back from the model &#x2014; a category of failure that is more common than it should be with general-purpose inference servers.</li><li><strong>ExLlamaV3</strong> pushes quantisation efficiency further than most alternatives on NVIDIA hardware. Its primary value is fitting larger models into a limited VRAM budget.</li></ul><h3 id="model-choices"><strong>Model Choices</strong></h3><p>High parameter models will behave more like the foundational models provided by the likes of Anthropic and OpenAI, but are resource-intensive. Most organizations can achieve a good balance between performance and resource consumption when self-hosting on general-purpose hardware with 3B&#x2013;13B parameter range models at Q4 quantisation. Models in this range run on a single consumer GPU (or a capable CPU server), produce output quality sufficient for the majority of business automation tasks, and have short enough context processing times to be viable in interactive workflows.</p><p>Besides text generation itself, model sizes have an impact on the quality of function or tool calling, which is <a href="https://gorilla.cs.berkeley.edu/leaderboard.html"><u>evaluated here</u></a>.</p><ul><li><strong>Llama (Meta)(1B-70B)</strong> is the reference open-weight family. Llama 3.x models are strong general-purpose choices, well-supported by every runtime in the stack, and available under a licence that permits commercial use for most organisations. The 8B and 70B variants are the most widely deployed.</li><li><strong>Qwen (Alibaba) (</strong>0.8B &#x2013; 72B) is particularly strong on code generation and multilingual tasks. The Qwen2.5-Coder variants are competitive with much larger general models for tool-calling agents, and the Qwen3.5 series extends the range down to sub-1B models suitable for routing and classification tasks.</li><li><strong>Mistral</strong> (7B &#x2013; 22B) offers efficient mid-size models in the 7B&#x2013;22B range. Mistral Nemo and Mixtral (a mixture-of-experts architecture) are good defaults when GPU VRAM is constrained and you need a capable general-purpose model without reaching for a 70B.</li><li><strong>Google Gemma 3 / Gemma 4 (</strong>2B &#x2013; 27B) &#x2014; The smallest Gemma 4 variants (2B and 4B effective parameters) run at approximately 5 GB of RAM with 4-bit quantisation on modern hardware. The Apache 2.0 licence makes commercial deployment straightforward.</li><li><strong>Qwen 3.5 Small (0.8B&#x2013;9B)</strong> &#x2014; The Qwen3.5 series spans 0.8B to 9B parameters with a 256K context window and support for 201 languages. It offers thinking and non-thinking modes, which is useful when you want to suppress chain-of-thought reasoning for simple tasks to save tokens. Strong for multilingual n8n deployments.</li><li><strong>Meta Llama 3.2 (1B, 3B)</strong> &#x2014; Designed explicitly for edge and CPU deployment. The 1B variant fits in under 1 GB at Q4 and is suitable for lightweight classification and routing tasks inside n8n workflows &#x2014; deciding which branch a document goes down, extracting a small set of structured fields, tagging incoming records.</li><li><strong>SmolLM3-3B</strong> (HuggingFace) &#x2014; At the 3B scale it outperforms Llama 3.2 3B and Qwen 2.5 3B while staying competitive with 4B-class alternatives across a broad set of benchmarks. HuggingFace published the full engineering blueprint including architecture decisions, data mixture, and post-training methodology.</li></ul><h1 id="self-host-with-n8n">Self-host with n8n</h1><ul><li><a href="https://n8n.io/workflows/1980-use-an-open-source-llm-via-huggingface/"><u>Use an open-source LLM (via HuggingFace)</u></a></li><li><a href="https://n8n.io/workflows/3139-private-and-local-ollama-self-hosted-dynamic-llm-router/"><u>Private &amp; local Ollama self-hosted + dynamic LLM router&#xA0;</u></a></li><li><a href="https://n8n.io/workflows/2384-chat-with-local-llms-using-n8n-and-ollama/"><u>Chat with local LLMs using n8n and Ollama</u></a></li><li><a href="https://n8n.io/workflows/10157-local-document-question-answering-with-ollama-ai-agentic-rag-and-pgvector/"><u>Local document question answering with Ollama AI, Agentic RAG &amp; PGVector</u></a></li><li><a href="https://n8n.io/workflows/4869-process-legal-documents-with-ollama-ai-and-generate-html-reports-100percent-local/"><u>Process legal documents with Ollama AI &amp; generate HTML reports (100% local)</u></a></li><li><a href="https://n8n.io/workflows/5148-local-chatbot-with-retrieval-augmented-generation-rag/"><u>Local chatbot with retrieval augmented generation (RAG)</u></a></li></ul>]]></content:encoded></item>
-<item><title><![CDATA[Introducing the n8n Culture/Code]]></title><description><![CDATA[<p>I&#x2019;m going to start this post by talking about dishes. Yes, it&#x2019;s a metaphor. But it&#x2019;s literal, too.&#xA0;</p><p>We recently launched our refreshed company values, in the <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a>, at our all-company offsite &#x2018;IRL&#x2019; in Berlin in April, which is</p>]]></description><link>https://blog.n8n.io/n8n-culture-code/</link><guid isPermaLink="false">6a7c3e43d66698000177edae</guid><dc:creator><![CDATA[Jan Oberhauser]]></dc:creator><pubDate>Wed, 12 Aug 2026 09:52:25 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-1_BlogHeader_Human-in-the-Loop-vs-Human-on-the-Loop.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-1_BlogHeader_Human-in-the-Loop-vs-Human-on-the-Loop.jpg" alt="Introducing the n8n Culture/Code"><p>I&#x2019;m going to start this post by talking about dishes. Yes, it&#x2019;s a metaphor. But it&#x2019;s literal, too.&#xA0;</p><p>We recently launched our refreshed company values, in the <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a>, at our all-company offsite &#x2018;IRL&#x2019; in Berlin in April, which is fitting, since Berlin is where I started n8n in 2019.</p><p>Somewhere between the bigger ideas about building infrastructure for a new era of work and what it means to operate with integrity, there&#x2019;s a line in there about doing the dishes: </p><blockquote>&#x201C;When something needs doing, you do it - from the strategic call to the dish in the sink.&#x201D;&#xA0;</blockquote><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/IMG_2301--1--2.jpg" class="kg-image" alt="Introducing the n8n Culture/Code" loading="lazy" width="2000" height="2667" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/IMG_2301--1--2.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/08/IMG_2301--1--2.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/08/IMG_2301--1--2.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w2400/2026/08/IMG_2301--1--2.jpg 2400w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Some workflows you don&apos;t automate. You just run them yourself.</span></figcaption></figure><p>This might be my favourite line in the whole Code, because it gets at something essential about what we&#x2019;re here to do at n8n, and how we&#x2019;re going to get there. But, we&#x2019;ll get to that shortly.</p><p>So why do the values refresh now?</p><p>The obvious answer is speed. We&#x2019;ve been growing fast, faster than most, and we&#x2019;re in the top 30 projects of all time on <a href="https://github.com/n8n-io/n8n">GitHub</a>. Moving at the pace we do is a genuine test of how well a culture can flex and absorb change.&#xA0;</p><p>Because culture doesn&#x2019;t transmit automatically. Every month, people join n8n who didn&#x2019;t experience the company when it was small enough for the culture to be felt rather than explained - when a thread on Slack, or a decision made in front of everyone, naturally set the tone. That&#x2019;s not how it works at our size anymore, nor should it be.</p><p>The less comfortable reason for this values refresh is me. As a company scales, a founder necessarily gets farther from the day-to-day contact, which used to be the main way how vision and values traveled. I still love meeting every new hire, I just have less time with each of them than I used to, and less of the ongoing back-and-forth and daily interactions that used to follow. I can&#x2019;t be in every room where a hard call gets made. And as we build out our global team and our US operations - a market with its own norms, pressures, and pace - the risk of cultural drift, or disconnect, is something we couldn&#x2019;t ignore.</p><p>Scale, however, isn&#x2019;t our central goal - impact and longevity is. <strong>We want n8n to be a generational company</strong> - one that&#x2019;s still here, still trusted, and still building in twenty, thirty, and more years. <strong>For that to be true, the culture has to outlast the people who built it</strong> - understood, inherited, and owned by everyone who comes after.</p><p>There&#x2019;s also the remote-first reality. Building a coherent culture across time zones, languages, and working styles, without the ambient social glue of a single shared office (we do have local hubs in some major cities), requires more intentionality than most companies admit. The kind of informal calibration that happens when people are close to each other - overhearing a decision, reading the room, absorbing how a leader handles something under pressure, or recognising just how central our community is to how we make decisions - none of that exists for us by default. We have to create it deliberately, and the <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is part of how we&#x2019;ll do that. It&#x2019;s not a substitute for real human connection, of course. But it&#x2019;s certainly useful as a shared reference point that helps us to beat stubborn little things like geography, or daylight savings time.</p><p>Our values have always been present in the decisions we made: turning down investors over ethical concerns, letting go of talented people who weren&#x2019;t right for the culture, treating free users and paying ones alike. But we can&#x2019;t rely on osmosis anymore - so we&#x2019;ve written them down.</p><p>Another favourite part of our new <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is <strong><em>We are welcoming. </em></strong>That entire value gets at something really special about n8n: <strong>we are a truly global community</strong>. You can find people building with n8n on almost every continent. We may have started in Europe, but for a long time, our #1 community hub was in Brazil. If you have a dream and the drive to build something great, you belong here. That&#x2019;s the only entry requirement we have.&#xA0;</p><p>This breadth matters because n8n is a product for everyone: solo builders and global enterprises, developers and the people just starting to learn how to code, teams operating across dozens of countries and industries. And this is why that same inclusive spirit must be protected in our <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a>: if the people building n8n don&#x2019;t reflect the extraordinary diversity of our community, then I fear we will end up building something far narrower, and far less impactful, than we&#x2019;re capable of.</p><p>Importantly, n8n has always been more than a bunch of people with the same email signature - our community of contributors, users, template-builders, and forum regulars is part of how we actually work, and how we&#x2019;re going to thrive. And this new <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is a promise to them too: how we show up in our forums, how we respond when something breaks, how we credit the people building alongside us. The same values that govern how we treat each other internally have to govern how we treat the people building with us. Anything less than that is just corporate theatre - and that isn&#x2019;t us.&#xA0;</p><p>The <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is written in two parts, because a company&#x2019;s culture has two parts: the values you stand for, and the behaviours that demonstrate how you live those values every day. And the roll-out starts now.&#xA0;</p><p>We&#x2019;re embedding it everywhere, from how we hire to how we give feedback. We&#x2019;ll ask whether people are living it. We&#x2019;ll ask people to challenge us when we&#x2019;re not. Which brings us back to the kitchen sink.</p><p>I like the line about the dishes because it&#x2019;s not about the dishes at all. <strong>It&#x2019;s about the discipline of noticing. Not just the humility to roll up your sleeves but the naturalness of doing so</strong>. The sense of community that means you apply effort to something that maybe wasn&#x2019;t your fault, but you still see as your shared responsibility. Not because anyone&#x2019;s tracking this stuff, but because leaving it for someone else to do isn&#x2019;t who you are.</p><p>When I read the n8n <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a>, I see a mirror reflecting who we are, but I also see a map - helping us understand where we&#x2019;re headed, and how we&#x2019;re going to get there, together.</p><blockquote>The only thing I don&#x2019;t want to see&#x2026; is the dish in the sink.</blockquote><hr><p><strong>Want to know what it&#x2019;s like to work at n8n?</strong></p><p>The <a href="https://n8n.io/careers/culture-code/builders/">Culture/Code</a> is the most honest preview we can give you, and <a href="https://n8n.io/careers/">we&apos;re hiring</a> across the company. Have a look at our open roles, and hear from the people already living it.</p><p></p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 29 Aug 2026 03:54:12 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 13:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1286,7 +1282,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 23 Aug 2026 16:54:12 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 12:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1295,7 +1291,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 25 Aug 2026 11:54:12 GMT</pubDate>
+  <pubDate>Sun, 23 Aug 2026 13:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1304,7 +1300,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 23 Aug 2026 10:54:12 GMT</pubDate>
+  <pubDate>Sat, 29 Aug 2026 17:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1313,7 +1309,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 25 Aug 2026 02:54:12 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 23:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1322,7 +1318,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 29 Aug 2026 19:54:12 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 02:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1331,7 +1327,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 22 Aug 2026 09:54:12 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 18:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1340,7 +1336,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 25 Aug 2026 03:54:12 GMT</pubDate>
+  <pubDate>Fri, 28 Aug 2026 00:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1349,7 +1345,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 30 Aug 2026 22:54:12 GMT</pubDate>
+  <pubDate>Wed, 26 Aug 2026 19:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1358,7 +1354,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 29 Aug 2026 12:54:12 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 18:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1367,7 +1363,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 21 Aug 2026 20:54:12 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 15:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1376,7 +1372,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 29 Aug 2026 00:54:12 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 02:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1385,7 +1381,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 27 Aug 2026 08:54:12 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 06:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1394,7 +1390,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 26 Aug 2026 09:54:12 GMT</pubDate>
+  <pubDate>Mon, 31 Aug 2026 11:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1403,7 +1399,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 21 Aug 2026 23:54:12 GMT</pubDate>
+  <pubDate>Sat, 29 Aug 2026 01:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1412,7 +1408,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 25 Aug 2026 06:54:12 GMT</pubDate>
+  <pubDate>Sun, 30 Aug 2026 16:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1421,7 +1417,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 24 Aug 2026 05:54:12 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 10:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1430,7 +1426,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 31 Aug 2026 07:54:12 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 21:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1439,7 +1435,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 27 Aug 2026 06:54:12 GMT</pubDate>
+  <pubDate>Sun, 30 Aug 2026 22:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1448,7 +1444,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 25 Aug 2026 21:54:12 GMT</pubDate>
+  <pubDate>Sun, 23 Aug 2026 16:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1457,7 +1453,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 29 Aug 2026 13:54:12 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 07:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1466,7 +1462,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 28 Aug 2026 22:54:12 GMT</pubDate>
+  <pubDate>Sat, 29 Aug 2026 19:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1475,7 +1471,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 22 Aug 2026 17:54:12 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 11:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1484,7 +1480,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 25 Aug 2026 01:54:12 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 13:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1493,7 +1489,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 22 Aug 2026 09:54:12 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 00:14:06 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd085114d9c6bc9f7c2_6a195fc61a6cda99f1321311_69e23df25a8bb1f5ed3d50a8_agent%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1868,26 +1864,17 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/03/business-technology-solutions-2022-12-15-23-05-00-utc.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Synapse Développement révolutionne l’univers des chatbots avec sa technologie d’Evolutive Displayer]]></title>
-  <link>https://www.ia-news.fr/synapse-developpement-revolutionne-lunivers-des-chatbots-avec-sa-technologie-devolutive-displayer/</link>
+  <title><![CDATA[IA et SupplyChain : Colibri lance de nouveaux modules complémentaires à sa plateforme]]></title>
+  <link>https://www.ia-news.fr/ia-et-supplychain-colibri-lance-de-nouveaux-modules-complementaires-a-sa-plateforme/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/supply-chain-07.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/supply-chain-07.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/supply-chain-07.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Comment tirer le meilleur parti de l&rsquo;intelligence artificielle]]></title>
-  <link>https://www.ia-news.fr/comment-tirer-le-meilleur-parti-de-lintelligence-artificielle/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/03/121965440_10157997694455000_731241405662006429_n-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/03/121965440_10157997694455000_731241405662006429_n-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/03/121965440_10157997694455000_731241405662006429_n-2.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Intégration d&rsquo;un chatbot : quel ROI ?]]></title>
-  <link>https://www.ia-news.fr/integration-dun-chatbot-quel-roi/</link>
+  <title><![CDATA[Ctoutvert investit dans l’IA pour enrichir les outils d’aide à la décision des gestionnaires de campings]]></title>
+  <link>https://www.ia-news.fr/intelligence-artificielle-ou-es-tu/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" medium="image" />
@@ -1895,22 +1882,40 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-YKW0JjP7rlU-unsplash.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[La startup de cybersécurité Hackuity prend son essor et annonce une levée de fonds de 12 M€]]></title>
-  <link>https://www.ia-news.fr/la-startup-de-cybersecurite-hackuity-prend-son-essor-et-annonce-une-levee-de-fonds-de-12-me/</link>
+  <title><![CDATA[L’IA, un nouvel allié au service du pilotage des flux téléphoniques]]></title>
+  <link>https://www.ia-news.fr/lia-un-nouvel-allie-au-service-du-pilotage-des-flux-telephoniques/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/privecstasy-CXlqHmQy3MY-unsplash.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/06/telephonie-ip-6.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/06/telephonie-ip-6.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/telephonie-ip-6.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Répondre aux défis du GenAI Sprawl avec une approche unifiée de cybersécurité]]></title>
-  <link>https://www.ia-news.fr/repondre-aux-defis-du-genai-sprawl-avec-une-approche-unifiee-de-cybersecurite/</link>
+  <title><![CDATA[Pour connaitre l’impact de l&rsquo;IA dans les chaînes d&rsquo;approvisionnement, regardons d&rsquo;abord ses fondements ]]></title>
+  <link>https://www.ia-news.fr/pour-connaitre-limpact-de-lia-dans-les-chaines-dapprovisionnement-regardons-dabord-ses-fondements/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/06/cato-network.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/06/cato-network.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/06/cato-network.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/11/1521102940290.jpeg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/11/1521102940290.jpeg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/11/1521102940290.jpeg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[La Gen IA, experte d’une intelligence qui pense à sa place ?]]></title>
+  <link>https://www.ia-news.fr/la-gen-ia-experte-dune-intelligence-qui-pense-a-sa-place/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/gen-ia-1.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/03/gen-ia-1.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/gen-ia-1.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Starburst veut faire passer l’IA d’entreprise de la réponse à l’action]]></title>
+  <link>https://www.ia-news.fr/starburst-veut-faire-passer-lia-dentreprise-de-la-reponse-a-laction/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-starburst-entreprise-inteligence-plateforme-logo.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-starburst-entreprise-inteligence-plateforme-logo.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-starburst-entreprise-inteligence-plateforme-logo.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
