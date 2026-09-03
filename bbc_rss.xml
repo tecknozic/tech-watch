@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 20:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 01:34:04 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one]]></title>
+            <description><![CDATA[The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce9e838jzpzo#0</guid>
+            <pubDate>Wed, 02 Sep 2026 23:36:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d608/live/9029a2e0-a6e7-11f1-a291-b542ee92de7c.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Uber to cut over 3,000 jobs in major global restructuring]]></title>
             <description><![CDATA[The company says cutting roles would make its operations "simpler and faster".]]></description>
@@ -109,15 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cg49q4xydq0o#0</guid>
             <pubDate>Thu, 27 Aug 2026 13:24:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/51e2ea60-a213-11f1-9090-b51af3a01fc2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unexpected chat between OpenAI agents led to Hugging Face hack]]></title>
-            <description><![CDATA[OpenAI's cyber agents banded together to perform a hack during a security test.
-]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj9xj89dk40o#0</guid>
-            <pubDate>Wed, 26 Aug 2026 22:03:45 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/1bbd32b0-a191-11f1-9e49-ab6cded816f9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
