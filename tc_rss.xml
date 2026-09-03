@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 03 Sep 2026 15:13:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Sep 2026 19:57:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,15 +28,101 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation</title>
+		<link>https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 19:36:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Accel]]></category>
+		<category><![CDATA[Mira Murati]]></category>
+		<category><![CDATA[Thinking Machines Lab]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3160633</guid>
+
+					<description><![CDATA[The high-profile startup's annual revenue run rate stands at at over $100 million.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Abliteration.ai is making a business out of removing AI guardrails</title>
+		<link>https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 18:37:57 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3160448</guid>
+
+					<description><![CDATA[Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta is paying to peek at how you use their latest AI model</title>
+		<link>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 18:19:56 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3160462</guid>
+
+					<description><![CDATA[For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who "contribute" to the development of future models by sharing their prompts and model outputs.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI launches Astra, its powerful (and controversial) new model</title>
+		<link>https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 18:01:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Astra]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3160480</guid>
+
+					<description><![CDATA[OpenAI claims that Astra represents "a new frontier on computer and browser use," and that it handles tasks with unmatched "speed, accuracy, and safety." ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ollie is betting its focus on privacy can help it win the AI assistant race</title>
+		<link>https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 16:09:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[ollie]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3160393</guid>
+
+					<description><![CDATA[The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google&#8217;s latest AI weather model gives you no excuse to forget your umbrella</title>
 		<link>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</link>
 		
 		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
 		<pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[weather forecasting]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3160336</guid>
 
-					<description><![CDATA[Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding [&#8230;]]]></description>
+					<description><![CDATA[WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.]]></description>
 		
 		
 		
@@ -278,110 +364,6 @@ globally," the brief reads.]]></description>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3159700</guid>
 
 					<description><![CDATA[This is Adobe's second acquisition out of India after Rephrase.ai in 2023]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting</title>
-		<link>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 12:09:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Chris Lehane]]></category>
-		<category><![CDATA[lawsuits]]></category>
-		<category><![CDATA[mass shooting]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[tumbler ridge]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3159950</guid>
-
-					<description><![CDATA[Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B</title>
-		<link>https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 22:08:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3159934</guid>
-
-					<description><![CDATA[AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems</title>
-		<link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 21:06:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3159895</guid>
-
-					<description><![CDATA[OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s Android update tackles motion sickness, accessibility, and more</title>
-		<link>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 20:53:05 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3159905</guid>
-
-					<description><![CDATA[While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic&#8217;s new Fable release is cheaper, less restrictive</title>
-		<link>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</link>
-		
-		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 19:39:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[fable]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3159842</guid>
-
-					<description><![CDATA[Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s answer to Canva is an AI tool where you prompt instead of design</title>
-		<link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 17:35:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[canva]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3159727</guid>
-
-					<description><![CDATA[With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach. ]]></description>
 		
 		
 		
