@@ -9,18 +9,18 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 01:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 10:07:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[AI cancer cures slowed by chip shortage, says UK's biggest tech boss]]></title>
-            <description><![CDATA[The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are "going to solve it".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0m39g7xzevo#0</guid>
-            <pubDate>Mon, 07 Sep 2026 23:05:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg"/>
+            <title><![CDATA[Scammers demand ransoms from Instagram users over fake copyright claims]]></title>
+            <description><![CDATA[Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjw54ww73qjo#0</guid>
+            <pubDate>Tue, 08 Sep 2026 06:49:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
             <title><![CDATA[Grindr to pay £26m to settle claims it allegedly shared users' HIV status]]></title>
@@ -535,6 +535,33 @@
 		
 		
 			</item>
+<item><title><![CDATA[AI Agent Reliability: Debug, Evaluate, and Monitor in Production]]></title><description><![CDATA[Run AI agents reliably in production. Learn how to debug failures, evaluate performance, track key metrics, add guardrails, and monitor agent behavior with n8n.]]></description><link>https://blog.n8n.io/ai-agent-reliability-debug-evaluate-and-monitor-in-production/</link><guid isPermaLink="false">6a6715764f262100016f6c84</guid><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Tue, 08 Sep 2026 09:51:39 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/TL.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/TL.jpeg" alt="AI Agent Reliability: Debug, Evaluate, and Monitor in Production"><p>Running AI agents in production means more than just building them. Your agent might look reliable by design with the right model settings, guardrails in place and clear prompt structure. But when the output doesn&#x2019;t make sense, you need a way to trace where the logic fell apart.</p><p>Then you notice you&apos;re fixing the same issues over and over instead of catching them with a proper evaluation system. To measure what matters and track the output quality, you need the right metrics. Monitoring adds long-term visibility into your agents&#x2019; behavior and lets you see how the numbers change over time.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/intro.jpg" class="kg-image" alt="AI Agent Reliability: Debug, Evaluate, and Monitor in Production" loading="lazy" width="1376" height="768" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/intro.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/07/intro.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/intro.jpg 1376w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">The five stages of the AI agent production lifecycle</span></figcaption></figure><p>Each of these stages serves a certain purpose and builds your production confidence. This series covers all five for different stages of the agent lifecycle:</p><ul>
+<li><a href="https://blog.n8n.io/make-ai-agents-more-reliable-and-restrict-the-actions-they-can-take/">Make agents reliable</a> &#x2014; model settings, prompts, schemas, guardrails, and routing logic</li>
+<li><a href="https://blog.n8n.io/how-to-debug-failures-or-missteps-in-ai-agent-behavior/">Debug failures</a> &#x2014; execution tagging, built-in traces, and external tracing platforms</li>
+<li><a href="https://blog.n8n.io/how-to-evaluate-the-performance-of-ai-agents/">Evaluate performance</a> &#x2014; test datasets, metrics, and user feedback</li>
+<li><a href="https://blog.n8n.io/what-metrics-should-i-track-for-ai-agent-performance/">Track metrics</a> &#x2014; execution, quality, efficiency, and safety</li>
+<li><a href="https://blog.n8n.io/how-to-monitor-usage-and-performance-of-ai-steps/">Monitor in production</a> &#x2014; operational dashboards and behavioral visibility</li>
+</ul>
+<p>The articles are self-sufficient but stand where they are for a reason: first you build controls, then learn to find issues, test them systematically, track the right signals, and watch them over time.&#xA0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">We assume you already know <a href="https://blog.n8n.io/how-to-build-ai-agent/" rel="noreferrer">how to build AI agents</a> and focus on how to make them work reliably at scale. </div></div><h2 id="how-can-i-make-ai-agents-more-reliable-and-restrict-the-actions-they-can-take">How can I make AI Agents more reliable and restrict the actions they can take?</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/controls-1000.png" class="kg-image" alt="AI Agent Reliability: Debug, Evaluate, and Monitor in Production" loading="lazy" width="1000" height="384" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/controls-1000.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/controls-1000.png 1000w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Restricting what an AI agent can do: controlling agent behavior at the tool and action level</span></figcaption></figure><p>Most agent failures come from what the agent received as a context, rather than what the model can do. If your agent hallucinates, the first question to ask is if it had the right data.</p><p>This article covers techniques that give you control over agent behavior at multiple levels. You&apos;ll learn how to get consistent outputs at the LLM level, how to design and configure agent&#x2019;s tools, how to structure prompts that give the agent clear context and how to write output schemas for predictable formats.</p><p>In n8n, these layers turn into specific workflow decisions on how you configure your <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI Agent node</u></a>, where you place <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails#guardrails"><u>Guardrails</u></a> and IF/Switch nodes for conditional routing, and how you scope tools per workflow stage.</p><p>If you&apos;ve ever watched an agent do something confidently wrong and had no idea which layer to fix, start here.</p><p><a href="https://blog.n8n.io/make-ai-agents-more-reliable-and-restrict-the-actions-they-can-take/"><u>Read the full article &#x2192;&#xA0;&#xA0;</u></a></p><h2 id="how-to-debug-failures-or-missteps-in-ai-agent-behavior">How to debug failures or missteps in AI agent behavior?</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/debug-1000-.png" class="kg-image" alt="AI Agent Reliability: Debug, Evaluate, and Monitor in Production" loading="lazy" width="1000" height="387" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/debug-1000-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/debug-1000-.png 1000w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Debugging failures in an AI agent&apos;s reasoning chain</span></figcaption></figure><p>Debugging AI agents is a different game compared to deterministic workflows. There&apos;s no error message when the agent makes a bad decision somewhere in its reasoning chain.</p><p>This article illustrates three debugging techniques: finding the right execution among hundreds, tracing what the agent saw and decided at each step, and going deeper with external platforms for token-level cost and latency analysis.</p><p>In n8n, the first two techniques are built in, with execution tagging through the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executiondata"><u>Execution Data node</u></a> and full input/output inspection in agent logs. The third one extends to LangSmith or LangFuse for self-hosted deployments.</p><p><a href="https://blog.n8n.io/how-to-debug-failures-or-missteps-in-ai-agent-behavior/"><u>Read the full article &#x2192;</u></a></p><h2 id="how-to-evaluate-the-performance-of-ai-agents">How to evaluate the performance of AI agents?</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/evals-1000-..png" class="kg-image" alt="AI Agent Reliability: Debug, Evaluate, and Monitor in Production" loading="lazy" width="1000" height="394" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/evals-1000-..png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/evals-1000-..png 1000w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Evaluating AI agent performance with systematic testing</span></figcaption></figure><p>Every prompt change, every new tool, and every model swap bring a risk to output quality. Without systematic testing, it&#x2019;s hardly clear if these tweaks improved your agent or weakened it since there is no reference point.</p><p>A few principles that hold regardless of tooling:</p><ul>
+<li>Start with a small, well-chosen test dataset to cover your critical paths</li>
+<li>Run evaluations every time a prompt or tool changes</li>
+<li>Add real production failures to your test dataset as they appear</li>
+<li>Combine offline testing with online evaluation; the first one catches agent drift after any updates, the second one identifies new issues from live data</li>
+</ul>
+<p>This article covers how to put these into practice and apply testing of agent outputs before and after deployment. You&#x2019;ll learn how to choose evaluation methods that match what you&apos;re measuring, know which approach fits your current stage, from ad-hoc spot checks to fully automated CI-integrated pipelines, and build evaluation workflows you can run on every change.</p><p><a href="https://blog.n8n.io/how-to-evaluate-the-performance-of-ai-agents/"><u>Read the full article &#x2192;</u></a></p><h2 id="ai-agent-performance-metrics-what-to-track-and-why">AI agent performance metrics: what to track and why</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/metrics_1000.png" class="kg-image" alt="AI Agent Reliability: Debug, Evaluate, and Monitor in Production" loading="lazy" width="1000" height="395" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/metrics_1000.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/metrics_1000.png 1000w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Tracking AI agent performance metrics across execution, quality, efficiency, and safety</span></figcaption></figure><p>The temptation to track everything is huge: success rates, latency, token counts, quality scores, costs. But every metric you add needs maintenance. The key point is to track only those metrics that will influence your decisions &#x2013; if you won&apos;t change anything based on a number, you don&apos;t need to measure it.</p><p>This article organizes metrics into four categories based on what they track: execution, quality, efficiency, and safety. You&apos;ll learn what each metric identifies, what warning signs to watch for, and how to match your tracking to your current stage. A prototype and a production agent serving thousands of users need very different levels of visibility.</p><p>In n8n, execution metrics come natively from the Insights dashboard. Quality tracking runs through the <a href="https://docs.n8n.io/build/integrate-ai/test-and-improve-ai-workflows"><u>Evaluations feature</u></a>. Efficiency and safety require targeted instrumentation with the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executiondata"><u>Execution Data node</u></a>, <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails#guardrails"><u>Guardrails node</u></a>, and <a href="https://docs.n8n.io/build/work-with-data/data-tables"><u>Data Tables</u></a>.</p><p><a href="https://blog.n8n.io/what-metrics-should-i-track-for-ai-agent-performance/"><u>Read the full article &#x2192;</u></a></p><h2 id="how-to-monitor-usage-and-performance-of-ai-steps">How to monitor usage and performance of AI steps</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/monitoring_1000.png" class="kg-image" alt="AI Agent Reliability: Debug, Evaluate, and Monitor in Production" loading="lazy" width="1000" height="386" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/07/monitoring_1000.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/07/monitoring_1000.png 1000w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Monitoring AI agents for operational health and behavioral visibility</span></figcaption></figure><p>Agents don&apos;t behave the same over time. Even without changing a prompt or swapping a model, the outputs shift because of new user patterns, external APIs return data in different ways, and conversation histories grow in unexpected ways.</p><p>The final article covers ongoing visibility into your agent workflows at two levels: operational monitoring for system health and behavioral monitoring to see what&apos;s happening inside the agent&apos;s decision-making.</p><p>You&apos;ll learn how to use n8n&apos;s built-in Insights dashboard and Prometheus endpoint for operational monitoring, how to log agent outputs in a structured way, how to track memory state for compliance and debugging, and when to add external platforms like LangSmith or LangFuse for AI-specific observability.</p><p><a href="https://blog.n8n.io/how-to-monitor-usage-and-performance-of-ai-steps/"><u>Read the full article &#x2192;</u></a></p><h2 id="whats-next">What&apos;s next?</h2><p>With reliability controls, debugging tools, evaluations, metrics, and monitoring in place, you have what you need to run AI agents in production with confidence. Where you go next depends on where you are on your journey.</p><p><strong>Start here:</strong></p><ul>
+<li><a href="https://blog.n8n.io/how-to-build-ai-agent/">How to build your first AI agent</a> &#x2013; the basics of creating AI agents in n8n</li>
+</ul>
+<p><strong>Prepare to scale or go deeper:</strong></p><ul>
+<li><a href="https://blog.n8n.io/best-practices-for-deploying-ai-agents-in-production/">15 best practices for deploying AI agents in production</a> &#x2013; infrastructure, security, and deployment strategies</li>
+<li><a href="https://blog.n8n.io/multi-agent-systems/">Multi-agent systems</a> &#x2013; coordinate multiple specialized agents for complex tasks</li>
+<li><a href="https://blog.n8n.io/practical-evaluation-methods-for-enterprise-ready-llms/">Practical evaluation methods for enterprise LLMs</a> &#x2013; advanced evaluation techniques beyond n8n&apos;s built-in features</li>
+</ul>
+<p><strong>Try n8n&apos;s AI capabilities yourself:</strong></p><ul>
+<li>Explore the <a href="https://n8n.io/integrations/categories/ai/">AI integrations catalog</a> to see what tools your agents can connect to</li>
+<li>Browse <a href="https://n8n.io/workflows/?categories=AI">AI workflow templates</a> for ready-to-use examples</li>
+<li><a href="https://app.n8n.cloud/register">Get started with n8n</a></li>
+</ul>
+]]></content:encoded></item>
 <item><title><![CDATA[Workflow Security: Controls for Regulated Industries]]></title><description><![CDATA[Implement workflow security in regulated environments: control access, manage credentials, log every action, and meet HIPAA, SOC 2, and GDPR requirements.]]></description><link>https://blog.n8n.io/workflow-security/</link><guid isPermaLink="false">6a8ef4d657de1e00013b2094</guid><category><![CDATA[Guides]]></category><category><![CDATA[SecOps]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Thu, 03 Sep 2026 17:16:00 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-4_workflow-security.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-4_workflow-security.jpg" alt="Workflow Security: Controls for Regulated Industries"><p>Workflow security isn&#x2019;t always the highest priority for maintaining security posture. But in healthcare, finance, and other regulated&#xA0; industries, automated workflows handle sensitive data every day. Gambling with the protection of this data could mean heavy fines and the loss of customer or patient trust.</p><p>Closed SaaS automation tools may add more vulnerabilities. The lack of code transparency makes it harder to complete independent security assessments, validate controls, and ensure compliance. Source-available, self-hosted platforms give teams direct insight into execution behavior and configuration, which in turn supports stronger governance.&#xA0;&#xA0;</p><p>This article covers six security controls for automated workflows in regulated industries:</p><ul><li>Role-based access control (RBAC)</li><li>Secrets management</li><li>Audit logging</li><li>Data residency</li><li>Environment isolation</li><li>Monitoring systems</li></ul><h2 id="the-security-surface-of-a-workflow-automation-platform">The security surface of a workflow automation platform</h2><p>Workflow automation platforms handle more than task orchestration and integrations. They hold credentials for connected systems and fire automated processes at scale. When these parts aren&#x2019;t reviewed or secured, they create openings attackers can use.</p><p>Here&#x2019;s how these gaps appear inside a workflow engine and why they deserve closer attention.&#xA0;</p><h3 id="where-credentials-live-and-why-it-matters">Where credentials live and why it matters</h3><p>Workflow credentials are only as safe as where you store them and the security measures guarding that location. One survey from 2024 found that <a href="https://6372253.fs1.hubspotusercontent-na1.net/hubfs/6372253/Ebooks/The_2024_State_of_Secrets_Management_Survey_Report.pdf?hsCtaAttrib=185034963850"><u>88% of respondents</u></a> had concerns about secrets sprawl. Meanwhile, 96% of respondents stored some secrets outside of secure locations, like in cloud configuration files and source code.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/cred-storage.png" class="kg-image" alt="Workflow Security: Controls for Regulated Industries" loading="lazy" width="1105" height="595" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/cred-storage.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/08/cred-storage.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/cred-storage.png 1105w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Storing credentials in config files or internal platform databases leaves your automated workflows vulnerable. To meet strict compliance standards, credentials should be isolated in a dedicated external vault</em></i></figcaption></figure><p>Misconfigured logging creates a common attack path. For example, a developer adds a debug logging to troubleshoot a failed API call. The log captures the full request headers, including the Authorization header, and writes it to a shared service. Poor secrets management exposes the header to anyone with log access.</p>
 <!--kg-card-begin: html-->
 <script>
@@ -1313,93 +1340,11 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
 </div>
 <!--kg-card-end: html-->
 ]]></content:encoded></item>
-<item><title><![CDATA[Building AI Agent Observability for Production Workflows]]></title><description><![CDATA[Learn how AI agent observability provides the visibility needed to understand agent behavior, investigate failures, and build more reliable AI workflows.]]></description><link>https://blog.n8n.io/ai-agent-observability/</link><guid isPermaLink="false">6a70e1205b7bbb0001238887</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 14 Aug 2026 14:59:12 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-2_BlogHeader_ai-agent-observability.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/TL-2_BlogHeader_ai-agent-observability.jpg" alt="Building AI Agent Observability for Production Workflows"><p>AI agents are getting better at handling complex, multi-step tasks, but they&#x2019;re also getting harder to debug. If something goes wrong, knowing a request failed isn&#x2019;t enough. You need to understand where and why it failed, and what the agent did along the way.</p><p>AI agent observability gives you that visibility. This implementation guide will show you how to build it into your agentic AI workflows.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F4A1;</div><div class="kg-callout-text">Check out our article on <a href="https://blog.n8n.io/ai-observability-tools/">AI observability tools</a> to compare the best platforms for agent visibility.</div></div><h2 id="what%E2%80%99s-ai-agent-observability">What&#x2019;s AI agent observability?</h2><p>AI agent observability captures the full execution of an agent, including model calls, tool invocations, and interactions with external systems. This broader view goes beyond what&#x2019;s typically covered by LLM observability, allowing engineering teams to investigate failures, troubleshoot unexpected behavior, and improve reliability over time.</p><p>Unlike traditional applications, AI agents don&#x2019;t always follow the same execution path. They make decisions, call tools, retrieve information, and adapt their behavior based on the task at hand, which means the same request won&#x2019;t always produce the same result. Traditional application monitoring can tell you whether your infrastructure is healthy, but it can&#x2019;t explain why an agent behaved the way it did.&#xA0;</p><p></p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/observability-stack--1---1---1---1---1-.png" class="kg-image" alt="Building AI Agent Observability for Production Workflows" loading="lazy" width="1408" height="768" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/observability-stack--1---1---1---1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/08/observability-stack--1---1---1---1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/observability-stack--1---1---1---1---1-.png 1408w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">LLM observability stack usually consists of three components. LLM calls and tool executions can be represented as traces (sequential diagram) or metrics (aggregated parameters like latency or costs). Low-level logs catch errors, raw outputs and other system-wide events.</em></i></figcaption></figure><p>To understand agent behavior, teams usually rely on three types of telemetry.</p><h3 id="traces">Traces</h3><p>Traces show the complete path an agent takes to complete a task. Instead of a single request and response, you see every model call, tool invocation, retrieval step, and decision point that happened along the way. This makes it easier to identify where a workflow broke down, whether it was because of a slow API or an unnecessary tool call. For production AI agents, traces are often the fastest way to understand why two seemingly identical requests produced different results.</p><h3 id="metrics">Metrics</h3><p>These help you spot patterns that aren&apos;t obvious from individual executions. When you monitor them over time, metrics like latency, token usage, and hallucination rates all become useful signals. A single slow request may not be a concern, but a steady increase in latency or token consumption across hundreds of runs could point to a larger issue. Tracking these numbers also helps engineering teams understand how agent performance changes as prompts and models evolve.</p><h3 id="logs">Logs</h3><p>These provide the detailed context behind each step of an agent&apos;s execution. Structured logs capture inputs, outputs, tool responses, errors, and other runtime events. When paired with traces and metrics, logs help answer where something went wrong and what happened at that point in the workflow, reducing the time it takes to diagnose and fix production issues.</p><h2 id="ai-agent-observability-tools">AI agent observability tools</h2><p>Whether you&apos;re evaluating dedicated LLM tracing tools or extending your existing observability stack, there are plenty of options available. Here&apos;s a quick comparison of some of the most popular AI observability tools:</p>
-<!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 700px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;">Tool</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;">Native instrumentation</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 100px;">Self-hosted</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444;">Primary trade-off</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Langfuse</td>
-          <td style="padding: 16px;">Yes</td>
-          <td style="padding: 16px;">Yes</td>
-          <td style="padding: 16px;">Open source and highly customizable but requires deployment and ongoing management</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">LangSmith</td>
-          <td style="padding: 16px;">Yes</td>
-          <td style="padding: 16px;">No</td>
-          <td style="padding: 16px;">Excellent tracing and evaluation for LLM apps but optimized for the LangChain ecosystem</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Arize AI</td>
-          <td style="padding: 16px;">Yes</td>
-          <td style="padding: 16px;">No</td>
-          <td style="padding: 16px;">Strong observability and evaluation features but geared toward larger ML and AI deployments</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Datadog LLM Observability</td>
-          <td style="padding: 16px;">Extends existing Datadog instrumentation</td>
-          <td style="padding: 16px;">No</td>
-          <td style="padding: 16px;">Ideal for teams already using Datadog but may be unnecessarily complex for smaller deployments</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">n8n (workflow layer)</td>
-          <td style="padding: 16px;">Node-level execution data and workflow logs</td>
-          <td style="padding: 16px;">Yes</td>
-          <td style="padding: 16px;">Provides visibility into workflow execution but complements dedicated observability platforms instead of replacing them</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
-</div>
-<!--kg-card-end: html-->
-<p>No matter which observability platform you choose, it only tells part of the story. Production AI agents also need a reliable orchestration layer that makes every workflow execution visible, captures errors, and integrates with the rest of your monitoring stack. That&apos;s where platforms like <a href="https://n8n.io/"><u>n8n</u></a> fit in, providing execution history and workflow-level visibility while routing telemetry to dedicated observability tools.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Build observable AI agent workflows from day one</h3>
-    <p>Execution logs, error workflows, and OpenTelemetry integration built into every n8n workflow</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="how-to-implement-ai-agent-observability">How to implement AI agent observability</h2><p>Observability for AI agents works best when it&apos;s built into your agent architecture from the start. Instead of trying to add AI agent tracing and logging after deployment, plan each stage of your workflow to follow every execution from beginning to end.</p><h3 id="instrument-the-agent-entry-point">Instrument the agent entry point</h3><p>Every agent execution should begin with a unique identifier that acts as the root span for the entire workflow. That identifier lets you correlate model calls, tool invocations, logs, and downstream services to a single execution, even as the workflow grows more complex.</p><p>In n8n, every workflow execution has a unique <a href="https://docs.n8n.io/build/code-in-n8n/cookbook/built-in-methods-and-variables-examples/execution"><u>execution ID</u></a>. You can pass that ID to downstream services through the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/"><u>HTTP Request node</u></a> or via <a href="https://docs.n8n.io/deploy/host-n8n/keep-n8n-running/trace-executions-with-opentelemetry"><u>OpenTelemetry</u></a> as a trace or correlation header, making it easier to reconstruct an execution across multiple systems.</p><h3 id="create-child-spans-for-every-model-and-tool-call">Create child spans for every model and tool call</h3><p>Once an agent begins executing, the platform should treat each LLM invocation, retrieval step, API request, and tool as its own span within the larger execution trace. This creates a complete picture of how the agent reached its final output.</p><p>Without this level of instrumentation, a failed execution often looks like a single error. With child spans in place, you can quickly identify where issues came from, whether a slow model response, a failed API request, or an unexpected tool call.</p><h3 id="stream-structured-logs-in-real-time">Stream structured logs in real time</h3><p>Capture structured log events for prompts, responses, tool outputs, and errors to gain deeper context and make production issues easier to investigate.</p><p>n8n automatically records node-level execution data, so you can quickly inspect workflow inputs and outputs. You can also use the built-in <a href="https://docs.n8n.io/administer/observe-and-log/stream-logs-to-external-systems"><u>log stream feature</u></a> to send events to platforms like Datadog Logs, Grafana Loki, or cloud storage for long-term analysis as part of a broader AIOps workflow.</p><h3 id="propagate-trace-context-across-services">Propagate trace context across services</h3><p>Production agents rarely stay within a single application. A workflow may call external APIs, trigger asynchronous processes, or hand work off to other services before returning a response.</p><p>Passing the same trace context between steps keeps the execution connected across every stage of the workflow. Without that context, observability data becomes fragmented, making it much harder to understand what happened during a single agent run.</p><h3 id="configure-error-workflows-and-alerting">Configure error workflows and alerting</h3><p>Observability isn&apos;t just about debugging after something breaks. It should also help you detect problems before they affect users.</p><p>Configure alerts for issues like unusually high latency, excessive token usage, and failing tool calls. In n8n, <a href="https://docs.n8n.io/build/flow-logic/handle-errors-gracefully"><u>Error Workflows</u></a> automatically trigger notifications or recovery workflows whenever an execution fails, helping engineering teams respond faster while reducing manual intervention. Users can also add <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.stopanderror"><u>logic branches</u></a> with a fallback for a fine-grained report.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/n8n-agent-logs-1-.png" class="kg-image" alt="Building AI Agent Observability for Production Workflows" loading="lazy" width="1400" height="900" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/08/n8n-agent-logs-1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/08/n8n-agent-logs-1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/08/n8n-agent-logs-1-.png 1400w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">n8n shows full execution traces on a single canvas, making it easy to debug and update AI-agents and LLM-powered workflows.</em></i></figcaption></figure><p></p><h2 id="observability-best-practices">Observability best practices</h2><p>Once your observability pipeline is in place, a few simple practices help you troubleshoot agents in production:</p><ul><li><strong>Set sampling rates early: </strong>Define a sampling strategy before deploying to production to capture enough detail without overwhelming your observability platform.</li><li><strong>Separate evaluation from observability:</strong> Observability tells you how an agent behaved. Evaluation tells you whether it behaved well. Treat these practices as complementary, not interchangeable.</li><li><strong>Track token usage over time:</strong> Token consumption isn&apos;t just a cost metric. Unexpected increases can indicate prompt changes, inefficient tool use, and workflows that are becoming more complex than intended.</li><li><strong>Check execution data regularly:</strong> Reviewing traces, logs, and metrics over time makes it easier to spot recurring failures and opportunities to improve agent behavior.</li></ul>
-<!--kg-card-begin: html-->
-<script>
-  workflowBanner([7231, 9971, 9497, 5523, 10779], document.currentScript, {
-    workflowsHeader: "Explore these n8n templates to start building observable AI agent workflows:"
-  });
-</script>
-<!--kg-card-end: html-->
-<h2 id="build-ai-agent-observability-into-your-workflows">Build AI agent observability into your workflows</h2><p>AI agent observability should start long before the first production incident. By instrumenting every workflow, capturing structured execution data, and monitoring AI agent behavior over time, you&apos;ll be able to troubleshoot issues faster and build more reliable AI systems.</p><p>n8n puts that architecture into practice. Built-in execution logs and Error Workflows provide visibility into every workflow run, while the HTTP Request node makes it easy to integrate with your existing observability stack. Whether you deploy in <a href="https://app.n8n.cloud/register"><u>n8n Cloud</u></a> or <a href="https://docs.n8n.io/deploy/host-n8n"><u>self-host</u></a>, you can build production-ready AI workflows without sacrificing visibility into how they run.</p><p>Explore n8n&#x2019;s <a href="https://docs.n8n.io/deploy/host-n8n/keep-n8n-running"><u>configuration docs</u></a> to learn how to set up logs and metrics, or jump straight into pre-built, production-ready <a href="https://n8n.io/workflows/"><u>workflow templates</u></a>.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Build AI agent observability into your workflows</h3>
-    <p>Full execution visibility, error recovery, and integrations with your existing observability stack</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud free</a>
-</div>
-<!--kg-card-end: html-->
-]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 02 Sep 2026 01:31:26 GMT</pubDate>
+  <pubDate>Sat, 29 Aug 2026 15:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1408,7 +1353,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 05 Sep 2026 19:31:26 GMT</pubDate>
+  <pubDate>Sat, 05 Sep 2026 00:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1417,7 +1362,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 04 Sep 2026 10:31:26 GMT</pubDate>
+  <pubDate>Sat, 05 Sep 2026 16:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1426,7 +1371,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 04 Sep 2026 19:31:26 GMT</pubDate>
+  <pubDate>Sat, 05 Sep 2026 19:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1435,7 +1380,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 31 Aug 2026 20:31:26 GMT</pubDate>
+  <pubDate>Tue, 01 Sep 2026 00:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1444,7 +1389,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 30 Aug 2026 22:31:26 GMT</pubDate>
+  <pubDate>Sun, 30 Aug 2026 19:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1453,7 +1398,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 02 Sep 2026 04:31:26 GMT</pubDate>
+  <pubDate>Tue, 01 Sep 2026 03:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1462,7 +1407,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 01 Sep 2026 07:31:26 GMT</pubDate>
+  <pubDate>Sat, 29 Aug 2026 23:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1471,7 +1416,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 07 Sep 2026 02:31:26 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 03:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1480,7 +1425,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 01 Sep 2026 09:31:26 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 14:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1489,7 +1434,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 06 Sep 2026 00:31:26 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 18:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1498,7 +1443,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 06 Sep 2026 06:31:26 GMT</pubDate>
+  <pubDate>Mon, 31 Aug 2026 02:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1507,7 +1452,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 31 Aug 2026 16:31:26 GMT</pubDate>
+  <pubDate>Tue, 08 Sep 2026 07:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1516,7 +1461,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 06 Sep 2026 08:31:26 GMT</pubDate>
+  <pubDate>Wed, 02 Sep 2026 03:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1525,7 +1470,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 30 Aug 2026 18:31:26 GMT</pubDate>
+  <pubDate>Sat, 05 Sep 2026 18:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1534,7 +1479,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 30 Aug 2026 17:31:26 GMT</pubDate>
+  <pubDate>Wed, 02 Sep 2026 07:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1543,7 +1488,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 02 Sep 2026 03:31:26 GMT</pubDate>
+  <pubDate>Mon, 31 Aug 2026 16:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1552,7 +1497,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 02 Sep 2026 11:31:26 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 11:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1561,7 +1506,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 02 Sep 2026 08:31:26 GMT</pubDate>
+  <pubDate>Sat, 05 Sep 2026 22:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1570,7 +1515,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 31 Aug 2026 16:31:26 GMT</pubDate>
+  <pubDate>Wed, 02 Sep 2026 14:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1579,7 +1524,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 03 Sep 2026 10:31:26 GMT</pubDate>
+  <pubDate>Sat, 29 Aug 2026 19:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1588,7 +1533,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 01 Sep 2026 23:31:26 GMT</pubDate>
+  <pubDate>Mon, 31 Aug 2026 00:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1597,7 +1542,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 30 Aug 2026 15:31:26 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 22:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1606,7 +1551,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 04 Sep 2026 18:31:26 GMT</pubDate>
+  <pubDate>Sat, 05 Sep 2026 08:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1615,7 +1560,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 08 Sep 2026 00:31:26 GMT</pubDate>
+  <pubDate>Tue, 01 Sep 2026 15:07:54 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1963,58 +1908,58 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" /> <p>Le Club Consulting &amp; Coaching (C3) d’HEC Alumni publie, avec l’aide de plus de 50 dirigeants de cabinets de conseil, « ConseilIA : le nouvel âge du Conseil Augmenté ». Cet ouvrage décrypte la transformation ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Saretec améliore le traitement et le classement automatiques de mails grâce à Golem.ai]]></title>
-  <link>https://www.ia-news.fr/saretec-ameliore-le-traitement-et-le-classement-automatiques-de-mails-grace-a-golem-ai/</link>
+  <title><![CDATA[Moderniser le système de santé : le pari gagnant de l’IA]]></title>
+  <link>https://www.ia-news.fr/moderniser-le-systeme-de-sante-le-pari-gagnant-de-lia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/ia-mail-golem.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/ia-mail-golem.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/ia-mail-golem.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Red Hat lance Red Hat AI Enterprise]]></title>
-  <link>https://www.ia-news.fr/red-hat-lance-red-hat-ai-enterprise/</link>
+  <title><![CDATA[NXO renforce sa pratique NetDevOps et intègre l’IA au cœur de l’automatisation réseau]]></title>
+  <link>https://www.ia-news.fr/nxo-renforce-sa-pratique-netdevops-et-integre-lia-au-coeur-de-lautomatisation-reseau/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/10/Intelligence-artificielle-IA-AI-8.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/10/Intelligence-artificielle-IA-AI-8.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/10/Intelligence-artificielle-IA-AI-8.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Nouveau rapport mondial sur les CDO ]]></title>
-  <link>https://www.ia-news.fr/nouveau-rapport-mondial-sur-les-cdo/</link>
+  <title><![CDATA[Starburst veut faire passer l’IA d’entreprise de la réponse à l’action]]></title>
+  <link>https://www.ia-news.fr/starburst-veut-faire-passer-lia-dentreprise-de-la-reponse-a-laction/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-starburst-entreprise-inteligence-plateforme-logo.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-starburst-entreprise-inteligence-plateforme-logo.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-starburst-entreprise-inteligence-plateforme-logo.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Label4.ai ouvre sa distribution indirecte]]></title>
-  <link>https://www.ia-news.fr/label4-ai-ouvre-sa-distribution-indirecte/</link>
+  <title><![CDATA[BforeAI annonce un financement de série A de 15 millions de dollars  dirigé par SYN Ventures]]></title>
+  <link>https://www.ia-news.fr/bforeai-annonce-un-financement-de-serie-a-de-15-millions-de-dollars-dirige-par-syn-ventures/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/05/recrutement-08.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/05/recrutement-08.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/05/recrutement-08.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/03/mains-controle-securite.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/03/mains-controle-securite.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/03/mains-controle-securite.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Lenovo au World AI Cannes Festival du 8 au 10 février 2024]]></title>
-  <link>https://www.ia-news.fr/lenovo-au-world-ai-cannes-festival-du-8-au-10-fevrier-2024/</link>
+  <title><![CDATA[IA, capteurs intelligents et technologies embarquées : les clés de la maintenance prédictive]]></title>
+  <link>https://www.ia-news.fr/ia-capteurs-intelligents-et-technologies-embarquees-les-cles-de-la-maintenance-predictive/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/05/Intelligence-artificielle-IA-AI-15.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/05/Intelligence-artificielle-IA-AI-15.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/05/Intelligence-artificielle-IA-AI-15.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Provence.ai s&rsquo;installe dans un hôtel particulier à Marseille et recrute]]></title>
-  <link>https://www.ia-news.fr/provence-ai-sinstalle-dans-un-hotel-particulier-a-marseille-et-recrute/</link>
+  <title><![CDATA[Sept vulnérabilités critiques exposent ChatGPT au vol de données et au détournement]]></title>
+  <link>https://www.ia-news.fr/sept-vulnerabilites-critiques-exposent-chatgpt-au-vol-de-donnees-et-au-detournement/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/11/ia-ai-intelligence-artificielle-2486.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/11/ia-ai-intelligence-artificielle-2486.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/11/ia-ai-intelligence-artificielle-2486.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
