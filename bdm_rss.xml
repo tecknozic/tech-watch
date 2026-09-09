@@ -12,11 +12,65 @@
 	<meta name="mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-title" content="BDM - ">
-		<title>IA : actualités, conseils et études autour de l’intelligence artificielle</title>
+	<script id="hwh-bootstrap">
+(function () {
+	try {
+		var d = document.documentElement;
+		var NL_CHOICES = ['daily', 'weekly', 'none'];
+		var authed = new RegExp('(?:^|;\\s*)hwh_auth=').test(document.cookie);
+		// Native WordPress user: reveal the authenticated UI pre-paint, but leave the
+		// hydration below to the flag-cookie population — their display and
+		// newsletter state is localized server-side, so the state fetch would be pure
+		// overhead.
+		if (false) d.classList.add('hwh-authed');
+		if (authed) {
+			d.classList.add('hwh-authed');
+			// Own try/catch: a corrupt newsletter payload must not stop the avatar
+			// initials below from painting.
+			try {
+				var nlRaw = window.sessionStorage && sessionStorage.getItem('hwh_newsletter');
+				var nlChoice = nlRaw ? (JSON.parse(nlRaw) || {}).choice : '';
+				if (NL_CHOICES.indexOf(nlChoice) > -1) {
+					d.classList.add('hwh-nl-' + nlChoice);
+				}
+			} catch (e2) {}
+		}
+		var raw = window.sessionStorage && sessionStorage.getItem('hwh_display');
+		if (raw) {
+			var p = JSON.parse(raw);
+			if (p && p.initials) {
+				d.style.setProperty('--hwh-initials', JSON.stringify(p.initials));
+			}
+			window.__hwhDisplay = p;
+		} else if (authed) {
+			// No cached display yet (first page of the tab): start the state fetch
+			// now so the avatar initials paint without waiting for the deferred JS.
+			window.__hwhStatePromise = fetch('https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php', {
+				method: 'POST',
+				credentials: 'same-origin',
+				headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8' },
+				body: 'action=hwh_get_user_state&nonce=466ff3a6da'
+			}).then(function (r) { return r.json(); }).then(function (res) {
+				if (res && res.success && res.data && res.data.display && res.data.display.initials) {
+					d.style.setProperty('--hwh-initials', JSON.stringify(res.data.display.initials));
+				}
+				// Narrows the newsletter-state flash to this round-trip on the first
+				// page of the tab; later pages read it from sessionStorage pre-paint.
+				if (res && res.success && res.data && res.data.newsletter
+					&& NL_CHOICES.indexOf(res.data.newsletter.choice) > -1) {
+					d.classList.add('hwh-nl-' + res.data.newsletter.choice);
+				}
+				return res;
+			}).catch(function () { return null; });
+		}
+	} catch (e) {}
+})();
+</script>
+			<title>IA : actualités, conseils et études autour de l’intelligence artificielle</title>
 <link data-rocket-prefetch href="https://try.abtasty.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://tag.aticdn.net" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://www.googletagmanager.com" rel="dns-prefetch">
-<link data-rocket-prefetch href="https://f.hellowork.com" rel="dns-prefetch">
-<style id="rocket-critical-css">.banner{background-color:#EDF7FF;position:relative}.banner .banner-content{color:#080B50;text-align:left;font-size:1rem;line-height:1.125rem}.banner .banner-content .desktop-content{display:none}.banner .banner-content .mobile-content{display:block}.banner .banner-content .desktop-content span,.banner .banner-content .mobile-content span{color:#080B50}@media (min-width:768px){.banner .banner-content{text-align:center;font-size:1.125rem;line-height:1.25rem}.banner .banner-content .desktop-content{display:block}.banner .banner-content .mobile-content{display:none}}@media (prefers-color-scheme:dark){.banner{background-color:rgba(255,255,255,.11)}.banner .banner-content{color:rgba(255,255,255,.65)}.banner .banner-content .desktop-content span,.banner .banner-content .mobile-content span{color:rgba(255,255,255,.65)}}.container,.container-fluid{width:100%;padding-right:var(--bs-gutter-x, 1rem);padding-left:var(--bs-gutter-x, 1rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{--bs-gutter-x:2rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(var(--bs-gutter-y)*-1);margin-right:calc(var(--bs-gutter-x)*-0.5);margin-left:calc(var(--bs-gutter-x)*-0.5)}.row>*{box-sizing:border-box;flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x)*.5);padding-left:calc(var(--bs-gutter-x)*.5);margin-top:var(--bs-gutter-y)}.col-auto{flex:0 0 auto;width:auto}@media (min-width:576px){.col-sm-6{flex:0 0 auto;width:50%}}@media (min-width:1200px){.col-xl-12{flex:0 0 auto;width:100%}}.d-block{display:block!important}.d-flex{display:flex!important}.d-none{display:none!important}.justify-content-center{justify-content:center!important}.justify-content-between{justify-content:space-between!important}.align-items-center{align-items:center!important}.m-0{margin:0!important}.mx-4{margin-right:1.5rem!important;margin-left:1.5rem!important}.mx-auto{margin-right:auto!important;margin-left:auto!important}.my-4{margin-top:1.5rem!important;margin-bottom:1.5rem!important}.mt-0{margin-top:0!important}.mt-5{margin-top:2rem!important}.me-3{margin-right:1rem!important}.mb-1{margin-bottom:.5rem!important}.mb-4{margin-bottom:1.5rem!important}.mb-5{margin-bottom:2rem!important}.ms-5{margin-left:2rem!important}.p-4{padding:1.5rem!important}.px-3{padding-right:1rem!important;padding-left:1rem!important}.px-4{padding-right:1.5rem!important;padding-left:1.5rem!important}.py-2{padding-top:.75rem!important;padding-bottom:.75rem!important}.py-3{padding-top:1rem!important;padding-bottom:1rem!important}.pt-1{padding-top:.5rem!important}.pt-3{padding-top:1rem!important}.pt-4{padding-top:1.5rem!important}.pt-6{padding-top:2.5rem!important}.pb-3{padding-bottom:1rem!important}.pb-4{padding-bottom:1.5rem!important}.pb-6{padding-bottom:2.5rem!important}@media (min-width:768px){.my-md-5{margin-top:2rem!important;margin-bottom:2rem!important}.mt-md-1{margin-top:.5rem!important}.mb-md-4{margin-bottom:1.5rem!important}.ms-md-5{margin-left:2rem!important}.px-md-7{padding-right:3rem!important;padding-left:3rem!important}.py-md-4{padding-top:1.5rem!important;padding-bottom:1.5rem!important}.pt-md-0{padding-top:0!important}.pt-md-8{padding-top:4rem!important}.pb-md-1{padding-bottom:.5rem!important}.pb-md-7{padding-bottom:3rem!important}}@media (min-width:992px){.px-lg-5{padding-right:2rem!important;padding-left:2rem!important}.py-lg-3{padding-top:1rem!important;padding-bottom:1rem!important}}@media (min-width:1200px){.d-xl-block{display:block!important}.d-xl-flex{display:flex!important}.d-xl-none{display:none!important}.px-xl-5{padding-right:2rem!important;padding-left:2rem!important}.px-xl-8{padding-right:4rem!important;padding-left:4rem!important}}html{line-height:1.15;-webkit-text-size-adjust:100%}a{background-color:rgba(0,0,0,0)}img{border-style:none}button,input{overflow:visible}button{text-transform:none}button,[type=submit]{-webkit-appearance:button}button::-moz-focus-inner,[type=submit]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type=submit]:-moz-focusring{outline:1px dotted ButtonText}input[type=search]::-ms-clear,input[type=search]::-ms-reveal,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none;width:0;height:0}fieldset{padding:0;border:0;margin:0}[type=radio]{box-sizing:border-box;padding:0}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}iframe{max-width:100%}img{height:auto;max-width:100%}.custom-logo-link{display:block}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important}*{box-sizing:border-box}.text-center{text-align:center}.display-dm{display:none}.post-thumbnail img{display:block;max-width:initial;width:100%}.bt-1{border-top:1px solid #edeff4}.ico{fill:#fff;width:32px;height:32px;display:inline-block}ul.ls-inline{list-style:none;display:inline-block;padding:0;margin:0;columns:inherit}ul.ls-inline li{display:inline-block}ul.ls-none{list-style:none;padding:0;margin:0}.bg-white{background-color:#fff}.bg-blue{background-color:#024ef5}.bg-blue50{background-color:#edf7ff}.rounded-img img{overflow:hidden;display:block;-webkit-border-radius:4px;border-radius:4px}.btn{top:0;left:0;position:relative;display:inline-block;padding:.75rem 1rem;margin:0 2rem 0rem 0;background-color:#024ef5;-webkit-border-radius:4px;border-radius:4px;color:#fff;font-family:"barlow";font-weight:600;font-size:1rem;line-height:1.25rem;box-shadow:5px 5px 0px rgba(2,79,245,.3);text-decoration:none;border-width:2px;border-color:#024ef5;border-style:solid}.badge,.badge.e-link,a.badge{display:inline-block;margin:0rem 1.5rem 1.5rem 0;padding:.25rem 1rem;text-decoration:none;-webkit-border-radius:4px;border-radius:4px;color:#5d5f60;border:none;background-color:#f7f8fa;border:2px solid #f7f8fa}.modal{position:fixed;width:100vw;height:100%;top:0;left:0;display:flex;align-items:center;justify-content:center;z-index:1100}.modal::before{content:"";position:absolute;background-color:#080b50;opacity:.7;width:100%;height:100%;top:0;left:0;z-index:-1}.modal-container,.modal-container-nl{background-color:#fff;-webkit-border-radius:4px;border-radius:4px;width:90%;position:relative}.modal-container .title,.modal-container-nl .title{position:relative;border-bottom:1px solid #edeff4}.modal-container .close,.modal-container-nl .close{position:absolute;top:1.5rem;right:1.5rem;border-bottom:none}.modal-container .close .ico,.modal-container-nl .close .ico{fill:#024ef5;width:1.25rem;height:1.25rem}.modal-container .modal-nl-form input[type=email],.modal-container-nl .modal-nl-form input[type=email]{background-color:#f7f8fa;border:2px solid #f7f8fa}.modal-container-nl .visuel .d-none-dm{display:block}@media (min-width:768px){.post-thumbnail img{display:block;max-width:initial}.btn{font-size:1.125rem;line-height:1.375rem}.modal-container{width:100%;max-width:530px}.modal-container-nl{max-width:688px}}@font-face{font-family:"barlow";font-style:normal;font-weight:400;font-display:swap;src:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/fonts/Barlow-Regular.woff2) format("woff2")}@font-face{font-family:"barlow";font-style:normal;font-weight:600;font-display:swap;src:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/fonts/Barlow-SemiBold.woff2) format("woff2")}@font-face{font-family:"barlow";font-style:normal;font-weight:900;font-display:swap;src:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/fonts/Barlow-Black.woff2) format("woff2")}body{font-family:"barlow";color:#5d5f60;font-size:1.25rem;line-height:2rem}a,.e-link{color:#024ef5;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}a.nostyle,.e-link.nostyle,.nostyle a{text-decoration:none}h1,h2,.h2,h3,.h3bis{font-weight:600;color:#080b50;margin:0}h1{font-size:1.875rem;line-height:2.25rem}h2,.h2{font-size:1.625rem;line-height:2.125rem}h3{font-size:1.375rem;line-height:1.875rem}.h3bis{font-size:1.25rem;line-height:1.625rem}.t-def{text-decoration:none;color:#5d5f60;border-bottom:none}.t-size-xs{font-size:.75rem;line-height:.9rem}.t-size-def{font-size:1.25rem;line-height:2rem}.t-size-small{font-size:1rem;line-height:1.125rem}.t-menu{font-size:1.875rem;line-height:2.25rem;color:#024ef5;font-weight:600}#mobile-primary-menu .t-menu{font-size:1.625rem;line-height:2.125rem;font-weight:600}.color-b{color:#024ef5}@media (min-width:768px){body{font-family:"barlow";color:#5d5f60;font-size:1.375rem;line-height:2.125rem}h1{font-size:3.25rem;line-height:4.375rem}h2,.h2{font-size:2.125rem;line-height:2.75rem}h3{font-size:1.5rem;line-height:2.125rem}.h3bis{font-size:1.375rem;line-height:1.875rem}.t-size-small{font-size:1.125rem;line-height:1.25rem}.t-size-def{font-size:1.375rem;line-height:2.125rem}}input:not([type=submit]){position:relative;display:block;width:100%;max-width:100%;padding:.875rem;font-family:"barlow";font-size:1.125rem;line-height:1.25rem;color:#080b50;background-color:#fff;border:2px solid #edeff4;-webkit-border-radius:4px;border-radius:4px;outline:none;caret-color:#024ef5}input:not([type=submit]):-webkit-autofill{-webkit-text-fill-color:#fff!important}.cgu_newsletter{color:#080b50;font-style:italic;margin:0}.cgu_newsletter .e-link{color:#080b50;text-decoration:underline}.form_nl input[type=email]{font-size:1rem;border:2px solid rgba(0,0,0,0);-webkit-border-radius:4px;border-radius:4px;border-top-right-radius:0;border-bottom-right-radius:0}.form_nl input[type=email]:-webkit-autofill{-webkit-box-shadow:0 0 0 10000px #fff inset!important;-webkit-text-fill-color:#5d5f60!important}.form_nl .button-valid{width:fit-content;padding-bottom:.25rem;border:none;border-top-right-radius:4px;border-bottom-right-radius:4px;font-family:"barlow";color:#fff;font-size:1rem;font-weight:600}.form_nl .button-valid .ico{fill:#fff;width:1.25rem;height:1.25rem;display:inline-block;margin:0 .25rem -0.25rem 0}.form_nl .button-valid .loading-valid,.form_nl .button-valid .check-unvalid{display:none}.form_nl .button-valid .check-unvalid{min-width:7rem}.form_nl [type=radio]{position:absolute;left:-9999px}.form_nl [type=radio]+label{position:relative;font-size:1rem;line-height:1.375rem;padding-left:30px;margin-right:1.25rem;display:inline-block;color:#080b50}.form_nl [type=radio]+label:before{content:"";position:absolute;left:0;top:0;width:16px;height:16px;border:2px solid #080b50;border-radius:100%}.form_nl [type=radio]+label:after{content:"";width:10px;height:10px;background:#080b50;position:absolute;top:5px;left:5px;border-radius:100%}.form_nl [type=radio]:not(:checked)+label:after{opacity:0;-webkit-transform:scale(0);transform:scale(0)}.form_nl [type=radio]:checked+label:after{opacity:1;-webkit-transform:scale(1);transform:scale(1)}.form_nl .last-news{font-size:1rem;line-height:1.125rem;display:block}.form_nl .address-confirm{overflow:hidden;position:absolute;clip:rect(0 0 0 0);height:1px;width:1px;margin:-1px;padding:0;border:0}input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none;height:1rem;width:1rem;background:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/icon-close-blue.svg) no-repeat;background-position:center;background-size:cover}@media (min-width:768px){.form_nl [type=radio]+label,.form_nl input[type=email],.form_nl .button-valid{font-size:1.125rem}.form_nl .last-news{font-size:1.125rem;line-height:1.25rem}}.sticky-top{position:-webkit-sticky;position:sticky;top:0;z-index:1020}.site-header .navbar-logo{display:flex}.site-header .navbar-logo svg{display:block;height:22px;width:auto}.site-header #site-navigation #nav-container{align-items:center}#main-menu li{padding-right:2.5rem}#search-toggle{height:1.375rem}#search-toggle .ico{width:1.375rem;height:1.375rem;fill:#024ef5}#menu-open{position:relative;border:none;background:none;z-index:1}#menu-open .ico{fill:#024ef5;width:1.375rem;height:1.375rem}#menu-close{position:relative;border:none;background:none;z-index:1}#overlay-menu{position:fixed;height:100%;width:100%;left:100%;top:0;bottom:0;opacity:0;background-color:rgba(0,0,0,0);z-index:10}#overlay-menu .menu-container{position:fixed;width:100%;max-width:640px;padding-top:3.25rem;top:0;right:0;bottom:0;-webkit-transform:translateX(100%);transform:translateX(100%)}#overlay-menu .menu-container .search-form{position:relative}#overlay-menu .menu-container .search-form label{width:100%}#overlay-menu .menu-container .search-form label input{border-radius:4px 0 0 4px}#overlay-menu .menu-container .search-form .search-submit{border-radius:0 4px 4px 0;background-color:#024ef5;padding:.625rem .75rem;border:none}#overlay-menu .menu-container .search-form .search-submit .ico{width:1.625rem;height:1.625rem;fill:#fff}#overlay-menu .menu-container #mobile-primary-menu{list-style:none;padding:0 0 2.5rem 0}#overlay-menu .menu-container #mobile-primary-menu li{padding:0 0 1rem 0}#overlay-menu .menu-container #mobile-primary-menu li:last-child{padding-bottom:0}#overlay-menu .menu-container .popular-tags .badge,#overlay-menu .menu-container .popular-tags .badge.e-link{margin:0rem 1rem 1rem 0}#overlay-menu .menu-container .services .menu-card{height:100%;-webkit-border-radius:4px;border-radius:4px;overflow:hidden;position:relative}#overlay-menu .menu-container .services .menu-card .menu-card-content{z-index:2}#overlay-menu .menu-container .services .menu-card .menu-card-content .icon{height:52px}#overlay-menu .menu-container .services .menu-card .menu-card-content .icon img{width:52px}#overlay-menu .menu-container .services .menu-card.card-tools{background-color:#024ef5;background-image:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/illus-date-blue.svg);background-repeat:repeat;position:relative}#overlay-menu .menu-container .services .menu-card.card-tools .link{color:#fff}#overlay-menu .menu-container .services .menu-card.card-tools::before{content:"";position:absolute;background:linear-gradient(180deg,rgba(2,78,245,0.4) 0%,rgba(2,78,245,0.8) 39.9%);top:0;left:0;width:100%;height:100%}#overlay-menu .menu-container .services .menu-card.card-events{background-color:#080b50;background-image:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/illus-date-bluedark.svg);background-repeat:repeat;position:relative}#overlay-menu .menu-container .services .menu-card.card-events .link{color:#fff}#overlay-menu .menu-container .services .menu-card.card-events::before{content:"";position:absolute;background:linear-gradient(180deg,rgba(8,11,80,0.4) 0%,rgba(8,11,80,0.7) 40%);top:0;left:0;width:100%;height:100%}#overlay-menu .menu-container .services .menu-card.card-nl{background-color:#7cffce;background-image:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/illus-date-green.svg);background-repeat:repeat;position:relative}#overlay-menu .menu-container .services .menu-card.card-nl::before{content:"";position:absolute;background:linear-gradient(180deg,rgba(124,255,206,0.1) 0%,rgba(124,255,206,0.5) 50.48%);top:0;left:0;width:100%;height:100%}#overlay-menu .menu-container .services .menu-card.card-guides{background-color:#edeff4;background-image:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/illus-date-grey.svg);background-repeat:repeat;position:relative}#overlay-menu .menu-container .services .menu-card.card-guides::before{content:"";position:absolute;background:linear-gradient(180deg,rgba(237,239,244,0.1) 0%,rgba(237,239,244,0.5) 50%);top:0;left:0;width:100%;height:100%}#overlay-menu #menu-close{position:absolute;top:1rem;right:1rem;opacity:0}.progress{position:absolute;left:0;bottom:-0.25rem;width:100%;height:.25rem;overflow:hidden;background-color:#f7f8fa}@media (min-width:576px){#overlay-menu .menu-container .popular-tags .badge,#overlay-menu .menu-container .popular-tags .badge.e-link{margin:0rem 1.5rem 1.5rem 0}#overlay-menu .menu-container .services .menu-card{flex-direction:column}}@media (min-width:768px){.site-header .navbar-logo svg{display:block;height:50px}#menu-open .ico{width:1.75rem;height:1.75rem}#overlay-menu #menu-close{top:2rem;right:2rem}}@media (min-width:1200px){#main-menu>div.container-fluid{overflow:hidden}#search-toggle{height:1.875rem}#search-toggle .ico{width:1.875rem;height:1.875rem}#overlay-menu .menu-container{padding-top:5.75rem}}.newsletter-container .container-fluid .corde-content .btn-mob-modal{margin-top:0}.newsletter-container.bg-blue .corde-content .btn-mob-modal{color:#080b50;background-color:#7cffce;border-color:#7cffce;box-shadow:5px 5px 0 0 rgba(124,255,206,.3)}.modal-container-nl .modal-nl-form .btn-mob-modal{display:none}@media (min-width:768px){.newsletter-container .container-fluid .corde-content .btn-mob-modal{display:none}}body{background-color:#fff;margin:0;width:100vw;overflow-x:hidden}.container-fluid{max-width:1920px}.archive-intro{text-align:center}.archive-intro .archive-description{font-size:1.5rem;line-height:1.875rem;color:#5d5f60;font-weight:400;font-style:italic}.archive-intro .archive-description p{margin:0}.archive-list div:first-child .content-serp{border-top:none}.archive-list div:first-child .content-serp article{margin-top:1rem!important}article.d-flex{flex-wrap:wrap;padding-bottom:0}article.d-flex .post-thumbnail{width:100%}article.d-flex .post-thumbnail img{width:100%}@media (min-width:576px)and (max-width:1199px){.container{max-width:unset}}@media (min-width:768px){.archive-intro .archive-description{font-size:1.875rem;line-height:2.75rem}article.d-flex{flex-wrap:nowrap}article.d-flex .post-thumbnail{width:auto;min-height:142px;min-width:272px}article.d-flex .post-thumbnail img{width:auto;max-width:272px}.archive-list div:first-child .content-serp{border-top:none}.archive-list div:first-child .content-serp article{margin-top:2rem!important}}@media (prefers-color-scheme:dark){body{background-color:#101829;color:rgba(255,255,255,.65)}h1,h2,.h2,h3,.h3bis{color:rgba(255,255,255,.87)}a,.e-link,.t-menu{color:#6a97f9}.t-menu{color:rgba(255,255,255,.87)}.badge,a.badge,span.badge,span.badge.e-link{color:rgba(255,255,255,.65);background-color:rgba(255,255,255,.05);border:2px solid rgba(255,255,255,0)}.bg-white{background-color:#101829}.bg-blue{background-color:rgba(255,255,255,.11)}.bt-1{border-top:1px solid rgba(255,255,255,.16)}.t-def{color:rgba(255,255,255,.65)}.favtag{color:rgba(255,255,255,.65)}.btn{background-color:#6a97f9;color:#101829;border-color:#6a97f9;box-shadow:5px 5px 0px rgba(106,151,249,.3)}.d-none-dm{display:none}.display-dm{display:block}.site-header .navbar-logo a.bdm-logo .logo-text{fill:rgba(255,255,255,.87)}.site-header .navbar-logo a.bdm-logo .logo-shape-1{fill:#6a97f9}.site-header .navbar-logo a.bdm-logo .logo-shape-2{fill:#b7ffe2}.site-header .progress{background-color:#363d4b}.site-header #search-toggle .ico,.site-header #menu-open .ico{fill:#6a97f9}.site-header.sticky-top{background-color:#101829}.banner{background-color:rgba(255,255,255,.11)}#overlay-menu .menu-container .search-form .search-submit{color:#101829;background-color:#6a97f9}#overlay-menu .menu-container .search-form .search-submit .ico{fill:#101829}#overlay-menu .menu-container .services .menu-card.card-tools,#overlay-menu .menu-container .services .menu-card.card-events,#overlay-menu .menu-container .services .menu-card.card-nl,#overlay-menu .menu-container .services .menu-card.card-guides{background-color:rgba(255,255,255,.11)}#overlay-menu .menu-container .services .menu-card.card-tools::before,#overlay-menu .menu-container .services .menu-card.card-events::before,#overlay-menu .menu-container .services .menu-card.card-nl::before,#overlay-menu .menu-container .services .menu-card.card-guides::before{background:linear-gradient(180deg,rgba(39,47,62,0.3) 0%,rgba(39,47,62,0.8) 50%)}#overlay-menu .menu-container .services .menu-card.card-tools{background-image:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/illus-date-blue-dm.svg)}#overlay-menu .menu-container .services .menu-card.card-tools .link{color:rgba(255,255,255,.87)}#overlay-menu .menu-container .services .menu-card.card-events{background-image:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/illus-date-bluedark-dm.svg)}#overlay-menu .menu-container .services .menu-card.card-events .link{color:rgba(255,255,255,.87)}#overlay-menu .menu-container .services .menu-card.card-nl{background-image:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/illus-date-green-dm.svg)}#overlay-menu .menu-container .services .menu-card.card-guides{background-image:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/illus-date-grey-dm.svg)}.archive-intro .archive-description{color:rgba(255,255,255,.65)}.modal::before{background-color:#101829}.modal-container,.modal-container-nl{background-color:#272f3e}.modal-container .title,.modal-container-nl .title{border-bottom-color:rgba(255,255,255,.16)}.modal-container .close .ico,.modal-container-nl .close .ico{fill:#6a97f9}.modal-container-nl .form_nl input[type=email]{border-color:rgba(255,255,255,0);background-color:rgba(255,255,255,.05)}.modal-container-nl .visuel .d-none-dm{display:none}input:not([type=submit]){color:rgba(255,255,255,.87);background-color:unset;border-color:rgba(255,255,255,.16);caret-color:#6a97f9}input:not([type=submit]).search-field{background-color:rgba(255,255,255,.05)}.cgu_newsletter{color:rgba(255,255,255,.65)}.form_nl input[type=email]{border-color:rgba(255,255,255,0);background-color:rgba(255,255,255,.05)}.form_nl input[type=email]:-webkit-autofill{-webkit-box-shadow:0 0 0 30px #393c73 inset;-webkit-text-fill-color:rgba(255,255,255,.65)}.form_nl .button-valid{color:#101829;background-color:#6a97f9}.form_nl .button-valid .ico{fill:#080b50}.form_nl [type=radio]+label{color:rgba(255,255,255,.65)}.form_nl [type=radio]+label:before{border-color:rgba(255,255,255,.65)}.form_nl [type=radio]+label:after{background:rgba(255,255,255,.65)}.form_nl .cgu_newsletter .e-link{color:rgba(255,255,255,.65)}.search-form label input{border-color:rgba(255,255,255,0)}.search-form .search-submit{background-color:#6a97f9}.search-form .search-submit .ico{fill:#101829}input[type=search]::-webkit-search-cancel-button{background:url(https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/icon-close-blue-dm.svg) no-repeat}.newsletter-container .container-fluid .corde-content .btn-mob-modal{background-color:#6a97f9;color:#101829;border-color:#6a97f9;box-shadow:5px 5px 0px rgba(106,151,249,.3)}}</style><link rel="preload" data-rocket-preload as="image" href="https://f.hellowork.com/blogdumoderateur/2026/08/pub-chatgpt-france-aout-276x144.jpg" imagesrcset="https://f.hellowork.com/blogdumoderateur/2026/08/pub-chatgpt-france-aout-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/08/pub-chatgpt-france-aout-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/08/pub-chatgpt-france-aout-370x194.jpg 370w" imagesizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" fetchpriority="high">
+<link data-rocket-prefetch href="https://f.hellowork.com" rel="dns-prefetch"><link rel="preload" data-rocket-preload as="image" href="https://f.hellowork.com/blogdumoderateur/2026/08/Slack-Code-276x144.jpg" imagesrcset="https://f.hellowork.com/blogdumoderateur/2026/08/Slack-Code-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/08/Slack-Code-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/08/Slack-Code-370x194.jpg 370w" imagesizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" fetchpriority="high">
 	<meta name="description" content="Les dernières actualités de l’intelligence artificielle et des conseils pour mieux utiliser ChatGPT, Claude, Gemini, Vibe (ex-Le Chat), Perplexity&#8230;"/>
 	<meta property="og:locale" content="fr_FR" />
 	<meta property="og:type" content="website" />
@@ -36,8 +90,8 @@
 	<meta name="application-name" content="BDM"/>
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
 	<link rel="canonical" href="https://www.blogdumoderateur.com/ia/" />
-	<link rel='dns-prefetch' href='//www.blogdumoderateur.com' />
-<link rel='dns-prefetch' href='//unpkg.com' />
+	<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel='dns-prefetch' href='//www.blogdumoderateur.com' />
 
 <link rel="alternate" type="application/rss+xml" title="BDM - IA" href="https://www.blogdumoderateur.com/ia/feed/" />
 <link rel="preload" href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/fonts/Barlow-Regular.woff2" as="font" crossorigin="anonymous"><link rel="preload" href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/fonts/Barlow-SemiBold.woff2" as="font" crossorigin="anonymous"><link rel="preload" href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/fonts/Barlow-Black.woff2" as="font" crossorigin="anonymous"><style id="wp-img-auto-sizes-contain-inline-css">
@@ -65,23 +119,19 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=/wp-includes/css/classic-themes.min.css */
 </style>
 
-<link data-minify="1" rel='preload'  href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1788275026' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"  media='all' />
+<link data-minify="1" rel='stylesheet' id='banner_style-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1788945002' media='all' />
+<link data-minify="1" rel='stylesheet' id='hwh-frontend-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/css/frontend.css?ver=1788945002' media='all' />
 <link rel='stylesheet' id='bootstrap-grid-css' href='https://www.blogdumoderateur.com/app/themes/blogdumoderateur/vendor/bootstrap-5.0.2/dist/css/bootstrap-grid.min.css' media='all' />
-<link data-minify="1" rel='preload'  href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1788275026' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"  media='all' />
+<link data-minify="1" rel='stylesheet' id='bdm-core-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1788945003' media='all' />
 <style id="rocket-lazyload-inline-css">
 .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
 /*# sourceURL=rocket-lazyload-inline-css */
 </style>
+<script type="text/rocketlazyloadscript" data-minify="1" id="pintraredirectjs-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=1788945004" async></script>
 <script id="jquery-core-js" src="https://www.blogdumoderateur.com/core/wp-includes/js/jquery/jquery.min.js" data-rocket-defer defer></script>
 <script id="jquery-migrate-js" src="https://www.blogdumoderateur.com/core/wp-includes/js/jquery/jquery-migrate.min.js" data-rocket-defer defer></script>
-<script id="nl_sub-js-extra">
-var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
-//# sourceURL=nl_sub-js-extra
-</script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="nl_sub-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-newsletter-subscribe/js/nl_sub.js?ver=1788275026" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="pintraredirectjs-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=1788275027" async></script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-gnikcart-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/gnikcart.js?ver=1788275027" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript">window.HelloworkCookieConsentCustomConfig = {privacyPolicyUrl: "\/politique-de-confidentialite\/",termsOfServiceUrl: "\/cgu\/",noticeIntroductionText: "BDM d\u00e9pose des cookies ou traceurs pour am\u00e9liorer la pertinence des articles con\u00e7us pour ses lecteurs.",noticeDescriptionText: "[p]En cons\u00e9quence, l'utilisation de notre site implique le d\u00e9p\u00f4t de cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture de nos services, pour faire fonctionner le site, piloter et suivre les sources d'acquisition d'audience et comprendre le comportement de nos audiences afin d'am\u00e9liorer nos produits. Nous utilisons \u00e9galement des cookies ou traceurs tiers non-essentiels, que vous pouvez accepter ou refuser. [btn=customize-cookies]Plus d'infos[\/btn].[\/p]",consentModalEndText: "En cliquant sur le bouton [ Accepter ] vous acceptez les CGU et la politique de confidentialit\u00e9 BDM.",consentModalCookieBaseTitle: "Cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture des services",consentModalCookieBaseText: "Ces cookies ou traceurs ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s dans la mesure o\u00f9 nous les utilisons pour faire fonctionner nos services.\r\nIl s\u2019agit notamment de l\u2019ensemble des cookies ou traceurs permettant de piloter et suivre les sources d\u2019acquisition d\u2019audience en utilisant un identifiant unique permettant de comprendre comment nos utilisateurs naviguent sur notre site en fonction des diff\u00e9rentes sources de trafic. Nous observons \u00e9galement le comportement de nos utilisateurs afin d\u2019am\u00e9liorer nos produits et rendre la navigation sur notre site beaucoup plus rapide et fluide. Ces cookies ou traceurs permettent aussi de garantir la s\u00e9curit\u00e9 du site web en d\u00e9tectant les tentatives d'acc\u00e8s frauduleux ou les violations de s\u00e9curit\u00e9.",consentModalCookieMarketingTitle: "Cookies ou traceurs publicitaires",consentModalCookieMarketingText: "Ces cookies ou traceurs nous permettent ainsi qu\u2019\u00e0 nos partenaires de vous proposer des publicit\u00e9s et des contenus personnalis\u00e9s en fonction de votre navigation, de votre profil et de vos centres d'int\u00e9r\u00eat.\r\nCes dispositifs permettent aux utilisateurs d\u2019augmenter de mani\u00e8re importante la visibilit\u00e9 des contenus susceptibles de les int\u00e9resser.\r\nVous pouvez changer d\u2019avis \u00e0 tout moment en cliquant sur le bouton \"G\u00e9rer les traceurs\" situ\u00e9 en bas de page.",btnDenyCookiesType: "btn-deny-all",noticeModal: false,btnDenyCookies: true,btnCustomizeCookies: false,}</script>			<script type="text/rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/hw-cookie-consent/latest/embed.js?ver=1788275027" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-gnikcart-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/gnikcart.js?ver=1788945003" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript">window.HelloworkCookieConsentCustomConfig = {privacyPolicyUrl: "\/politique-de-confidentialite\/",termsOfServiceUrl: "\/cgu\/",noticeIntroductionText: "BDM d\u00e9pose des cookies ou traceurs pour am\u00e9liorer la pertinence des articles con\u00e7us pour ses lecteurs.",noticeDescriptionText: "[p]En cons\u00e9quence, l'utilisation de notre site implique le d\u00e9p\u00f4t de cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture de nos services, pour faire fonctionner le site, piloter et suivre les sources d'acquisition d'audience et comprendre le comportement de nos audiences afin d'am\u00e9liorer nos produits. Nous utilisons \u00e9galement des cookies ou traceurs tiers non-essentiels, que vous pouvez accepter ou refuser. [btn=customize-cookies]Plus d'infos[\/btn].[\/p]",consentModalEndText: "En cliquant sur le bouton [ Accepter ] vous acceptez les CGU et la politique de confidentialit\u00e9 BDM.",consentModalCookieBaseTitle: "Cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture des services",consentModalCookieBaseText: "Ces cookies ou traceurs ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s dans la mesure o\u00f9 nous les utilisons pour faire fonctionner nos services.\r\nIl s\u2019agit notamment de l\u2019ensemble des cookies ou traceurs permettant de piloter et suivre les sources d\u2019acquisition d\u2019audience en utilisant un identifiant unique permettant de comprendre comment nos utilisateurs naviguent sur notre site en fonction des diff\u00e9rentes sources de trafic. Nous observons \u00e9galement le comportement de nos utilisateurs afin d\u2019am\u00e9liorer nos produits et rendre la navigation sur notre site beaucoup plus rapide et fluide. Ces cookies ou traceurs permettent aussi de garantir la s\u00e9curit\u00e9 du site web en d\u00e9tectant les tentatives d'acc\u00e8s frauduleux ou les violations de s\u00e9curit\u00e9.",consentModalCookieMarketingTitle: "Cookies ou traceurs publicitaires",consentModalCookieMarketingText: "Ces cookies ou traceurs nous permettent ainsi qu\u2019\u00e0 nos partenaires de vous proposer des publicit\u00e9s et des contenus personnalis\u00e9s en fonction de votre navigation, de votre profil et de vos centres d'int\u00e9r\u00eat.\r\nCes dispositifs permettent aux utilisateurs d\u2019augmenter de mani\u00e8re importante la visibilit\u00e9 des contenus susceptibles de les int\u00e9resser.\r\nVous pouvez changer d\u2019avis \u00e0 tout moment en cliquant sur le bouton \"G\u00e9rer les traceurs\" situ\u00e9 en bas de page.",btnDenyCookiesType: "btn-deny-all",noticeModal: false,btnDenyCookies: true,btnCustomizeCookies: false,}</script>			<script type="text/rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/hw-cookie-consent/latest/embed.js?ver=1788945005" data-rocket-defer defer></script>
 		
 		<script type="text/rocketlazyloadscript">
 			document.addEventListener("DOMContentLoaded", function () {
@@ -100,7 +150,7 @@ var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
 	})(window, document, "script", "//try.abtasty.com/5e8712ab98af61ffeca4088008680b5a.js");
 	</script><script type="text/javascript">var _paq = window._paq || [];</script>	<script>
 		window.dataLayer = window.dataLayer || [];
-			dataLayer = [{	
+			dataLayer = [{
 			'typeSite': 'blog',
 			'cateSite': 'blogdumoderateur',
 			'site' : 'blogdumoderateur',
@@ -114,8 +164,20 @@ var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
 			'tag' : '',
 			'category_list' : '',
 			'search_result' : '1252',
-			'article_publication_date' :  ''
-		}];
+			'article_publication_date' :  '',
+			'article_gated' : false,
+			'user_logged_in' : false		}];
+	</script>
+
+	<script>
+		// Correction compatible cache : on relit l'état de connexion depuis le
+		// cookie hwh_auth avant le chargement de GTM, sinon tout visiteur servi
+		// par la page mutualisée serait compté comme déconnecté.
+		try {
+			if ( /(?:^|;\s*)hwh_auth=/.test( document.cookie ) && window.dataLayer && window.dataLayer[0] ) {
+				window.dataLayer[0].user_logged_in = true;
+			}
+		} catch ( e ) {}
 	</script>
 
 	<!-- Google Tag Manager -->
@@ -130,31 +192,18 @@ var ajaxurl = ["https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php"];
 <link rel="apple-touch-icon" href="https://f.hellowork.com/blogdumoderateur/2022/01/cropped-favicon-bdm-1-180x180.png" />
 <meta name="msapplication-TileImage" content="https://f.hellowork.com/blogdumoderateur/2022/01/cropped-favicon-bdm-1-270x270.png" />
 <link rel="icon" href="https://f.hellowork.com/blogdumoderateur/2022/06/favicon.svg" type="image/svg+xml" />
-<link rel="next" href="https://www.blogdumoderateur.com/ia/page/2/"><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><script type="text/rocketlazyloadscript">
-/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
-(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
-var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
-return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
-if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
-setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
-var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
-if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
-else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
-</script><meta name="generator" content="WP Rocket 3.23.3.3" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_async_css wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_cdn wpr_desktop" /></head>
+<link rel="next" href="https://www.blogdumoderateur.com/ia/page/2/"><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><meta name="generator" content="WP Rocket 3.23.3.3" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_cdn wpr_mobile" /></head>
 
 <body class="archive category category-ia category-1076 wp-theme-blogdumoderateur hfeed fixed-nav">
-
 			<div  id="banner" class="banner bg-blue50">
+						<div  class="banner-content container-fluid px-xl-8 px-md-7 py-3">
 
-				<div  class="banner-content container-fluid px-xl-8 px-md-7 py-3">
-
-											<div  class="desktop-content"><span tabindex="0" data-url="uggcf://jjj.oybtqhzbqrengrhe.pbz/arjfyrggre/" data-area= "newsletter" data-param="banner" class="open-nl-modal e-link ban-link">Recevez la newsletter BDM</span> &#128140;</div>
-					
-											<div  class="mobile-content"><span tabindex="0" data-url="uggcf://jjj.oybtqhzbqrengrhe.pbz/arjfyrggre/" data-area= "newsletter" data-param="banner" class="open-nl-modal e-link ban-link">Recevez la newsletter BDM</span> &#128140;</div>
-					
-				</div>
-			</div>
+							<div  class="desktop-content"><span tabindex="0" data-url="uggcf://jjj.oybtqhzbqrengrhe.pbz/arjfyrggre/" data-area= "newsletter" data-param="banner" class="open-nl-modal e-link ban-link">Recevez la newsletter BDM</span> &#128140;</div>
 			
+							<div  class="mobile-content"><span tabindex="0" data-url="uggcf://jjj.oybtqhzbqrengrhe.pbz/arjfyrggre/" data-area= "newsletter" data-param="banner" class="open-nl-modal e-link ban-link">Recevez la newsletter BDM</span> &#128140;</div>
+			
+		</div>
+					</div>
 			<noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-5SBPW8G' height='0' width='0' style='display:none;
 	visibility:hidden'></iframe></noscript>
 <div id="page" class="site">
@@ -193,10 +242,68 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 <li id="menu-item-93990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93990"><a href="/tools/" class="nostyle t-menu">Tools</a></li>
 </ul></div>		
 					
-					<span id="search-toggle" class="d-none d-xl-block" data-id="overlay-menu" aria-label="Open search" aria-controls="overlay-menu" aria-expanded="false">
-						<svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#search"></use></svg>					</span>
+							<div class="hwh-nav-account">
 
-					<button id="menu-open" class="ms-5" data-id="overlay-menu" aria-label="Open menu" aria-controls="overlay-menu" aria-expanded="false">
+			<!-- Guest CTA — hidden via CSS when html.hwh-authed -->
+			<a href="#"
+				class="hwh-account-cta__login hwh-nav-account__guest"
+				data-hwh-modal="login"
+				title="Mon compte"
+				aria-label="Mon compte">
+				<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-profil"></use></svg>			</a>
+
+			<!-- Authenticated skeleton — revealed via CSS when html.hwh-authed,
+			     hydrated client-side. Contains NO PII (cache-safe). -->
+			<div class="hwh-nav-account__authed">
+				<button type="button"
+					class="hwh-account-cta__trigger"
+					aria-controls="hwh-account-dropdown"
+					aria-expanded="false"
+					aria-label="Mon compte">
+					<div class="hwh-avatar" data-hwh-avatar aria-hidden="true"></div>
+				</button>
+
+				<div class="hwh-account-cta__dropdown" id="hwh-account-dropdown">
+
+					<button type="button" class="hwh-account-cta__close" aria-label="Fermer">
+						<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-arrow-down-2"></use></svg>					</button>
+
+					<div class="hwh-dropdown__header">
+						<a class="hwh-avatar hwh-avatar--lg" href="https://www.blogdumoderateur.com/compte/" data-hwh-avatar aria-label="Profil"></a>
+						<strong class="hwh-dropdown__name" data-hwh-name></strong>
+						<span class="hwh-dropdown__email" data-hwh-email></span>
+					</div>
+
+					<ul class="hwh-dropdown__nav">
+						<li>
+							<a href="https://www.blogdumoderateur.com/compte/" class="hwh-dropdown__item">
+								<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-profil"></use></svg>								Profil							</a>
+						</li>
+												<li>
+							<a href="https://www.blogdumoderateur.com/compte/?tab=newsletters" class="hwh-dropdown__item">
+								<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-share-mail"></use></svg>								Newsletter							</a>
+						</li>
+																		<li>
+							<a href="https://www.blogdumoderateur.com/compte/?tab=security" class="hwh-dropdown__item">
+								<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-security"></use></svg>								Sécurité							</a>
+						</li>
+											</ul>
+
+					<ul class="hwh-dropdown__nav hwh-dropdown__nav--logout">
+						<li>
+							<a href="#" class="hwh-dropdown__item" data-hwh-logout>
+								<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-logout"></use></svg>								Me déconnecter							</a>
+						</li>
+					</ul>
+
+				</div>
+			</div>
+		</div>
+		
+					<button type="button" id="search-toggle" class="d-flex" data-id="overlay-menu" aria-label="Open search" aria-controls="overlay-menu" aria-expanded="false">
+						<svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#search"></use></svg>					</button>
+
+					<button id="menu-open" data-id="overlay-menu" aria-label="Open menu" aria-controls="overlay-menu" aria-expanded="false">
 						<svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#icon-menu"></use></svg>					</button>
 
 				</div><!-- #nav-container -->
@@ -243,8 +350,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
@@ -361,9 +468,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Mistral AI</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-08T11:02:29+02:00">8 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Mistral AI</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-08T11:02:29+02:00">8 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -396,9 +508,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Stratégie digitale</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-08T09:37:32+02:00">8 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Stratégie digitale</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-08T09:37:32+02:00">8 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -431,9 +548,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Adobe</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-07T07:00:19+02:00">7 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Adobe</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-07T07:00:19+02:00">7 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -466,9 +588,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Google</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-04T10:40:13+02:00">4 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Google</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-04T10:40:13+02:00">4 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -501,9 +628,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">OpenAI</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-04T10:37:08+02:00">4 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">OpenAI</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-04T10:37:08+02:00">4 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -536,9 +668,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Anthropic</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-03T12:38:04+02:00">3 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Anthropic</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-03T12:38:04+02:00">3 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -571,9 +708,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Meta</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-03T12:36:22+02:00">3 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Meta</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-03T12:36:22+02:00">3 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -606,9 +748,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Développement</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-03T10:27:49+02:00">3 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Développement</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-03T10:27:49+02:00">3 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -641,9 +788,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Développement</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-03T08:00:01+02:00">3 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Développement</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-03T08:00:01+02:00">3 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -676,9 +828,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Gemini</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-02T18:13:52+02:00">2 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Gemini</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-02T18:13:52+02:00">2 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -711,9 +868,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Anthropic</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-02T10:48:39+02:00">2 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Anthropic</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-02T10:48:39+02:00">2 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -746,9 +908,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">Développement</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-01T10:32:57+02:00">1 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">Développement</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-01T10:32:57+02:00">1 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -781,9 +948,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">OpenAI</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-09-01T10:08:23+02:00">1 septembre 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">OpenAI</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-01T10:08:23+02:00">1 septembre 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -816,9 +988,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">WhatsApp</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-08-31T14:50:28+02:00">31 août 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">WhatsApp</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-08-31T14:50:28+02:00">31 août 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -851,9 +1028,14 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
 
-							<span class="favtag color-b">OpenAI</span>
-			
-			<span class="posted-on t-def px-3"><time class="entry-date published updated" datetime="2026-08-31T10:29:18+02:00">31 août 2026</time></span>
+			<div class="meta-line">
+
+									<span class="favtag color-b">OpenAI</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-08-31T10:29:18+02:00">31 août 2026</time></span>
+
+				
+			</div>
 
 			<header class="entry-header pt-1">
 
@@ -875,7 +1057,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 				<div class="col-xl-12 pager">
 					<div class="pt-md-5 pt-4 bt-1">
 						<div class='wp-pagenavi' role='navigation'>
-<span aria-current='page' class='current'>1</span><a class="page larger" title="Page 2" href="https://www.blogdumoderateur.com/ia/page/2/">2</a><a class="page larger" title="Page 3" href="https://www.blogdumoderateur.com/ia/page/3/">3</a><a class="page larger" title="Page 4" href="https://www.blogdumoderateur.com/ia/page/4/">4</a><a class="page larger" title="Page 5" href="https://www.blogdumoderateur.com/ia/page/5/">5</a><a class="page larger" title="Page 6" href="https://www.blogdumoderateur.com/ia/page/6/">6</a><a class="page larger" title="Page 7" href="https://www.blogdumoderateur.com/ia/page/7/">7</a><a class="page larger" title="Page 8" href="https://www.blogdumoderateur.com/ia/page/8/">8</a><a class="page larger" title="Page 9" href="https://www.blogdumoderateur.com/ia/page/9/">9</a><a class="page larger" title="Page 10" href="https://www.blogdumoderateur.com/ia/page/10/">10</a><a class="page larger" title="Page 11" href="https://www.blogdumoderateur.com/ia/page/11/">11</a><a class="page larger" title="Page 12" href="https://www.blogdumoderateur.com/ia/page/12/">12</a><a class="page larger" title="Page 13" href="https://www.blogdumoderateur.com/ia/page/13/">13</a><a class="page larger" title="Page 14" href="https://www.blogdumoderateur.com/ia/page/14/">14</a><a class="page larger" title="Page 15" href="https://www.blogdumoderateur.com/ia/page/15/">15</a><a class="page larger" title="Page 16" href="https://www.blogdumoderateur.com/ia/page/16/">16</a><a class="page larger" title="Page 17" href="https://www.blogdumoderateur.com/ia/page/17/">17</a><a class="page larger" title="Page 18" href="https://www.blogdumoderateur.com/ia/page/18/">18</a><a class="page larger" title="Page 19" href="https://www.blogdumoderateur.com/ia/page/19/">19</a><a class="page larger" title="Page 20" href="https://www.blogdumoderateur.com/ia/page/20/">20</a><span class='extend'>...</span><a class="larger page" title="Page 50" href="https://www.blogdumoderateur.com/ia/page/50/">50</a><span class='extend'>...</span>
+<span aria-current='page' class='current'>1</span><a class="page larger" title="Page 2" href="https://www.blogdumoderateur.com/ia/page/2/">2</a><a class="page larger" title="Page 3" href="https://www.blogdumoderateur.com/ia/page/3/">3</a><a class="page larger" title="Page 4" href="https://www.blogdumoderateur.com/ia/page/4/">4</a><a class="page larger" title="Page 5" href="https://www.blogdumoderateur.com/ia/page/5/">5</a><a class="page larger" title="Page 6" href="https://www.blogdumoderateur.com/ia/page/6/">6</a><a class="page larger" title="Page 7" href="https://www.blogdumoderateur.com/ia/page/7/">7</a><a class="page larger" title="Page 8" href="https://www.blogdumoderateur.com/ia/page/8/">8</a><a class="page larger" title="Page 9" href="https://www.blogdumoderateur.com/ia/page/9/">9</a><a class="page larger" title="Page 10" href="https://www.blogdumoderateur.com/ia/page/10/">10</a><a class="page larger" title="Page 11" href="https://www.blogdumoderateur.com/ia/page/11/">11</a><a class="page larger" title="Page 12" href="https://www.blogdumoderateur.com/ia/page/12/">12</a><a class="page larger" title="Page 13" href="https://www.blogdumoderateur.com/ia/page/13/">13</a><a class="page larger" title="Page 14" href="https://www.blogdumoderateur.com/ia/page/14/">14</a><a class="page larger" title="Page 15" href="https://www.blogdumoderateur.com/ia/page/15/">15</a><a class="page larger" title="Page 16" href="https://www.blogdumoderateur.com/ia/page/16/">16</a><a class="page larger" title="Page 17" href="https://www.blogdumoderateur.com/ia/page/17/">17</a><a class="page larger" title="Page 18" href="https://www.blogdumoderateur.com/ia/page/18/">18</a><a class="page larger" title="Page 19" href="https://www.blogdumoderateur.com/ia/page/19/">19</a><a class="page larger" title="Page 20" href="https://www.blogdumoderateur.com/ia/page/20/">20</a><span class='extend'>...</span><a class="larger page" title="Page 50" href="https://www.blogdumoderateur.com/ia/page/50/">50</a><span class='extend'>...</span><span tabindex="0"  class="e-link nextpostslink" rel="next" title="Page suivante"  data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/vn/cntr/2/"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#arrow-r"></use></svg></span><span tabindex="0"  class="e-link last" title="Dernière page"  data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/vn/cntr/84/"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#arrow-d-r"></use></svg></span>
 </div>					</div>
 				</div><!-- .col -->
 
@@ -1316,7 +1498,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 </footer><!-- #colophon -->
 
-	<div class="footer-nl">
+	<div class="footer-nl" data-hwh-nl-push>
 		
 <section class="newsletter-container bg-green ">
 	<div class="container-fluid">
@@ -1324,8 +1506,8 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">Vous ne voulez que le meilleur de l&#039;actualité digitale&nbsp;?</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous simplement à notre newsletter&nbsp;:</div>
+					<div class="h2">Chaque jour, l&#039;essentiel du digital</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Directement dans votre boîte mail&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1333,15 +1515,13 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			<form action="/wp-admin/admin-ajax.php" method="post" class="form_nl form-valid" data-param="footer">
 				
 					<div class="input-div d-flex">
-						<input type="hidden" name="action" value="subscribe_optin">
 						<input type="hidden" name="cord_theme" value="Veille">
-						<input type="hidden" name="cord_title" value="Vous ne voulez que le meilleur de l'actualité digitale&nbsp;?">
+						<input type="hidden" name="cord_title" value="Chaque jour, l'essentiel du digital">
 						<input type="hidden" name="cord_bg_color" value="bg-green">
-						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-footer" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
-						<input type="hidden" name="isb" value="false">						<input type="hidden" name="ftmt" value="false">						<input type="hidden" name="ptmt" value="false">													<button type="submit" class="submit button-valid bg-blue px-4 px-xl-5" aria-label="S'inscrire">
+													<button type="submit" class="submit button-valid bg-blue px-4" aria-label="S'inscrire">
 								<span class="submit-valid">S'inscrire</span>
 								<span class="loading-valid"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#rotation"></use></svg></span>
 								<span class="check-unvalid"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#reload-news"></use></svg> Réessayez</span>
@@ -1360,7 +1540,6 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 											<span data-href= "uggcf://jjj.oybtqhzbqrengrhe.pbz/arjfyrggre/uvre" target="_blank" class="e-link last-news pt-4" style="display: inline-block;">Voir la newsletter d'hier</span>
 					
-					<p class="cgu_newsletter t-size-xs pt-4">En cliquant sur "S'inscrire", vous acceptez les <span data-href="/pth/" class="e-link">CGU</span> ainsi que notre <span data-href="/cbyvgvdhr-qr-pbasvqragvnyvgr/" class="e-link">politique de confidentialité</span> décrivant la finalité des traitements de vos données personnelles.</p>
 				</form>
 						</div>
 			</div>
@@ -1412,6 +1591,550 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/core/wp-*.php","/core/wp-admin/*","/blogdumoderateur/*","/app/*","/app/plugins/*","/app/themes/blogdumoderateur/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
 
+<div id="hwh-auth"
+	class="hwh-modal-overlay"
+	hidden
+	role="dialog"
+	aria-modal="true"
+	aria-labelledby="hwh-auth-title">
+
+	<div class="hwh-auth-card">
+
+		<div class="hwh-auth-card__header">
+			<button type="button"
+				class="hwh-auth-card__close"
+				id="hwh-auth-close"
+				aria-label="Fermer">
+				<svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#close"></use></svg>			</button>
+						<img class="hwh-auth-card__header-icon d-none-dm"
+				src="" alt="" aria-hidden="true" width="30" height="30" hidden />
+			<img class="hwh-auth-card__header-icon display-dm"
+				src="" alt="" aria-hidden="true" width="30" height="30" hidden />
+			<h2 id="hwh-auth-title" class="hwh-auth-card__title">
+				Se connecter			</h2>
+						<ul class="hwh-gate__bullets hwh-auth-card__bullets" aria-label="Avantages">
+														<li>100 % des articles BDM</li>
+														<li>La newsletter des pros du digital</li>
+														<li>Le calendrier marketing en PDF</li>
+														<li>Et tous nos guides</li>
+							</ul>
+			<img width="150" height="150" class="hwh-auth-card__illustration d-none-dm" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" alt="" aria-hidden="true" data-lazy-src="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg"><noscript><img width="150" height="150" class="hwh-auth-card__illustration d-none-dm" src="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg" alt="" aria-hidden="true"></noscript><img width="150" height="150" class="hwh-auth-card__illustration display-dm" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" alt="" aria-hidden="true" data-lazy-src="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"><noscript><img width="150" height="150" class="hwh-auth-card__illustration display-dm" src="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg" alt="" aria-hidden="true"></noscript>		</div><!-- /.hwh-auth-card__header -->
+
+		<div class="hwh-auth-card__body">
+
+			
+<div class="hwh-auth-card__view" id="hwh-modal-view-login">
+
+	<form id="hwh-modal-email-check-form" class="hwh-form" method="post" novalidate>
+
+		<div class="hwh-honeypot" aria-hidden="true">
+			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
+			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
+		</div>
+		<input type="hidden" name="hwh_form_ts" value="1788946357|34eae077c84f4364fe04fac05b4e629e6d82f094224c05b4c7472357860bba9d">
+		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
+
+		<!-- User-not-found notice: shown by JS when email does not match any account. -->
+		<div id="hwh-modal-email-not-found" class="hwh-notice hwh-notice--warning hwh-group" hidden>
+			<svg class="ico hwh-notice__ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-warning"></use></svg>			<p class="t-sm mb-0">
+				Cette adresse est inconnue. Pour continuer, <a href="#" data-hwh-modal-view="register">créez votre compte</a>.
+			</p>
+		</div>
+
+		<div class="hwh-group">
+			<label for="hwh-modal-email" class="form-label">
+				Email professionnel<span class="hwh-required" aria-hidden="true">*</span>
+			</label>
+			<input type="email" id="hwh-modal-email" name="email"
+				class="hwh-input" autocomplete="email" required>
+		</div>
+
+					<div class="frc-captcha hwh-group"
+				data-sitekey="FCMVVIRRODSNAU7K"
+				data-start="focus">
+			</div>
+		
+		<button type="submit" class="btn w-100 hwh-group">
+			Continuer		</button>
+
+	</form>
+
+	
+<div class="hwh-divider hwh-group">
+	<span>OU</span>
+</div>
+
+	<button type="button"
+		class="btn outline hwh-btn--oauth hwh-btn--with-icon hwh-btn--google w-100 hwh-group"
+		data-hwh-oauth="google"
+		data-redirect-after="https://www.blogdumoderateur.com/compte/">
+		<svg class="ico hwh-btn__icon" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-google"></use></svg>		Se connecter avec Google	</button>
+
+	<p class="hwh-legal-notice hwh-group">En créant votre compte, vous acceptez les <a target="_blank" rel="noopener noreferrer" href="/cgu/">CGU</a> et la <a target="_blank" rel="noopener noreferrer" href="/politique-de-confidentialite/">politique de confidentialité</a>.</p>
+			<div class="hwh-auth-card__footer py-4">
+			Pas encore de compte ?							<a href="#" data-hwh-modal-view="register">
+					Créer mon compte (c&#039;est gratuit)				</a>
+					</div><!-- /.hwh-auth-card__footer -->
+	
+</div><!-- /view login step 1 -->
+
+
+<!-- ═══════════════════════════════════════════════════
+	Step 2 — Unified password / OTP view
+	JS reveals the toggle only for accounts that have a password and do not
+	require a forced OTP step-up. Otherwise only the OTP tab is shown.
+	═══════════════════════════════════════════════════ -->
+<div class="hwh-auth-card__view" id="hwh-modal-view-login-password" hidden>
+
+	<!-- Toggle: shown by JS only when the account has a password and no step-up is required. -->
+	<div class="hwh-login-toggle hwh-group" role="tablist"
+		aria-label="Méthode de connexion" hidden>
+		<button type="button" class="hwh-login-toggle__btn is-active"
+			id="hwh-login-tab-password" role="tab"
+			aria-selected="true" aria-controls="hwh-login-panel-password"
+			data-hwh-tab="password">
+			<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-padlock"></use></svg>			<span class="d-none d-sm-inline">Utiliser un mot de passe</span>
+			<span class="d-inline d-sm-none">Mot de passe</span>
+		</button>
+		<button type="button" class="hwh-login-toggle__btn"
+			id="hwh-login-tab-otp" role="tab" tabindex="-1"
+			aria-selected="false" aria-controls="hwh-login-panel-otp"
+			data-hwh-tab="otp">
+			<svg class="ico hwh-login-toggle__ico--code" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-code"></use></svg>			<span class="d-none d-sm-inline">Utiliser un code</span>
+			<span class="d-inline d-sm-none">Code</span>
+		</button>
+	</div>
+
+	<!-- ── Tab panel: Password ──────────────────────────────────── -->
+	<div data-hwh-tab-panel="password" id="hwh-login-panel-password"
+		role="tabpanel" aria-labelledby="hwh-login-tab-password">
+
+		<p class="hwh-account-info hwh-group">
+			<span>Connexion au compte <strong class="hwh-login-email-display"></strong></span>
+		</p>
+
+		<form id="hwh-modal-login-form" class="hwh-form" method="post" novalidate>
+
+			<input type="hidden" name="email" class="hwh-login-email-value">
+			<input type="hidden" name="redirect_to" class="hwh-modal-redirect-value">
+
+			<div class="hwh-group">
+				<label for="hwh-modal-password" class="form-label">
+					Mot de passe<span class="hwh-required" aria-hidden="true">*</span>
+				</label>
+				<div class="hwh-input-wrapper">
+					<input type="password" id="hwh-modal-password" name="password"
+						class="hwh-input" autocomplete="current-password" required>
+				</div>
+
+				<span class="hwh-inline-msg" role="status" aria-live="polite"></span>
+
+				<a href="#" data-hwh-modal-view="forgot" class="hwh-forgot-link t-xs">
+					Mot de passe oublié ?				</a>
+			</div>
+
+			<button type="submit" class="btn w-100">
+				Se connecter			</button>
+
+		</form>
+
+	</div><!-- /tab panel password -->
+
+	<!-- ── Tab panel: OTP ──────────────────────────────────────── -->
+	<div data-hwh-tab-panel="otp" id="hwh-login-panel-otp"
+		role="tabpanel" aria-labelledby="hwh-login-tab-otp" hidden>
+
+		<!-- Reason text: shown in Case B (no password / blocked / step-up). -->
+		<p class="hwh-login-otp-reason hwh-group t-sm" hidden></p>
+
+		<!-- Phase 1: send the OTP. -->
+		<div class="hwh-login-otp-send">
+
+			<form id="hwh-modal-send-otp-form" class="hwh-form" method="post" novalidate>
+
+				<input type="hidden" name="email" class="hwh-login-email-value">
+
+				<div class="hwh-otp-info hwh-group">
+					<p>Un email contenant un code de vérification vous sera envoyé à <strong class="hwh-login-email-display"></strong></p>
+				</div>
+
+				<button type="submit" class="btn w-100">
+					Envoyer le code de vérification				</button>
+
+			</form>
+
+		</div><!-- /hwh-login-otp-send -->
+
+		<!-- Phase 2: enter the OTP (revealed after send). -->
+		<div class="hwh-login-otp-entry" hidden>
+
+			<p class="hwh-account-info hwh-group">
+				<span>Le code a été envoyé à <strong class="hwh-otp-email-display"></strong></span>
+			</p>
+
+			<form id="hwh-modal-otp-login-form" class="hwh-form" method="post" novalidate>
+
+				<label class="form-label h3bis" id="hwh-otp-login-label">
+					Code de vérification<span class="hwh-required" aria-hidden="true">*</span>
+				</label>
+
+				<div class="hwh-otp-inputs mb-2" role="group" aria-labelledby="hwh-otp-login-label">
+					<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" autocomplete="one-time-code" aria-label="Chiffre 1">
+					<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 2">
+					<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 3">
+					<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 4">
+					<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 5">
+					<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 6">
+				</div>
+
+				<div class="hwh-otp-resend-row hwh-group">
+					<a href="#" class="hwh-otp-resend t-xs">
+						Renvoyer un nouveau code					</a>
+					<span class="hwh-inline-msg" role="status" aria-live="polite"></span>
+				</div>
+
+				<p class="hwh-otp-spam t-xs hwh-group">
+					Le code est valable 10 minutes. Vérifiez vos spams si vous ne trouvez pas l&#039;e-mail.				</p>
+
+				<button type="submit" class="btn w-100">
+					Se connecter				</button>
+
+			</form>
+
+		</div><!-- /hwh-login-otp-entry -->
+
+	</div><!-- /tab panel otp -->
+
+
+			<div class="hwh-auth-card__footer py-4">
+			Pas encore de compte ?							<a href="#" data-hwh-modal-view="register">
+					Créer mon compte (c&#039;est gratuit)				</a>
+					</div><!-- /.hwh-auth-card__footer -->
+	
+</div><!-- /view login step 2 -->
+
+
+<!-- ═══════════════════════════════════════════════════
+	Step 3 — Set password (optional, after first OTP login)
+	═══════════════════════════════════════════════════ -->
+<div class="hwh-auth-card__view" id="hwh-modal-view-set-password" hidden>
+
+	<p class="hwh-group">
+		Vous pouvez créer un mot de passe pour vous connecter plus rapidement la prochaine fois. Vous pouvez également ignorer cette étape.	</p>
+
+	<form id="hwh-modal-set-password-form" class="hwh-form" method="post" novalidate>
+
+		<div class="hwh-field">
+			<label for="hwh-modal-set-password" class="form-label">
+				Nouveau mot de passe			</label>
+			<div class="hwh-input-wrapper">
+				<input type="password" id="hwh-modal-set-password" name="password"
+					class="hwh-input" autocomplete="new-password" minlength="8" required>
+			</div>
+					</div>
+
+		<div class="hwh-field">
+			<label for="hwh-modal-set-password-confirm" class="form-label">
+				Confirmer le mot de passe			</label>
+			<div class="hwh-input-wrapper">
+				<input type="password" id="hwh-modal-set-password-confirm" name="password_confirm"
+					class="hwh-input" autocomplete="new-password" required>
+			</div>
+		</div>
+
+		<div class="hwh-form-actions">
+			<button type="button" class="btn outline hwh-btn-skip-password">
+				Continuer sans mot de passe			</button>
+			<button type="submit" class="btn">
+				Enregistrer mon mot de passe			</button>
+		</div>
+
+	</form>
+
+</div><!-- /view set-password -->
+			<div class="hwh-auth-card__view" id="hwh-modal-view-forgot" hidden>
+
+	<p class="hwh-group">
+		Veuillez saisir l&#039;adresse email associée à votre compte pour continuer.	</p>
+
+	<form id="hwh-modal-forgot-form" class="hwh-form" method="post" novalidate>
+		<div class="hwh-honeypot" aria-hidden="true">
+			<label for="hwh-forgot-website">Site web</label>
+			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
+		</div>
+		<input type="hidden" name="hwh_form_ts" value="1788946357|34eae077c84f4364fe04fac05b4e629e6d82f094224c05b4c7472357860bba9d">
+
+		<div class="hwh-group">
+			<label for="hwh-modal-forgot-email" class="form-label">
+				Email professionnel<span class="hwh-required" aria-hidden="true">*</span>
+			</label>
+			<input type="email" id="hwh-modal-forgot-email" name="email"
+				class="hwh-input" autocomplete="email" required>
+		</div>
+
+		<div class="hwh-form-actions">
+			<button type="button" class="btn outline" data-hwh-modal-view="login-password">
+				Retour			</button>
+			<button type="submit" class="btn">
+				Réinitialiser le mot de passe			</button>
+		</div>
+
+	</form>
+
+</div><!-- /view forgot -->
+			<div class="hwh-auth-card__view hwh-forgot-confirmed" id="hwh-modal-view-forgot-confirmed" hidden>
+
+	<p class="mt-0 mb-0">
+		Nous venons d&#039;envoyer un email à l&#039;adresse <strong class="hwh-confirm-email"></strong> : consultez-le pour réinitialiser votre mot de passe.	</p>
+
+</div><!-- /view forgot-confirmed -->
+			<div class="hwh-auth-card__view" id="hwh-modal-view-account-validation" hidden>
+
+	<form id="hwh-modal-account-validation-form" class="hwh-form" method="post" novalidate>
+
+		<div class="mb-4">
+			<label for="hwh-account-validation-email" class="form-label">
+				Email professionnel			</label>
+			<div class="hwh-input-wrapper">
+				<input type="email" id="hwh-account-validation-email" name="email"
+					class="hwh-input hwh-login-email-value" autocomplete="email" readonly>
+			</div>
+		</div>
+
+		<div class="mb-3">
+			<label for="hwh-validation-password" class="form-label">
+				Créer un mot de passe<span class="hwh-required" aria-hidden="true">*</span>
+			</label>
+			<div class="hwh-input-wrapper">
+				<input type="password" id="hwh-validation-password" name="password"
+					class="hwh-input" autocomplete="new-password" minlength="8" required>
+			</div>
+		</div>
+
+		<div class="mb-4">
+			<label for="hwh-validation-password-confirm" class="form-label">
+				Confirmer le mot de passe<span class="hwh-required" aria-hidden="true">*</span>
+			</label>
+			<div class="hwh-input-wrapper">
+				<input type="password" id="hwh-validation-password-confirm" name="password_confirm"
+					class="hwh-input" autocomplete="new-password" required>
+			</div>
+		</div>
+
+					<div class="frc-captcha mb-4"
+				data-sitekey="FCMVVIRRODSNAU7K"
+				data-start="none">
+			</div>
+		
+		<button type="submit" class="btn mb-4 w-100">
+			Continuer		</button>
+
+	</form>
+
+	<p class="hwh-legal-notice hwh-group">En créant votre compte, vous acceptez les <a target="_blank" rel="noopener noreferrer" href="/cgu/">CGU</a> et la <a target="_blank" rel="noopener noreferrer" href="/politique-de-confidentialite/">politique de confidentialité</a>.</p>
+</div><!-- /view account-validation -->
+
+							
+<!-- ═══════════════════════════════════════════════════
+	Step 1 — Account credentials
+	═══════════════════════════════════════════════════ -->
+<div class="hwh-auth-card__view" id="hwh-modal-view-register" hidden>
+
+	<form id="hwh-modal-register-form" class="hwh-form" method="post" novalidate>
+
+				<input type="hidden" name="url_email" value="">
+		<input type="hidden" name="activation_token" value="">
+
+		<div class="hwh-field">
+			<label for="hwh-modal-reg-email" class="form-label">
+				Email professionnel<span class="hwh-required" aria-hidden="true">*</span>
+			</label>
+			<div class="hwh-input-wrapper">
+				<input type="email" id="hwh-modal-reg-email" name="email"
+					class="hwh-input" autocomplete="email" required>
+			</div>
+		</div>
+
+		<div class="hwh-field">
+			<label for="hwh-modal-reg-password" class="form-label">
+				Créer un mot de passe<span class="hwh-required" aria-hidden="true">*</span>
+			</label>
+			<div class="hwh-input-wrapper">
+				<input type="password" id="hwh-modal-reg-password" name="password"
+					class="hwh-input" autocomplete="new-password" required>
+			</div>
+		</div>
+
+		<div class="hwh-group">
+			<label for="hwh-modal-reg-password-confirm" class="form-label">
+				Confirmer le mot de passe<span class="hwh-required" aria-hidden="true">*</span>
+			</label>
+			<div class="hwh-input-wrapper">
+				<input type="password" id="hwh-modal-reg-password-confirm" name="password_confirm"
+					class="hwh-input" autocomplete="new-password" required>
+			</div>
+		</div>
+
+					<div class="frc-captcha hwh-group"
+				data-sitekey="FCMVVIRRODSNAU7K"
+				data-start="none">
+			</div>
+		
+		<button type="submit" class="btn hwh-group w-100">
+			Continuer		</button>
+
+	</form>
+
+			<!--
+			OAuth CTA — surfaced by Modal._applyOpenOptions() when the register
+			view is opened either with options.notice === 'no-account' (newsletter
+			encart flow, alongside the [data-hwh-no-account-notice] banner) or in
+			the 'form-gate' context (content-wall flow, CTA only).
+		-->
+		<div data-hwh-no-account-oauth hidden>
+			
+<div class="hwh-divider hwh-group">
+	<span>OU</span>
+</div>
+
+	<button type="button"
+		class="btn outline hwh-btn--oauth hwh-btn--with-icon hwh-btn--google w-100 hwh-group"
+		data-hwh-oauth="google"
+		data-redirect-after="https://www.blogdumoderateur.com/compte/">
+		<svg class="ico hwh-btn__icon" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-google"></use></svg>		Se connecter avec Google	</button>
+		</div>
+	
+	<p class="hwh-legal-notice hwh-group">En créant votre compte, vous acceptez les <a target="_blank" rel="noopener noreferrer" href="/cgu/">CGU</a> et la <a target="_blank" rel="noopener noreferrer" href="/politique-de-confidentialite/">politique de confidentialité</a>.</p>
+	<div class="hwh-auth-card__footer py-4">
+		Déjà un compte ?		<a href="#" data-hwh-modal-view="login">
+			Me connecter		</a>
+	</div><!-- /.hwh-auth-card__footer -->
+
+</div><!-- /view register step 1 -->
+
+<div class="hwh-auth-card__view" id="hwh-modal-view-register-profile" hidden>
+
+	<form id="hwh-modal-register-profile-form" class="hwh-form" method="post" novalidate>
+
+		<p class="hwh-register-section-title">
+			À propos de vous		</p>
+
+		<div class="hwh-field">
+			<label for="hwh-modal-reg-first-name" class="form-label">
+				Prénom			</label>
+			<div class="hwh-input-wrapper">
+				<input type="text" id="hwh-modal-reg-first-name" name="first_name"
+					class="hwh-input" autocomplete="given-name">
+			</div>
+		</div>
+
+		<div class="hwh-field">
+			<label for="hwh-modal-reg-last-name" class="form-label">
+				Nom			</label>
+			<div class="hwh-input-wrapper">
+				<input type="text" id="hwh-modal-reg-last-name" name="last_name"
+					class="hwh-input" autocomplete="family-name">
+			</div>
+		</div>
+
+		<div class="hwh-field">
+			<label for="hwh-modal-reg-job-function" class="form-label">
+				Métier			</label>
+			<input type="text" id="hwh-modal-reg-job-function" name="job_function"
+				class="hwh-input" autocomplete="organization-title">
+		</div>
+
+		<div class="hwh-field">
+			<label for="hwh-modal-reg-company-name" class="form-label">
+				Nom de votre entreprise			</label>
+			<input type="text" id="hwh-modal-reg-company-name" name="company_name"
+				class="hwh-input" autocomplete="organization">
+		</div>
+
+		
+		<div class="hwh-form-actions">
+			<button type="button" class="btn outline hwh-btn-register-skip">
+				Plus tard			</button>
+			<button type="submit" class="btn"
+				data-hwh-label-oauth="Enregistrer">
+				Continuer			</button>
+		</div>
+
+	</form>
+
+</div><!-- /view register step 2 -->
+				<div class="hwh-auth-card__view" id="hwh-modal-view-otp" hidden>
+
+	<p class="hwh-account-info mb-3">
+		<span>Pour finaliser la création du compte, un code a été envoyé à <strong class="hwh-otp-email-display"></strong></span>
+	</p>
+
+	<form id="hwh-modal-otp-form" class="hwh-form" method="post" novalidate>
+
+		<label class="form-label h3bis" id="hwh-otp-label">
+			Code de vérification<span class="hwh-required" aria-hidden="true">*</span>
+		</label>
+
+		<div class="hwh-otp-inputs mb-2" role="group" aria-labelledby="hwh-otp-label">
+			<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" autocomplete="one-time-code" aria-label="Chiffre 1">
+			<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 2">
+			<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 3">
+			<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 4">
+			<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 5">
+			<input type="text" class="hwh-otp-digit" maxlength="1" inputmode="numeric" pattern="[0-9]" aria-label="Chiffre 6">
+		</div>
+
+		<div class="hwh-otp-resend-row mb-3">
+			<a href="#" class="hwh-otp-resend t-xs">
+				Renvoyer un nouveau code			</a>
+			<span class="hwh-inline-msg" role="status" aria-live="polite"></span>
+		</div>
+
+		<p class="hwh-otp-spam t-xs mb-3">
+			Le code est valable 10 minutes. Vérifiez vos spams si vous ne trouvez pas l&#039;e-mail.		</p>
+
+		<button type="submit" class="btn w-100">
+			Créer mon compte		</button>
+
+	</form>
+
+</div><!-- /view otp -->
+			
+		</div><!-- /.hwh-auth-card__body -->
+
+	</div><!-- /.hwh-auth-card -->
+
+</div><!-- /#hwh-auth -->
+
+<div class="hwh-ot-card" data-hwh-ot-card hidden>
+
+	<div class="hwh-ot-card__header">
+		<span class="hwh-ot-card__brand">
+			<svg class="ico hwh-ot-card__logo" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-google"></use></svg>			Se connecter à BDM avec Google		</span>
+		<button type="button"
+			class="hwh-ot-card__close"
+			data-hwh-ot-dismiss
+			aria-label="Fermer">
+						<svg viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+				<path d="M5.5 5.5 14.5 14.5M14.5 5.5 5.5 14.5"
+					fill="none"
+					stroke="currentColor"
+					stroke-width="1.5"
+					stroke-linecap="round" />
+			</svg>
+		</button>
+	</div>
+
+	<div class="hwh-ot-card__body">
+		<button type="button"
+			class="btn w-100 hwh-ot-card__cta"
+			data-hwh-oauth="google">
+			Continuer avec Google		</button>
+		<p class="hwh-ot-card__legal">En poursuivant votre connexion via Google, vous acceptez les <a target="_blank" rel="noopener noreferrer" href="/cgu/">CGU</a> et déclarez avoir pris connaissance de la <a target="_blank" rel="noopener noreferrer" href="/politique-de-confidentialite/">politique de confidentialité</a> de BDM. Si vous ne disposez pas déjà d'un compte BDM associé à l'adresse email de votre compte Google, un compte BDM vous sera créé.</p>
+	</div>
+
+</div>
+
 		<div id="nl-generic-modal" class="nl-generic-modal modal open" style="display: none;">
 
 			<div class="modal-container modal-container-nl">		
@@ -1425,15 +2148,13 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 			<form action="/wp-admin/admin-ajax.php" method="post" class="form_nl form-valid" data-param="default">
 				
 					<div class="input-div d-flex">
-						<input type="hidden" name="action" value="subscribe_optin">
 						<input type="hidden" name="cord_theme" value="undefined">
 						<input type="hidden" name="cord_title" value="undefined">
 						<input type="hidden" name="cord_bg_color" value="undefined">
-						<input type="hidden" name="referal" value="https://www.blogdumoderateur.com/ia/">
 						<input type="email" id="address-default" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-default" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-default" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
-						<input type="hidden" name="isb" value="false">						<input type="hidden" name="ftmt" value="false">						<input type="hidden" name="ptmt" value="false">													<button type="submit" class="submit button-valid bg-blue px-4 px-xl-5" aria-label="S'inscrire">
+													<button type="submit" class="submit button-valid bg-blue px-4" aria-label="S'inscrire">
 								<span class="submit-valid">S'inscrire</span>
 								<span class="loading-valid"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#rotation"></use></svg></span>
 								<span class="check-unvalid"><svg class="ico"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/svg/_sprite.svg#reload-news"></use></svg> Réessayez</span>
@@ -1452,7 +2173,6 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 											<span data-href= "uggcf://jjj.oybtqhzbqrengrhe.pbz/arjfyrggre/uvre" target="_blank" class="e-link last-news pt-4" style="display: inline-block;">Voir la newsletter d'hier</span>
 					
-					<p class="cgu_newsletter t-size-xs pt-4">En cliquant sur "S'inscrire", vous acceptez les <span data-href="/pth/" class="e-link">CGU</span> ainsi que notre <span data-href="/cbyvgvdhr-qr-pbasvqragvnyvgr/" class="e-link">politique de confidentialité</span> décrivant la finalité des traitements de vos données personnelles.</p>
 				</form>
 		</div>
 				
@@ -1467,13 +2187,20 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 
 		</div>
 
-		<script type="text/rocketlazyloadscript" data-minify="1" id="slider-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/embla-carousel/embla-carousel.umd.js?ver=1788275027" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript" data-rocket-type="module" data-rocket-src="https://www.blogdumoderateur.com/app/plugins/hw-slider/assets/js/embla-init.js" data-rocket-defer defer></script><script type="text/rocketlazyloadscript" data-minify="1" id="bdm-navigation-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/navigation.js?ver=1788275027" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-skip-link-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/skip-link-focus-fix.js?ver=1788275027" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-scripts-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/common.js?ver=1788275027" data-rocket-defer defer></script>
+		<script type="text/rocketlazyloadscript" id="slider-js" data-rocket-src="https://unpkg.com/embla-carousel/embla-carousel.umd.js" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript" data-rocket-type="module" data-rocket-src="https://www.blogdumoderateur.com/app/plugins/hw-slider/assets/js/embla-init.js" data-rocket-defer defer></script><script id="hwh-frontend-js-extra">
+var HWH = {"ajax_url":"https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php","rest_url":"https://www.blogdumoderateur.com/wp-json/hwh/v1/","nonce":"466ff3a6da","rest_nonce":"4b5420a666","is_logged_in":"","is_wordpress_user":"","current_page_type":null,"home_url":"https://www.blogdumoderateur.com/","mode":"standalone","register_url":"","captcha_enabled":"1","validation_email":"","i18n":{"error_generic":"Une erreur s'est produite. Veuillez r\u00e9essayer.","error_network":"Erreur r\u00e9seau. Veuillez v\u00e9rifier votre connexion.","error_invalid_email":"Veuillez saisir une adresse e-mail valide.","error_password_match":"Les mots de passe ne correspondent pas.","error_session_expired":"Votre session de connexion a expir\u00e9. Veuillez r\u00e9essayer.","error_no_code":"Authentification \u00e9chou\u00e9e. Aucun code re\u00e7u du fournisseur.","error_unknown_provider":"Fournisseur d'authentification inconnu.","error_token_exchange_failed":"Authentification \u00e9chou\u00e9e. Impossible d'obtenir un jeton aupr\u00e8s du fournisseur.","error_id_token_invalid":"Authentification \u00e9chou\u00e9e. Le jeton d'identit\u00e9 est invalide ou expir\u00e9.","error_userinfo_failed":"Authentification \u00e9chou\u00e9e. Impossible de r\u00e9cup\u00e9rer votre profil aupr\u00e8s du fournisseur.","error_auth_failed":"Authentification \u00e9chou\u00e9e. Veuillez r\u00e9essayer ou utiliser une autre m\u00e9thode de connexion.","error_missing_profile_claims":"Authentification \u00e9chou\u00e9e. Le fournisseur n'a pas retourn\u00e9 un profil valide.","error_account_suspended":"Votre compte a \u00e9t\u00e9 suspendu. Veuillez contacter le support.","password_min_length":"Le mot de passe doit comporter au moins 8 caract\u00e8res.","password_max_length":"Le mot de passe ne doit pas d\u00e9passer 64 caract\u00e8res.","password_digit":"Le mot de passe doit contenir au moins un chiffre.","password_uppercase":"Le mot de passe doit contenir au moins une lettre majuscule.","password_special":"Le mot de passe doit contenir au moins un caract\u00e8re sp\u00e9cial.","password_lowercase":"Le mot de passe doit contenir au moins une lettre minuscule.","password_requirements_met":"Toutes les exigences sont satisfaites !","req_length":"8 caract\u00e8res minimum","req_digit":"1 chiffre","req_upper":"1 lettre majuscule","req_special":"1 caract\u00e8re sp\u00e9cial","req_lower":"1 lettre minuscule","success_email_verified":"E-mail v\u00e9rifi\u00e9 ! Vous pouvez maintenant vous connecter.","success_forgot":"Si un compte existe avec cet e-mail, vous recevrez un lien de r\u00e9initialisation de mot de passe.","success_login":"Connexion r\u00e9ussie. Redirection en cours...","success_register":"Compte cr\u00e9\u00e9 ! Veuillez v\u00e9rifier votre e-mail.","success_logout":"Vous avez \u00e9t\u00e9 d\u00e9connect\u00e9.","success_profile_saved":"Profil enregistr\u00e9 avec succ\u00e8s.","success_password_changed":"Mot de passe modifi\u00e9 avec succ\u00e8s.","otp_title":"V\u00e9rifiez votre e-mail","otp_intro":"Saisissez le code \u00e0 6 chiffres envoy\u00e9 \u00e0 :","otp_spam_notice":"V\u00e9rifiez votre dossier spam si vous ne recevez pas l'email.","otp_verify":"V\u00e9rifier","otp_resend":"Renvoyer un nouveau code","otp_resend_wait":"Renvoi disponible \u00e0 l'expiration du minuteur","otp_resend_in":"Vous pouvez renvoyer un code dans %s sec","otp_resent":"Code envoy\u00e9, v\u00e9rifiez vos e-mails.","otp_invalid_code":"Le code est incorrect.","otp_expires_in":"Le code expire dans","otp_expired":"Ce code a expir\u00e9.","otp_reason_no_password":"Connectez-vous avec un code \u00e0 usage unique envoy\u00e9 \u00e0 votre e-mail.","otp_reason_blocked":"Trop de tentatives \u00e9chou\u00e9es. Veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_strong_auth_required":"Pour votre s\u00e9curit\u00e9, veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_default":"Saisissez le code de v\u00e9rification envoy\u00e9 \u00e0 votre e-mail.","toast_login":"Vous \u00eates connect\u00e9.","toast_registered":"Votre compte a \u00e9t\u00e9 cr\u00e9\u00e9.","toast_newsletter":"Vous \u00eates inscrit \u00e0 la newsletter.","toast_account_deleted":"Votre compte a \u00e9t\u00e9 supprim\u00e9.","captcha_not_solved":"Veuillez compl\u00e9ter la v\u00e9rification de s\u00e9curit\u00e9 avant de soumettre.","confirm_logout":"\u00cates-vous s\u00fbr(e) de vouloir vous d\u00e9connecter ?","confirm_revoke":"R\u00e9voquer cette session ?","close":"Fermer","show_password":"Afficher le mot de passe","hide_password":"Masquer le mot de passe","loading":"Chargement...","submitting":"Envoi en cours...","login_account_label":"Connexion au compte %s","error_email_exists":"Cette adresse est d\u00e9j\u00e0 li\u00e9e \u00e0 un compte. Pour continuer, %1$sconnectez-vous%2$s.","sign_in":"Se connecter"},"sprite_url":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg","debug":"","one_tap":{"client_id":"742566187379-agskvtpehiluk1aq52beqji0uf2gl65b.apps.googleusercontent.com"},"illustrations":{"login":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"login-password":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"set-password":{"title":"Cr\u00e9er un mot de passe","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"forgot":{"title":"Mot de passe oubli\u00e9","variant":"light"},"forgot-confirmed":{"title":"V\u00e9rifiez vos emails !","variant":"light","icon":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed.svg","icon_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed-dm.svg"},"register":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"otp":{"title":"Une derni\u00e8re \u00e9tape !","variant":"light"},"register-profile":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"account-validation":{"title":"Cr\u00e9ez un mot de passe pour acc\u00e9der \u00e0 votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-gate":{"title_signin":"Connectez-vous pour acc\u00e9der \u00e0 tous nos articles","title_signup":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos articles","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium-dm.svg"},"form-activation":{"title":"Activez votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-download":{"title_signin":"Connectez-vous pour t\u00e9l\u00e9charger nos documents","title_signup":"Cr\u00e9ez votre compte pour t\u00e9l\u00e9charger nos documents","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download-dm.svg"},"form-newsletter":{"title_signin":"Connectez-vous pour recevoir la newsletter du digital","title_signup":"Cr\u00e9ez votre compte pour recevoir le meilleur de l'actualit\u00e9 digitale !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter-dm.svg"},"account-profile":{"title":"Profil","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile-dm.svg"},"account-newsletters":{"title":"Newsletter","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters-dm.svg"},"account-security":{"title":"S\u00e9curit\u00e9","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security-dm.svg"}}};
+//# sourceURL=hwh-frontend-js-extra
+</script>
+<script data-minify="1" data-wp-strategy="defer" id="hwh-frontend-js" src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/js/frontend.js?ver=1788945002" data-rocket-defer defer></script>
+<script data-minify="1" data-wp-strategy="defer" defer id="hwh-newsletter-form-js" src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/js/newsletter-form.js?ver=1788945002"></script>
+<script type="text/rocketlazyloadscript" data-wp-strategy="defer" defer id="hwh-friendly-captcha-js" data-rocket-src="https://www.blogdumoderateur.com/app/plugins/hw-hellogin/assets/js/friendly-captcha/widget.min.js"></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-navigation-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/navigation.js?ver=1788945004" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-skip-link-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/skip-link-focus-fix.js?ver=1788945005" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-scripts-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/common.js?ver=1788945002" data-rocket-defer defer></script>
 <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt,l){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="Lire la vidéo Youtube"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=[];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi/ID/hqdefault.jpg'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
-<script>"use strict";function wprRemoveCPCSS(){var preload_stylesheets=document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]');if(preload_stylesheets&&0<preload_stylesheets.length)for(var stylesheet_index=0;stylesheet_index<preload_stylesheets.length;stylesheet_index++){var media=preload_stylesheets[stylesheet_index].getAttribute("media")||"all";if(window.matchMedia(media).matches)return void setTimeout(wprRemoveCPCSS,200)}var elem=document.getElementById("rocket-critical-css");elem&&"remove"in elem&&elem.remove()}window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link data-minify="1" rel='stylesheet' id='banner_style-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1788275026' media='all' /><link data-minify="1" rel='stylesheet' id='bdm-core-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1788275026' media='all' /></noscript></body>
+</body>
 </html>
