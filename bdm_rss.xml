@@ -118,19 +118,19 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=/wp-includes/css/classic-themes.min.css */
 </style>
 
-<link data-minify="1" rel='stylesheet' id='banner_style-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1788972290' media='all' />
-<link data-minify="1" rel='stylesheet' id='hwh-frontend-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/css/frontend.css?ver=1788972290' media='all' />
+<link data-minify="1" rel='stylesheet' id='banner_style-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-banner/assets/css/styles.css?ver=1789034214' media='all' />
+<link data-minify="1" rel='stylesheet' id='hwh-frontend-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/css/frontend.css?ver=1789034214' media='all' />
 <link rel='stylesheet' id='bootstrap-grid-css' href='https://www.blogdumoderateur.com/app/themes/blogdumoderateur/vendor/bootstrap-5.0.2/dist/css/bootstrap-grid.min.css' media='all' />
-<link data-minify="1" rel='stylesheet' id='bdm-core-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1788972290' media='all' />
+<link data-minify="1" rel='stylesheet' id='bdm-core-css' href='https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/css/core.min.css?ver=1789034214' media='all' />
 <style id="rocket-lazyload-inline-css">
 .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
 /*# sourceURL=rocket-lazyload-inline-css */
 </style>
-<script type="text/rocketlazyloadscript" data-minify="1" id="pintraredirectjs-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=1788972291" async></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="pintraredirectjs-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=1789034215" async></script>
 <script id="jquery-core-js" src="https://www.blogdumoderateur.com/core/wp-includes/js/jquery/jquery.min.js" data-rocket-defer defer></script>
 <script id="jquery-migrate-js" src="https://www.blogdumoderateur.com/core/wp-includes/js/jquery/jquery-migrate.min.js" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-gnikcart-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/gnikcart.js?ver=1788972291" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript">window.HelloworkCookieConsentCustomConfig = {privacyPolicyUrl: "\/politique-de-confidentialite\/",termsOfServiceUrl: "\/cgu\/",noticeIntroductionText: "BDM d\u00e9pose des cookies ou traceurs pour am\u00e9liorer la pertinence des articles con\u00e7us pour ses lecteurs.",noticeDescriptionText: "[p]En cons\u00e9quence, l'utilisation de notre site implique le d\u00e9p\u00f4t de cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture de nos services, pour faire fonctionner le site, piloter et suivre les sources d'acquisition d'audience et comprendre le comportement de nos audiences afin d'am\u00e9liorer nos produits. Nous utilisons \u00e9galement des cookies ou traceurs tiers non-essentiels, que vous pouvez accepter ou refuser. [btn=customize-cookies]Plus d'infos[\/btn].[\/p]",consentModalEndText: "En cliquant sur le bouton [ Accepter ] vous acceptez les CGU et la politique de confidentialit\u00e9 BDM.",consentModalCookieBaseTitle: "Cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture des services",consentModalCookieBaseText: "Ces cookies ou traceurs ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s dans la mesure o\u00f9 nous les utilisons pour faire fonctionner nos services.\r\nIl s\u2019agit notamment de l\u2019ensemble des cookies ou traceurs permettant de piloter et suivre les sources d\u2019acquisition d\u2019audience en utilisant un identifiant unique permettant de comprendre comment nos utilisateurs naviguent sur notre site en fonction des diff\u00e9rentes sources de trafic. Nous observons \u00e9galement le comportement de nos utilisateurs afin d\u2019am\u00e9liorer nos produits et rendre la navigation sur notre site beaucoup plus rapide et fluide. Ces cookies ou traceurs permettent aussi de garantir la s\u00e9curit\u00e9 du site web en d\u00e9tectant les tentatives d'acc\u00e8s frauduleux ou les violations de s\u00e9curit\u00e9.",consentModalCookieMarketingTitle: "Cookies ou traceurs publicitaires",consentModalCookieMarketingText: "Ces cookies ou traceurs nous permettent ainsi qu\u2019\u00e0 nos partenaires de vous proposer des publicit\u00e9s et des contenus personnalis\u00e9s en fonction de votre navigation, de votre profil et de vos centres d'int\u00e9r\u00eat.\r\nCes dispositifs permettent aux utilisateurs d\u2019augmenter de mani\u00e8re importante la visibilit\u00e9 des contenus susceptibles de les int\u00e9resser.\r\nVous pouvez changer d\u2019avis \u00e0 tout moment en cliquant sur le bouton \"G\u00e9rer les traceurs\" situ\u00e9 en bas de page.",btnDenyCookiesType: "btn-deny-all",noticeModal: false,btnDenyCookies: true,btnCustomizeCookies: false,}</script>			<script type="text/rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/hw-cookie-consent/latest/embed.js?ver=1788972292" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-gnikcart-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/gnikcart.js?ver=1789034215" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript">window.HelloworkCookieConsentCustomConfig = {privacyPolicyUrl: "\/politique-de-confidentialite\/",termsOfServiceUrl: "\/cgu\/",noticeIntroductionText: "BDM d\u00e9pose des cookies ou traceurs pour am\u00e9liorer la pertinence des articles con\u00e7us pour ses lecteurs.",noticeDescriptionText: "[p]En cons\u00e9quence, l'utilisation de notre site implique le d\u00e9p\u00f4t de cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture de nos services, pour faire fonctionner le site, piloter et suivre les sources d'acquisition d'audience et comprendre le comportement de nos audiences afin d'am\u00e9liorer nos produits. Nous utilisons \u00e9galement des cookies ou traceurs tiers non-essentiels, que vous pouvez accepter ou refuser. [btn=customize-cookies]Plus d'infos[\/btn].[\/p]",consentModalEndText: "En cliquant sur le bouton [ Accepter ] vous acceptez les CGU et la politique de confidentialit\u00e9 BDM.",consentModalCookieBaseTitle: "Cookies ou traceurs internes n\u00e9cessaires \u00e0 la fourniture des services",consentModalCookieBaseText: "Ces cookies ou traceurs ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s dans la mesure o\u00f9 nous les utilisons pour faire fonctionner nos services.\r\nIl s\u2019agit notamment de l\u2019ensemble des cookies ou traceurs permettant de piloter et suivre les sources d\u2019acquisition d\u2019audience en utilisant un identifiant unique permettant de comprendre comment nos utilisateurs naviguent sur notre site en fonction des diff\u00e9rentes sources de trafic. Nous observons \u00e9galement le comportement de nos utilisateurs afin d\u2019am\u00e9liorer nos produits et rendre la navigation sur notre site beaucoup plus rapide et fluide. Ces cookies ou traceurs permettent aussi de garantir la s\u00e9curit\u00e9 du site web en d\u00e9tectant les tentatives d'acc\u00e8s frauduleux ou les violations de s\u00e9curit\u00e9.",consentModalCookieMarketingTitle: "Cookies ou traceurs publicitaires",consentModalCookieMarketingText: "Ces cookies ou traceurs nous permettent ainsi qu\u2019\u00e0 nos partenaires de vous proposer des publicit\u00e9s et des contenus personnalis\u00e9s en fonction de votre navigation, de votre profil et de vos centres d'int\u00e9r\u00eat.\r\nCes dispositifs permettent aux utilisateurs d\u2019augmenter de mani\u00e8re importante la visibilit\u00e9 des contenus susceptibles de les int\u00e9resser.\r\nVous pouvez changer d\u2019avis \u00e0 tout moment en cliquant sur le bouton \"G\u00e9rer les traceurs\" situ\u00e9 en bas de page.",btnDenyCookiesType: "btn-deny-all",noticeModal: false,btnDenyCookies: true,btnCustomizeCookies: false,}</script>			<script type="text/rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/hw-cookie-consent/latest/embed.js?ver=1789034214" data-rocket-defer defer></script>
 		
 		<script type="text/rocketlazyloadscript">
 			document.addEventListener("DOMContentLoaded", function () {
@@ -162,7 +162,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			'theme' : 'ia',
 			'tag' : '',
 			'category_list' : '',
-			'search_result' : '1255',
+			'search_result' : '1256',
 			'article_publication_date' :  '',
 			'article_gated' : false,
 			'user_logged_in' : false		}];
@@ -345,8 +345,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		<div class="popular-tags mb-1 mb-md-4 mt-5">
 
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
@@ -354,8 +354,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/zrgn/" class="e-link badge badge-grey">Meta</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/zrgn/" class="e-link badge badge-grey">Meta</span>
 			
 		</div>
 
@@ -451,6 +451,46 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			</div>
 
 			<div class="archive-list row justify-content-center">
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Interdire l&rsquo;IA en entreprise ou l&rsquo;utiliser sans autorisation&nbsp;: c&rsquo;est légal ça&nbsp;?" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-211568" class="d-flex my-md-5 my-4 post-211568 post type-post status-publish format-standard has-post-thumbnail category-ia tag-reglementation">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Interdire l&rsquo;IA en entreprise ou l&rsquo;utiliser sans autorisation&nbsp;: c&rsquo;est légal ça&nbsp;?" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-664x347.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-768x402.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction.jpg 1200w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Interdire l&rsquo;IA en entreprise ou l&rsquo;utiliser sans autorisation&nbsp;: c&rsquo;est légal ça&nbsp;?" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-664x347.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-768x402.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/09/IA-Interdiction.jpg 1200w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+			<div class="meta-line">
+
+									<span class="favtag color-b">Réglementation</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-10T07:00:36+02:00">10 septembre 2026</time></span>
+
+				<span class="hwh-members-badge hwh-members-badge--compact"><span class="screen-reader-text">Réservé aux membres</span></span>
+			</div>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/interdire-ia-entreprise-utiliser-sans-autorisation-legal/" >
+					<h3 class="entry-title">Interdire l&rsquo;IA en entreprise ou l&rsquo;utiliser sans autorisation&nbsp;: c&rsquo;est légal ça&nbsp;?</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">ChatGPT et les autres outils d'IA générative se sont imposés dans les usages professionnels, souvent sans cadre. Deux avocats en droit du travail précisent ce [...]</div>
+			
+		</div>
+
+	</article><!-- #post-211568 -->
+
+</div>
+					</div><!-- .col -->
 
 				
 					<div class="col-xl-12">
@@ -1013,46 +1053,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					</div><!-- .col -->
 
 				
-					<div class="col-xl-12">
-						<div aria-label="OpenClaw conçoit « par accident » la plus grande mise à jour de son histoire" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-211407" class="d-flex my-md-5 my-4 post-211407 post type-post status-publish format-standard has-post-thumbnail category-ia tag-developpement">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="OpenClaw conçoit « par accident » la plus grande mise à jour de son histoire" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-370x194.jpg 370w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="OpenClaw conçoit « par accident » la plus grande mise à jour de son histoire" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/09/multiplayer-dashboard-openclaw-v2-370x194.jpg 370w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-			<div class="meta-line">
-
-									<span class="favtag color-b">Développement</span>
-				
-				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-09-01T10:32:57+02:00">1 septembre 2026</time></span>
-
-				
-			</div>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/openclaw-accident-grande-mise-a-jour-histoire/" >
-					<h3 class="entry-title">OpenClaw conçoit « par accident » la plus grande mise à jour de son histoire</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">OpenClaw publie la mise à jour la plus importante de son histoire, portée par plus de 16 000 pull requests. Elle simplifie l'installation et introduit [...]</div>
-			
-		</div>
-
-	</article><!-- #post-211407 -->
-
-</div>
-					</div><!-- .col -->
-
-				
 				<div class="col-xl-12 pager">
 					<div class="pt-md-5 pt-4 bt-1">
 						<div class='wp-pagenavi' role='navigation'>
@@ -1505,8 +1505,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">70 000 pros sont déjà abonnés</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Pourquoi pas vous&nbsp;?</div>
+					<div class="h2">On filtre, on vérifie, on rédige.</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous pour recevoir nos articles&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1514,8 +1514,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<form action="/wp-admin/admin-ajax.php" method="post" class="form_nl form-valid" data-param="footer">
 				
 					<div class="input-div d-flex">
-						<input type="hidden" name="cord_theme" value="Club">
-						<input type="hidden" name="cord_title" value="70 000 pros sont déjà abonnés">
+						<input type="hidden" name="cord_theme" value="Authenticité">
+						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
 						<input type="hidden" name="cord_bg_color" value="bg-blue100">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1550,8 +1550,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1562,8 +1562,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
@@ -1630,7 +1630,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1789001184|92e39662a94ada04414d4471e6b1915b3b41256b4118e7c7bb80058d3549feee">
+		<input type="hidden" name="hwh_form_ts" value="1789034227|2659976d575cef46e189ed891ecab83a24f4b341eb47afbd31e3c61d7fd12238">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -1861,7 +1861,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1789001184|92e39662a94ada04414d4471e6b1915b3b41256b4118e7c7bb80058d3549feee">
+		<input type="hidden" name="hwh_form_ts" value="1789034227|2659976d575cef46e189ed891ecab83a24f4b341eb47afbd31e3c61d7fd12238">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
@@ -2191,17 +2191,15 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 var HWH = {"ajax_url":"https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php","rest_url":"https://www.blogdumoderateur.com/wp-json/hwh/v1/","nonce":"53a10a7db8","rest_nonce":"398443e1ee","is_logged_in":"","is_wordpress_user":"","current_page_type":null,"home_url":"https://www.blogdumoderateur.com/","mode":"standalone","register_url":"","captcha_enabled":"1","validation_email":"","i18n":{"error_generic":"Une erreur s'est produite. Veuillez r\u00e9essayer.","error_network":"Erreur r\u00e9seau. Veuillez v\u00e9rifier votre connexion.","error_invalid_email":"Veuillez saisir une adresse e-mail valide.","error_password_match":"Les mots de passe ne correspondent pas.","error_session_expired":"Votre session de connexion a expir\u00e9. Veuillez r\u00e9essayer.","error_no_code":"Authentification \u00e9chou\u00e9e. Aucun code re\u00e7u du fournisseur.","error_unknown_provider":"Fournisseur d'authentification inconnu.","error_token_exchange_failed":"Authentification \u00e9chou\u00e9e. Impossible d'obtenir un jeton aupr\u00e8s du fournisseur.","error_id_token_invalid":"Authentification \u00e9chou\u00e9e. Le jeton d'identit\u00e9 est invalide ou expir\u00e9.","error_userinfo_failed":"Authentification \u00e9chou\u00e9e. Impossible de r\u00e9cup\u00e9rer votre profil aupr\u00e8s du fournisseur.","error_auth_failed":"Authentification \u00e9chou\u00e9e. Veuillez r\u00e9essayer ou utiliser une autre m\u00e9thode de connexion.","error_missing_profile_claims":"Authentification \u00e9chou\u00e9e. Le fournisseur n'a pas retourn\u00e9 un profil valide.","error_account_suspended":"Votre compte a \u00e9t\u00e9 suspendu. Veuillez contacter le support.","password_min_length":"Le mot de passe doit comporter au moins 8 caract\u00e8res.","password_max_length":"Le mot de passe ne doit pas d\u00e9passer 64 caract\u00e8res.","password_digit":"Le mot de passe doit contenir au moins un chiffre.","password_uppercase":"Le mot de passe doit contenir au moins une lettre majuscule.","password_special":"Le mot de passe doit contenir au moins un caract\u00e8re sp\u00e9cial.","password_lowercase":"Le mot de passe doit contenir au moins une lettre minuscule.","password_requirements_met":"Toutes les exigences sont satisfaites !","req_length":"8 caract\u00e8res minimum","req_digit":"1 chiffre","req_upper":"1 lettre majuscule","req_special":"1 caract\u00e8re sp\u00e9cial","req_lower":"1 lettre minuscule","success_email_verified":"E-mail v\u00e9rifi\u00e9 ! Vous pouvez maintenant vous connecter.","success_forgot":"Si un compte existe avec cet e-mail, vous recevrez un lien de r\u00e9initialisation de mot de passe.","success_login":"Connexion r\u00e9ussie. Redirection en cours...","success_register":"Compte cr\u00e9\u00e9 ! Veuillez v\u00e9rifier votre e-mail.","success_logout":"Vous avez \u00e9t\u00e9 d\u00e9connect\u00e9.","success_profile_saved":"Profil enregistr\u00e9 avec succ\u00e8s.","success_password_changed":"Mot de passe modifi\u00e9 avec succ\u00e8s.","otp_title":"V\u00e9rifiez votre e-mail","otp_intro":"Saisissez le code \u00e0 6 chiffres envoy\u00e9 \u00e0 :","otp_spam_notice":"V\u00e9rifiez votre dossier spam si vous ne recevez pas l'email.","otp_verify":"V\u00e9rifier","otp_resend":"Renvoyer un nouveau code","otp_resend_wait":"Renvoi disponible \u00e0 l'expiration du minuteur","otp_resend_in":"Vous pouvez renvoyer un code dans %s sec","otp_resent":"Code envoy\u00e9, v\u00e9rifiez vos e-mails.","otp_invalid_code":"Le code est incorrect.","otp_expires_in":"Le code expire dans","otp_expired":"Ce code a expir\u00e9.","otp_reason_no_password":"Connectez-vous avec un code \u00e0 usage unique envoy\u00e9 \u00e0 votre e-mail.","otp_reason_blocked":"Trop de tentatives \u00e9chou\u00e9es. Veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_strong_auth_required":"Pour votre s\u00e9curit\u00e9, veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_default":"Saisissez le code de v\u00e9rification envoy\u00e9 \u00e0 votre e-mail.","toast_login":"Vous \u00eates connect\u00e9.","toast_registered":"Votre compte a \u00e9t\u00e9 cr\u00e9\u00e9.","toast_newsletter":"Vous \u00eates inscrit \u00e0 la newsletter.","toast_account_deleted":"Votre compte a \u00e9t\u00e9 supprim\u00e9.","captcha_not_solved":"Veuillez compl\u00e9ter la v\u00e9rification de s\u00e9curit\u00e9 avant de soumettre.","confirm_logout":"\u00cates-vous s\u00fbr(e) de vouloir vous d\u00e9connecter ?","confirm_revoke":"R\u00e9voquer cette session ?","close":"Fermer","show_password":"Afficher le mot de passe","hide_password":"Masquer le mot de passe","loading":"Chargement...","submitting":"Envoi en cours...","login_account_label":"Connexion au compte %s","error_email_exists":"Cette adresse est d\u00e9j\u00e0 li\u00e9e \u00e0 un compte. Pour continuer, %1$sconnectez-vous%2$s.","sign_in":"Se connecter"},"sprite_url":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg","debug":"","one_tap":{"client_id":"742566187379-agskvtpehiluk1aq52beqji0uf2gl65b.apps.googleusercontent.com"},"illustrations":{"login":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"login-password":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"set-password":{"title":"Cr\u00e9er un mot de passe","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"forgot":{"title":"Mot de passe oubli\u00e9","variant":"light"},"forgot-confirmed":{"title":"V\u00e9rifiez vos emails !","variant":"light","icon":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed.svg","icon_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed-dm.svg"},"register":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"otp":{"title":"Une derni\u00e8re \u00e9tape !","variant":"light"},"register-profile":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"account-validation":{"title":"Cr\u00e9ez un mot de passe pour acc\u00e9der \u00e0 votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-gate":{"title_signin":"Connectez-vous pour acc\u00e9der \u00e0 tous nos articles","title_signup":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos articles","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium-dm.svg"},"form-activation":{"title":"Activez votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-download":{"title_signin":"Connectez-vous pour t\u00e9l\u00e9charger nos documents","title_signup":"Cr\u00e9ez votre compte pour t\u00e9l\u00e9charger nos documents","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download-dm.svg"},"form-newsletter":{"title_signin":"Connectez-vous pour recevoir la newsletter du digital","title_signup":"Cr\u00e9ez votre compte pour recevoir le meilleur de l'actualit\u00e9 digitale !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter-dm.svg"},"account-profile":{"title":"Profil","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile-dm.svg"},"account-newsletters":{"title":"Newsletter","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters-dm.svg"},"account-security":{"title":"S\u00e9curit\u00e9","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security-dm.svg"}}};
 //# sourceURL=hwh-frontend-js-extra
 </script>
-<script data-minify="1" data-wp-strategy="defer" id="hwh-frontend-js" src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/js/frontend.js?ver=1788972291" data-rocket-defer defer></script>
-<script data-minify="1" data-wp-strategy="defer" defer id="hwh-newsletter-form-js" src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/js/newsletter-form.js?ver=1788972292"></script>
+<script data-minify="1" data-wp-strategy="defer" id="hwh-frontend-js" src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/js/frontend.js?ver=1789034214" data-rocket-defer defer></script>
+<script data-minify="1" data-wp-strategy="defer" defer id="hwh-newsletter-form-js" src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/js/newsletter-form.js?ver=1789034214"></script>
 <script type="text/rocketlazyloadscript" data-wp-strategy="defer" defer id="hwh-friendly-captcha-js" data-rocket-src="https://www.blogdumoderateur.com/app/plugins/hw-hellogin/assets/js/friendly-captcha/widget.min.js"></script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-navigation-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/navigation.js?ver=1788972291" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-skip-link-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/skip-link-focus-fix.js?ver=1788972293" data-rocket-defer defer></script>
-<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-scripts-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/common.js?ver=1788972293" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-navigation-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/navigation.js?ver=1789034214" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-skip-link-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/skip-link-focus-fix.js?ver=1789034214" data-rocket-defer defer></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="bdm-scripts-js" data-rocket-src="https://www.blogdumoderateur.com/app/cache/min/1/app/themes/blogdumoderateur/js/common.js?ver=1789034215" data-rocket-defer defer></script>
 <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.blogdumoderateur.com/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt,l){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="Lire la vidéo Youtube"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=[];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi/ID/hqdefault.jpg'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
 </body>
 </html>
-
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1789001184 -->
