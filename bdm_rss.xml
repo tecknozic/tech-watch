@@ -350,12 +350,12 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/zrgn/" class="e-link badge badge-grey">Meta</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 			
 		</div>
 
@@ -1499,14 +1499,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	<div class="footer-nl" data-hwh-nl-push>
 		
-<section class="newsletter-container bg-green ">
+<section class="newsletter-container bg-blue100 ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">On filtre, on vérifie, on rédige.</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous pour recevoir nos articles&nbsp;:</div>
+					<div class="h2">Chaque jour, l&#039;essentiel du digital</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Directement dans votre boîte mail&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1514,9 +1514,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<form action="/wp-admin/admin-ajax.php" method="post" class="form_nl form-valid" data-param="footer">
 				
 					<div class="input-div d-flex">
-						<input type="hidden" name="cord_theme" value="Authenticité">
-						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
-						<input type="hidden" name="cord_bg_color" value="bg-green">
+						<input type="hidden" name="cord_theme" value="Veille">
+						<input type="hidden" name="cord_title" value="Chaque jour, l'essentiel du digital">
+						<input type="hidden" name="cord_bg_color" value="bg-blue100">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-footer" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
@@ -1550,8 +1550,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1562,8 +1562,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
@@ -1630,7 +1630,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1789137393|342170c4d74b2981837affce31b783fe8505b7894b7aaca4ef5976b0b24c1662">
+		<input type="hidden" name="hwh_form_ts" value="1789151828|cd7b14e85a2d07d43e7a16d061eb4ce29651f668c4a5781d0fa9281b7c026d64">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -1861,7 +1861,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1789137393|342170c4d74b2981837affce31b783fe8505b7894b7aaca4ef5976b0b24c1662">
+		<input type="hidden" name="hwh_form_ts" value="1789151828|cd7b14e85a2d07d43e7a16d061eb4ce29651f668c4a5781d0fa9281b7c026d64">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
