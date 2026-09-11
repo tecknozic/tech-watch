@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 20:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 01:32:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Can Europe recharge its battery industry?]]></title>
+            <description><![CDATA[Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o#0</guid>
+            <pubDate>Thu, 10 Sep 2026 23:05:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg"/>
+        </item>
         <item>
             <title><![CDATA[UK needs new laws for AI in healthcare, says watchdog]]></title>
             <description><![CDATA[The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.]]></description>
@@ -111,18 +119,10 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg"/>
         </item>
         <item>
-            <title><![CDATA[OpenAI agents hijacked German website before Hugging Face hack, report claims]]></title>
-            <description><![CDATA[OpenAI said it could not "meaningfully respond" to the report's findings because it hadn't been allowed to review it ahead of publication.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckg725z5kgzo#0</guid>
-            <pubDate>Fri, 04 Sep 2026 14:59:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[Scammers demand money from Instagram users over fake copyright claims.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyd#2</guid>
+            <link>https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_world_service#2</guid>
             <pubDate>Tue, 08 Sep 2026 20:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p8m9xk.jpg"/>
         </item>
