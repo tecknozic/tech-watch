@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 20:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 01:39:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[PlayStation gambles with 18-rated Wolverine game - will it pay off?]]></title>
+            <description><![CDATA[The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0zq2n9gggo#0</guid>
+            <pubDate>Sat, 12 Sep 2026 00:35:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg"/>
+        </item>
         <item>
             <title><![CDATA[UK government rejects 'kill switch' idea for dangerous AI]]></title>
             <description><![CDATA[The Cabinet Office, which leads on AI safety, says the UK "cannot simply turn AI off".]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Scammers demand ransoms from Instagram users over fake copyright claims]]></title>
-            <description><![CDATA[Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjw54ww73qjo#0</guid>
-            <pubDate>Tue, 08 Sep 2026 06:49:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[Scammers demand money from Instagram users over fake copyright claims.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +152,14 @@
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0031qjy#3</guid>
+            <pubDate>Sat, 12 Sep 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
             <description><![CDATA[Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0031d1p#3</guid>
@@ -174,17 +182,99 @@
             <pubDate>Sat, 25 Jul 2026 01:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p0n74n.jpg"/>
         </item>
-        <item>
-            <title><![CDATA[Tech Now]]></title>
-            <description><![CDATA[Ammie Sekhon goes behind the scenes of WWE to see the tech that supports the show.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/m002zc0w?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002zc0w#3</guid>
-            <pubDate>Sat, 18 Jul 2026 01:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nzby21.jpg"/>
-        </item>
     
 <item>
-		<title>Kimi-maker Moonshot AI targets $2 billion in annual revenue</title>
+		<title>Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</title>
+		<link>https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 22:58:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Sequoia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3163323</guid>
+
+					<description><![CDATA[The round for the two-year-old startup is coming together months after Mecka announced its Series A.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too</title>
+		<link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[garry tan]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3163179</guid>
+
+					<description><![CDATA[Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>OpenAI&#8217;s feud with mathematicians is only escalating</title>
+		<link>https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 20:57:36 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3163181</guid>
+
+					<description><![CDATA[Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>One week left to book your exhibit table at TechCrunch Disrupt 2026</title>
+		<link>https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 20:33:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3162257</guid>
+
+					<description><![CDATA[Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Final, final, final call for TechCrunch Disrupt 2026 Side Events</title>
+		<link>https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 20:30:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3163158</guid>
+
+					<description><![CDATA[The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Kimi-maker Moonshot AI targets $2B in annual revenue</title>
 		<link>https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</link>
 		
 		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
@@ -425,99 +515,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3162350</guid>
 
 					<description><![CDATA[Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Massachusetts hits data centers with new clean power rules</title>
-		<link>https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 21:43:34 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[clean energy]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[massachusetts]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3162041</guid>
-
-					<description><![CDATA[Massachusetts has become the third state in as many months to slap new restrictions on data center development.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening</title>
-		<link>https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 20:24:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Watch]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3162193</guid>
-
-					<description><![CDATA[Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch</title>
-		<link>https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 20:03:43 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AirPods]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Watch]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3162222</guid>
-
-					<description><![CDATA[The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>The hinge for Apple&#8217;s new foldable phone was built with AI</title>
-		<link>https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 19:21:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Duo]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3162168</guid>
-
-					<description><![CDATA[Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Apple&#8217;s revamped Health app will calculate your &#8216;health age&#8217; and readiness score</title>
-		<link>https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 18:16:29 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Health]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3162124</guid>
-
-					<description><![CDATA[The update uses Apple Intelligence to make better sense of your health data. ]]></description>
 		
 		
 		
@@ -1122,7 +1119,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 10 Sep 2026 02:06:51 GMT</pubDate>
+  <pubDate>Tue, 08 Sep 2026 07:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1131,7 +1128,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 05 Sep 2026 01:06:51 GMT</pubDate>
+  <pubDate>Sat, 05 Sep 2026 05:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1140,7 +1137,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 09 Sep 2026 09:06:51 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 22:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe2f6c1891f074f5d56_6a1962883b44c9ad3c4ac1b1_6a16e3758e891f8e69525aeb_world%252520models%252520cube.avif" /> ]]></content:encoded>
@@ -1149,7 +1146,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 04 Sep 2026 01:06:51 GMT</pubDate>
+  <pubDate>Fri, 04 Sep 2026 14:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fe1487a17b84aeb2f30_6a196286fc5b9ef8fd1887c0_6a16dac9d181a352b5a4d270_humaniser%252520l%252527ia%252520ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1158,7 +1155,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 11 Sep 2026 07:06:51 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 00:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdff40b5dc9a2a0acb6_6a1962832f04ea7b9d9d0418_6a16b88ba9d7daf02c61ec45_GEO%252520Cube.avif" /> ]]></content:encoded>
@@ -1167,7 +1164,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 09 Sep 2026 05:06:51 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 08:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdee7f7366c66cf7726_6a1962806465b0445bd3e41b_6a16b1c407b622e4a78f4cc9_skill%252520Claude%252520Cube.avif" /> ]]></content:encoded>
@@ -1176,7 +1173,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 05 Sep 2026 20:06:51 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 13:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fdcbf6be90a503561ca_6a19627ef6a9526e60d3c5a4_6a16e240bd13b9a306de2b3e_AEO%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1185,7 +1182,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 05 Sep 2026 04:06:51 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 09:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1194,7 +1191,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 05 Sep 2026 10:06:51 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 11:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1203,7 +1200,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 11 Sep 2026 09:06:51 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 10:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1212,7 +1209,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 03 Sep 2026 20:06:51 GMT</pubDate>
+  <pubDate>Tue, 08 Sep 2026 04:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1221,7 +1218,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 06 Sep 2026 14:06:51 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 04:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1230,7 +1227,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 02 Sep 2026 20:06:51 GMT</pubDate>
+  <pubDate>Wed, 02 Sep 2026 09:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1239,7 +1236,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 10 Sep 2026 23:06:51 GMT</pubDate>
+  <pubDate>Fri, 04 Sep 2026 13:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1248,7 +1245,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 05 Sep 2026 21:06:51 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 10:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1257,7 +1254,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 04 Sep 2026 06:06:51 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 20:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1266,7 +1263,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 04 Sep 2026 12:06:51 GMT</pubDate>
+  <pubDate>Fri, 04 Sep 2026 04:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1275,7 +1272,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 05 Sep 2026 09:06:51 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 07:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1284,7 +1281,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 04 Sep 2026 13:06:51 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 00:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1293,7 +1290,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 07 Sep 2026 08:06:51 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 09:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1302,7 +1299,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 01 Sep 2026 22:06:51 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 04:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1311,7 +1308,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 04 Sep 2026 22:06:51 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 12:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1320,7 +1317,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 10 Sep 2026 19:06:51 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 20:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1329,7 +1326,7 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 10 Sep 2026 12:06:51 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 07:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1338,10 +1335,28 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 03 Sep 2026 10:06:51 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 06:39:27 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Cloudera et Mistral s’associent pour intégrer une intelligence spécialisée et souveraine aux données d’entreprise]]></title>
+  <link>https://www.ia-news.fr/cloudera-et-mistral-sassocient-pour-integrer-une-intelligence-specialisee-et-souveraine-aux-donnees-dentreprise/</link>
+  <description><![CDATA[Cloudera et Mistral combineront la plateforme hybride de données et d’IA de Cloudera avec les modèles d’IA souverains de Mistral afin d’offrir aux entreprises un ...]]></description>
+  <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/business-plan.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/business-plan.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/business-plan.jpg" /> <p>Cloudera et Mistral combineront la plateforme hybride de données et d’IA de Cloudera avec les modèles d’IA souverains de Mistral afin d’offrir aux entreprises un ...</p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Sans données communes, l’IA industrialise les incohérences]]></title>
+  <link>https://www.ia-news.fr/sans-donnees-communes-lia-industrialise-les-incoherences/</link>
+  <description><![CDATA[Par Virginie Brard, RVP France &amp; Benelux chez FivetranUn directeur financier interroge son tableau de bord. Au même moment, un agent d'intelligence artificielle prépare une ...]]></description>
+  <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/virginie-brard-format-paysage.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/virginie-brard-format-paysage.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/virginie-brard-format-paysage.jpg" /> <p>Par Virginie Brard, RVP France &amp; Benelux chez FivetranUn directeur financier interroge son tableau de bord. Au même moment, un agent d'intelligence artificielle prépare une ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Baromètre annuel Skeepers &#8211; Les signaux de confiance à l’ère de l’IA]]></title>
@@ -1371,24 +1386,6 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/Cyber-securite-security-protection-3.jpg" /> <p>La téléphonique de bureau continue de se positionner comme l’un des principaux vecteurs de communication entre les professionnels. Dans ce contexte, la téléphonie sur IP ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Pourquoi documenter une IA ne suffit pas à connaître son risque réel]]></title>
-  <link>https://www.ia-news.fr/pourquoi-documenter-une-ia-ne-suffit-pas-a-connaitre-son-risque-reel/</link>
-  <description><![CDATA[L’entrée en application progressive de l’AI Act conduit les entreprises à mieux identifier et documenter leurs usages de l’intelligence artificielle. Pour Bernard Montel, Field CTO ...]]></description>
-  <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-1-et-3.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-1-et-3.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-1-et-3.jpg" /> <p>L’entrée en application progressive de l’AI Act conduit les entreprises à mieux identifier et documenter leurs usages de l’intelligence artificielle. Pour Bernard Montel, Field CTO ...</p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Nutanix mise sur un seul GPU pour personnaliser les petits modèles]]></title>
-  <link>https://www.ia-news.fr/nutanix-mise-sur-un-seul-gpu-pour-personnaliser-les-petits-modeles/</link>
-  <description><![CDATA[Nutanix Enterprise AI 2.8 permet d’ajuster des modèles ouverts de moins de huit milliards de paramètres avec un seul GPU. La mise à jour ajoute ...]]></description>
-  <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-nutanix-article-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-nutanix-article-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-nutanix-article-2.jpg" /> <p>Nutanix Enterprise AI 2.8 permet d’ajuster des modèles ouverts de moins de huit milliards de paramètres avec un seul GPU. La mise à jour ajoute ...</p>]]></content:encoded>
-</item>
-<item>
   <title><![CDATA[Snowflake confie à Cortex AI Gateway le choix du modèle]]></title>
   <link>https://www.ia-news.fr/snowflake-confie-a-cortex-ai-gateway-le-choix-du-modele/</link>
   <description><![CDATA[Le routage dynamique doit orienter chaque requête vers un modèle adapté à sa complexité, en tenant compte de la qualité, de la rapidité et du ...]]></description>
@@ -1414,6 +1411,15 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Pourquoi documenter une IA ne suffit pas à connaître son risque réel]]></title>
+  <link>https://www.ia-news.fr/pourquoi-documenter-une-ia-ne-suffit-pas-a-connaitre-son-risque-reel/</link>
+  <description><![CDATA[L’entrée en application progressive de l’AI Act conduit les entreprises à mieux identifier et documenter leurs usages de l’intelligence artificielle. Pour Bernard Montel, Field CTO EMEA de Tenable, cette conformité doit rester confrontée aux conditions réelles d’utilisation des modèles et des ...]]></description>
+  <pubDate>Sun, 04 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-1-et-3.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-1-et-3.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-1-et-3.jpg" /> <p>L’entrée en application progressive de l’AI Act conduit les entreprises à mieux identifier et documenter leurs usages de l’intelligence artificielle. Pour Bernard Montel, Field CTO EMEA de Tenable, cette conformité doit rester confrontée aux conditions réelles d’utilisation des modèles et des ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Entreprise : comment choisir son IA experte et souveraine ?]]></title>
@@ -1443,13 +1449,13 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/10/ai-ia-digital-generique-donnees-2025-01-04.jpg" /> <p>Par Michael Curry, President of Data Modernisation, chez Rocket SoftwareIl y a quelques jours, Google a remporté une enchère pour récupérer un lot important de données internes de la compagnie aérienne Spirit Airlines qui a été placée en liquidation. Si cette acquisition ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Réforme de la facturation électronique : un test grandeur nature pour l&rsquo;IA agentique]]></title>
-  <link>https://www.ia-news.fr/reforme-de-la-facturation-electronique-un-test-grandeur-nature-pour-lia-agentique/</link>
-  <description><![CDATA[La bascule vers la facturation électronique obligatoire en France révèle une faille que les modèles de langage génériques ne peuvent pas combler seuls.L'intelligence artificielle générative s'invite actuellement dans tous les processus de conformité fiscale, promettant d'automatiser la facturation, la déclaration et ...]]></description>
-  <pubDate>Sun, 02 Aug 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-reunion-tableau-blanc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-reunion-tableau-blanc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-reunion-tableau-blanc.jpg" /> <p>La bascule vers la facturation électronique obligatoire en France révèle une faille que les modèles de langage génériques ne peuvent pas combler seuls.L'intelligence artificielle générative s'invite actuellement dans tous les processus de conformité fiscale, promettant d'automatiser la facturation, la déclaration et ...</p>]]></content:encoded>
+  <title><![CDATA[Nutanix mise sur un seul GPU pour personnaliser les petits modèles]]></title>
+  <link>https://www.ia-news.fr/nutanix-mise-sur-un-seul-gpu-pour-personnaliser-les-petits-modeles/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-nutanix-article-2.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-nutanix-article-2.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-nutanix-article-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[SHADOW AI : AVANOO PASSE À L’OFFENSIVE AVEC SA PLATEFORME V3]]></title>
@@ -1477,15 +1483,6 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-benchling-article-2.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-benchling-article-2.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-benchling-article-2.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Snowflake veut intégrer la confidentialité directement dans les workflows des agents IA]]></title>
-  <link>https://www.ia-news.fr/snowflake-veut-integrer-la-confidentialite-directement-dans-les-workflows-des-agents-ia/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-snowflake-article-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-snowflake-article-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-snowflake-article-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Codema lance deux comités techniques pour développer le premier modèle d’évaluation continue de l’IA]]></title>
@@ -1695,26 +1692,26 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-bitdefender-article-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L’efficacité énergétique de l’intelligence artificielle de Golem.ai validée par un Benchmark externe]]></title>
-  <link>https://www.ia-news.fr/lefficacite-energetique-de-lintelligence-artificielle-de-golem-ai-validee-par-un-benchmark-externe/</link>
+  <title><![CDATA[Cinq applications pratiques de l&rsquo;IA pour l&rsquo;automatisation]]></title>
+  <link>https://www.ia-news.fr/cinq-applications-pratiques-de-lia-pour-lautomatisation/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Avanoo ouvre son programme de partenariats intégrateurs à l’échelle nationale]]></title>
-  <link>https://www.ia-news.fr/avanoo-ouvre-son-programme-de-partenariats-integrateurs-a-lechelle-nationale/</link>
+  <title><![CDATA[ONLYOFFICE lance un nouveau plugin ChatGPT]]></title>
+  <link>https://www.ia-news.fr/onlyoffice-lance-un-nouveau-plugin-chatgpt/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-stat-equipe.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-stat-equipe.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-stat-equipe.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/03/Unknown.png" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/03/Unknown.png" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/03/Unknown.png" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[SCC lance une stratégie d’investissement massive dans l’IA]]></title>
-  <link>https://www.ia-news.fr/scc-lance-une-strategie-dinvestissement-massive-dans-lia/</link>
+  <title><![CDATA[Camunda ouvre les portes de l’orchestration agentique à l’entreprise]]></title>
+  <link>https://www.ia-news.fr/camunda-ouvre-les-portes-de-lorchestration-agentique-a-lentreprise/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" medium="image" />
@@ -1722,22 +1719,22 @@ print(statistics.mean(calls), statistics.pstdev(calls))</pre>
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L&rsquo;outil anti-contrefaçon par IA de Cyphemeest disponible]]></title>
-  <link>https://www.ia-news.fr/loutil-anti-contrefacon-par-ia-de-cyphemeest-disponible/</link>
+  <title><![CDATA[L&rsquo;IA, le futur des datacenters]]></title>
+  <link>https://www.ia-news.fr/lia-le-futur-des-datacenters/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-06.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-06.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-06.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L’IA dans l’Open Source : de nouveaux dilemmes pour les responsables IT]]></title>
-  <link>https://www.ia-news.fr/lia-dans-lopen-source-de-nouveaux-dilemmes-pour-les-responsables-it/</link>
+  <title><![CDATA[Sensiwave.ai : la révolution de la sensibilisation à la cybersécurité par Conscio Technologies]]></title>
+  <link>https://www.ia-news.fr/sensiwave-ai-la-revolution-de-la-sensibilisation-a-la-cybersecurite-par-conscio-technologies/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>

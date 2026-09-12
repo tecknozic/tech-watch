@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 20:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 01:39:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[PlayStation gambles with 18-rated Wolverine game - will it pay off?]]></title>
+            <description><![CDATA[The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0zq2n9gggo#0</guid>
+            <pubDate>Sat, 12 Sep 2026 00:35:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg"/>
+        </item>
         <item>
             <title><![CDATA[UK government rejects 'kill switch' idea for dangerous AI]]></title>
             <description><![CDATA[The Cabinet Office, which leads on AI safety, says the UK "cannot simply turn AI off".]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Scammers demand ransoms from Instagram users over fake copyright claims]]></title>
-            <description><![CDATA[Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjw54ww73qjo#0</guid>
-            <pubDate>Tue, 08 Sep 2026 06:49:56 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[Scammers demand money from Instagram users over fake copyright claims.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +152,14 @@
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0031qjy#3</guid>
+            <pubDate>Sat, 12 Sep 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
             <description><![CDATA[Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0031d1p#3</guid>
@@ -173,14 +181,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002zn5l#3</guid>
             <pubDate>Sat, 25 Jul 2026 01:00:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p0n74n.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Now]]></title>
-            <description><![CDATA[Ammie Sekhon goes behind the scenes of WWE to see the tech that supports the show.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/m002zc0w?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002zc0w#3</guid>
-            <pubDate>Sat, 18 Jul 2026 01:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nzby21.jpg"/>
         </item>
     </channel>
 </rss>
