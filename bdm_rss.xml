@@ -1630,7 +1630,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1789519324|476d24633ee68e3fd1b4288bcac2a71430cd4be818fea3b3b6795be0bbf113af">
+		<input type="hidden" name="hwh_form_ts" value="1789548669|3843bec42b4fe0e20436d5a938831dae636ce549f35ad974b3176c6da5846cf6">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -1869,7 +1869,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1789519324|476d24633ee68e3fd1b4288bcac2a71430cd4be818fea3b3b6795be0bbf113af">
+		<input type="hidden" name="hwh_form_ts" value="1789548669|3843bec42b4fe0e20436d5a938831dae636ce549f35ad974b3176c6da5846cf6">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
