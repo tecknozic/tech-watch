@@ -352,15 +352,15 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/rghqr/" class="e-link badge badge-grey">Étude</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/nccyr/" class="e-link badge badge-grey">Apple</span>
 			
 		</div>
@@ -1295,11 +1295,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<p class="h3 pb-3">Thèmes populaires</p>
 
 									<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge">Interviews</a>
-									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 									<a href="https://www.blogdumoderateur.com/dossier/strategie-digitale/" class="badge">Stratégie digitale</a>
+									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 									<a href="https://www.blogdumoderateur.com/dossier/apple/" class="badge">Apple</a>
-									<a href="https://www.blogdumoderateur.com/dossier/business/" class="badge">Business</a>
-									<a href="https://www.blogdumoderateur.com/dossier/design/" class="badge">Design</a>
+									<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge">Productivité</a>
+									<a href="https://www.blogdumoderateur.com/dossier/moteurs-de-recherche/" class="badge">Moteurs de recherche</a>
 				
 			</div>
 
@@ -1517,14 +1517,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	<div class="footer-nl" data-hwh-nl-push>
 		
-<section class="newsletter-container bg-blue100 ">
+<section class="newsletter-container bg-blue-dark ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">La newsletter qui vous fait gagner du temps</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Fini le bruit, on sélectionne l&#039;essentiel&nbsp;:</div>
+					<div class="h2">Vous ne voulez que le meilleur de l&#039;actualité digitale&nbsp;?</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous simplement à notre newsletter&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1532,9 +1532,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<form action="/wp-admin/admin-ajax.php" method="post" class="form_nl form-valid" data-param="footer">
 				
 					<div class="input-div d-flex">
-						<input type="hidden" name="cord_theme" value="Efficacité">
-						<input type="hidden" name="cord_title" value="La newsletter qui vous fait gagner du temps">
-						<input type="hidden" name="cord_bg_color" value="bg-blue100">
+						<input type="hidden" name="cord_theme" value="Veille">
+						<input type="hidden" name="cord_title" value="Vous ne voulez que le meilleur de l'actualité digitale&nbsp;?">
+						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-footer" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
@@ -1568,8 +1568,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-bgl.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-bgl.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgd.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgd.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1580,8 +1580,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
@@ -1648,7 +1648,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1789909684|50a201559c52a211bed43368158f566f29c5b36498122f15eb0ab96436febaac">
+		<input type="hidden" name="hwh_form_ts" value="1789931307|077a4e164ad87df6203875edae08e9ae6f850bddd2395e1b493d640bb0a02c90">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -1887,7 +1887,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1789909684|50a201559c52a211bed43368158f566f29c5b36498122f15eb0ab96436febaac">
+		<input type="hidden" name="hwh_form_ts" value="1789931307|077a4e164ad87df6203875edae08e9ae6f850bddd2395e1b493d640bb0a02c90">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
