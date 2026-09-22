@@ -354,13 +354,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/rghqr/" class="e-link badge badge-grey">Étude</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/rghqr/" class="e-link badge badge-grey">Étude</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/frb/" class="e-link badge badge-grey">SEO</span>
 			
 		</div>
@@ -1523,8 +1523,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">On filtre, on vérifie, on rédige.</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous pour recevoir nos articles&nbsp;:</div>
+					<div class="h2">Envie de parler le même langage que vos collègues&nbsp;?</div>
+					<div class="nl-title pt-1 pb-4 h3bis">On vous aide à avoir les bonnes références</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1532,8 +1532,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<form action="/wp-admin/admin-ajax.php" method="post" class="form_nl form-valid" data-param="footer">
 				
 					<div class="input-div d-flex">
-						<input type="hidden" name="cord_theme" value="Authenticité">
-						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
+						<input type="hidden" name="cord_theme" value="Référence">
+						<input type="hidden" name="cord_title" value="Envie de parler le même langage que vos collègues&nbsp;?">
 						<input type="hidden" name="cord_bg_color" value="bg-green">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1568,8 +1568,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1580,8 +1580,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
@@ -1648,7 +1648,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1790085505|a6ad682858d81ebeb77a81e841b28b36b2ef73b4cced9821b7112ef5cce46184">
+		<input type="hidden" name="hwh_form_ts" value="1790107486|45f0efa34782a307dfe7f08c9ae9d3c560ac706da99cb980effdb8a05deb2f90">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -1887,7 +1887,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1790085505|a6ad682858d81ebeb77a81e841b28b36b2ef73b4cced9821b7112ef5cce46184">
+		<input type="hidden" name="hwh_form_ts" value="1790107486|45f0efa34782a307dfe7f08c9ae9d3c560ac706da99cb980effdb8a05deb2f90">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">

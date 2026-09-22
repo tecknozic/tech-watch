@@ -12,13 +12,13 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 22 Sep 2026 15:45:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Sep 2026 20:27:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.8</generator>
+	<generator>https://wordpress.org/?v=6.9.9</generator>
 
 <image>
 	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
@@ -28,25 +28,68 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda</title>
-		<link>https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/</link>
+		<title>Qualcomm launches two new smartphone chips with emphasis on AI</title>
+		<link>https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/</link>
 		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Okta]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Waabi]]></category>
-		<category><![CDATA[shield ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3167384</guid>
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Qualcomm]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3166854</guid>
 
-					<description><![CDATA[At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.]]></description>
+					<description><![CDATA[Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence</title>
+		<link>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 19:09:11 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[muse]]></category>
+		<category><![CDATA[openclaw]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3167713</guid>
+
+					<description><![CDATA[Meta says Muse was built from scratch, but acknowledges the AI assistant was "heavily inspired" by OpenClaw — down to some of its workspace filenames and content.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes</title>
+		<link>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Astra]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3167633</guid>
+
+					<description><![CDATA[OpenAI is launching two new models, which it says are cut from the same cloth as Astra. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic releases Opus 5.5 with lower prices and Fable-level performance</title>
+		<link>https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 16:30:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Opus]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3167580</guid>
+
+					<description><![CDATA[Anthropic called it "the strongest-performing model we've tested to date."]]></description>
 		
 		
 		
@@ -65,6 +108,28 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3167451</guid>
 
 					<description><![CDATA[Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda</title>
+		<link>https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[Okta]]></category>
+		<category><![CDATA[shield ai]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
+		<category><![CDATA[Waabi]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3167384</guid>
+
+					<description><![CDATA[At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.]]></description>
 		
 		
 		
@@ -329,84 +394,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3166726</guid>
 
 					<description><![CDATA[From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026</title>
-		<link>https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 14:15:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Startup Battlefield]]></category>
-		<category><![CDATA[Startup Battlefield 200]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3166772</guid>
-
-					<description><![CDATA[Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>6 days left to save up to $200 to TechCrunch Disrupt 2026</title>
-		<link>https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Sun, 20 Sep 2026 21:41:08 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3166682</guid>
-
-					<description><![CDATA[Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>World model companies are keeping a lot of secrets</title>
-		<link>https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</link>
-		
-		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
-		<pubDate>Sun, 20 Sep 2026 20:29:07 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[world models]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3166196</guid>
-
-					<description><![CDATA[Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Is the AI industry really ready to slow down?</title>
-		<link>https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 20 Sep 2026 18:56:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[dario amodei]]></category>
-		<category><![CDATA[Equity podcast]]></category>
-		<category><![CDATA[Jensen Huang]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3166716</guid>
-
-					<description><![CDATA[On Equity, we debated whether AI executives are serious about wanting to slow down.]]></description>
 		
 		
 		
