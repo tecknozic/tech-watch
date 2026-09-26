@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 20:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 02:05:23 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[OpenAI investigating 'dozens' of instances of agents acting improperly ]]></title>
+            <description><![CDATA[OpenAI agents tried to get information from "governments, universities, public agencies, and other institutions" through extreme means that sometimes curbed security controls, the company said.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw62jje658dlo#0</guid>
+            <pubDate>Sat, 26 Sep 2026 01:25:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside iconic horror game Silent Hill's Scottish makeover]]></title>
+            <description><![CDATA[One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno#0</guid>
+            <pubDate>Fri, 25 Sep 2026 23:34:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Special agents' blood and urine test results stolen in FBI hack]]></title>
             <description><![CDATA[Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.]]></description>
@@ -103,22 +119,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pornhub investigated over its age checks]]></title>
-            <description><![CDATA[The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo#0</guid>
-            <pubDate>Wed, 23 Sep 2026 15:56:44 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef85/live/76f98710-b72a-11f1-a430-4d16ee157c41.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI gives cyber defence tools to Ukraine]]></title>
-            <description><![CDATA[Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c90kly26d7pzo#0</guid>
-            <pubDate>Wed, 23 Sep 2026 12:01:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[China is competing with the United States and other nations to develop AI.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +152,14 @@
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>
+            <description><![CDATA[Ammie Sekhon explores tech used to identify and remove counterfeit products online.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032d9k#3</guid>
+            <pubDate>Sat, 26 Sep 2026 01:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Now]]></title>
             <description><![CDATA[Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032301#3</guid>
@@ -174,14 +182,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0031d1p#3</guid>
             <pubDate>Sat, 05 Sep 2026 01:00:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p7zp18.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Now]]></title>
-            <description><![CDATA[New technologies measuring forests and exclusive access to a hacker rehab programme.]]></description>
-            <link>https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002zxt1#3</guid>
-            <pubDate>Sat, 01 Aug 2026 01:00:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p1y1b0.jpg"/>
         </item>
     </channel>
 </rss>
