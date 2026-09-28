@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Sep 2026 02:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 12:03:43 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Apple ordered to pay $5.7bn after losing vibration tech patent suit]]></title>
+            <description><![CDATA[Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6je85n2vyleo#0</guid>
+            <pubDate>Mon, 28 Sep 2026 11:16:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg"/>
+        </item>
         <item>
             <title><![CDATA[OpenAI bots meddled with multiple US government agency sites]]></title>
             <description><![CDATA[OpenAI said its bots accessed public data from a range of institutions during test exercises. ]]></description>
@@ -29,6 +37,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno#0</guid>
             <pubDate>Fri, 25 Sep 2026 23:34:20 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach]]></title>
+            <description><![CDATA[Current and former agents speak to the BBC about the devastating impact of the FBI hack.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo#0</guid>
+            <pubDate>Fri, 25 Sep 2026 23:05:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d538/live/369f0e30-b903-11f1-83cd-2998f68d9572.jpg"/>
         </item>
         <item>
             <title><![CDATA[Special agents' blood and urine test results stolen in FBI hack]]></title>
@@ -103,22 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb5/live/f0712fb0-b7d6-11f1-a430-4d16ee157c41.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Indians are discovering the thrill of shopping without paying ]]></title>
-            <description><![CDATA[Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwn741v5rdpxo#0</guid>
-            <pubDate>Wed, 23 Sep 2026 23:14:10 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083e/live/e4049770-b732-11f1-9f81-a10976817ca3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US rejects pleas from OpenAI, Anthropic for global AI standards]]></title>
-            <description><![CDATA[OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck87v27vdn1po#0</guid>
-            <pubDate>Wed, 23 Sep 2026 22:35:14 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[China is competing with the United States and other nations to develop AI.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&amp;at_campaign=rss</link>
@@ -155,7 +155,7 @@
             <description><![CDATA[Ammie Sekhon explores tech used to identify and remove counterfeit products online.]]></description>
             <link>https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0032d9k#3</guid>
-            <pubDate>Sat, 26 Sep 2026 01:00:00 GMT</pubDate>
+            <pubDate>Sat, 26 Sep 2026 01:00:13 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"/>
         </item>
         <item>
