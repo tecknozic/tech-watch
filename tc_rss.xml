@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 28 Sep 2026 21:54:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Sep 2026 02:17:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort</title>
+		<link>https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 00:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Peak XV]]></category>
+		<category><![CDATA[Peak XV Partners]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3170634</guid>
+
+					<description><![CDATA[Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI reportedly ditches model over safety concerns</title>
+		<link>https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 23:39:20 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Astra]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3171035</guid>
+
+					<description><![CDATA[A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.  ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</title>
 		<link>https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/</link>
 		
@@ -77,15 +114,34 @@
 		
 			</item>
 		<item>
+		<title>The AI boom took over Climate Week and not everyone is happy about it</title>
+		<link>https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 19:21:59 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[climate week nyc]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3170771</guid>
+
+					<description><![CDATA[Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nvidia launches new platform for reining in rogue AI agents</title>
 		<link>https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/</link>
 		
 		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
 		<pubDate>Mon, 28 Sep 2026 18:31:23 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Jensen Huang]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3170647</guid>
 
-					<description><![CDATA[As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [&#8230;]]]></description>
+					<description><![CDATA[Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.]]></description>
 		
 		
 		
@@ -97,9 +153,9 @@
 		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
 		<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Sonnet]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[Sonnet]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3170644</guid>
 
 					<description><![CDATA[Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn. ]]></description>
@@ -119,7 +175,7 @@
 		<category><![CDATA[Google]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3170736</guid>
 
-					<description><![CDATA[As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.]]></description>
+					<description><![CDATA[As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.]]></description>
 		
 		
 		
@@ -330,60 +386,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3170334</guid>
 
 					<description><![CDATA[On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic&#8217;s Dario Amodei gets the &#8216;SNL&#8217; treatment</title>
-		<link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 27 Sep 2026 16:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[dario amodei]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Saturday night live]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3170300</guid>
-
-					<description><![CDATA["Saturday Night Live" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
-		<link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Sun, 27 Sep 2026 01:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Flipkart]]></category>
-		<category><![CDATA[gemini]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3170226</guid>
-
-					<description><![CDATA[The limited test covers select products and users, with a broader rollout planned for later in October.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Insurers claim AI is already increasing healthcare costs</title>
-		<link>https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 26 Sep 2026 21:02:06 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Blue Cross Blue Shield]]></category>
-		<category><![CDATA[Abridge]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3170285</guid>
-
-					<description><![CDATA[Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.]]></description>
 		
 		
 		
