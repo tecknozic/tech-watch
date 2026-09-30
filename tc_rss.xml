@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 29 Sep 2026 21:14:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Sep 2026 00:32:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,38 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch</title>
+		<link>https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 23:30:55 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Minecraft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3171769</guid>
+
+					<description><![CDATA[For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch</title>
+		<link>https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 22:20:59 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3171681</guid>
+
+					<description><![CDATA[Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name "dot.com," which now redirects to the Grok chatbot download page.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OpenAI&#8217;s latest features take direct aim at the app store model</title>
 		<link>https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/</link>
 		
@@ -45,14 +77,13 @@
 		
 			</item>
 		<item>
-		<title>OpenAI repotedly in talks to raise $30B round at $1.4T valuation</title>
-		<link>https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/</link>
+		<title>OpenAI reportedly in talks to raise $30B round at $1.4T valuation</title>
+		<link>https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/</link>
 		
 		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2026 19:52:37 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[bridge round]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[IPO]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3171634</guid>
@@ -68,10 +99,9 @@
 		
 		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2026 18:35:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[nvidia]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[nvidia]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3171020</guid>
 
@@ -90,10 +120,11 @@
 		<category><![CDATA[ChatGPT]]></category>
 		<category><![CDATA[Microsoft]]></category>
 		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OpenAI DevDay]]></category>
 		<category><![CDATA[Salesforce]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3171280</guid>
 
-					<description><![CDATA[OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies. ]]></description>
+					<description><![CDATA[OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies. ]]></description>
 		
 		
 		
@@ -109,7 +140,7 @@
 		<category><![CDATA[Wabi]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3171437</guid>
 
-					<description><![CDATA[Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.]]></description>
+					<description><![CDATA[Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.]]></description>
 		
 		
 		
@@ -121,43 +152,11 @@
 		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
 		<pubDate>Tue, 29 Sep 2026 17:17:15 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OpenAI DevDay]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3171209</guid>
 
 					<description><![CDATA[Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less</title>
-		<link>https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 17:15:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3171292</guid>
-
-					<description><![CDATA[OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI expands ChatGPT&#8217;s plugins with app-like interfaces and automations</title>
-		<link>https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 17:15:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[plugins]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3171312</guid>
-
-					<description><![CDATA[OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.]]></description>
 		
 		
 		
@@ -171,9 +170,44 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[codex]]></category>
 		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OpenAI DevDay]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3171268</guid>
 
-					<description><![CDATA[OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.]]></description>
+					<description><![CDATA[OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI expands ChatGPT&#8217;s plug-ins with app-like interfaces and automations</title>
+		<link>https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 17:15:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OpenAI DevDay]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3171312</guid>
+
+					<description><![CDATA[OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less</title>
+		<link>https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 17:15:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OpenAI DevDay]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3171292</guid>
+
+					<description><![CDATA[OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows. ]]></description>
 		
 		
 		
@@ -187,10 +221,12 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[Google]]></category>
+		<category><![CDATA[gemini]]></category>
 		<category><![CDATA[Trump]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3171428</guid>
 
-					<description><![CDATA[America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.]]></description>
+					<description><![CDATA[America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.]]></description>
 		
 		
 		
@@ -333,38 +369,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3171035</guid>
 
 					<description><![CDATA[A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.  ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</title>
-		<link>https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 21:29:18 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Accel]]></category>
-		<category><![CDATA[inference]]></category>
-		<category><![CDATA[Modal Labs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3170936</guid>
-
-					<description><![CDATA[The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion</title>
-		<link>https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 20:39:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[world models]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3170932</guid>
-
-					<description><![CDATA[The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist. ]]></description>
 		
 		
 		
