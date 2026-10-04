@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 16:00:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 20:31:27 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -184,6 +184,41 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg"/>
         </item>
     
+<item>
+		<title>Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions</title>
+		<link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3173559</guid>
+
+					<description><![CDATA[AI slop seems to be overwhelming bug bounty programs.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</title>
+		<link>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2026 20:08:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[dario amodei]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[jeff bezos]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3173555</guid>
+
+					<description><![CDATA[On Equity, we discussed the Trump administration's attempts to rebrand AI.]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Trump unveils his new Super Intelligence Force</title>
 		<link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
@@ -518,38 +553,6 @@
 		
 		
 			</item>
-<item>
-		<title>OpenAI cuts ties with 3 safety researchers, WSJ reports</title>
-		<link>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</link>
-		
-		<dc:creator><![CDATA[Aditya Mehta]]></dc:creator>
-		<pubDate>Thu, 01 Oct 2026 18:14:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3172737</guid>
-
-					<description><![CDATA[OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)</title>
-		<link>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</link>
-		
-		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
-		<pubDate>Thu, 01 Oct 2026 17:50:19 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[writing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3172744</guid>
-
-					<description><![CDATA[Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.]]></description>
-		
-		
-		
-			</item>
 <item><title><![CDATA[How API Contract Testing Prevents Production Failures]]></title><description><![CDATA[API contract testing helps you catch breaking changes before they disrupt your workflows. See how n8n validates API responses while your automations run.]]></description><link>https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/</link><guid isPermaLink="false">6abaa568921c4900015773b1</guid><category><![CDATA[Integrations & APIs]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Thu, 01 Oct 2026 15:36:51 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-5_api-contract-testing.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-5_api-contract-testing.jpg" alt="How API Contract Testing Prevents Production Failures"><p>An external API can work perfectly one day and start breaking the next, all because a provider changed a response without warning. If you aren&apos;t watching for those changes after deployment, they can slip into production unnoticed.</p><p>API contract testing helps catch those changes before they cause downstream failures by verifying an API still behaves as expected. It&#x2019;s an important safeguard during development &#x2014; and even more valuable when paired with runtime validation after deployment.</p><h2 id="why-breaking-api-changes-slip-past-testing">Why breaking API changes slip past testing</h2><p>Most testing tells you whether an application works at a specific point in time. It doesn&apos;t guarantee an upstream API will keep behaving the same way after your code gets deployed.&#xa0;</p><p>A provider can rename a field, change a data type, or make a previously optional value required weeks after your test suite passes. If nothing checks those responses in production, the change may go unnoticed until a downstream workflow fails.</p><p>Imagine a payment API that returns an amount field as a number. One day, the provider updates the endpoint and starts returning that value as a string.&#xa0;</p><p>The API still responds successfully, so the request doesn&apos;t fail. But a workflow that expects a numeric value may calculate the wrong total or stop processing altogether. While the API is still available, the contract changed, and nothing detected the difference before it reached production.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/api-shift.png" class="kg-image" alt="How API Contract Testing Prevents Production Failures" loading="lazy" width="900" height="1612" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/api-shift.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/api-shift.png 900w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Three common examples of API changes that return a valid HTTP response but break business logic: (1) JSON objects before &gt; now enclosed in a JSON array; (2) changes to enum values &gt; the goes to the wrong branch; (3) The API previously returned the full name &gt; this was split into two variables, so it&apos;s hard to map the values</em></i></figcaption></figure><h2 id="what-api-contract-testing-actually-checks">What API contract testing actually checks</h2><p>API contract testing is what catches changes before they cause problems downstream. It verifies that the interface between a provider and consumer still matches the agreed contract.</p><p>That contract defines how the two systems communicate, including the expected request and response structure, required fields, data types, status codes, and other behaviors the consumer depends on. Consistent contracts also make <a href="https://blog.n8n.io/data-mapping-best-practices/"><u>data mapping between systems</u></a> more reliable because downstream workflows can trust the structure they&#x2019;re receiving.</p><p>Teams typically verify those expectations in one of two ways:&#xa0;</p><ul><li><strong>Consumer-driven contract testing:</strong> Starts with the consumer&apos;s expectations and checks that the provider still satisfies them&#xa0;</li><li><strong>Schema-based validation:</strong> Compares requests and responses against a shared specification, like an OpenAPI document or JSON Schema, to confirm they follow the agreed format&#xa0;</li></ul><p>Both approaches help surface breaking changes before they reach production, even when the API itself continues to respond successfully.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">If you want to learn how to build workflows that validate contracts on every run, skip ahead to the how-to example.</div></div><h2 id="contract-testing-vs-integration-testing-vs-schema-validation">Contract testing vs. integration testing vs. schema validation</h2><p>These three terms are similar, but they answer different questions.</p><p>Integration testing takes the broadest view. It exercises multiple components together to verify an end-to-end workflow, like creating an order through an API and confirming it appears in a database. But if an API response changes unexpectedly, an integration test may simply report that the workflow broke. These tests are valuable before deployment because they reveal issues across service boundaries, but they don&apos;t necessarily identify why an interaction failed.&#xa0;</p><p>API schema validation focuses on a single request or response. It compares a payload against a specification, such as a JSON Schema or OpenAPI document, to confirm the expected fields and JSON data types are present. This makes it an effective way to detect malformed payloads, but it doesn&apos;t verify whether the schema reflects what consumers actually rely on.</p><p>API contract testing validates the agreement between a provider and its consumers. Whether the contract comes from consumer expectations or a shared schema, the goal is the same: Detect breaking interface changes before they impact downstream systems. It provides more context than a failed integration test and a broader guarantee than validating an individual payload on its own.</p><h2 id="enforcing-the-contract-inside-an-automation-workflow">Enforcing the contract inside an automation workflow</h2><p>Contract testing is typically part of a CI/CD pipeline, where it verifies that a provider and consumer still agree before you publish workflows to production. While that&apos;s an important safeguard, it doesn&apos;t detect provider changes weeks later.&#xa0;</p><p>Once a workflow is live, every API call is another opportunity for the contract to drift. Without runtime validation, a passing test suite only tells you the contract was honored at deployment &#x2014; not that it&apos;s still being honored today.</p><p>Instead of treating contract validation as a separate service, you can build this validation into your workflows. If you&#x2019;re using <a href="https://n8n.io/"><u>n8n</u></a>, a source-available AI workflow automation platform, you enforce contracts every time a workflow calls an API.&#xa0;</p><p>Create tests for each API you use with the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest"><u>HTTP Request node</u></a>. Every API response can be checked before downstream steps use it, and every validation run is recorded in n8n&apos;s execution history. However, this isn&#x2019;t automatic, and it doesn&#x2019;t work with built-in nodes.</p><p>Rather than hunting through logs after a workflow fails, you can inspect exactly what the provider returned and when the contract changed. The result is an auditable record of every validation, making it easier to diagnose issues as soon as they happen instead of after they&apos;ve spread through your systems.</p><p>A typical workflow might look like this:</p><ul><li><strong>Call the API:</strong> Use the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest"><u>HTTP Request node</u></a> to retrieve data from the provider.</li><li><strong>Validate the response:</strong> Use a <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.code"><u>Code node</u></a> to write custom JavaScript or Python code that compares the response against the expected schema before the workflow continues.</li><li><strong>Handle violations:</strong> Add an <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.if"><u>If node</u></a> to separate valid responses from contract violations.</li><li><strong>Notify the right people:</strong> Route failed validations to Slack, email, or your ticketing system instead of letting the workflow continue with malformed data. For sensitive workflows, you can also introduce human oversight before any downstream actions run.</li></ul><p>This approach complements contract testing instead of replacing it. Your test suite confirms the contract before deployment, and n8n continues enforcing it every time the workflow runs, helping you catch breaking changes the instant they happen.</p>
 <!--kg-card-begin: html-->
 <script>
@@ -840,7 +843,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 25 Sep 2026 08:01:02 GMT</pubDate>
+  <pubDate>Sat, 03 Oct 2026 00:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -849,7 +852,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 04 Oct 2026 06:01:02 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 23:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -858,7 +861,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 02 Oct 2026 01:01:02 GMT</pubDate>
+  <pubDate>Sat, 26 Sep 2026 14:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -867,7 +870,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 26 Sep 2026 11:01:02 GMT</pubDate>
+  <pubDate>Wed, 30 Sep 2026 04:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -876,7 +879,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 01 Oct 2026 09:01:02 GMT</pubDate>
+  <pubDate>Thu, 01 Oct 2026 10:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -885,7 +888,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 03 Oct 2026 02:01:02 GMT</pubDate>
+  <pubDate>Sun, 04 Oct 2026 12:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -894,7 +897,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 30 Sep 2026 00:01:02 GMT</pubDate>
+  <pubDate>Thu, 01 Oct 2026 05:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -903,7 +906,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 02 Oct 2026 21:01:02 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 21:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -912,7 +915,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 27 Sep 2026 04:01:02 GMT</pubDate>
+  <pubDate>Fri, 25 Sep 2026 12:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -921,7 +924,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 29 Sep 2026 23:01:02 GMT</pubDate>
+  <pubDate>Thu, 01 Oct 2026 05:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -930,7 +933,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 25 Sep 2026 12:01:02 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 02:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -939,7 +942,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 02 Oct 2026 18:01:02 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 19:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -948,7 +951,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 29 Sep 2026 18:01:02 GMT</pubDate>
+  <pubDate>Wed, 30 Sep 2026 22:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -957,7 +960,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 26 Sep 2026 19:01:02 GMT</pubDate>
+  <pubDate>Sat, 26 Sep 2026 06:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -966,7 +969,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 24 Sep 2026 22:01:02 GMT</pubDate>
+  <pubDate>Sat, 26 Sep 2026 19:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -975,7 +978,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 29 Sep 2026 20:01:02 GMT</pubDate>
+  <pubDate>Mon, 28 Sep 2026 17:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -984,7 +987,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 30 Sep 2026 11:01:02 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 23:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -993,7 +996,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 02 Oct 2026 12:01:02 GMT</pubDate>
+  <pubDate>Sat, 26 Sep 2026 17:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1002,7 +1005,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 28 Sep 2026 01:01:02 GMT</pubDate>
+  <pubDate>Wed, 30 Sep 2026 09:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1011,7 +1014,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 26 Sep 2026 19:01:02 GMT</pubDate>
+  <pubDate>Thu, 01 Oct 2026 11:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1020,7 +1023,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 26 Sep 2026 18:01:02 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 21:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1029,7 +1032,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 03 Oct 2026 11:01:02 GMT</pubDate>
+  <pubDate>Sat, 03 Oct 2026 22:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1038,7 +1041,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/retour-alumni-gregoire-moreels</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 28 Sep 2026 16:01:02 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 14:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fd83938fff14be9ff14_6a1962780a193154fbe0fbb5_69e231679e01bac78143fd1d_bannie%2525CC%252580re%252520cube%252520Gre%2525CC%252581goire%252520Moreels.avif" /> ]]></content:encoded>
@@ -1047,7 +1050,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleur-chat-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 29 Sep 2026 05:01:02 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 00:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71512eefd17b2d9fcdcc_6a196147194a5de46668557a_69e25209b1cd9bea86ee8dae_chat%252520ia%2525202026%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1056,7 +1059,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/application-ia-gratuite</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 29 Sep 2026 06:01:02 GMT</pubDate>
+  <pubDate>Wed, 30 Sep 2026 12:31:34 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fdb99513900840cd136_6a195fdc84548e89236b5410_68395c031b3e5116cc0734f3_application%252520ia%252520gratuite.avif" /> ]]></content:encoded>
@@ -1422,58 +1425,49 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-pigment-article-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Réforme de la facturation électronique : un test grandeur nature pour l&rsquo;IA agentique]]></title>
-  <link>https://www.ia-news.fr/reforme-de-la-facturation-electronique-un-test-grandeur-nature-pour-lia-agentique/</link>
+  <title><![CDATA[Cybersécurité : les bonnes pratiques face à la GenAI]]></title>
+  <link>https://www.ia-news.fr/cybersecurite-les-bonnes-pratiques-face-a-la-genai/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-reunion-tableau-blanc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-reunion-tableau-blanc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-reunion-tableau-blanc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L’invisibilité algorithmique : le nouveau risque pour les entreprises]]></title>
-  <link>https://www.ia-news.fr/linvisibilite-algorithmique-le-nouveau-risque-pour-les-entreprises/</link>
+  <title><![CDATA[Airbus, Accuray et l’Oncopole utilisent l&rsquo;intelligence artificielle pour améliorer la disponibilité des équipements de radiothérapie]]></title>
+  <link>https://www.ia-news.fr/airbus-accuray-et-loncopole-utilisent-lintelligence-artificielle-pour-ameliorer-la-disponibilite-des-equipements-de-radiotherapie/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-et-humain.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-et-humain.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-ia-et-humain.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[ROK Solutions : concevoir des applications métier à la vitesse de l’IA, sans compromis sur la sécurité]]></title>
-  <link>https://www.ia-news.fr/rok-solutions-concevoir-des-applications-metier-a-la-vitesse-de-lia-sans-compromis-sur-la-securite/</link>
+  <title><![CDATA[L’Institut Mines-Télécom : Chef de File du projet MACMIA pour diversifier et massifier la formation en IA]]></title>
+  <link>https://www.ia-news.fr/linstitut-mines-telecom-chef-de-file-du-projet-macmia-pour-diversifier-et-massifier-la-formation-en-ia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-20-12-53-17-utc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/Intelligence-artificielle-IA-AI-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Ibexa Summit 2025 : La conférence incontournable sur l&rsquo;expérience digitale]]></title>
-  <link>https://www.ia-news.fr/ibexa-summit-2025-la-conference-incontournable-sur-lexperience-digitale/</link>
+  <title><![CDATA[IA et cybersécurité, entre opportunité stratégique et nouveau risque]]></title>
+  <link>https://www.ia-news.fr/ia-et-cybersecurite-entre-opportunite-strategique-et-nouveau-risque/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/12/blog-2000x1224.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/12/blog-2000x1224.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/12/blog-2000x1224.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/05/cyber-securite-hack-paiement-cb-shop.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/05/cyber-securite-hack-paiement-cb-shop.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/cyber-securite-hack-paiement-cb-shop.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Camunda a été reconnu comme offrant la meilleure orchestration de sa catégorie dans le rapport 2025 sur les logiciels d’automatisation des processus numériques.]]></title>
-  <link>https://www.ia-news.fr/camunda-a-ete-reconnu-comme-offrant-la-meilleure-orchestration-de-sa-categorie-dans-le-rapport-2025-sur-les-logiciels-dautomatisation-des-processus-numeriques/</link>
+  <title><![CDATA[DataCore annonce l’acquisition de StarWind]]></title>
+  <link>https://www.ia-news.fr/datacore-annonce-lacquisition-de-starwind/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Comment lancer et industrialiser ses projets  d’Intelligence artificielle ? 6 bonnes raisons d’avoir recours à des freelances]]></title>
-  <link>https://www.ia-news.fr/comment-lancer-et-industrialiser-ses-projets-dintelligence-artificielle-6-bonnes-raisons-davoir-recours-a-des-freelances/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/03/office-start-up.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/03/office-start-up.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/03/office-start-up.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/green-pdm.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/green-pdm.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/green-pdm.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
