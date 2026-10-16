@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 15:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 20:08:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Toxic algorithms wouldn't let them go - now Australia wants an off switch]]></title>
+            <description><![CDATA[Australia has proposed a switch to force social media platforms to let users turn off recommended content.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo#0</guid>
+            <pubDate>Fri, 16 Oct 2026 18:11:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png"/>
+        </item>
         <item>
             <title><![CDATA[Russian man linked to deadly London hospitals hack arrested]]></title>
             <description><![CDATA[The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI is less regulated than milk, says Microsoft president]]></title>
-            <description><![CDATA[Brad Smith calls for global rules on AI, and says the UK is in the "best position" to lead the charge.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo#0</guid>
-            <pubDate>Mon, 12 Oct 2026 07:47:37 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/eacee500-c610-11f1-aae8-850c1751d51d.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The plan for an orbiting data centre involves linking satellites around Earth.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,6 +184,77 @@
         </item>
     
 <item>
+		<title>India becomes the latest country to report rogue AI agent activity</title>
+		<link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
+		
+		<dc:creator><![CDATA[Aditya Mehta]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 17:52:24 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[India]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3178813</guid>
+
+					<description><![CDATA[The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
+		<link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</link>
+		
+		<dc:creator><![CDATA[Theresa Loconsolo]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[early stage venture]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[robotics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=3176211</guid>
+
+					<description><![CDATA[Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Physical AI is more than robots, says the Nvidia veteran now investing in it</title>
+		<link>https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/</link>
+		
+		<dc:creator><![CDATA[Theresa Loconsolo, Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[early stage venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&#038;p=3176205</guid>
+
+					<description><![CDATA[Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Elorian’s first AI model wants to reason with images, not just about them</title>
+		<link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
+		
+		<dc:creator><![CDATA[Aditya Mehta]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 16:01:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ai models]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3178756</guid>
+
+					<description><![CDATA[According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks. ]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Jev is Vercel&#8217;s fastest-adopted AI model ever</title>
 		<link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
 		
@@ -193,7 +264,7 @@
 		<category><![CDATA[Vercel]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3178711</guid>
 
-					<description><![CDATA[The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.]]></description>
+					<description><![CDATA[The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.]]></description>
 		
 		
 		
@@ -206,8 +277,8 @@
 		<pubDate>Fri, 16 Oct 2026 14:26:51 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<category><![CDATA[filmmaking]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3178550</guid>
 
 					<description><![CDATA[Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing." ]]></description>
@@ -369,15 +440,15 @@
 		
 		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
 		<pubDate>Thu, 15 Oct 2026 15:02:36 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[agentic ai]]></category>
 		<category><![CDATA[electric vehicles]]></category>
 		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
+		<category><![CDATA[LLMs]]></category>
 		<category><![CDATA[Rivian]]></category>
 		<category><![CDATA[RJ Scaringe]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[agentic ai]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3177351</guid>
 
 					<description><![CDATA[We'll likely learn more about how this will work at the company's upcoming "AI &#038; Autonomy Day" event in December.]]></description>
@@ -485,81 +556,27 @@
 		
 		
 			</item>
-<item>
-		<title>Gudea leverages AI to help organizations prevent social media crises before they erupt</title>
-		<link>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Startup Battlefield 200]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3175869</guid>
-
-					<description><![CDATA[Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different</title>
-		<link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 21:30:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Flock]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3177812</guid>
-
-					<description><![CDATA[Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>YouTube Music launches new labels as AI-generated music floods streaming platforms</title>
-		<link>https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 18:23:46 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<category><![CDATA[YouTube Music]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3177775</guid>
-
-					<description><![CDATA[The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Apate sends AI agents undercover to get scammed so they can gather fraud intelligence</title>
-		<link>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Startup Battlefield 200]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Scam detection]]></category>
-		<category><![CDATA[AI scams]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3175750</guid>
-
-					<description><![CDATA[Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[12 Best Enterprise Workflow Automation Platforms]]></title><description><![CDATA[Compare the top enterprise workflow automation platforms for technical teams. See how each tool handles control, scale, and AI workflows.]]></description><link>https://blog.n8n.io/enterprise-workflow-automation/</link><guid isPermaLink="false">6acfb9db255d2a00012cc091</guid><category><![CDATA[Guides]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 16 Oct 2026 17:24:47 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--21-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--21-.jpeg" alt="12 Best Enterprise Workflow Automation Platforms"><p>Enterprise workflow automation gets harder as soon as a workflow leaves one team. Now you&apos;re connecting legacy systems to SaaS apps, enforcing access controls, and figuring out how AI fits without creating another infrastructure problem.</p><p>Some workflow automation software is built around IT service management, iPaaS, or BPM, and other <a href="https://blog.n8n.io/ai-agent-frameworks/"><u>AI agent frameworks</u></a> add more options to the mix. This guide compares 12 leading platforms so you can find the model that fits your stack.</p><h2 id="what-to-look-for-in-an-enterprise-automation-platform">What to look for in an enterprise automation platform</h2><p>The differences between automation tools start to really matter once workflows span teams, systems, and sensitive data. These five factors help separate tools built for production environments from those better suited to simpler, team-level automations.</p><p></p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/12-tools-map-white--1---1-.png" class="kg-image" alt="12 Best Enterprise Workflow Automation Platforms" loading="lazy" width="1200" height="896" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/12-tools-map-white--1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/12-tools-map-white--1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/12-tools-map-white--1---1-.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">This article covers 12 tools in different categories. The diagram positions all of them across two dimensions: self-hosted versus cloud-only and simple iPaaS versus complex BPM / code-first platforms</em></i></figcaption></figure><h3 id="deployment-and-data-residency">Deployment and data residency</h3><p>Start with where the platform runs and where your workflow data goes. SaaS platforms reduce infrastructure overhead, while self-hosted options give you more control over data residency and ownership. For regulated industries or strict security environments, considering that point lets you rule out platforms before comparing other factors.</p><h3 id="integration-breadth">Integration breadth</h3><p>An enterprise platform needs to connect more than common SaaS apps: Legacy systems, internal services, databases, and proprietary APIs all need a place, so look beyond the number of prebuilt connectors. Generic HTTP requests&#xa0; and custom code give technical teams a way to connect systems that don&apos;t have a native integration.</p><h3 id="governance">Governance</h3><p>The more people building automations, the more important it becomes to control who can change what. Look for SSO, role-based access control (RBAC), audit logging, and credential management. These features help you govern who can build and run workflows without involving an engineering team, a limited resource.&#xa0;</p><h3 id="ai-and-agentic-capability">AI and agentic capability</h3><p>AI support now goes beyond adding an LLM call to a workflow. If agents are part of your roadmap, ask what they can actually do once they&#x2019;re running: Can they use different models, access business systems, involve a human when needed, and work alongside deterministic workflow steps? Look for a platform that handles all those pieces instead of leaving your team to bolt on the orchestration, integrations, and governance.</p><h3 id="cost-model">Cost model</h3><p>Pricing can change significantly as automation scales. Some platforms charge per user, while others charge per task or action. Self-hosted software shifts more of the cost toward infrastructure and engineering ownership. Run the numbers against the volume you expect tomorrow, not just what you&#x2019;re automating today. A pricing model that seems cheap during a pilot may look very different as adoption grows.</p><h2 id="the-top-12-enterprise-workflow-automation-tools">The top 12 enterprise workflow automation tools</h2><p>Enterprise workflow automation software spans several categories, from iPaaS and ITSM suites to BPM and developer-focused orchestration. The best fit depends on what you&apos;re automating, how much infrastructure you want to control, and who needs to build and maintain the workflows.</p><h3 id="n8n">n8n</h3><p><strong>Best for: </strong>Technical teams that want source-available, self-hostable automation without locking their AI stack to one provider</p><p>n8n is a source-available, AI-native automation platform built for teams that don&#x2019;t want to choose between visual automation and owning the technical details.&#xa0;</p><p>You can self-host workflows and keep data in your infrastructure, switch between AI providers as requirements change, and use the <a href="http://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.code"><u>Code node</u></a> when visual building or the <a href="https://n8n.io/integrations/"><u>1000+ integrations</u></a> don&apos;t cover an edge case. Depending on the tier, it also offers governance features like <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/basic-configuration/use-environment-variables/sso"><u>SSO</u></a>, <a href="https://docs.n8n.io/administer/manage-users-and-access/set-permissions-and-roles-rbac"><u>RBAC</u></a>, and <a href="https://docs.n8n.io/administer/observe-and-log/stream-logs-to-external-systems"><u>audit logging</u></a>.</p><p>AI is built into the same orchestration layer. The <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI Agent node</u></a> lets you build agents that use external tools, while the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolaiagent"><u>AI Agent Tool node</u></a> lets a primary agent delegate tasks to other agents. For self-hosted deployments, a Redis-backed <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/scaling/enable-queue-mode"><u>queue mode</u></a> distributes executions across workers as volume grows.</p><p>That flexibility comes with a bit of a learning curve. n8n expects more technical comfort than a simple no-code SaaS tool, especially if you&apos;re self-hosting or building complex workflows. But it&#x2019;s straightforward enough for non-technical teams to ease into.</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Start with n8n on Cloud for full data control</h3>
+    <p>Self-host, switch AI providers, and add custom code when prebuilt nodes aren&apos;t enough</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud</a>
+</div>
+<!--kg-card-end: html-->
+<h3 id="servicenow">ServiceNow</h3><p><strong>Best for:</strong> Large enterprises standardizing IT service management and cross-department workflows on one platform</p><p><a href="https://www.servicenow.com/"><u>ServiceNow</u></a> makes the most sense when workflow automation is closely tied to an existing enterprise IT environment. Its broad platform approach can centralize processes across departments. But that&#x2019;s also a lot of functionality to bring in if what you really need is flexible integration or developer-led automation.</p><h3 id="microsoft-power-automate">Microsoft Power Automate</h3><p><strong>Best for:</strong> Teams already invested in Microsoft 365 and Azure that want low-code workflows and robotic process automation (RPA)</p><p><a href="https://www.microsoft.com/en/power-platform/products/power-automate"><u>Power Automate&#x2019;s</u></a> biggest advantage is ecosystem fit. If your organization already runs on Microsoft 365 and Azure, there&apos;s less new infrastructure to introduce and fewer unfamiliar tools for teams to adopt. The equation gets less obvious when workflows stretch across a more mixed set of systems or you want greater architectural control.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">Extend AI Agents on Microsoft platform with n8n: The <a href="https://blog.n8n.io/n8n-expands-whats-possible-in-enterprise-automation-with-microsoft-agent-365/"><u>Agent 365 trigger</u></a> allows teams to build customized agents that work inside MS ecosystem.</div></div><h3 id="workato">Workato</h3><p><strong>Best for: </strong>Enterprises looking for a user-friendly iPaaS with a large library of connectors and pre-built automations</p><p><a href="https://www.workato.com/"><u>Workato</u></a> makes integrations approachable enough that non-developers can participate without handing every request to engineering. However, the platform is built on a cloud-only architecture, so teams that want to own the infrastructure or self-host their automation stack will have fewer options.</p><h3 id="nintex">Nintex</h3><p><strong>Best for:</strong> Business teams automating forms, documents, and low-code processes</p><p><a href="https://www.nintex.com/"><u>Nintex</u></a> shines when the work revolves around forms, documents, and structured business processes. Its low-code approach keeps those automations accessible, but if you push far enough into custom integrations, code, or AI, technical teams may start looking for more room to maneuver.</p><h3 id="appian">Appian</h3><p><strong>Best for:</strong> Enterprises that need low-code business process automation, process modeling, and case management</p><p><a href="https://appian.com/"><u>Appian</u></a> goes beyond connecting applications. Teams can build process-centric apps around complex business operations, which makes it powerful for large BPM initiatives. But for more straightforward integrations or lighter orchestration, Appian may have more functionality than the job calls for.</p><h3 id="mulesoft-anypoint-platform">MuleSoft Anypoint Platform</h3><p><strong>Best for:</strong> Enterprises managing API-led integration at scale</p><p><a href="https://www.mulesoft.com/"><u>MuleSoft</u></a> treats APIs as the connection between enterprise systems, which makes it a natural fit for large integration programs and reusable API architectures. But if your team mostly wants to build and iterate on workflows, an API-management-centered platform can feel like taking the long way around.</p><h3 id="boomi">Boomi</h3><p><strong>Best for:</strong> Enterprises integrating applications and data across cloud and hybrid environments</p><p><a href="https://boomi.com/"><u>Boomi</u></a> combines iPaaS integration with broader data-management capabilities, which suits organizations with systems spread across cloud and hybrid environments. That breadth is the selling point, but it won&#x2019;t necessarily be the priority for teams focused on code-extensible workflows or AI-agent orchestration.</p><h3 id="pega">Pega</h3><p><strong>Best for: </strong>Regulated enterprises running complex case-management and BPM processes</p><p><a href="https://www.pega.com/"><u>Pega</u></a> combines process automation with decisioning, making it a natural fit for structured, rules-heavy operations. It&#x2019;s built for complexity, and you pay for that in platform weight: Smaller workflow estates or integration-led automation may not need everything Pega brings.</p><h3 id="uipath">UiPath</h3><p><strong>Best for: </strong>Automating repetitive, UI-driven work across desktop and legacy applications</p><p><a href="https://www.uipath.com/"><u>UiPath&apos;s</u></a> RPA-first approach is valuable when systems don&apos;t expose convenient APIs and automation has to interact with interfaces much like a person would. While that&apos;s a real advantage for legacy software, it&apos;s less compelling when most of the job is moving data directly between modern applications and APIs.</p><h3 id="camunda">Camunda</h3><p><strong>Best for: </strong>Engineering teams that want developer-centric process orchestration with business process model and notation (BPMN)</p><p><a href="https://camunda.com/"><u>Camunda</u></a> gives developers a structured way to model and execute long-running business processes with BPMN. Engineering stays firmly in control, which is beneficial for complex orchestration but less approachable when business users need to build automations themselves.</p><h3 id="temporal">Temporal</h3><p><strong>Best for: </strong>Engineering teams building fault-tolerant, code-first workflows at scale</p><p><a href="https://temporal.io/"><u>Temporal</u></a> is a strong choice when durable execution and programmatic control matter more than visual workflow building. Just know what you&#x2019;re signing up for: It&#x2019;s a developer-first approach built around code, <a href="https://n8n.io/vs/temporal/"><u>not a low-code environment</u></a> where a broader group of users can assemble workflows.</p><h2 id="choose-workflow-automation-software-that-grows-with-you">Choose workflow automation software that grows with you</h2><p>The best enterprise workflow automation software is the one that fits your deployment requirements, connects to the systems you already use, and leaves room for your automation strategy to change.</p><p>For technical teams that want that flexibility without building the orchestration layer from scratch, n8n fills the gap. It combines self-hosting, code-level extensibility, and native AI capabilities in one platform. You can automate conventional processes like syncing data between business systems, then expand into more agentic use cases like a <a href="https://blog.n8n.io/multi-agent-systems"><u>multi-agent system</u></a> as your requirements evolve.</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>See how teams build workflows they own</h3>
+    <p><a href="http://n8n.io/workflows/" style="color:inherit;">Check out n8n&apos;s templates</a> or start free today</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud</a>
+</div>
+<!--kg-card-end: html-->
+]]></content:encoded></item>
 <item><title><![CDATA[Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents]]></title><description><![CDATA[<p>Gemini 4 Argon just dropped, and n8n is one of the first companies to use and integrate the model. Check out how you can use it with your existing n8n workflows and how to build new ones. Here are the benchmarks Google published:</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png" class="kg-image" alt loading="lazy" width="2000" height="2006" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 2042w" sizes="(min-width: 720px) 720px"></figure><p><em>Benchmarks reported by Google. Source: </em><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"><em><u>Gemini 4</u></em></a></p>]]></description><link>https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/</link><guid isPermaLink="false">6ace28e3fdd8d400013dc4b0</guid><category><![CDATA[AI agents]]></category><category><![CDATA[News]]></category><dc:creator><![CDATA[Liam Hampton]]></dc:creator><pubDate>Tue, 13 Oct 2026 16:09:03 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/GoogleGemini_Blog-Header--2-.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/GoogleGemini_Blog-Header--2-.jpg" alt="Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents"><p>Gemini 4 Argon just dropped, and n8n is one of the first companies to use and integrate the model. Check out how you can use it with your existing n8n workflows and how to build new ones. Here are the benchmarks Google published:</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png" class="kg-image" alt="Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents" loading="lazy" width="2000" height="2006" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 2042w" sizes="(min-width: 720px) 720px"></figure><p><em>Benchmarks reported by Google. Source: </em><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"><em><u>Gemini 4 Argon announcement</u></em></a><em>.</em></p><h2 id="model-context-protocol-mcpuse-gemini-to-build-workflows-from-your-favourite-ai-tool"><strong>Model Context Protocol (MCP) -&#xa0; Use Gemini to build workflows from your favourite AI tool</strong></h2><p>MCP is an open standard governed by the Agentic AI Foundation (AAIF) that allows your AI tools to connect to external applications and data sources. n8n has a <a href="https://docs.n8n.io/build/ways-of-building-workflows/connect-to-n8n-mcp-server"><u>built in MCP server</u></a> that works with any MCP client that you can utilize to build your own workflows from your favourite AI tool. All you need for this is access to Gemini 4 Argon in your developer tool and an idea of what you want to build!</p><p>Setup only takes a couple of minutes. Turn on instance-level MCP in your n8n instance, then add your server URL to any MCP-compatible tool, whether that&#x2019;s a chat app, a coding agent or an IDE. Many tools support one-click setup and sign in with OAuth or use an API key.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png" class="kg-image" alt="Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents" loading="lazy" width="1722" height="625" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png 1722w" sizes="(min-width: 720px) 720px"></figure><p><strong>Example use case: </strong>You&apos;re in your IDE building out a new signup form and the web hook is ready. You pop a question into your agent: <em>&quot;Build me an n8n workflow that catches new signups from this webhook, drops them into our CRM, and fires off a welcome message in Slack.&quot;</em> A minute later it&apos;s there in your n8n workspace, built and tested. It stops short of publishing and asks first, keeping you as the human, in the loop.</p><h2 id="bring-your-own-key-byok-to-the-n8n-assistant"><strong>Bring Your Own Key (BYOK) to the n8n Assistant</strong></h2><p>The n8n Assistant is a chat-based agent that builds, edits, tests, and debugs workflows from plain language. BYOK means it runs on an AI provider account you already hold, rather than a model picked for you. How you get it running depends on where your n8n instance lives.&#xa0;</p><p>On self-hosted, you supply the key yourself and decide where your data and model calls go. You drop your key into the instance&apos;s settings once, and the Assistant runs on that model. One account, one model, one context. The Assistant doesn&apos;t have a native Gemini option yet, so you reach Gemini through OpenRouter or through Google&apos;s OpenAI-compatible endpoint (base URL: https://generativelanguage.googleapis.com/v1beta/openai/).&#xa0;</p><p>On n8n Cloud, there&apos;s nothing to set up. The Assistant runs on n8n Assistant credits, and the workflows it builds can use Gemini 4 Argon through Gateway credits.</p><h3 id="where-the-n8n-assistant-fits-in-for-you"><strong>Where the n8n Assistant fits in for you</strong></h3><p>The Assistant is a chat-based agent that builds, edits, tests, and debugs workflows from plain language. How you get it running follows the same split.</p><p>On self-hosted, you drop your key into the instance&apos;s settings once, and the Assistant runs on that model. One account, one model, one context.</p><p>On n8n Cloud, there&apos;s nothing to set up. The Assistant runs on n8n Assistant credits, and the workflows it builds can use Gemini 4 Argon through Gateway credits.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-2a23f070-d585-4c29-914c-8a847128e9d6.png" class="kg-image" alt="Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents" loading="lazy" width="1172" height="1120" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-2a23f070-d585-4c29-914c-8a847128e9d6.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-2a23f070-d585-4c29-914c-8a847128e9d6.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-2a23f070-d585-4c29-914c-8a847128e9d6.png 1172w" sizes="(min-width: 720px) 720px"></figure><h2 id="n8n-agentlet-ai-do-the-heavy-lifting-in-your-workflow"><strong>n8n Agent - let AI do the heavy lifting in your workflow</strong></h2><p>An agent is just a model handed a goal and a toolkit. It figures out the steps to get there on its own.</p><p>In n8n, you set up an agent and use a model such as Gemini 4 Argon for the thinking. Plug in the tools it&apos;s allowed to use (any node, API, or sub-workflow), and optionally add memory so it keeps context. From there, the agent decides which tool to call next, loops, and stops when the task is done. Gemini 4 Argon is available as a model for your Agents and in the standalone Google Gemini node from launch. On n8n Cloud you can also use it through Gateway credits, so you don&apos;t need a separate provider account or extra billing. Check out how AI agents work in n8n: <a href="https://n8n.io/ai-agents/"><u>https://n8n.io/ai-agents/</u></a></p><p><strong>Why bother? </strong>Rigid, step-by-step workflows fall apart the moment input gets messy. An agent absorbs the judgment calls, the surrounding workflow stays predictable, and you still draw a hard line around which tools it can reach.</p><p><strong>Example use case: </strong>Let&#x2019;s say you have an incoming support email. The agent reads it, pulls the customer record from your CRM and then cross-references your help docs. It drafts a reply, sets the ticket priority, or drops a flag into Slack for a human to handle.</p><h2 id="wrap-up"><strong>Wrap up</strong></h2><p>This is just three ways you can use the Google Gemini 4 Argon model in n8n to build your workflows. Whether you&apos;re using it via the n8n MCP to build workflows from inside your favourite AI tool, using your own API key with the n8n Assistant to get the latest model working alongside you, or using an Agent to have the workflow handle judgement calls so you don&#x2019;t have to.</p><p>Pick the one that works best for you! Happy building.</p><p>Want to see it in action? Watch Gemini 4 Argon in the n8n Assistant: <a href="https://go.n8n.io/Hn2UxP" rel="noreferrer">https://go.n8n.io/Hn2UxP</a></p>]]></content:encoded></item>
 <item><title><![CDATA[Build a morning AI news brief with You.com, Jev, and n8n]]></title><description><![CDATA[Every weekday at 8am, this workflow searches the day's AI news, scores every article for materiality at about $0.00004 apiece, and posts one cited brief per topic to Slack. Topics with no real news get no post.]]></description><link>https://blog.n8n.io/spotlight-you-com/</link><guid isPermaLink="false">6acd52503124fd0001d1aa12</guid><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Tue, 13 Oct 2026 05:45:04 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/youcom-blog-asset-2.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/youcom-blog-asset-2.png" alt="Build a morning AI news brief with You.com, Jev, and n8n"><p><em>This Verified Node Spotlight is a guest post written by Tyler Eastman, Senior Software Engineer at You.com. </em></p><p>The hard part of a news digest was never finding the news.</p><p>Searching is cheap and summarizing is cheap. Deciding what&apos;s worth reading is the expensive part, because it takes a judgment call on every single item, and a judgment call has always&#xa0; meant a model call. Run a general-purpose LLM across sixty articles every morning and you&apos;re paying real money and real latency to be told that fifty-four of them are reprints of the same press release.</p><p>So most digests give up on filtering. They send everything, or they send an LLM summary of everything, which is the same thing with extra steps. Either way the thing arrives in Slack every morning at 8am whether or not anything happened, and within three weeks people stop opening it. A digest that cries wolf daily is worse than no digest.</p><p>This workflow filters first. <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev"><u>Jev</u></a>, the first System One model from TypeSafe AI, scores every article that comes back from the search for about four hundredths of a cent each. At that price you can afford to ask three separate questions about every result instead of one vague question about all of them. What survives the filter goes to You.com Research, which writes a short cited brief per topic.</p><p>A whole morning costs somewhere between one and four cents. And on a quiet day, when nothing material happened in a topic, the workflow posts nothing at all for that topic. That last behavior is the one that keeps people reading it in month three.</p><h3 id="how-the-brief-works">How the brief works</h3><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png" class="kg-image" alt="Build a morning AI news brief with You.com, Jev, and n8n" loading="lazy" width="2000" height="924" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 2048w" sizes="(min-width: 720px) 720px"></figure><p><em>Figure 1: Search wide, filter hard, then spend money only on what survived.</em></p><p>A <strong>Schedule Trigger</strong> fires every weekday at 8am in your instance&apos;s timezone. <strong>Config</strong> holds your topics, a description of your team, and what that team cares about, so there&apos;s one node to edit rather than four.</p><p>For each topic, the <strong>You.com</strong> node searches news from the past day. Anything seen in an earlier run is skipped, so Tuesday&apos;s brief doesn&apos;t re-report Monday&apos;s launch.</p><p>Every surviving article goes to <strong>Jev</strong>, which answers three questions about it in a single call: whether it reports a real development, whether it&apos;s actually about the topic, and how much it matters to your team. Articles that clear the materiality threshold continue. The rest are dropped and never cost you anything again.</p><p>What&apos;s left is grouped by topic, so six outlets covering one model release collapse into one item rather than six. Then <strong>You.com Research</strong> writes a short brief per topic with linked citations, and <strong>Slack</strong> posts it.</p><p>The order matters. The expensive operation runs last, on a set that&apos;s already been cut down by a filter costing a fraction of a cent. </p><h3 id="before-you-start">Before you start</h3><ul><li><strong>An n8n instance.</strong> n8n Cloud and self-hosted both work.</li><li><strong>The You.com node installed.</strong> @youdotcom-oss/n8n-nodes-youdotcom is a verified community node. Add a node, type <strong>you.com</strong> in the search panel, and select it. You can also install it from <strong>Settings &gt; Community Nodes &gt; Install</strong> using the package name.</li><li><strong>A You.com API key.</strong> <a href="https://you.com/docs/welcome" rel="noreferrer">Sign up here</a> and create a key from the dashboard.</li><li><strong>A TypeSafe API key.</strong> Jev is in <a href="https://typesafe.ai/"><u>early access</u></a> at the time of writing; request access and you&apos;ll be brought off the waitlist.</li><li><strong>A Slack credential</strong> and a channel your bot has joined.</li></ul>
 <!--kg-card-begin: html-->
@@ -863,41 +880,11 @@
 <!--kg-card-end: html-->
 ]]></content:encoded></item>
 <item><title><![CDATA[Try new models and services, skip the account setup]]></title><description><![CDATA[Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential. Six model providers and five tool services work right out of the box.]]></description><link>https://blog.n8n.io/gateway-credits/</link><guid isPermaLink="false">6a9fc3d0c65a17000140b497</guid><dc:creator><![CDATA[Desiree Lockwood, n8n]]></dc:creator><pubDate>Wed, 16 Sep 2026 23:39:42 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/Gateway-credits-Blog-16_9.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/Gateway-credits-Blog-16_9.jpg" alt="Try new models and services, skip the account setup"><p>Trying a template or building a workflow in n8n can sometimes lead you on an unexpected detour to a service provider&#x2019;s signup page. Before you can find out what an unfamiliar node adds to your automation, you may need to create an account, add a payment method, generate an API key, and set up the credential in n8n. When you&#x2019;re short on time or simply exploring, that pause can be enough to keep a promising idea from getting its first run.</p><p>That new account creation no longer has to come before the satisfying sight of green checkmarks. Now, when you add a node for a supported AI model or service on self-service <strong>n8n Cloud</strong> plans, everything you need to run it is already available in n8n. Just select <a href="https://docs.n8n.io/deploy/use-n8n-cloud/gateway-credits#how-gateway-credits-work" rel="noreferrer"><strong>Gateway credits</strong></a> instead of adding your own provider credentials. Usage comes from a shared prepaid balance in n8n, so you can get to work without creating another account or managing another API key. For teams that allow it, one shared balance can also mean fewer vendor accounts, invoices, and expense reports to manage.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/white-background-choose-credits.png" class="kg-image" alt="Try new models and services, skip the account setup" loading="lazy" width="651" height="579" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/white-background-choose-credits.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/white-background-choose-credits.png 651w"></figure><p>We also wanted the cost side to be boring in a good way. Our aim is to follow each provider&#x2019;s published list price wherever one exists and put every rate on a <a href="https://app.n8n.cloud/service-pricing" rel="noopener noreferrer">single public page</a> you can check before you run anything. Your balance is shown in real currency, and the Cloud Admin Panel lets you see how it is being used by workflow or by service. We didn&#x2019;t build this to add a premium for the convenience. It&apos;s the shortest path we could find between you and a tool that does something useful today. If you later decide you&#x2019;d like a direct relationship with the provider, bringing your own key works exactly like it always has.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f449;</div><div class="kg-callout-text"><b><strong style="white-space: pre-wrap;">What gets shared:</strong></b> When you use Gateway credits, the selected provider receives the content of the request, such as a prompt or document, but not your identity or n8n account details.</div></div><p>You can also use Gateway credits for supported nodes using <a href="https://blog.n8n.io/introducing-n8n-assistant/" rel="noopener noreferrer">n8n Assistant</a> to move from a natural-language prompt to a working automation. Whether you start with a template, a blank canvas, or a prompt, there are now fewer steps between your idea and its first successful run.</p><h3 id="where-you-can-use-gateway-credits-today">Where you can use Gateway credits today</h3><p>Getting to a first run is only part of it. Gateway credits also make it easier to experiment with workflows you already use, whether that means trying a different model or adding a tool you&#x2019;ve been curious about.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/new-hero.png" class="kg-image" alt="Try new models and services, skip the account setup" loading="lazy" width="1792" height="966" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/new-hero.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/new-hero.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/09/new-hero.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/new-hero.png 1792w" sizes="(min-width: 720px) 720px"></figure><p>Six model providers and five tool services are available with Gateway credits today.</p><h3 id="model-providers">Model providers</h3><p>Reach for some of the most recognized providers like <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.anthropic" rel="noreferrer">Anthropic</a>, <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.googlegemini" rel="noreferrer">Google Gemini</a>, and <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.openai" rel="noreferrer">OpenAI</a>, or try one of these open models you might not have had a chance to use yet.</p><ul><li><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.alibabacloud">Alibaba Cloud</a> (Qwen Cloud Node)<strong>:</strong> Build coding agents for complex enterprise, research, and long-horizon tasks with the world&apos;s largest open-source model family.</li><li><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.moonshot">Kimi.ai</a>: Hand long-horizon coding and research tasks to an open model built to stay on track across many steps, with thinking and instant modes depending on the job.</li><li><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.minimax">MiniMax</a>: Use M3 for coding and agentic work across a 1M-token context, or H3 for omni-modal video generation.</li></ul><h3 id="tool-services">Tool services</h3><ul><li><a href="https://n8n.io/integrations/brave-search/">Brave Search</a>:Grounds AI apps in real-time results from its own 40-billion-page index &#x2014; no Google scraping, no upstream dependencies, structural ZDR, and simple, affordable pricing.</li><li><a href="https://n8n.io/integrations/browserbase-agent/">Browserbase</a>: Give your workflows browser agents that navigate, click, type, and extract structured data from websites, then pass the results into the rest of an automation or agent.</li><li><a href="https://n8n.io/integrations/firecrawl/">Firecrawl</a>: Turn websites into LLM-ready data by scraping dynamic pages, parsing media, and crawling entire sites. Firecrawl handles JavaScript, rate limits, and proxies for any AI workflow</li><li><a href="https://n8n.io/integrations/llamaparse-platform/">LlamaParse</a>: Agentic OCR that turns complex enterprise documents into AI-ready context and structured data at the Pareto frontier of cost and accuracy.</li><li><a href="https://n8n.io/integrations/pdfco-api/">PDF.co</a>: Generate, convert, and extract PDFs in a single node. HTML to PDF, PDF to structured data, merge, split, and fill.</li></ul><p>These eleven providers and services are where we&#x2019;re starting, not where we&#x2019;re stopping. Expect the list to keep growing.</p><h3 id="what-this-gets-you-in-practice">What this gets you in practice</h3><p>Take something ordinary: a competitive intelligence workflow that delivers a useful update each week.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/no-gmail.png" class="kg-image" alt="Try new models and services, skip the account setup" loading="lazy" width="1758" height="750" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/no-gmail.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/no-gmail.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/09/no-gmail.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/no-gmail.png 1758w" sizes="(min-width: 720px) 720px"></figure><p>Start by building on the canvas directly or describing the workflow to n8n Assistant in natural language. When using n8n Assistant, it will apply Gateway credits if you name a supported service and don&#x2019;t already have a credential for it. </p><p>For this workflow, that might begin with <a href="https://brave.com/search/api/">Brave Search</a>, which finds recent product announcements, news coverage, and other changes across the live web. Results come from Brave&#x2019;s own independent index, giving the workflow current sources it can pass directly into the rest of the research and analysis.</p><p>Search gets you most of the way, but some useful details may sit on an interactive pricing page or a changelog that only reveals its content after the page loads or someone clicks through it. <a href="https://www.browserbase.com/">Browserbase</a> can open those pages in a managed cloud browser, navigate, click, type, and extract the information your workflow needs. This complex and time-consuming task that is often required for in-depth research, is handled quickly by adding the node.</p><p>Then there are the product briefs, analyst reports, and PDFs that the search turns up. A basic extractor can flatten a carefully structured table into something unrecognizable, leaving the model downstream with guesswork. <a href="https://www.llamaindex.ai/">LlamaParse</a> combines layout-aware computer-vision, OCR, and vision-language models to parse these complex documents into structured content that preserves more of the tables, headings, and layouts that give the information meaning.</p><p>Finally, choose any of the supported models to bring the findings together, compare them with last week&#x2019;s report, identify what changed, and draft the update. Add your unique parameters and you&#x2019;ve got comprehensive competitive intelligence from real expert providers without ever leaving your n8n editor to set up a new account.</p><p>That is only one way to combine the services available at launch. For knowledge bases and research agents, <a href="https://www.firecrawl.dev/">Firecrawl</a> can crawl an entire site and return LLM-ready markdown or structured data. For document workflows, <a href="http://pdf.co/">PDF.co</a> can turn generated content into polished PDFs, extract structured data, or merge, split, and fill files in one node.</p><h3 id="more-choice-managed-in-a-single-balance"><strong>More choice, managed in a single balance</strong></h3><p>Once you&#x2019;re running more than a handful of workflows, or even one complex one, provider sprawl can become its own maintenance job. Setting up accounts, tracking multiple dashboards, and managing expense reports all add work. Gateway credits come from one balance shared across your n8n instance, giving you one number to watch and one place to top up. From the Cloud Admin Panel, you can track usage by service and workflow, add funds, or set up automatic top-ups.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f449;</div><div class="kg-callout-text"><b><strong style="white-space: pre-wrap;">Instance controls:</strong></b> Instance owners can turn Gateway credits on or off for everyone on the instance from Workspace settings in the Cloud Admin dashboard.</div></div><p>A shared balance across services also gives you and your team more freedom to choose the model or tool that fits each part of a workflow best, instead of defaulting to one because its credentials are already in place. Try a model you&#x2019;ve been curious about, or add a new service to a workflow you already run. You&#x2019;ll be able to find out how it affects your workflow before committing to another provider account.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/screen-billing-2.png" class="kg-image" alt="Try new models and services, skip the account setup" loading="lazy" width="1133" height="1122" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/screen-billing-2.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/screen-billing-2.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/screen-billing-2.png 1133w" sizes="(min-width: 720px) 720px"></figure><h3 id="where-this-goes-next">Where this goes next</h3><p>Six model providers and five tool services are only the starting point. We&#x2019;re already working on the next curated batch, focusing on the APIs and capabilities people use most. Beyond that, we&#x2019;re exploring how Gateway credits can support many more providers and give teams more control over how credits are managed across an instance.</p><p>Gateway credits are available on n8n Cloud Starter and Pro today. We also want to bring the same experience to self-hosted instances over time, though that requires additional infrastructure and is not part of this release.</p><h3 id="your-n8n-cloud-account-may-already-have-gateway-credits">Your n8n Cloud account may already have Gateway credits</h3><p>Eligible new Cloud accounts, including <a href="https://app.n8n.cloud/login?utm_campaign=2026_in_the_loop&amp;utm_content=node-partner&amp;utm_instance=test-workflow-builder.stage-app.n8n.cloud/&amp;utm_n8n_version=1.80.0&amp;utm_medium=referral&amp;utm_user_role=sales-and-marketing&amp;utm_awc=0&amp;utm_source=slack&amp;_gl=1*si9z7g*_gcl_au*ODQ3NTI5NTc0LjE3ODYzNzY2OTk.*_ga*NTkwNzQ5Ny4xNzYzNDgxNjEy*_ga_0SC4FF2FH9*czE3ODk1OTI4MzIkbzg2MCRnMCR0MTc4OTU5MjgzMiRqNjAkbDAkaDA.&amp;ajs_aid=0f0eabae-1f3f-42d1-b459-80d8aa3f2aa8&amp;ajs_uid=105983">trials</a>, start with a small balance of Gateway credits. Existing paying Starter and Pro Cloud customers also received a one-time allowance during the rollout.</p><p>Spend it on something you&#x2019;ve wanted to try. Put a frontier model from <a href="https://openai.com/" rel="noreferrer">OpenAI</a>, <a href="https://www.anthropic.com/" rel="noreferrer">Anthropic</a>, or <a href="https://gemini.google.com/" rel="noreferrer">Google Gemini</a> to work on a new idea. If you&#x2019;ve been curious about open models, see what <a href="https://www.kimi.ai/" rel="noreferrer">Kimi.ai</a>, <a href="https://www.alibabacloud.com/en?_p_lc=7" rel="noreferrer">Alibaba Cloud</a>, or <a href="https://www.minimax.io/" rel="noreferrer">MiniMax</a> can do in a workflow you already run. If you want to give an agent better access to the web, try <a href="https://brave.com/search/api/" rel="noreferrer">Brave Search</a>, <a href="https://www.firecrawl.dev/" rel="noreferrer">Firecrawl</a>, or <a href="https://www.browserbase.com/" rel="noreferrer">Browserbase</a>. If documents are where your workflow gets stuck, try <a href="https://www.llamaindex.ai/" rel="noreferrer">LlamaParse</a> or <a href="http://pdf.co/">PDF.co</a>.</p><p>Whatever you choose, Gateway credits make it easier to put a new model or service to work without leaving the canvas.</p>]]></content:encoded></item>
-<item><title><![CDATA[Process Orchestration: Execution Models, Observability, and Production Challenges]]></title><description><![CDATA[Compare deterministic, dynamic, and agentic process orchestration models to build reliable, scalable workflows with visibility across enterprise systems.
-]]></description><link>https://blog.n8n.io/process-orchestration/</link><guid isPermaLink="false">6a9ef3c0c65a17000140b440</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 11 Sep 2026 19:37:53 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/TL-3_BlogHeader_process-orchestration--1-.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/TL-3_BlogHeader_process-orchestration--1-.jpg" alt="Process Orchestration: Execution Models, Observability, and Production Challenges"><p>Orchestration vs. choreography are two core architectural models for workflow automation. Even after choosing one, there are still some finer details to resolve. For process orchestration, you need an execution model that fits your use cases and business needs.&#xa0;</p><p>The choice between deterministic, dynamic, and agentic process orchestration is more than just visuals. Each model has different tradeoffs between predictability, adaptability, and autonomy. Here&#x2019;s how to decide which one is the best fit for your business.</p><h2 id="what-is-process-orchestration">What is process orchestration?</h2><p>Process orchestration is an architectural control plane that coordinates the people, systems, and tasks involved in business processes. It provides a central location to define workflow logic, track progress, and handle exceptions.</p><p>Process orchestration software often uses workflow engines to execute these business processes. Some environments even use Business Process Model and Notation (BPMN), a standardized notation for modeling business process logic that the orchestration platform can execute directly.</p><h2 id="which-processes-are-suited-to-orchestration">Which processes are suited to orchestration</h2><p>Despite the obvious benefits of centralized coordination, it can be overkill for simple, low-variance pipelines. It adds coordination overhead without a meaningful return on your investment. Consequently, process characteristics like complexity, duration, and dependencies should guide your decision.&#xa0;</p><h3 id="process-with-diverse-endpoint-dependencies">Process with diverse endpoint dependencies</h3><p>Orchestration is a must-have when workflows span multiple process endpoints, such as legacy systems, modern APIs, and human interactions. <a href="https://n8n.io/enterprise/"><u>n8n</u></a> is a workflow automation platform that lets teams build and run processes through a visual, node-based interface. It provides more than 1,000 integrations that make it a practical infrastructure choice for these diverse environments. n8n also features a flexible <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest"><u>HTTP Request node</u></a> to connect disparate tools without the need for custom middleware. This node makes it easier to coordinate tasks in heterogeneous environments while keeping the logic separate from endpoints.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Coordinate deterministic and agentic workflows in one place</h3>
-    <p>Build reliable process orchestration with visual workflow logic, execution history, and error handling built in</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
-</div>
-<!--kg-card-end: html-->
-<h3 id="processes-with-complex-conditional-logic-and-exception-paths">Processes with complex conditional logic and exception paths</h3><p>Deterministic orchestration isn&#x2019;t ideal for handling exception paths, but dynamic and agentic orchestration execution models can handle workflows that require more than a linear sequence. Complexity sometimes occurs on a spectrum, so here are signs that workflow orchestration might be a better choice for your team:</p><ul><li>Advanced workflow patterns, such as transaction compensation</li><li>Multi-branch parallel execution</li><li>Sophisticated exception handling for unresponsive external systems or malformed data</li></ul><h3 id="long-running-stateful-processes">Long-running stateful processes</h3><p>Processes that persist for hours, days, or even weeks require an orchestrator to maintain state and manage handoffs during that time. This capability is critical for complex case management and multi-step processes that involve human-in-the-loop interactions. In n8n, the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.wait" rel="noreferrer">Wait node</a> and <a href="https://docs.n8n.io/build/understand-workflows/understand-executions/view-all-executions" rel="noreferrer">Execution history</a> allow you to build durable stateful workflows to track the progress. The workflow can also pick up where it left off, even after long delays.</p><h2 id="deterministic-dynamic-and-agentic-orchestration-execution-models-compared">Deterministic, dynamic, and agentic orchestration: execution models compared</h2><p>The execution model you choose carries more weight than the specific design patterns for your pipelines. Even the automation tools you use take a backseat. The execution model dictates the degree of runtime autonomy the orchestrator has and sets the fundamental guarantees for the system to handle decision making on its own. Retry semantics, failure isolation, and observability all come back to this architectural commitment.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/execution-spectrum.png" class="kg-image" alt="Process Orchestration: Execution Models, Observability, and Production Challenges" loading="lazy" width="1376" height="700" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/execution-spectrum.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/execution-spectrum.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/execution-spectrum.png 1376w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Three conceptual execution models: from fully deterministic to completely autonomous</em></i></figcaption></figure><h3 id="deterministic-orchestration">Deterministic orchestration</h3><p><a href="https://blog.n8n.io/production-ai-playbook-deterministic-steps-ai-steps/"><u>Deterministic orchestration</u></a> uses predefined logic and a fixed graph to execute automated processes. It works well for structured workflows that require high compliance because it&#x2019;s auditable and each path is mapped out before any execution occurs.&#xa0;</p><p>While the model ensures predictable state management, its rigidity makes it inherently brittle. Anything outside mapped executions can trigger failures. If this happens, your team may need to intervene manually or use custom exception-handling logic to restore consistency.</p><h3 id="dynamic-orchestration">Dynamic orchestration</h3><p>Dynamic orchestration doesn&#x2019;t follow a rigid script like deterministic orchestration does. Instead, it adjusts workflows based on feedback from real-time conditions and changing business needs. This model is a good fit for managing shifting workloads or navigating resource constraints in cloud and edge environments.</p><p>However, state management can become a moving target because the orchestrator continually readjusts to handle dynamic workflows. Failures are also difficult to diagnose because decentralized and autonomous decisions can trigger downstream issues that traditional monitoring tools can&#x2019;t trace easily.</p><h3 id="agentic-orchestration">Agentic orchestration</h3><p><a href="https://blog.n8n.io/ai-agent-orchestration-frameworks/"><u>Agentic orchestration</u></a> is a mix of deterministic logic and autonomous AI agents. It uses deterministic steps for predictable work and delegates unstructured or unpredictable work to <a href="https://blog.n8n.io/ai-agentic-workflows/"><u>AI agents</u></a> that can assess the situation and take actions without preset instructions. You can implement this in n8n by using <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI agent nodes</u></a>, which allows you to run agentic execution within the deterministic guardrails of a larger workflow.&#xa0;</p><p>This model provides flexibility for complex case management while preserving transparency missing from dynamic orchestration.&#xa0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">Keep in mind that there is a certain level of uncertainty for tasks performed by agents&#x2014;for instance, regarding how specific decisions were reached. You can improve agent explainability by configuring structured outputs that include the underlying reasoning alongside the agent&apos;s response.&#xa0;</div></div><h2 id="common-challenges-in-production-process-orchestration">Common challenges in production process orchestration</h2><p>Using process orchestration for automation has some challenges to look out for, regardless of the execution model you choose. Here are four common failure nodes engineers might encounter in orchestrated deployment.</p><h3 id="orchestrator-bottlenecks">Orchestrator bottlenecks</h3><p>Centralized processes often fail when they need to handle unusually high event volumes. You can mitigate this with engines that use event-streaming and the &#x201c;single writer&#x201d; principle to eliminate traditional database locking and reduce the risk of bottlenecks.</p><h3 id="state-corruption-or-partial-failure">State corruption or partial failure</h3><p>Broken multistep workflows leave the system in an inconsistent state. This can create additional failure points or disrupt process tracking. You can mitigate this problem by implementing saga patterns, which allow the orchestrator to restore consistency by rolling back completed steps after a failure.</p><h3 id="schema-drift-across-services">Schema drift across services</h3><p>When services evolve independently, they change API payloads, which can break integrations downstream and undermine efficiency. You can mitigate this by deploying schema registries for versioning. You can also use orchestration platforms to separate process logic from more volatile service endpoints.</p><h3 id="debugging-distributed-failures">Debugging distributed failures</h3><p>Lack of visibility in complex and decentralized workflows makes it difficult to find root causes when failures occur. You can resolve this by adding observability metadata over the orchestration layer. It tracks and documents dataflows so that your team can use the execution history for troubleshooting problems.</p><h2 id="n8n%E2%80%99s-approach-to-process-orchestration">n8n&#x2019;s approach to process orchestration</h2><p>n8n provides builders with a visual control plane where you can coordinate both deterministic and agentic execution in one unified environment. Code-heavy systems often make it difficult to track or even identify logic. But the visual workflow builders expose the conditional branches and merges, which lets you resolve schema drift instantly by updating service mappings. n8n doesn&#x2019;t force you to use strictly visual nodes; for complex transformations or custom logic, you can always use the <a href="https://docs.n8n.io/build/code-in-n8n/using-the-code-node"><u>Code node</u></a> (native scripting in JS and Python is supported).&#xa0;</p><p>The execution history feature ensures observability since you can see full data flow, LLM prompts and completions for every action. These detailed logs remove the black box restrictions in <a href="https://docs.n8n.io/advanced-ai/"><u>advanced AI</u></a>.</p><p>If you work with distributed systems, it could be useful to configure <a href="https://blog.n8n.io/trace-n8n-workflow-and-node-executions-with-opentelemetry/"><u>OpenTelemetry</u></a> exports for all n8n executions or connect <a href="https://docs.n8n.io/build/integrate-ai/langchain-in-n8n#use-langsmith-with-a-self-hosted-n8n-instance"><u>LLM tracing platforms</u></a> like LangSmith. These steps improve debugging or fail compliance checks. With n8n, you can audit AI agent nodes and verify each step they take.</p>
-<!--kg-card-begin: html-->
-<script>
-  workflowBanner([4904, 9039, 6816, 6493, 5523], document.currentScript, {
-    workflowsHeader: "Explore these n8n templates to start building orchestrated workflows:"
-  });
-</script>
-<!--kg-card-end: html-->
-<h2 id="start-building-your-automated-workflows">Start building your automated workflows</h2><p>Choosing the right architectural framework is a balancing act of business requirements and technical capabilities. While your team may also have clear preferences on which tools have worked best for them in previous projects, it&#x2019;s important to keep business rules and goals as priorities.&#xa0;</p><p>Think carefully about the tradeoffs between orchestration vs. choreography and consider which workflow orchestration model best suits your business needs:</p><ul><li><strong>Do you need maximum auditability and predictability? </strong>Then you should choose deterministic orchestration.</li><li><strong>Should your system respond to feedback loops and respond in real time?</strong> Then you need dynamic orchestration.</li><li><strong>Do you prefer to delegate unstructured problem-solving to autonomous bots?</strong> Then agentic orchestration may work best for you.</li></ul><p>n8n gives teams a unified environment for building reliable workflows without a steep learning curve. Its visual builder, execution history, and <a href="https://docs.n8n.io/build/flow-logic/handle-errors-gracefully"><u>error-handling </u></a>nodes support predictable orchestration while still allowing agentic steps when needed.&#xa0;</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Start building your automated workflows with n8n</h3>
-    <p>Visual builder, execution history, and error-handling nodes for predictable orchestration with agentic steps when needed</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Register for free</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="faq">FAQ</h2><h3 id="what-are-the-benefits-of-process-orchestration">What are the benefits of process orchestration?</h3><p>There are several reasons teams choose process orchestration:</p><ul><li><strong>Reliability and business continuity: </strong>Modern orchestration tools can automate retries, handle long-running processes, and use saga patterns to maintain consistency when failures occur.</li><li><strong>High transparency:</strong> It&#x2019;s easier to monitor workflows across multiple systems. There&#x2019;s also visibility into how things work and where failure points occur.</li><li><strong>Streamlined scalability:</strong> As organizations and operations scale, process orchestration helps reduce complexity, enforce governance, and maintain end-to-end process reliability.</li></ul><h3 id="what%E2%80%99s-the-main-difference-between-process-automation-and-orchestration">What&#x2019;s the main difference between process automation and orchestration?</h3><p>Process automation focuses on a single, rule-based task (or process), such as moving data from an email into a spreadsheet. While automation focuses on completing a specific activity, orchestration provides the global coordination and logic required to achieve a broader goal for enterprises. Think of orchestration as a conductor for more complex solutions involving multiple automated tasks, human interactions, and technical systems.</p><h3 id="what-is-the-difference-between-workflow-orchestration-and-choreography">What is the difference between workflow orchestration and choreography?</h3><p>The main difference comes down to centralized versus decentralized control.</p><p>In <strong>orchestration</strong>, a central workflow engine (like n8n) acts as a conductor. It dictates the entire sequence of tasks, calls external systems, and tracks the overall state of the process from start to finish.</p><p>In <strong>choreography</strong>, there is no central controller. Instead, systems act independently based on events. When one application finishes a task, it emits an event (like a webhook), and other applications react to it automatically. While choreography keeps systems highly decoupled, orchestration is generally preferred for complex workflows because it provides a single source of truth for observability, error handling, and debugging.</p><p></p><p></p><p></p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 11 Oct 2026 00:37:13 GMT</pubDate>
+  <pubDate>Fri, 09 Oct 2026 03:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -906,7 +893,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 08:37:13 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 18:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -915,7 +902,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 09 Oct 2026 16:37:13 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 05:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -924,7 +911,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 12 Oct 2026 19:37:13 GMT</pubDate>
+  <pubDate>Fri, 09 Oct 2026 14:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -933,7 +920,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 11 Oct 2026 15:37:13 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 04:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -942,7 +929,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 10 Oct 2026 20:37:13 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 20:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -951,7 +938,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 16:37:13 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 19:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -960,7 +947,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 04:37:13 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 05:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -969,7 +956,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 10 Oct 2026 17:37:13 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 19:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -978,7 +965,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 07 Oct 2026 18:37:13 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 09:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -987,7 +974,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 10:37:13 GMT</pubDate>
+  <pubDate>Fri, 09 Oct 2026 14:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -996,7 +983,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 16:37:13 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 19:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1005,7 +992,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 16:37:13 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 06:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1014,7 +1001,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 10 Oct 2026 13:37:13 GMT</pubDate>
+  <pubDate>Fri, 09 Oct 2026 06:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1023,7 +1010,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 09 Oct 2026 22:37:13 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 14:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1032,7 +1019,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 06 Oct 2026 17:37:13 GMT</pubDate>
+  <pubDate>Thu, 08 Oct 2026 06:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1041,7 +1028,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 18:37:13 GMT</pubDate>
+  <pubDate>Wed, 07 Oct 2026 15:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1050,7 +1037,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 08 Oct 2026 07:37:13 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 19:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1059,7 +1046,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 23:37:13 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 13:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1068,7 +1055,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 12 Oct 2026 09:37:13 GMT</pubDate>
+  <pubDate>Thu, 08 Oct 2026 20:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1077,7 +1064,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 09:37:13 GMT</pubDate>
+  <pubDate>Wed, 07 Oct 2026 06:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1086,7 +1073,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 10 Oct 2026 14:37:13 GMT</pubDate>
+  <pubDate>Wed, 07 Oct 2026 16:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1095,7 +1082,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 10 Oct 2026 05:37:13 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 18:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1104,7 +1091,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 12:37:13 GMT</pubDate>
+  <pubDate>Fri, 09 Oct 2026 04:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1113,10 +1100,19 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 10 Oct 2026 22:37:13 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 23:08:35 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Pour l’IA d’entreprise, Keepit mise sur des données vérifiables]]></title>
+  <link>https://www.ia-news.fr/pour-lia-dentreprise-keepit-mise-sur-des-donnees-verifiables/</link>
+  <description><![CDATA[Avec AI Truth Cloud, Keepit entend aider les entreprises à s’appuyer sur des données vérifiables et gouvernées pour développer leurs usages de l’intelligence artificielle. L’entreprise ...]]></description>
+  <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" /> <p>Avec AI Truth Cloud, Keepit entend aider les entreprises à s’appuyer sur des données vérifiables et gouvernées pour développer leurs usages de l’intelligence artificielle. L’entreprise ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Planification : arrêtons de demander à l’IA de prédire l’avenir, demandons-lui de nous aider à décider]]></title>
@@ -1155,15 +1151,6 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/ai-ia-2025-01-07.jpg" /> <p>Pendant deux ans, les entreprises ont multiplié les expérimentations autour de l'intelligence artificielle générative. Aujourd'hui, les attentes ont changé. Les directions générales, métiers et IT ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[IA : sans cadre clair, pas de passage à l&rsquo;échelle]]></title>
-  <link>https://www.ia-news.fr/ia-sans-cadre-clair-pas-de-passage-a-lechelle/</link>
-  <description><![CDATA[Pour les entreprises, le défi n'est plus tant de découvrir les applications de l'intelligence artificielle que de l'intégrer durablement dans leurs activités. Cela suppose bien plus que ...]]></description>
-  <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" /> <p>Pour les entreprises, le défi n'est plus tant de découvrir les applications de l'intelligence artificielle que de l'intégrer durablement dans leurs activités. Cela suppose bien plus que ...</p>]]></content:encoded>
-</item>
-<item>
   <title><![CDATA[LABEL4.AI remporte le prix i-Lab 2026 avec son projet de détection des deepfakes]]></title>
   <link>https://www.ia-news.fr/label4-ai-remporte-le-prix-i-lab-2026-avec-son-projet-de-detection-des-deepfakes/</link>
   <description><![CDATA[LABEL4.AI a été distinguée par le prix i-Lab 2026 du Concours d’innovation de l’État pour sa plateforme de détection des deepfakes en temps réel et ...]]></description>
@@ -1189,6 +1176,15 @@
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-2.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-2.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-tenable-article-2.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[IA : sans cadre clair, pas de passage à l&rsquo;échelle]]></title>
+  <link>https://www.ia-news.fr/ia-sans-cadre-clair-pas-de-passage-a-lechelle/</link>
+  <description><![CDATA[Pour les entreprises, le défi n'est plus tant de découvrir les applications de l'intelligence artificielle que de l'intégrer durablement dans leurs activités. Cela suppose bien plus que l'accès à des modèles performants : sans cadre clair intégrant gouvernance, qualité des données et règles ...]]></description>
+  <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" /> <p>Pour les entreprises, le défi n'est plus tant de découvrir les applications de l'intelligence artificielle que de l'intégrer durablement dans leurs activités. Cela suppose bien plus que l'accès à des modèles performants : sans cadre clair intégrant gouvernance, qualité des données et règles ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[IA et open source : le nouveau choix stratégique des DSI]]></title>
@@ -1243,15 +1239,6 @@
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-rubrik-article-1.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-rubrik-article-1.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-rubrik-article-1.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Rocket Software fait progresser l’IA agentique gouvernée sur les mainframes]]></title>
-  <link>https://www.ia-news.fr/rocket-software-fait-progresser-lia-agentique-gouvernee-sur-les-mainframes/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Alphalink ouvre un département dédié à l’intelligence artificielle]]></title>
@@ -1470,17 +1457,44 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Accélérer l’usage de l’IA au sein des TPE et PME]]></title>
-  <link>https://www.ia-news.fr/accelerer-lusage-de-lia-au-sein-des-tpe-et-pme/</link>
+  <title><![CDATA[Rocket Software fait progresser l’IA agentique gouvernée sur les mainframes]]></title>
+  <link>https://www.ia-news.fr/rocket-software-fait-progresser-lia-agentique-gouvernee-sur-les-mainframes/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[CODIR : Pourquoi ne pas intégrer l’IA dans sa stratégie peut être une faute professionnelle]]></title>
-  <link>https://www.ia-news.fr/codir-pourquoi-ne-pas-integrer-lia-dans-sa-strategie-peut-etre-une-faute-professionnelle/</link>
+  <title><![CDATA[Vers des SOC autonomes ? Cato Networks parie sur la défense agentique]]></title>
+  <link>https://www.ia-news.fr/vers-des-soc-autonomes-cato-networks-parie-sur-la-defense-agentique/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-cato-networks-article-3.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-cato-networks-article-3.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-cato-networks-article-3.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Cybersécurité : comment l’IA renforce la gestion du risque humain]]></title>
+  <link>https://www.ia-news.fr/cybersecurite-comment-lia-renforce-la-gestion-du-risque-humain/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Nouvelle étape stratégique : Ibexa intègre Raptor dans son écosystème DXP]]></title>
+  <link>https://www.ia-news.fr/nouvelle-etape-strategique-ibexa-integre-raptor-dans-son-ecosysteme-dxp/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[SHADOW AI : AVANOO PASSE À L’OFFENSIVE AVEC SA PLATEFORME V3]]></title>
+  <link>https://www.ia-news.fr/shadow-ai-avanoo-passe-a-loffensive-avec-sa-plateforme-v3/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/02/Intelligence-artificielle-IA-AI-3.jpg" medium="image" />
@@ -1488,31 +1502,22 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/02/Intelligence-artificielle-IA-AI-3.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Cribl veut rendre les usages de l’IA plus observables]]></title>
-  <link>https://www.ia-news.fr/cribl-veut-rendre-les-usages-de-lia-plus-observables/</link>
+  <title><![CDATA[Løvell Consulting rejoint Squad pour renforcer son offre de conseil en cybersécurité]]></title>
+  <link>https://www.ia-news.fr/lovell-consulting-rejoint-squad-pour-renforcer-son-offre-de-conseil-en-cybersecurite/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-cribl-article-1-.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-cribl-article-1-.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-cribl-article-1-.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/03/mains-controle-securite.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/03/mains-controle-securite.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/03/mains-controle-securite.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Frost &#038; Sullivan distingue ASC]]></title>
-  <link>https://www.ia-news.fr/frost-sullivan-distingue-asc/</link>
+  <title><![CDATA[L&rsquo;IA, le futur des datacenters]]></title>
+  <link>https://www.ia-news.fr/lia-le-futur-des-datacenters/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/06/Croissance-courbe-evolution-progression-graphique-expension-06.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/06/Croissance-courbe-evolution-progression-graphique-expension-06.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/06/Croissance-courbe-evolution-progression-graphique-expension-06.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Everpure : l’IA agentique oblige les entreprises à mieux gouverner leurs données]]></title>
-  <link>https://www.ia-news.fr/everpure-lia-agentique-oblige-les-entreprises-a-mieux-gouverner-leurs-donnees/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-everpure-article-3.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-everpure-article-3.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/visuel-everpure-article-3.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/female-data-center-technician-working-inside-serve-2022-01-31-18-01-57-utc.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
