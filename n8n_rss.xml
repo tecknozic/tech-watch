@@ -1,4 +1,319 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[n8n Blog]]></title><description><![CDATA[Automate without limits]]></description><link>https://blog.n8n.io/</link><image><url>https://blog.n8n.io/favicon.png</url><title>n8n Blog</title><link>https://blog.n8n.io/</link></image><generator>Ghost 6.71</generator><lastBuildDate>Fri, 16 Oct 2026 17:24:48 GMT</lastBuildDate><atom:link href="https://blog.n8n.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[12 Best Enterprise Workflow Automation Platforms]]></title><description><![CDATA[Compare the top enterprise workflow automation platforms for technical teams. See how each tool handles control, scale, and AI workflows.]]></description><link>https://blog.n8n.io/enterprise-workflow-automation/</link><guid isPermaLink="false">6acfb9db255d2a00012cc091</guid><category><![CDATA[Guides]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 16 Oct 2026 17:24:47 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--21-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--21-.jpeg" alt="12 Best Enterprise Workflow Automation Platforms"><p>Enterprise workflow automation gets harder as soon as a workflow leaves one team. Now you&apos;re connecting legacy systems to SaaS apps, enforcing access controls, and figuring out how AI fits without creating another infrastructure problem.</p><p>Some workflow automation software is built around IT service management, iPaaS, or BPM, and other <a href="https://blog.n8n.io/ai-agent-frameworks/"><u>AI agent frameworks</u></a> add more options to the mix. This guide compares 12 leading platforms so you can find the model that fits your stack.</p><h2 id="what-to-look-for-in-an-enterprise-automation-platform">What to look for in an enterprise automation platform</h2><p>The differences between automation tools start to really matter once workflows span teams, systems, and sensitive data. These five factors help separate tools built for production environments from those better suited to simpler, team-level automations.</p><p></p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/12-tools-map-white--1---1-.png" class="kg-image" alt="12 Best Enterprise Workflow Automation Platforms" loading="lazy" width="1200" height="896" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/12-tools-map-white--1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/12-tools-map-white--1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/12-tools-map-white--1---1-.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">This article covers 12 tools in different categories. The diagram positions all of them across two dimensions: self-hosted versus cloud-only and simple iPaaS versus complex BPM / code-first platforms</em></i></figcaption></figure><h3 id="deployment-and-data-residency">Deployment and data residency</h3><p>Start with where the platform runs and where your workflow data goes. SaaS platforms reduce infrastructure overhead, while self-hosted options give you more control over data residency and ownership. For regulated industries or strict security environments, considering that point lets you rule out platforms before comparing other factors.</p><h3 id="integration-breadth">Integration breadth</h3><p>An enterprise platform needs to connect more than common SaaS apps: Legacy systems, internal services, databases, and proprietary APIs all need a place, so look beyond the number of prebuilt connectors. Generic HTTP requests&#xa0; and custom code give technical teams a way to connect systems that don&apos;t have a native integration.</p><h3 id="governance">Governance</h3><p>The more people building automations, the more important it becomes to control who can change what. Look for SSO, role-based access control (RBAC), audit logging, and credential management. These features help you govern who can build and run workflows without involving an engineering team, a limited resource.&#xa0;</p><h3 id="ai-and-agentic-capability">AI and agentic capability</h3><p>AI support now goes beyond adding an LLM call to a workflow. If agents are part of your roadmap, ask what they can actually do once they&#x2019;re running: Can they use different models, access business systems, involve a human when needed, and work alongside deterministic workflow steps? Look for a platform that handles all those pieces instead of leaving your team to bolt on the orchestration, integrations, and governance.</p><h3 id="cost-model">Cost model</h3><p>Pricing can change significantly as automation scales. Some platforms charge per user, while others charge per task or action. Self-hosted software shifts more of the cost toward infrastructure and engineering ownership. Run the numbers against the volume you expect tomorrow, not just what you&#x2019;re automating today. A pricing model that seems cheap during a pilot may look very different as adoption grows.</p><h2 id="the-top-12-enterprise-workflow-automation-tools">The top 12 enterprise workflow automation tools</h2><p>Enterprise workflow automation software spans several categories, from iPaaS and ITSM suites to BPM and developer-focused orchestration. The best fit depends on what you&apos;re automating, how much infrastructure you want to control, and who needs to build and maintain the workflows.</p><h3 id="n8n">n8n</h3><p><strong>Best for: </strong>Technical teams that want source-available, self-hostable automation without locking their AI stack to one provider</p><p>n8n is a source-available, AI-native automation platform built for teams that don&#x2019;t want to choose between visual automation and owning the technical details.&#xa0;</p><p>You can self-host workflows and keep data in your infrastructure, switch between AI providers as requirements change, and use the <a href="http://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.code"><u>Code node</u></a> when visual building or the <a href="https://n8n.io/integrations/"><u>1000+ integrations</u></a> don&apos;t cover an edge case. Depending on the tier, it also offers governance features like <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/basic-configuration/use-environment-variables/sso"><u>SSO</u></a>, <a href="https://docs.n8n.io/administer/manage-users-and-access/set-permissions-and-roles-rbac"><u>RBAC</u></a>, and <a href="https://docs.n8n.io/administer/observe-and-log/stream-logs-to-external-systems"><u>audit logging</u></a>.</p><p>AI is built into the same orchestration layer. The <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI Agent node</u></a> lets you build agents that use external tools, while the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolaiagent"><u>AI Agent Tool node</u></a> lets a primary agent delegate tasks to other agents. For self-hosted deployments, a Redis-backed <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/scaling/enable-queue-mode"><u>queue mode</u></a> distributes executions across workers as volume grows.</p><p>That flexibility comes with a bit of a learning curve. n8n expects more technical comfort than a simple no-code SaaS tool, especially if you&apos;re self-hosting or building complex workflows. But it&#x2019;s straightforward enough for non-technical teams to ease into.</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[n8n Blog]]></title><description><![CDATA[Automate without limits]]></description><link>https://blog.n8n.io/</link><image><url>https://blog.n8n.io/favicon.png</url><title>n8n Blog</title><link>https://blog.n8n.io/</link></image><generator>Ghost 6.72</generator><lastBuildDate>Mon, 19 Oct 2026 15:45:24 GMT</lastBuildDate><atom:link href="https://blog.n8n.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API]]></title><description><![CDATA[<p>Most small businesses want the same handful of AI jobs. They want to draft emails, summarize calls, read invoices, search their own documents, and make the odd image. Plenty of them can&apos;t send customer data to a cloud API to do it.</p><p>Often the reason is data privacy</p>]]></description><link>https://blog.n8n.io/n8n-nvidia-dgx-spark/</link><guid isPermaLink="false">6ad61856981bfc000110b965</guid><category><![CDATA[AI]]></category><category><![CDATA[Tutorial]]></category><dc:creator><![CDATA[Jamie Madden]]></dc:creator><pubDate>Mon, 19 Oct 2026 13:22:17 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/NVIDIA_Blog-header.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/NVIDIA_Blog-header.jpg" alt="Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API"><p>Most small businesses want the same handful of AI jobs. They want to draft emails, summarize calls, read invoices, search their own documents, and make the odd image. Plenty of them can&apos;t send customer data to a cloud API to do it.</p><p>Often the reason is data privacy and sovereignty. A clinic, a law firm, or an accountant may hold records that a contract, a regulator, or a professional duty says must stay under their control. Once that data goes to a cloud API, it sits on someone else&apos;s hardware, possibly in another jurisdiction, under terms the provider can change. Running the models on hardware you own keeps the data in your building, and lets you show an auditor exactly where it went.</p><p>Your n8n workflows can transcribe calls, read invoices, answer questions from your own documents, and draft replies without sending a byte to a cloud API. This post shows you how to serve every model those workflows need from one NVIDIA DGX Spark, behind one OpenAI-compatible endpoint that n8n&apos;s OpenAI nodes already speak.</p><p>A DGX Spark has 128GB of unified memory shared by the CPU and GPU. That&apos;s enough to keep every one of those jobs loaded at once, if you pick the right models. Most of this post is about that.</p><p>The <a href="https://blog.n8n.io/self-hosted-ai/">self-hosted AI starter kit</a> gets one person running local models on a laptop. This is the next step: a box in the office that serves a whole team, with a model for each job and the code to run it.</p><p>In this post, you&apos;ll:</p><ul><li>Choose models that run fast on the DGX Spark&apos;s memory bandwidth</li><li>Serve a 35B mixture-of-experts model with vLLM in NVFP4</li><li>Fit a full AI stack into one box&apos;s shared memory</li><li>Route every job through one LiteLLM endpoint with per-team keys</li><li>Connect n8n to the stack and build a workflow that never calls a cloud API</li><li>Measure what happens to chat speed when someone generates an image</li></ul><h2 id="pick-models-for-the-bandwidth-not-the-parameter-count">Pick models for the bandwidth, not the parameter count</h2><p>The DGX Spark&apos;s <a href="https://www.nvidia.com/en-us/products/workstations/dgx-spark/">GB10 Grace Blackwell Superchip</a> reads memory at 273 GB/s. When a model generates text, it reads its active weights from memory for each token, so the fewer bytes it reads, the faster it runs.</p><p>A mixture-of-experts (MoE) model only activates a few experts per token. <code>Qwen3.6-35B-A3B</code> has 35B parameters in total but about 3B active. Stored in NVFP4 (NVIDIA&apos;s 4-bit floating point format), those active weights are a small fraction of a dense model&apos;s.</p><p>On my DGX Spark, <code>Qwen3.6-35B-A3B</code> generated 120 tokens per second for one user, and 359 tokens per second in total across eight users. Those numbers include the reasoning tokens the model writes before it answers.</p><p>That gives the first design rule: <strong>one strong MoE model for everything text-shaped.</strong> Summarizing, classifying, extracting, drafting, coding, and reading screenshots all go to the same model. Every extra model is another container to pin, patch, and monitor, so a specialist model only gets a slot where an LLM can&apos;t do the job.</p><h2 id="the-stack">The stack</h2><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/dgx-spark-stack-diagram.png" class="kg-image" alt="Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API" loading="lazy" width="2000" height="825" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/dgx-spark-stack-diagram.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/dgx-spark-stack-diagram.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/dgx-spark-stack-diagram.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/dgx-spark-stack-diagram.png 2000w" sizes="(min-width: 720px) 720px"></figure><p>These are the models that stay loaded on one DGX Spark:</p>
+<!--kg-card-begin: html-->
+<table>
+<thead>
+<tr>
+<th>Job</th>
+<th>Model</th>
+<th>License</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chat, coding, vision, extraction</td>
+<td><code>nvidia/Qwen3.6-35B-A3B-NVFP4</code></td>
+<td>Apache 2.0</td>
+</tr>
+<tr>
+<td>Embeddings</td>
+<td><code>Qwen/Qwen3-Embedding-4B</code></td>
+<td>Apache 2.0</td>
+</tr>
+<tr>
+<td>Reranking</td>
+<td><code>Qwen/Qwen3-Reranker-0.6B</code></td>
+<td>Apache 2.0</td>
+</tr>
+<tr>
+<td>Speech to text</td>
+<td><code>openai/whisper-large-v3-turbo</code></td>
+<td>MIT</td>
+</tr>
+<tr>
+<td>Document OCR</td>
+<td><code>zai-org/GLM-OCR</code></td>
+<td>MIT</td>
+</tr>
+<tr>
+<td>Image generation</td>
+<td><code>Tongyi-MAI/Z-Image-Turbo</code></td>
+<td>Apache 2.0</td>
+</tr>
+<tr>
+<td>Text to speech</td>
+<td><code>hexgrad/Kokoro-82M</code></td>
+<td>Apache 2.0</td>
+</tr>
+</tbody>
+</table>
+<!--kg-card-end: html-->
+<p>Every model in the stack allows commercial use. That rule cost more than any technical one, and there&apos;s a section on it later.</p><h2 id="step-1-cache-everything-for-offline-use">Step 1: Cache everything for offline use</h2><p>The stack has to run with the network cable unplugged, so download every model once and record the exact commit you got. This loop caches each model and writes a lock file of repository and commit:</p><pre><code class="language-bash">pipx install &quot;huggingface_hub[cli]&quot;
+hf auth login
+
+for repo in nvidia/Qwen3.6-35B-A3B-NVFP4 Qwen/Qwen3-Embedding-4B Qwen/Qwen3-Reranker-0.6B \
+            openai/whisper-large-v3-turbo zai-org/GLM-OCR Tongyi-MAI/Z-Image-Turbo; do
+  hf download &quot;&#x24;repo&quot;
+  echo &quot;&#x24;repo &#x24;(cat ~/.cache/huggingface/hub/models--&#x24;{repo//\//--}/refs/main)&quot; &gt;&gt; models.lock
+done
+</code></pre><p>When you start a model, pass <code>--revision</code> with the commit from <code>models.lock</code>. vLLM then serves the weights you tested rather than whatever <code>main</code> points to today, so an upstream change can&apos;t swap the weights or the license under you.</p><h3 id="check-the-vllm-version-not-the-tag">Check the vLLM version, not the tag</h3><p>Pin containers the same way, and check what&apos;s inside them. My first attempt used vLLM&apos;s <code>cu130-nightly</code> tag. That tag had stopped updating, and the image it pulled was five months old, with vLLM 0.19. It couldn&apos;t load Qwen3.6 at all. The errors didn&apos;t mention versions. They were a <code>KeyError</code> for a missing weight-scale parameter, which reads like a broken checkpoint.</p><p>Before you trust an image, print the vLLM version inside it:</p><pre><code class="language-bash">docker run --rm --entrypoint python3 &lt;image&gt; -c &quot;import vllm; print(vllm.__version__)&quot;
+</code></pre><p>The image that worked was the official <code>vllm/vllm-omni:v0.30.0</code>, which ships vLLM 0.30.0 with an arm64 build. vLLM-Omni is a full vLLM with extra serving modes for images and speech, so it also serves plain LLMs. Its default entrypoint isn&apos;t <code>vllm serve</code>, so wrap it once:</p><pre><code class="language-bash">printf &apos;FROM vllm/vllm-omni:v0.30.0\nENTRYPOINT [&quot;vllm&quot;, &quot;serve&quot;]\n&apos; | docker build -t vllm-spark:omni-0.30.0 -
+</code></pre><p>The Kokoro-FastAPI image needed a community fix to build on arm64. The Dockerfile comes from <a href="https://forums.developer.nvidia.com/t/running-kokoro-tts-on-nvidia-dgx-spark-arm64-gb10/368846">a post by swann.schilling on the NVIDIA Developer Forums</a>.</p><h2 id="step-2-serve-the-backbone">Step 2: Serve the backbone</h2><p>This command starts the main model in vLLM:</p><pre><code class="language-bash">docker run -d --name qwen3.6 --gpus all --ipc=host \
+  -p 172.17.0.1:8001:8000 \
+  -e HF_HUB_OFFLINE=1 -e VLLM_API_KEY=&lt;your-backend-key&gt; \
+  -v ~/.cache/huggingface:/root/.cache/huggingface \
+  vllm-spark:omni-0.30.0 \
+  nvidia/Qwen3.6-35B-A3B-NVFP4 --revision &lt;commit-from-models.lock&gt; \
+  --served-model-name qwen3.6-35b \
+  --gpu-memory-utilization 0.32 --max-model-len 65536 \
+  --max-num-seqs 8 --max-num-batched-tokens 8192 \
+  --trust-remote-code --kv-cache-dtype fp8 --moe-backend marlin \
+  --enable-chunked-prefill --async-scheduling --enable-prefix-caching \
+  --speculative-config &apos;{&quot;method&quot;:&quot;mtp&quot;,&quot;num_speculative_tokens&quot;:3,&quot;moe_backend&quot;:&quot;triton&quot;}&apos; \
+  --reasoning-parser qwen3 --enable-auto-tool-choice --tool-call-parser qwen3_xml \
+  --host 0.0.0.0 --port 8000
+</code></pre><p>On my DGX Spark, this model was ready to serve 311 seconds after <code>docker run</code>.</p><p>The port is published on <code>172.17.0.1</code>, Docker&apos;s bridge address, so only containers on this machine can reach it. <code>VLLM_API_KEY</code> makes vLLM reject any request without the key.</p><p>The flags that matter most on a DGX Spark:</p><ul><li><code>--gpu-memory-utilization 0.32</code> caps this model at about a third of memory. The other models need the rest.</li><li><code>--kv-cache-dtype fp8</code> halves the memory the KV cache needs, so the same budget holds more context.</li><li><code>--moe-backend marlin</code> picks the kernel for the quantized expert layers. The draft model&apos;s experts aren&apos;t quantized, so <code>--speculative-config</code> sets its own <code>moe_backend</code>.</li><li><code>--speculative-config</code> turns on multi-token prediction (MTP). The model drafts three tokens ahead and checks them in one pass.</li><li><code>--reasoning-parser</code> and <code>--tool-call-parser</code> must match the model family. When tool calling fails, check these flags before you blame the model.</li></ul><p>Check the startup log for the kernels vLLM chose. These lines are from my run:</p><pre><code class="language-text">Using MarlinNvFp4LinearKernel for NVFP4 GEMM
+Using &apos;MARLIN&apos; NvFp4 MoE backend out of potential backends: [&apos;FLASHINFER_TRTLLM&apos;, &apos;FLASHINFER_CUTEDSL&apos;, ...]
+Your GPU does not have native support for FP4 computation but FP4 quantization is being used.
+Weight-only FP4 compression will be used leveraging the Marlin kernel.
+</code></pre><p>That last warning matters for how you read &quot;NVFP4&quot; on a DGX Spark. With this vLLM build, the weights are stored in 4 bits, but the math runs in 16 bits. You still get most of the benefit, because generating tokens is limited by reading weights from memory, and 4-bit weights are a quarter of the size. Faster FP4 kernels for GB10 may raise these numbers in later builds.</p><h2 id="step-3-fit-the-rest-into-shared-memory">Step 3: Fit the rest into shared memory</h2><p>On a DGX Spark, the GPU and the operating system share one 128GB pool. Linux reported 121GB of it as total memory on my box. That changes two things you might take for granted on a discrete GPU.</p><p>First, <code>--gpu-memory-utilization</code> is a fraction of the whole pool, taken at startup. It&apos;s not a fraction of what&apos;s free. An instance without a cap tries to take almost everything, and the next model fails to start.</p><p>Second, vLLM sizes its cache from the memory that&apos;s free when it starts. Start two models at once and they fight over the same memory. Start one at a time, and wait for each to answer its health check before starting the next:</p><pre><code class="language-bash">until curl -sf http://172.17.0.1:8001/health; do sleep 5; done
+</code></pre><p>If a model fails with <code>CUDA error: out of memory</code> while <code>free</code> shows plenty available, the Linux page cache is holding it. This is common straight after downloading 220GB of weights. Drop the cache, then start the model again:</p><pre><code class="language-bash">sudo sh -c &apos;sync; echo 3 &gt; /proc/sys/vm/drop_caches&apos;
+</code></pre><p>This is how long each service took to load from cold, with the page cache dropped first, and how much memory it took:</p>
+<!--kg-card-begin: html-->
+<table>
+<thead>
+<tr>
+<th>Service</th>
+<th>Seconds to ready</th>
+<th>GB taken</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>qwen3.6</td>
+<td>237</td>
+<td>43</td>
+</tr>
+<tr>
+<td>rerank</td>
+<td>106</td>
+<td>8</td>
+</tr>
+<tr>
+<td>whisper</td>
+<td>136</td>
+<td>8</td>
+</tr>
+<tr>
+<td>ocr</td>
+<td>137</td>
+<td>11</td>
+</tr>
+<tr>
+<td>image</td>
+<td>96</td>
+<td>20</td>
+</tr>
+<tr>
+<td>tts</td>
+<td>21</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<!--kg-card-end: html-->
+<p>The embedding model needed one more flag on vLLM 0.30.0, <code>--convert embed</code>, and started later, after the rest. With all seven models loaded, the DGX Spark used 108GB and had 13GB available. That&apos;s the limit of what one DGX Spark holds. Start the stack well before anyone needs it: the six services in the table took about 12 minutes.</p><p>vLLM can also fail at startup with <code>Error in memory profiling</code>, when another process frees memory while vLLM measures what&apos;s available. On shared memory, that happens if another model is loading or shutting down. Start the model again once the box is quiet.</p><h2 id="step-4-put-one-endpoint-in-front">Step 4: Put one endpoint in front</h2><p><a href="https://github.com/BerriAI/litellm">LiteLLM</a> gives every client one OpenAI-compatible endpoint. Each job is a named route, so you can swap the model behind a route without touching any client. LiteLLM also handles virtual keys, teams, and budgets in its open-source version.</p><p>Each route in LiteLLM&apos;s <code>config.yaml</code> points at a backend. This excerpt shows three of them:</p><pre><code class="language-yaml">model_list:
+  - model_name: qwen3.6                 # main model: chat, coding, vision, extraction
+    litellm_params:
+      model: hosted_vllm/qwen3.6-35b
+      api_base: http://host.docker.internal:8001/v1
+      api_key: os.environ/BACKEND_API_KEY
+
+  - model_name: whisper
+    litellm_params:
+      model: openai/whisper-large-v3-turbo
+      api_base: http://host.docker.internal:8101/v1
+      api_key: os.environ/BACKEND_API_KEY
+    model_info:
+      mode: audio_transcription
+
+  - model_name: image                   # Z-Image-Turbo on vLLM-Omni
+    litellm_params:
+      model: openai/z-image-turbo
+      api_base: http://host.docker.internal:8103/v1
+      api_key: os.environ/BACKEND_API_KEY
+    model_info:
+      mode: image_generation
+
+litellm_settings:
+  drop_params: true                     # needed for the image route, see below
+
+general_settings:
+  master_key: os.environ/LITELLM_MASTER_KEY
+  database_url: os.environ/DATABASE_URL
+</code></pre><p>Keep <code>drop_params: true</code>. Without it, LiteLLM rejects any image request that sets <code>response_format</code> with a 400 error, because it doesn&apos;t map that field for a self-hosted image model. With it, LiteLLM drops the field, and vLLM-Omni returns the image as base64 anyway.</p><p>LiteLLM runs in Docker too. To let it reach the backends, map <code>host.docker.internal</code> to the host in its Compose service:</p><pre><code class="language-yaml">    extra_hosts:
+      - &quot;host.docker.internal:host-gateway&quot;
+</code></pre><p>The backends listen only on Docker&apos;s bridge network and require a shared key, so LiteLLM is the only service on the office network. Point LiteLLM at the bridge, not at the box&apos;s LAN address. If you use the LAN address, the backends refuse the connection, because they aren&apos;t listening there.</p><p>Pin LiteLLM by image digest, and use version 1.84.0 or later. Two PyPI releases were backdoored in March 2026, and 1.84.0 fixed two authentication bypasses. I ran 1.99.1.</p><p>Any OpenAI client now works against the DGX Spark. This Python example calls three different models through the same client:</p><pre><code class="language-python">from openai import OpenAI
+
+client = OpenAI(base_url=&quot;http://&lt;spark-ip&gt;:4000/v1&quot;, api_key=&quot;&lt;your-litellm-key&gt;&quot;)
+
+reply = client.chat.completions.create(
+    model=&quot;qwen3.6&quot;,
+    messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Draft a two-line reply confirming Tuesday&apos;s delivery.&quot;}],
+)
+
+with open(&quot;call.wav&quot;, &quot;rb&quot;) as audio:
+    transcript = client.audio.transcriptions.create(model=&quot;whisper&quot;, file=audio)
+
+image = client.images.generate(
+    model=&quot;image&quot;,
+    prompt=&quot;a delivery van outside a bakery at dawn&quot;,
+    size=&quot;1024x1024&quot;,
+    extra_body={&quot;num_inference_steps&quot;: 8},
+)
+</code></pre><p><code>num_inference_steps</code> isn&apos;t an OpenAI parameter, so it goes in <code>extra_body</code>. LiteLLM passes it through to vLLM-Omni. The next section explains why it matters.</p><h2 id="step-5-connect-n8n">Step 5: Connect n8n</h2><p>n8n&apos;s OpenAI credential accepts a custom base URL, so n8n can talk to the DGX Spark the same way it talks to OpenAI. To point n8n at the DGX Spark, follow these steps:</p><ol><li>Create a LiteLLM virtual key for the team that owns the workflows, limited to the routes they need. This command creates one with the LiteLLM master key and prints it:</li></ol><pre><code class="language-bash">curl -s http://&lt;spark-ip&gt;:4000/key/generate \
+  -H &quot;Authorization: Bearer &lt;your-litellm-master-key&gt;&quot; -H &apos;Content-Type: application/json&apos; \
+  -d &apos;{&quot;key_alias&quot;: &quot;n8n-accounts&quot;, &quot;models&quot;: [&quot;qwen3.6&quot;, &quot;ocr&quot;]}&apos;
+</code></pre><ol start="2"><li>In n8n, create an <strong>OpenAI</strong> credential.</li><li>Enter the virtual key in <strong>API Key</strong>.</li><li>Set <strong>Base URL</strong> to <code>http://&lt;spark-ip&gt;:4000/v1</code>.</li></ol><p>Because each team gets its own virtual key, LiteLLM tracks spend and usage per team, even though nothing is billed per token.</p><p>To use the DGX Spark from an <strong>AI Agent</strong> or a <strong>Basic LLM Chain</strong>, add an <strong>OpenAI Chat Model</strong> node with this credential, and set its model <strong>By ID</strong> to a LiteLLM route name, such as <code>qwen3.6</code>. Then turn off <strong>Use Responses API</strong> in the node&apos;s options. From version 1.3, the node calls OpenAI&apos;s newer Responses API by default, and the DGX Spark&apos;s models are served through chat completions.</p><h3 id="workflow-read-an-invoice">Workflow: read an invoice</h3><p>This workflow gives you a web form. Upload an invoice image, and the form shows you the supplier, invoice number, date, and total, with no cloud call anywhere. <a href="https://n8n.io/workflows/21011-extract-invoice-details-from-images-with-dgx-spark-ocr-and-qwen36/">Get the template</a>.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/dgx-spark-invoice-workflow.png" class="kg-image" alt="Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API" loading="lazy" width="2000" height="1018" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/dgx-spark-invoice-workflow.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/dgx-spark-invoice-workflow.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/dgx-spark-invoice-workflow.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/dgx-spark-invoice-workflow.png 2048w" sizes="(min-width: 720px) 720px"></figure><p>It has six nodes:</p><ol><li><strong>Upload invoice</strong> (n8n Form Trigger) serves a form with one file field.</li><li><strong>Image to base64</strong> (Extract from File) turns the upload into a base64 string.</li><li><strong>OCR on the DGX Spark</strong> (HTTP Request) sends the image to the <code>ocr</code> route and gets the page back as text.</li><li><strong>Extract fields with Qwen3.6</strong> (HTTP Request) asks <code>qwen3.6</code> for supplier, invoice number, date, total, and currency as JSON.</li><li><strong>Invoice fields</strong> (Edit Fields) turns the reply into one item with those five fields.</li><li><strong>Show the fields</strong> (Form Ending) shows them on the form&apos;s result page.</li></ol><p>To file invoices automatically, swap the form for an <strong>Email Trigger (IMAP)</strong> node, and the result page for a <strong>Postgres</strong> or <strong>Google Sheets</strong> node.</p><p>Both HTTP Request nodes use the OpenAI credential from the previous section, so they send the same key. They use HTTP Request rather than the <strong>OpenAI</strong> node because each call needs a field the <strong>OpenAI</strong> node doesn&apos;t set: an image in the OCR call, and a thinking switch in the extraction call. This is the body of the extraction request:</p><pre><code class="language-javascript">{
+  model: &apos;qwen3.6&apos;,
+  max_tokens: 512,
+  temperature: 0,
+  chat_template_kwargs: { enable_thinking: false },
+  messages: [{ role: &apos;user&apos;, content: &apos;Extract supplier name, invoice number, invoice date, total amount and currency from this OCR text. Reply with one JSON object and nothing else. Use null for anything missing.\n\n&apos; + &#x24;json.choices[0].message.content }]
+}
+</code></pre><p><code>chat_template_kwargs</code> turns off the model&apos;s thinking for this call, and that&apos;s where the speed comes from. I tested it on a clean, single-page sample invoice:</p>
+<!--kg-card-begin: html-->
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>With thinking</th>
+<th>Thinking off</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>OCR, one page</td>
+<td>1.8s</td>
+<td>1.8s</td>
+</tr>
+<tr>
+<td>Extraction</td>
+<td>12.1s, 1,616 tokens</td>
+<td>0.59s, 76 tokens</td>
+</tr>
+</tbody>
+</table>
+<!--kg-card-end: html-->
+<p>With thinking on, the model wrote 1,538 reasoning tokens before a 78-token answer. With thinking off, it got all five fields right in under a second. For fixed-format extraction, turn thinking off.</p><p>OCR read every line item and total correctly, but it dropped one zero from a VAT ID. Validate IDs before you file them. The form accepts PNG and JPEG files. Convert PDF invoices to images first, because GLM-OCR takes images.</p><p>A scanned or photographed invoice is harder than this clean page, so test OCR on your own documents before you rely on it.</p><h3 id="other-workflows-the-same-stack-serves">Other workflows the same stack serves</h3><ul><li><strong>Call summaries:</strong> Whisper transcribes a recording, <code>qwen3.6</code> summarizes it, and Kokoro reads the summary back for a voicemail or an internal update.</li><li><strong>Answers from your own documents:</strong> <code>embed</code> fills a vector store, <code>rerank</code> orders the matches, and an <strong>AI Agent</strong> on <code>qwen3.6</code> answers with them.</li></ul><h2 id="what-one-dgx-spark-measured">What one DGX Spark measured</h2><p>All numbers come from one benchmark run on October 13, 2026, on vLLM 0.30.0 with pinned model commits. Your numbers will differ with other images, models, or prompts. Every chat prompt started with a random tag, so the prefix cache couldn&apos;t flatter the results.</p><h3 id="chat-speed">Chat speed</h3>
+<!--kg-card-begin: html-->
+<table>
+<thead>
+<tr>
+<th>Users</th>
+<th>Time to first token (median)</th>
+<th>Tokens per second per user</th>
+<th>Tokens per second total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>0.11s</td>
+<td>120</td>
+<td>87</td>
+</tr>
+<tr>
+<td>4</td>
+<td>0.21s</td>
+<td>68</td>
+<td>242</td>
+</tr>
+<tr>
+<td>8</td>
+<td>0.29s</td>
+<td>47</td>
+<td>359</td>
+</tr>
+</tbody>
+</table>
+<!--kg-card-end: html-->
+<p>Per-user speed is the median generation speed of each request, measured after its first token. Total is all tokens generated divided by the test&apos;s elapsed time, so it also counts time to first token and any slower requests. In the single-user run, one of the five requests ran at 43 tokens per second while the other four ran at 117 to 129, which pulls the total down to 87.</p><p>With an 8,537-token prompt, the first token took 1.14 seconds.</p><p>Per-user speed falls as users are added, but total throughput keeps climbing. That&apos;s batching at work: vLLM serves several users in each pass over the weights.</p><h3 id="every-other-job">Every other job</h3>
+<!--kg-card-begin: html-->
+<table>
+<thead>
+<tr>
+<th>Job</th>
+<th>Task</th>
+<th>Seconds (median of 3)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Text to speech</td>
+<td>One paragraph, 30 seconds of audio</td>
+<td>0.87</td>
+</tr>
+<tr>
+<td>Speech to text</td>
+<td>Transcribe that clip</td>
+<td>0.58</td>
+</tr>
+<tr>
+<td>Image generation</td>
+<td>One 1024x1024 image, 8 steps</td>
+<td>12.2</td>
+</tr>
+<tr>
+<td>OCR</td>
+<td>One page</td>
+<td>1.80</td>
+</tr>
+<tr>
+<td>Extraction</td>
+<td>OCR text to invoice JSON, thinking off</td>
+<td>0.59</td>
+</tr>
+<tr>
+<td>Embeddings</td>
+<td>32 passages</td>
+<td>0.18</td>
+</tr>
+<tr>
+<td>Reranking</td>
+<td>32 candidates</td>
+<td>0.03</td>
+</tr>
+</tbody>
+</table>
+<!--kg-card-end: html-->
+<p>Speech is far faster than real time in both directions: 30 seconds of audio in under a second each way. Whisper&apos;s transcript was accurate, but it added a &quot;Thank you.&quot; at the end that isn&apos;t in the audio. Whisper is known to invent text on silence, so trim trailing silence before you transcribe.</p><p>Set the step count for image generation yourself. Z-Image-Turbo is built to make an image in about 8 steps, but vLLM-Omni&apos;s default ran about 48 at 1.5 seconds each, which took 72 seconds per image. At 8 steps, the same 1024x1024 image took 12.2 seconds.</p><h3 id="chat-while-an-image-generates">Chat while an image generates</h3><p>Every model on the box shares one GPU. Fitting in memory doesn&apos;t mean running well together. I couldn&apos;t find a published DGX Spark benchmark for this, so I measured it. I generated 1024px images back to back, at the server&apos;s default step count, while running the chat test again.</p>
+<!--kg-card-begin: html-->
+<table>
+<thead>
+<tr>
+<th>Users</th>
+<th>Tokens per second per user, alone</th>
+<th>With images generating</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>122</td>
+<td>38</td>
+<td>-69%</td>
+</tr>
+<tr>
+<td>4</td>
+<td>69</td>
+<td>24</td>
+<td>-65%</td>
+</tr>
+</tbody>
+</table>
+<!--kg-card-end: html-->
+<p>While images were generating, chat ran at about a third of its normal speed, and the images slowed down too, from 73 seconds to between 85 and 122.</p><p>One DGX Spark holds the whole stack, but it can&apos;t run image generation without slowing everyone&apos;s chat. For a small team, queue image jobs or run them outside working hours. Once image generation is part of the daily work, move media to a second DGX Spark and keep the first for text.</p><h2 id="the-license-problem">The license problem</h2><p>Model quality wasn&apos;t the hard part. Licenses were.</p><p>Several of the best open text-to-speech and image models don&apos;t allow commercial use. The FLUX models that compete with Z-Image-Turbo are non-commercial or need a separately priced license. The strongest open image model at the time of writing, Qwen-Image-2.1, ships under a research license. Some repositories even have a non-commercial twin next to a permissive original, so caching the wrong repository ID changes your license.</p><p>The rules this stack follows:</p><ul><li>Allow only Apache 2.0, MIT, CC-BY-4.0, OpenMDW, and the NVIDIA Open Model License.</li><li>Pin every model to a Hugging Face commit, so a license change upstream can&apos;t land silently.</li><li>Credit CC-BY-4.0 models in your documentation.</li></ul><p>This isn&apos;t legal advice. Have someone review every pinned license before you sell or deploy this for a client.</p><h2 id="what-to-watch-for">What to watch for</h2><ul><li>New checkpoints can need a newer vLLM than the one you pinned, and the error won&apos;t say so. Check the version inside the image first.</li><li><code>faster-whisper</code> has no CUDA build for arm64, so tools built on it run on the CPU without telling you.</li><li>This stack uses vLLM rather than Ollama, which ships in the starter kit. Ollama suits one person on a laptop. For a team, vLLM batches requests from many users into each pass over the weights, which is where the multi-user throughput comes from.</li></ul><h2 id="try-it">Try it</h2><ul><li>Import the <a href="https://n8n.io/workflows/21011-extract-invoice-details-from-images-with-dgx-spark-ocr-and-qwen36/">invoice workflow template</a>.</li><li>Start smaller with the <a href="https://github.com/n8n-io/self-hosted-ai-starter-kit">self-hosted AI starter kit</a> if you don&apos;t have a DGX Spark yet.</li></ul><p>If you run this on your own DGX Spark, share your numbers on the <a href="https://community.n8n.io">n8n community forum</a>.</p>]]></content:encoded></item><item><title><![CDATA[12 Best Enterprise Workflow Automation Platforms]]></title><description><![CDATA[Compare the top enterprise workflow automation platforms for technical teams. See how each tool handles control, scale, and AI workflows.]]></description><link>https://blog.n8n.io/enterprise-workflow-automation/</link><guid isPermaLink="false">6acfb9db255d2a00012cc091</guid><category><![CDATA[Guides]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 16 Oct 2026 17:24:47 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--21-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--21-.jpeg" alt="12 Best Enterprise Workflow Automation Platforms"><p>Enterprise workflow automation gets harder as soon as a workflow leaves one team. Now you&apos;re connecting legacy systems to SaaS apps, enforcing access controls, and figuring out how AI fits without creating another infrastructure problem.</p><p>Some workflow automation software is built around IT service management, iPaaS, or BPM, and other <a href="https://blog.n8n.io/ai-agent-frameworks/"><u>AI agent frameworks</u></a> add more options to the mix. This guide compares 12 leading platforms so you can find the model that fits your stack.</p><h2 id="what-to-look-for-in-an-enterprise-automation-platform">What to look for in an enterprise automation platform</h2><p>The differences between automation tools start to really matter once workflows span teams, systems, and sensitive data. These five factors help separate tools built for production environments from those better suited to simpler, team-level automations.</p><p></p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/12-tools-map-white--1---1-.png" class="kg-image" alt="12 Best Enterprise Workflow Automation Platforms" loading="lazy" width="1200" height="896" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/12-tools-map-white--1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/12-tools-map-white--1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/12-tools-map-white--1---1-.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">This article covers 12 tools in different categories. The diagram positions all of them across two dimensions: self-hosted versus cloud-only and simple iPaaS versus complex BPM / code-first platforms</em></i></figcaption></figure><h3 id="deployment-and-data-residency">Deployment and data residency</h3><p>Start with where the platform runs and where your workflow data goes. SaaS platforms reduce infrastructure overhead, while self-hosted options give you more control over data residency and ownership. For regulated industries or strict security environments, considering that point lets you rule out platforms before comparing other factors.</p><h3 id="integration-breadth">Integration breadth</h3><p>An enterprise platform needs to connect more than common SaaS apps: Legacy systems, internal services, databases, and proprietary APIs all need a place, so look beyond the number of prebuilt connectors. Generic HTTP requests&#xa0; and custom code give technical teams a way to connect systems that don&apos;t have a native integration.</p><h3 id="governance">Governance</h3><p>The more people building automations, the more important it becomes to control who can change what. Look for SSO, role-based access control (RBAC), audit logging, and credential management. These features help you govern who can build and run workflows without involving an engineering team, a limited resource.&#xa0;</p><h3 id="ai-and-agentic-capability">AI and agentic capability</h3><p>AI support now goes beyond adding an LLM call to a workflow. If agents are part of your roadmap, ask what they can actually do once they&#x2019;re running: Can they use different models, access business systems, involve a human when needed, and work alongside deterministic workflow steps? Look for a platform that handles all those pieces instead of leaving your team to bolt on the orchestration, integrations, and governance.</p><h3 id="cost-model">Cost model</h3><p>Pricing can change significantly as automation scales. Some platforms charge per user, while others charge per task or action. Self-hosted software shifts more of the cost toward infrastructure and engineering ownership. Run the numbers against the volume you expect tomorrow, not just what you&#x2019;re automating today. A pricing model that seems cheap during a pilot may look very different as adoption grows.</p><h2 id="the-top-12-enterprise-workflow-automation-tools">The top 12 enterprise workflow automation tools</h2><p>Enterprise workflow automation software spans several categories, from iPaaS and ITSM suites to BPM and developer-focused orchestration. The best fit depends on what you&apos;re automating, how much infrastructure you want to control, and who needs to build and maintain the workflows.</p><h3 id="n8n">n8n</h3><p><strong>Best for: </strong>Technical teams that want source-available, self-hostable automation without locking their AI stack to one provider</p><p>n8n is a source-available, AI-native automation platform built for teams that don&#x2019;t want to choose between visual automation and owning the technical details.&#xa0;</p><p>You can self-host workflows and keep data in your infrastructure, switch between AI providers as requirements change, and use the <a href="http://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.code"><u>Code node</u></a> when visual building or the <a href="https://n8n.io/integrations/"><u>1000+ integrations</u></a> don&apos;t cover an edge case. Depending on the tier, it also offers governance features like <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/basic-configuration/use-environment-variables/sso"><u>SSO</u></a>, <a href="https://docs.n8n.io/administer/manage-users-and-access/set-permissions-and-roles-rbac"><u>RBAC</u></a>, and <a href="https://docs.n8n.io/administer/observe-and-log/stream-logs-to-external-systems"><u>audit logging</u></a>.</p><p>AI is built into the same orchestration layer. The <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI Agent node</u></a> lets you build agents that use external tools, while the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolaiagent"><u>AI Agent Tool node</u></a> lets a primary agent delegate tasks to other agents. For self-hosted deployments, a Redis-backed <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/scaling/enable-queue-mode"><u>queue mode</u></a> distributes executions across workers as volume grows.</p><p>That flexibility comes with a bit of a learning curve. n8n expects more technical comfort than a simple no-code SaaS tool, especially if you&apos;re self-hosting or building complex workflows. But it&#x2019;s straightforward enough for non-technical teams to ease into.</p>
 <!--kg-card-begin: html-->
 <div class="content-banner">
   <div>
@@ -307,4 +622,4 @@
   <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud free</a>
 </div>
 <!--kg-card-end: html-->
-]]></content:encoded></item><item><title><![CDATA[Try new models and services, skip the account setup]]></title><description><![CDATA[Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential. Six model providers and five tool services work right out of the box.]]></description><link>https://blog.n8n.io/gateway-credits/</link><guid isPermaLink="false">6a9fc3d0c65a17000140b497</guid><dc:creator><![CDATA[Desiree Lockwood, n8n]]></dc:creator><pubDate>Wed, 16 Sep 2026 23:39:42 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/Gateway-credits-Blog-16_9.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/Gateway-credits-Blog-16_9.jpg" alt="Try new models and services, skip the account setup"><p>Trying a template or building a workflow in n8n can sometimes lead you on an unexpected detour to a service provider&#x2019;s signup page. Before you can find out what an unfamiliar node adds to your automation, you may need to create an account, add a payment method, generate an API key, and set up the credential in n8n. When you&#x2019;re short on time or simply exploring, that pause can be enough to keep a promising idea from getting its first run.</p><p>That new account creation no longer has to come before the satisfying sight of green checkmarks. Now, when you add a node for a supported AI model or service on self-service <strong>n8n Cloud</strong> plans, everything you need to run it is already available in n8n. Just select <a href="https://docs.n8n.io/deploy/use-n8n-cloud/gateway-credits#how-gateway-credits-work" rel="noreferrer"><strong>Gateway credits</strong></a> instead of adding your own provider credentials. Usage comes from a shared prepaid balance in n8n, so you can get to work without creating another account or managing another API key. For teams that allow it, one shared balance can also mean fewer vendor accounts, invoices, and expense reports to manage.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/white-background-choose-credits.png" class="kg-image" alt="Try new models and services, skip the account setup" loading="lazy" width="651" height="579" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/white-background-choose-credits.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/white-background-choose-credits.png 651w"></figure><p>We also wanted the cost side to be boring in a good way. Our aim is to follow each provider&#x2019;s published list price wherever one exists and put every rate on a <a href="https://app.n8n.cloud/service-pricing" rel="noopener noreferrer">single public page</a> you can check before you run anything. Your balance is shown in real currency, and the Cloud Admin Panel lets you see how it is being used by workflow or by service. We didn&#x2019;t build this to add a premium for the convenience. It&apos;s the shortest path we could find between you and a tool that does something useful today. If you later decide you&#x2019;d like a direct relationship with the provider, bringing your own key works exactly like it always has.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f449;</div><div class="kg-callout-text"><b><strong style="white-space: pre-wrap;">What gets shared:</strong></b> When you use Gateway credits, the selected provider receives the content of the request, such as a prompt or document, but not your identity or n8n account details.</div></div><p>You can also use Gateway credits for supported nodes using <a href="https://blog.n8n.io/introducing-n8n-assistant/" rel="noopener noreferrer">n8n Assistant</a> to move from a natural-language prompt to a working automation. Whether you start with a template, a blank canvas, or a prompt, there are now fewer steps between your idea and its first successful run.</p><h3 id="where-you-can-use-gateway-credits-today">Where you can use Gateway credits today</h3><p>Getting to a first run is only part of it. Gateway credits also make it easier to experiment with workflows you already use, whether that means trying a different model or adding a tool you&#x2019;ve been curious about.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/new-hero.png" class="kg-image" alt="Try new models and services, skip the account setup" loading="lazy" width="1792" height="966" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/new-hero.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/new-hero.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/09/new-hero.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/new-hero.png 1792w" sizes="(min-width: 720px) 720px"></figure><p>Six model providers and five tool services are available with Gateway credits today.</p><h3 id="model-providers">Model providers</h3><p>Reach for some of the most recognized providers like <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.anthropic" rel="noreferrer">Anthropic</a>, <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.googlegemini" rel="noreferrer">Google Gemini</a>, and <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.openai" rel="noreferrer">OpenAI</a>, or try one of these open models you might not have had a chance to use yet.</p><ul><li><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.alibabacloud">Alibaba Cloud</a> (Qwen Cloud Node)<strong>:</strong> Build coding agents for complex enterprise, research, and long-horizon tasks with the world&apos;s largest open-source model family.</li><li><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.moonshot">Kimi.ai</a>: Hand long-horizon coding and research tasks to an open model built to stay on track across many steps, with thinking and instant modes depending on the job.</li><li><a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-langchain.minimax">MiniMax</a>: Use M3 for coding and agentic work across a 1M-token context, or H3 for omni-modal video generation.</li></ul><h3 id="tool-services">Tool services</h3><ul><li><a href="https://n8n.io/integrations/brave-search/">Brave Search</a>:Grounds AI apps in real-time results from its own 40-billion-page index &#x2014; no Google scraping, no upstream dependencies, structural ZDR, and simple, affordable pricing.</li><li><a href="https://n8n.io/integrations/browserbase-agent/">Browserbase</a>: Give your workflows browser agents that navigate, click, type, and extract structured data from websites, then pass the results into the rest of an automation or agent.</li><li><a href="https://n8n.io/integrations/firecrawl/">Firecrawl</a>: Turn websites into LLM-ready data by scraping dynamic pages, parsing media, and crawling entire sites. Firecrawl handles JavaScript, rate limits, and proxies for any AI workflow</li><li><a href="https://n8n.io/integrations/llamaparse-platform/">LlamaParse</a>: Agentic OCR that turns complex enterprise documents into AI-ready context and structured data at the Pareto frontier of cost and accuracy.</li><li><a href="https://n8n.io/integrations/pdfco-api/">PDF.co</a>: Generate, convert, and extract PDFs in a single node. HTML to PDF, PDF to structured data, merge, split, and fill.</li></ul><p>These eleven providers and services are where we&#x2019;re starting, not where we&#x2019;re stopping. Expect the list to keep growing.</p><h3 id="what-this-gets-you-in-practice">What this gets you in practice</h3><p>Take something ordinary: a competitive intelligence workflow that delivers a useful update each week.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/no-gmail.png" class="kg-image" alt="Try new models and services, skip the account setup" loading="lazy" width="1758" height="750" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/no-gmail.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/no-gmail.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/09/no-gmail.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/no-gmail.png 1758w" sizes="(min-width: 720px) 720px"></figure><p>Start by building on the canvas directly or describing the workflow to n8n Assistant in natural language. When using n8n Assistant, it will apply Gateway credits if you name a supported service and don&#x2019;t already have a credential for it. </p><p>For this workflow, that might begin with <a href="https://brave.com/search/api/">Brave Search</a>, which finds recent product announcements, news coverage, and other changes across the live web. Results come from Brave&#x2019;s own independent index, giving the workflow current sources it can pass directly into the rest of the research and analysis.</p><p>Search gets you most of the way, but some useful details may sit on an interactive pricing page or a changelog that only reveals its content after the page loads or someone clicks through it. <a href="https://www.browserbase.com/">Browserbase</a> can open those pages in a managed cloud browser, navigate, click, type, and extract the information your workflow needs. This complex and time-consuming task that is often required for in-depth research, is handled quickly by adding the node.</p><p>Then there are the product briefs, analyst reports, and PDFs that the search turns up. A basic extractor can flatten a carefully structured table into something unrecognizable, leaving the model downstream with guesswork. <a href="https://www.llamaindex.ai/">LlamaParse</a> combines layout-aware computer-vision, OCR, and vision-language models to parse these complex documents into structured content that preserves more of the tables, headings, and layouts that give the information meaning.</p><p>Finally, choose any of the supported models to bring the findings together, compare them with last week&#x2019;s report, identify what changed, and draft the update. Add your unique parameters and you&#x2019;ve got comprehensive competitive intelligence from real expert providers without ever leaving your n8n editor to set up a new account.</p><p>That is only one way to combine the services available at launch. For knowledge bases and research agents, <a href="https://www.firecrawl.dev/">Firecrawl</a> can crawl an entire site and return LLM-ready markdown or structured data. For document workflows, <a href="http://pdf.co/">PDF.co</a> can turn generated content into polished PDFs, extract structured data, or merge, split, and fill files in one node.</p><h3 id="more-choice-managed-in-a-single-balance"><strong>More choice, managed in a single balance</strong></h3><p>Once you&#x2019;re running more than a handful of workflows, or even one complex one, provider sprawl can become its own maintenance job. Setting up accounts, tracking multiple dashboards, and managing expense reports all add work. Gateway credits come from one balance shared across your n8n instance, giving you one number to watch and one place to top up. From the Cloud Admin Panel, you can track usage by service and workflow, add funds, or set up automatic top-ups.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f449;</div><div class="kg-callout-text"><b><strong style="white-space: pre-wrap;">Instance controls:</strong></b> Instance owners can turn Gateway credits on or off for everyone on the instance from Workspace settings in the Cloud Admin dashboard.</div></div><p>A shared balance across services also gives you and your team more freedom to choose the model or tool that fits each part of a workflow best, instead of defaulting to one because its credentials are already in place. Try a model you&#x2019;ve been curious about, or add a new service to a workflow you already run. You&#x2019;ll be able to find out how it affects your workflow before committing to another provider account.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/screen-billing-2.png" class="kg-image" alt="Try new models and services, skip the account setup" loading="lazy" width="1133" height="1122" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/screen-billing-2.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/screen-billing-2.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/screen-billing-2.png 1133w" sizes="(min-width: 720px) 720px"></figure><h3 id="where-this-goes-next">Where this goes next</h3><p>Six model providers and five tool services are only the starting point. We&#x2019;re already working on the next curated batch, focusing on the APIs and capabilities people use most. Beyond that, we&#x2019;re exploring how Gateway credits can support many more providers and give teams more control over how credits are managed across an instance.</p><p>Gateway credits are available on n8n Cloud Starter and Pro today. We also want to bring the same experience to self-hosted instances over time, though that requires additional infrastructure and is not part of this release.</p><h3 id="your-n8n-cloud-account-may-already-have-gateway-credits">Your n8n Cloud account may already have Gateway credits</h3><p>Eligible new Cloud accounts, including <a href="https://app.n8n.cloud/login?utm_campaign=2026_in_the_loop&amp;utm_content=node-partner&amp;utm_instance=test-workflow-builder.stage-app.n8n.cloud/&amp;utm_n8n_version=1.80.0&amp;utm_medium=referral&amp;utm_user_role=sales-and-marketing&amp;utm_awc=0&amp;utm_source=slack&amp;_gl=1*si9z7g*_gcl_au*ODQ3NTI5NTc0LjE3ODYzNzY2OTk.*_ga*NTkwNzQ5Ny4xNzYzNDgxNjEy*_ga_0SC4FF2FH9*czE3ODk1OTI4MzIkbzg2MCRnMCR0MTc4OTU5MjgzMiRqNjAkbDAkaDA.&amp;ajs_aid=0f0eabae-1f3f-42d1-b459-80d8aa3f2aa8&amp;ajs_uid=105983">trials</a>, start with a small balance of Gateway credits. Existing paying Starter and Pro Cloud customers also received a one-time allowance during the rollout.</p><p>Spend it on something you&#x2019;ve wanted to try. Put a frontier model from <a href="https://openai.com/" rel="noreferrer">OpenAI</a>, <a href="https://www.anthropic.com/" rel="noreferrer">Anthropic</a>, or <a href="https://gemini.google.com/" rel="noreferrer">Google Gemini</a> to work on a new idea. If you&#x2019;ve been curious about open models, see what <a href="https://www.kimi.ai/" rel="noreferrer">Kimi.ai</a>, <a href="https://www.alibabacloud.com/en?_p_lc=7" rel="noreferrer">Alibaba Cloud</a>, or <a href="https://www.minimax.io/" rel="noreferrer">MiniMax</a> can do in a workflow you already run. If you want to give an agent better access to the web, try <a href="https://brave.com/search/api/" rel="noreferrer">Brave Search</a>, <a href="https://www.firecrawl.dev/" rel="noreferrer">Firecrawl</a>, or <a href="https://www.browserbase.com/" rel="noreferrer">Browserbase</a>. If documents are where your workflow gets stuck, try <a href="https://www.llamaindex.ai/" rel="noreferrer">LlamaParse</a> or <a href="http://pdf.co/">PDF.co</a>.</p><p>Whatever you choose, Gateway credits make it easier to put a new model or service to work without leaving the canvas.</p>]]></content:encoded></item></channel></rss>
+]]></content:encoded></item></channel></rss>
