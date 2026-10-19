@@ -394,14 +394,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	
 		<div class="popular-tags mb-1 mb-md-4 mt-5">
 
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/rghqr/" class="e-link badge badge-grey">Étude</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ertyrzragngvba/" class="e-link badge badge-grey">Réglementation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
@@ -1347,11 +1347,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 				<p class="h3 pb-3">Thèmes populaires</p>
 
-									<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge">Interviews</a>
 									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
+									<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge">Interviews</a>
 									<a href="https://www.blogdumoderateur.com/dossier/strategie-digitale/" class="badge">Stratégie digitale</a>
-									<a href="https://www.blogdumoderateur.com/dossier/seo/" class="badge">SEO</a>
 									<a href="https://www.blogdumoderateur.com/dossier/travailler-digital/" class="badge">Travailler dans le digital</a>
+									<a href="https://www.blogdumoderateur.com/dossier/seo/" class="badge">SEO</a>
 									<a href="https://www.blogdumoderateur.com/dossier/culture-web/" class="badge">Culture web</a>
 				
 			</div>
@@ -1578,8 +1578,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">Vous ne voulez que le meilleur de l&#039;actualité digitale&nbsp;?</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous simplement à notre newsletter&nbsp;:</div>
+					<div class="h2">Enfin une newsletter efficace&nbsp;!</div>
+					<div class="nl-title pt-1 pb-4 h3bis">Gagnez du temps, abonnez-vous&nbsp;:</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1587,8 +1587,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<form action="/wp-admin/admin-ajax.php" method="post" class="form_nl form-valid" data-param="footer">
 				
 					<div class="input-div d-flex">
-						<input type="hidden" name="cord_theme" value="Veille">
-						<input type="hidden" name="cord_title" value="Vous ne voulez que le meilleur de l'actualité digitale&nbsp;?">
+						<input type="hidden" name="cord_theme" value="Efficacité">
+						<input type="hidden" name="cord_title" value="Enfin une newsletter efficace&nbsp;!">
 						<input type="hidden" name="cord_bg_color" value="bg-blue100">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
@@ -1623,8 +1623,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-bgl.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1635,8 +1635,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/veille-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/efficacite-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
@@ -1769,7 +1769,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1792430167|66b46750a56dd0f218a48c756dc719dc507b78e2bf62c3e057e31332bafcfbc4">
+		<input type="hidden" name="hwh_form_ts" value="1792444631|33876eab7d9cef82edbd77ca18fe17b5fbc65d28d713081d6c2619ddbf40575a">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -2007,7 +2007,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1792430167|66b46750a56dd0f218a48c756dc719dc507b78e2bf62c3e057e31332bafcfbc4">
+		<input type="hidden" name="hwh_form_ts" value="1792444631|33876eab7d9cef82edbd77ca18fe17b5fbc65d28d713081d6c2619ddbf40575a">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
