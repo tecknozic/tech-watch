@@ -9,18 +9,26 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 02:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 10:39:20 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Elon Musk says Tesla-SpaceX merger being considered]]></title>
+            <title><![CDATA[Elon Musk confirms he is considering merging Tesla and SpaceX]]></title>
             <description><![CDATA[Musk says special committees within both companies have been formed to look at a possible mega-merger.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#0</guid>
-            <pubDate>Tue, 20 Oct 2026 23:24:47 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2026 08:42:49 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?]]></title>
+            <description><![CDATA[Musk says there's "a lot to be gained" by combining the firms in what would be the biggest merger in history.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr93z1e87e0do#0</guid>
+            <pubDate>Wed, 21 Oct 2026 06:36:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"/>
         </item>
         <item>
             <title><![CDATA[The tech helping crack decades-old cold cases]]></title>
@@ -113,14 +121,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Toxic algorithms wouldn't let them go - now Australia wants an off switch]]></title>
-            <description><![CDATA[The Australian government hopes to protect social media users from being served content they don't want to see.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo#0</guid>
-            <pubDate>Fri, 16 Oct 2026 18:11:29 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The next generation of chip is thinner and flexible when compared to traditional silicon.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&amp;at_campaign=rss</link>
@@ -192,12 +192,10 @@
 		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
 		<pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[policy]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179755</guid>
 
-					<description><![CDATA[The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. ]]></description>
+					<description><![CDATA[The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. ]]></description>
 		
 		
 		
@@ -209,12 +207,12 @@
 		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
 		<pubDate>Tue, 20 Oct 2026 22:24:02 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Clem Delangue]]></category>
 		<category><![CDATA[Hugging Face]]></category>
 		<category><![CDATA[Netflix]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179822</guid>
 
-					<description><![CDATA[Before you share the Netflix documentary "AI Gone Rogue" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.]]></description>
+					<description><![CDATA[Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.]]></description>
 		
 		
 		
@@ -228,6 +226,7 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[cloud compute]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179891</guid>
 
 					<description><![CDATA[Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.]]></description>
@@ -248,7 +247,7 @@
 		<category><![CDATA[SpaceX]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179777</guid>
 
-					<description><![CDATA[SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine. ]]></description>
+					<description><![CDATA[SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine. ]]></description>
 		
 		
 		
@@ -260,8 +259,8 @@
 		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
 		<pubDate>Tue, 20 Oct 2026 20:35:10 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[biotech]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179783</guid>
 
@@ -278,7 +277,6 @@
 		<pubDate>Tue, 20 Oct 2026 18:38:24 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Google]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179702</guid>
 
@@ -313,27 +311,43 @@
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[Eric Schmidt]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179732</guid>
 
-					<description><![CDATA[The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.]]></description>
+					<description><![CDATA[Eric Schmidt’s fortune is about to get even bigger. ]]></description>
 		
 		
 		
 			</item>
 <item>
-		<title>Meta&#8217;s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps</title>
+		<title>Meta&#8217;s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps</title>
 		<link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ai apps]]></category>
 		<category><![CDATA[Meta]]></category>
 		<category><![CDATA[muse]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179696</guid>
 
-					<description><![CDATA[Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.]]></description>
+					<description><![CDATA[New data also shows Muse is retaining users at higher rates than its AI rivals.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in its LEGO era&#8217;</title>
+		<link>https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 16:20:06 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[equitypod]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3179644</guid>
+
+					<description><![CDATA[It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity. ]]></description>
 		
 		
 		
@@ -407,6 +421,22 @@
 		
 			</item>
 <item>
+		<title>Yelp can now call on your behalf to check wait times at a restaurant</title>
+		<link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Yelp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3178995</guid>
+
+					<description><![CDATA[Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Otter AI raises $320M from General Catalyst&#8217;s growth fund for its meeting tool</title>
 		<link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
 		
@@ -425,22 +455,6 @@
 		
 			</item>
 <item>
-		<title>Yelp can now call on your behalf to check wait times at a restaurant</title>
-		<link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Yelp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3178995</guid>
-
-					<description><![CDATA[Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.]]></description>
-		
-		
-		
-			</item>
-<item>
 		<title>Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
 		<link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</link>
 		
@@ -450,7 +464,7 @@
 		<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[AI Now Institute]]></category>
 		<category><![CDATA[AI regulation]]></category>
-		<category><![CDATA[mamdani]]></category>
+		<category><![CDATA[zohran mamdani]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179517</guid>
 
 					<description><![CDATA[Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.]]></description>
@@ -503,26 +517,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3179279</guid>
 
 					<description><![CDATA[Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
-		<link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[PyTorch]]></category>
-		<category><![CDATA[trainium]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179099</guid>
-
-					<description><![CDATA[Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.]]></description>
 		
 		
 		
@@ -873,7 +867,7 @@ image = client.images.generate(
 <!--kg-card-end: html-->
 ]]></content:encoded></item>
 <item><title><![CDATA[Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents]]></title><description><![CDATA[<p>Gemini 4 Argon just dropped, and n8n is one of the first companies to use and integrate the model. Check out how you can use it with your existing n8n workflows and how to build new ones. Here are the benchmarks Google published:</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png" class="kg-image" alt loading="lazy" width="2000" height="2006" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 2042w" sizes="(min-width: 720px) 720px"></figure><p><em>Benchmarks reported by Google. Source: </em><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"><em><u>Gemini 4</u></em></a></p>]]></description><link>https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/</link><guid isPermaLink="false">6ace28e3fdd8d400013dc4b0</guid><category><![CDATA[AI agents]]></category><category><![CDATA[News]]></category><dc:creator><![CDATA[Liam Hampton]]></dc:creator><pubDate>Tue, 13 Oct 2026 16:09:03 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-gemini-4-argon.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-gemini-4-argon.png" alt="Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents"><p>Gemini 4 Argon just dropped, and n8n is one of the first companies to use and integrate the model. Check out how you can use it with your existing n8n workflows and how to build new ones. Here are the benchmarks Google published:</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png" class="kg-image" alt="Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents" loading="lazy" width="2000" height="2006" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-49ba688a-afc6-40a3-8f87-90eb137ab73c.png 2042w" sizes="(min-width: 720px) 720px"></figure><p><em>Benchmarks reported by Google. Source: </em><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"><em><u>Gemini 4 Argon announcement</u></em></a><em>.</em></p><h2 id="model-context-protocol-mcpuse-gemini-to-build-workflows-from-your-favourite-ai-tool"><strong>Model Context Protocol (MCP) -&#xa0; Use Gemini to build workflows from your favourite AI tool</strong></h2><p>MCP is an open standard governed by the Agentic AI Foundation (AAIF) that allows your AI tools to connect to external applications and data sources. n8n has a <a href="https://docs.n8n.io/build/ways-of-building-workflows/connect-to-n8n-mcp-server"><u>built in MCP server</u></a> that works with any MCP client that you can utilize to build your own workflows from your favourite AI tool. All you need for this is access to Gemini 4 Argon in your developer tool and an idea of what you want to build!</p><p>Setup only takes a couple of minutes. Turn on instance-level MCP in your n8n instance, then add your server URL to any MCP-compatible tool, whether that&#x2019;s a chat app, a coding agent or an IDE. Many tools support one-click setup and sign in with OAuth or use an API key.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png" class="kg-image" alt="Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents" loading="lazy" width="1722" height="625" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-4c013c4a-4e03-4a45-be68-61ca31a18355.png 1722w" sizes="(min-width: 720px) 720px"></figure><p><strong>Example use case: </strong>You&apos;re in your IDE building out a new signup form and the web hook is ready. You pop a question into your agent: <em>&quot;Build me an n8n workflow that catches new signups from this webhook, drops them into our CRM, and fires off a welcome message in Slack.&quot;</em> A minute later it&apos;s there in your n8n workspace, built and tested. It stops short of publishing and asks first, keeping you as the human, in the loop.</p><h2 id="bring-your-own-key-byok-to-the-n8n-assistant"><strong>Bring Your Own Key (BYOK) to the n8n Assistant</strong></h2><p>The n8n Assistant is a chat-based agent that builds, edits, tests, and debugs workflows from plain language. BYOK means it runs on an AI provider account you already hold, rather than a model picked for you. How you get it running depends on where your n8n instance lives.&#xa0;</p><p>On self-hosted, you supply the key yourself and decide where your data and model calls go. You drop your key into the instance&apos;s settings once, and the Assistant runs on that model. One account, one model, one context. The Assistant doesn&apos;t have a native Gemini option yet, so you reach Gemini through OpenRouter or through Google&apos;s OpenAI-compatible endpoint (base URL: https://generativelanguage.googleapis.com/v1beta/openai/).&#xa0;</p><p>On n8n Cloud, there&apos;s nothing to set up. The Assistant runs on n8n Assistant credits, and the workflows it builds can use Gemini 4 Argon through Gateway credits.</p><h3 id="where-the-n8n-assistant-fits-in-for-you"><strong>Where the n8n Assistant fits in for you</strong></h3><p>The Assistant is a chat-based agent that builds, edits, tests, and debugs workflows from plain language. How you get it running follows the same split.</p><p>On self-hosted, you drop your key into the instance&apos;s settings once, and the Assistant runs on that model. One account, one model, one context.</p><p>On n8n Cloud, there&apos;s nothing to set up. The Assistant runs on n8n Assistant credits, and the workflows it builds can use Gemini 4 Argon through Gateway credits.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-2a23f070-d585-4c29-914c-8a847128e9d6.png" class="kg-image" alt="Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents" loading="lazy" width="1172" height="1120" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-2a23f070-d585-4c29-914c-8a847128e9d6.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-2a23f070-d585-4c29-914c-8a847128e9d6.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-2a23f070-d585-4c29-914c-8a847128e9d6.png 1172w" sizes="(min-width: 720px) 720px"></figure><h2 id="n8n-agentlet-ai-do-the-heavy-lifting-in-your-workflow"><strong>n8n Agent - let AI do the heavy lifting in your workflow</strong></h2><p>An agent is just a model handed a goal and a toolkit. It figures out the steps to get there on its own.</p><p>In n8n, you set up an agent and use a model such as Gemini 4 Argon for the thinking. Plug in the tools it&apos;s allowed to use (any node, API, or sub-workflow), and optionally add memory so it keeps context. From there, the agent decides which tool to call next, loops, and stops when the task is done. Gemini 4 Argon is available as a model for your Agents and in the standalone Google Gemini node from launch. On n8n Cloud you can also use it through Gateway credits, so you don&apos;t need a separate provider account or extra billing. Check out how AI agents work in n8n: <a href="https://n8n.io/ai-agents/"><u>https://n8n.io/ai-agents/</u></a></p><p><strong>Why bother? </strong>Rigid, step-by-step workflows fall apart the moment input gets messy. An agent absorbs the judgment calls, the surrounding workflow stays predictable, and you still draw a hard line around which tools it can reach.</p><p><strong>Example use case: </strong>Let&#x2019;s say you have an incoming support email. The agent reads it, pulls the customer record from your CRM and then cross-references your help docs. It drafts a reply, sets the ticket priority, or drops a flag into Slack for a human to handle.</p><h2 id="wrap-up"><strong>Wrap up</strong></h2><p>This is just three ways you can use the Google Gemini 4 Argon model in n8n to build your workflows. Whether you&apos;re using it via the n8n MCP to build workflows from inside your favourite AI tool, using your own API key with the n8n Assistant to get the latest model working alongside you, or using an Agent to have the workflow handle judgement calls so you don&#x2019;t have to.</p><p>Pick the one that works best for you! Happy building.</p><p>Want to see it in action? Watch Gemini 4 Argon in the n8n Assistant: <a href="https://go.n8n.io/Hn2UxP" rel="noreferrer">https://go.n8n.io/Hn2UxP</a></p>]]></content:encoded></item>
-<item><title><![CDATA[Build a morning AI news brief with You.com, Jev, and n8n]]></title><description><![CDATA[Every weekday at 8am, this workflow searches the day's AI news, scores every article for materiality at about $0.00004 apiece, and posts one cited brief per topic to Slack. Topics with no real news get no post.]]></description><link>https://blog.n8n.io/spotlight-you-com/</link><guid isPermaLink="false">6acd52503124fd0001d1aa12</guid><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Tue, 13 Oct 2026 05:45:04 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/youcom-blog-asset-2.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/youcom-blog-asset-2.png" alt="Build a morning AI news brief with You.com, Jev, and n8n"><p><em>This Verified Node Spotlight is a guest post written by Tyler Eastman, Senior Software Engineer at You.com. </em></p><p>The hard part of a news digest was never finding the news.</p><p>Searching is cheap and summarizing is cheap. Deciding what&apos;s worth reading is the expensive part, because it takes a judgment call on every single item, and a judgment call has always&#xa0; meant a model call. Run a general-purpose LLM across sixty articles every morning and you&apos;re paying real money and real latency to be told that fifty-four of them are reprints of the same press release.</p><p>So most digests give up on filtering. They send everything, or they send an LLM summary of everything, which is the same thing with extra steps. Either way the thing arrives in Slack every morning at 8am whether or not anything happened, and within three weeks people stop opening it. A digest that cries wolf daily is worse than no digest.</p><p>This workflow filters first. <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev"><u>Jev</u></a>, the first System One model from TypeSafe AI, scores every article that comes back from the search for about four hundredths of a cent each. At that price you can afford to ask three separate questions about every result instead of one vague question about all of them. What survives the filter goes to You.com Research, which writes a short cited brief per topic.</p><p>A whole morning costs somewhere between one and four cents. And on a quiet day, when nothing material happened in a topic, the workflow posts nothing at all for that topic. That last behavior is the one that keeps people reading it in month three.</p><h3 id="how-the-brief-works">How the brief works</h3><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png" class="kg-image" alt="Build a morning AI news brief with You.com, Jev, and n8n" loading="lazy" width="2000" height="924" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 2048w" sizes="(min-width: 720px) 720px"></figure><p><em>Figure 1: Search wide, filter hard, then spend money only on what survived.</em></p><p>A <strong>Schedule Trigger</strong> fires every weekday at 8am in your instance&apos;s timezone. <strong>Config</strong> holds your topics, a description of your team, and what that team cares about, so there&apos;s one node to edit rather than four.</p><p>For each topic, the <strong>You.com</strong> node searches news from the past day. Anything seen in an earlier run is skipped, so Tuesday&apos;s brief doesn&apos;t re-report Monday&apos;s launch.</p><p>Every surviving article goes to <strong>Jev</strong>, which answers three questions about it in a single call: whether it reports a real development, whether it&apos;s actually about the topic, and how much it matters to your team. Articles that clear the materiality threshold continue. The rest are dropped and never cost you anything again.</p><p>What&apos;s left is grouped by topic, so six outlets covering one model release collapse into one item rather than six. Then <strong>You.com Research</strong> writes a short brief per topic with linked citations, and <strong>Slack</strong> posts it.</p><p>The order matters. The expensive operation runs last, on a set that&apos;s already been cut down by a filter costing a fraction of a cent. </p><h3 id="before-you-start">Before you start</h3><ul><li><strong>An n8n instance.</strong> n8n Cloud and self-hosted both work.</li><li><strong>The You.com node installed.</strong> @youdotcom-oss/n8n-nodes-youdotcom is a verified community node. Add a node, type <strong>you.com</strong> in the search panel, and select it. You can also install it from <strong>Settings &gt; Community Nodes &gt; Install</strong> using the package name.</li><li><strong>A You.com API key.</strong> <a href="https://you.com/docs/welcome" rel="noreferrer">Sign up here</a> and create a key from the dashboard.</li><li><strong>A TypeSafe API key.</strong> Jev is in <a href="https://typesafe.ai/"><u>early access</u></a> at the time of writing; request access and you&apos;ll be brought off the waitlist.</li><li><strong>A Slack credential</strong> and a channel your bot has joined.</li></ul>
+<item><title><![CDATA[Build a morning AI news brief with You.com, Jev, and n8n]]></title><description><![CDATA[Every weekday at 8am, this workflow searches the day's AI news, scores every article for materiality at about $0.00004 apiece, and posts one cited brief per topic to Slack. Topics with no real news get no post.]]></description><link>https://blog.n8n.io/spotlight-you-com/</link><guid isPermaLink="false">6acd52503124fd0001d1aa12</guid><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Tue, 13 Oct 2026 05:45:04 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/Verified-Node-spotloght.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/Verified-Node-spotloght.png" alt="Build a morning AI news brief with You.com, Jev, and n8n"><p><em>This Verified Node Spotlight is a guest post written by Tyler Eastman, Senior Software Engineer at You.com. </em></p><p>The hard part of a news digest was never finding the news.</p><p>Searching is cheap and summarizing is cheap. Deciding what&apos;s worth reading is the expensive part, because it takes a judgment call on every single item, and a judgment call has always&#xa0; meant a model call. Run a general-purpose LLM across sixty articles every morning and you&apos;re paying real money and real latency to be told that fifty-four of them are reprints of the same press release.</p><p>So most digests give up on filtering. They send everything, or they send an LLM summary of everything, which is the same thing with extra steps. Either way the thing arrives in Slack every morning at 8am whether or not anything happened, and within three weeks people stop opening it. A digest that cries wolf daily is worse than no digest.</p><p>This workflow filters first. <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev"><u>Jev</u></a>, the first System One model from TypeSafe AI, scores every article that comes back from the search for about four hundredths of a cent each. At that price you can afford to ask three separate questions about every result instead of one vague question about all of them. What survives the filter goes to You.com Research, which writes a short cited brief per topic.</p><p>A whole morning costs somewhere between one and four cents. And on a quiet day, when nothing material happened in a topic, the workflow posts nothing at all for that topic. That last behavior is the one that keeps people reading it in month three.</p><h3 id="how-the-brief-works">How the brief works</h3><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png" class="kg-image" alt="Build a morning AI news brief with You.com, Jev, and n8n" loading="lazy" width="2000" height="924" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-7d43d682-6dc3-4aa0-a1c7-1cea2d2fbd7e.png 2048w" sizes="(min-width: 720px) 720px"></figure><p><em>Figure 1: Search wide, filter hard, then spend money only on what survived.</em></p><p>A <strong>Schedule Trigger</strong> fires every weekday at 8am in your instance&apos;s timezone. <strong>Config</strong> holds your topics, a description of your team, and what that team cares about, so there&apos;s one node to edit rather than four.</p><p>For each topic, the <strong>You.com</strong> node searches news from the past day. Anything seen in an earlier run is skipped, so Tuesday&apos;s brief doesn&apos;t re-report Monday&apos;s launch.</p><p>Every surviving article goes to <strong>Jev</strong>, which answers three questions about it in a single call: whether it reports a real development, whether it&apos;s actually about the topic, and how much it matters to your team. Articles that clear the materiality threshold continue. The rest are dropped and never cost you anything again.</p><p>What&apos;s left is grouped by topic, so six outlets covering one model release collapse into one item rather than six. Then <strong>You.com Research</strong> writes a short brief per topic with linked citations, and <strong>Slack</strong> posts it.</p><p>The order matters. The expensive operation runs last, on a set that&apos;s already been cut down by a filter costing a fraction of a cent. </p><h3 id="before-you-start">Before you start</h3><ul><li><strong>An n8n instance.</strong> n8n Cloud and self-hosted both work.</li><li><strong>The You.com node installed.</strong> @youdotcom-oss/n8n-nodes-youdotcom is a verified community node. Add a node, type <strong>you.com</strong> in the search panel, and select it. You can also install it from <strong>Settings &gt; Community Nodes &gt; Install</strong> using the package name.</li><li><strong>A You.com API key.</strong> <a href="https://you.com/docs/welcome" rel="noreferrer">Sign up here</a> and create a key from the dashboard.</li><li><strong>A TypeSafe API key.</strong> Jev is in <a href="https://typesafe.ai/"><u>early access</u></a> at the time of writing; request access and you&apos;ll be brought off the waitlist.</li><li><strong>A Slack credential</strong> and a channel your bot has joined.</li></ul>
 <!--kg-card-begin: html-->
 <div style="background-color: rgba(40, 40, 40, 0.92); border-left: 4px solid #f97316; border-radius: 6px; padding: 24px 28px; margin: 32px 0; font-family: inherit; font-size: inherit;">
   <p style="font-weight: 700; font-size: 0.8em; text-transform: uppercase; letter-spacing: 0.1em; color: #f97316; margin: 0 0 6px 0;">Try it yourself</p>
@@ -1160,7 +1154,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 01:06:05 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 11:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -1169,7 +1163,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 01:06:05 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 16:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -1178,7 +1172,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 22:06:05 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 17:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -1187,7 +1181,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 19:06:05 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 05:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -1196,7 +1190,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 11 Oct 2026 18:06:05 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 08:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -1205,7 +1199,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 00:06:05 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 07:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1214,7 +1208,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 08:06:05 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 11:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1223,7 +1217,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 15:06:05 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 15:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -1232,7 +1226,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 09:06:05 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 00:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -1241,7 +1235,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 20 Oct 2026 16:06:05 GMT</pubDate>
+  <pubDate>Thu, 15 Oct 2026 17:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -1250,7 +1244,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 13:06:05 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 18:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1259,7 +1253,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 15:06:05 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 09:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1268,7 +1262,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 17 Oct 2026 12:06:05 GMT</pubDate>
+  <pubDate>Mon, 19 Oct 2026 09:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1277,7 +1271,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 06:06:05 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 22:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1286,7 +1280,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 10:06:05 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 01:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1295,7 +1289,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 17 Oct 2026 20:06:05 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 02:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1304,7 +1298,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 10:06:05 GMT</pubDate>
+  <pubDate>Thu, 15 Oct 2026 03:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1313,7 +1307,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 09:06:05 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 12:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1322,7 +1316,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 22:06:05 GMT</pubDate>
+  <pubDate>Mon, 19 Oct 2026 22:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1331,7 +1325,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 10:06:05 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 05:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1340,7 +1334,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 11 Oct 2026 08:06:05 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 15:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1349,7 +1343,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 22:06:05 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1358,7 +1352,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 11 Oct 2026 17:06:05 GMT</pubDate>
+  <pubDate>Mon, 19 Oct 2026 04:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1367,7 +1361,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 17 Oct 2026 03:06:05 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 02:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1376,7 +1370,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 13:06:05 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 01:39:26 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1724,15 +1718,6 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" /> <p>Le Club Consulting &amp; Coaching (C3) d’HEC Alumni publie, avec l’aide de plus de 50 dirigeants de cabinets de conseil, « ConseilIA : le nouvel âge du Conseil Augmenté ». Cet ouvrage décrypte la transformation ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Combodo dévoile iTop 3.3, une version de son ITSM préparée pour l’IA]]></title>
-  <link>https://www.ia-news.fr/combodo-devoile-itop-3-3-une-version-de-son-itsm-preparee-pour-lia/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
   <title><![CDATA[Rocket Software fait progresser l’IA agentique gouvernée sur les mainframes]]></title>
   <link>https://www.ia-news.fr/rocket-software-fait-progresser-lia-agentique-gouvernee-sur-les-mainframes/</link>
   <description><![CDATA[]]></description>
@@ -1751,49 +1736,67 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-logiciel-ai-ia-intelligence-artificielle-digital.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Fabien Lomet rejoint Tradeshift au poste de Vice-Président Europe de l&rsquo;Ouest]]></title>
-  <link>https://www.ia-news.fr/fabien-lomet-rejoint-tradeshift-au-poste-de-vice-president-europe-de-louest/</link>
+  <title><![CDATA[Ibexa lance sa nouvelle Agentic Marketing Platform et place les agents IA au cœur de l&rsquo;exécution marketing]]></title>
+  <link>https://www.ia-news.fr/ibexa-lance-sa-nouvelle-agentic-marketing-platform-et-place-les-agents-ia-au-coeur-de-lexecution-marketing/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/04/FL-1-scaled.jpeg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/04/FL-1-scaled.jpeg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/04/FL-1-scaled.jpeg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/Ibexa-Agentic-Platform.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/Ibexa-Agentic-Platform.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/Ibexa-Agentic-Platform.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Expérience client en berne : les marques explorent l’IA générative pour améliorer la satisfaction]]></title>
-  <link>https://www.ia-news.fr/experience-client-en-berne-les-marques-explorent-lia-generative-pour-ameliorer-la-satisfaction/</link>
+  <title><![CDATA[ASC Technologies présente le plug-in Copilot pour sa solution d&rsquo;enregistrement et d&rsquo;analyse de données IA Recording Insights]]></title>
+  <link>https://www.ia-news.fr/asc-technologies-presente-le-plug-in-copilot-pour-sa-solution-denregistrement-et-danalyse-de-donnees-ia-recording-insights/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-style-idee.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-style-idee.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-style-idee.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Arcure confirme sa forte dynamique de croissance : chiffre d’affaires semestriel historique de 10,1 M€  en hausse de 24,5%]]></title>
-  <link>https://www.ia-news.fr/arcure-confirme-sa-forte-dynamique-de-croissance-chiffre-daffaires-semestriel-historique-de-101-me-en-hausse-de-245/</link>
+  <title><![CDATA[L’Europe sera-t-elle le parent pauvre de l’IA ?]]></title>
+  <link>https://www.ia-news.fr/leurope-sera-t-elle-le-parent-pauvre-de-lia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Red Hat dynamise l’IA d’entreprise dans le cloud hybride]]></title>
-  <link>https://www.ia-news.fr/red-hat-dynamise-lia-dentreprise-dans-le-cloud-hybride/</link>
+  <title><![CDATA[La maitrise et l’exploitation des datas : la clé d’une transformation digitale réussie]]></title>
+  <link>https://www.ia-news.fr/la-maitrise-et-lexploitation-des-datas-la-cle-dune-transformation-digitale-reussie/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/02/cloud-data-center-computing-07.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/02/cloud-data-center-computing-07.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/02/cloud-data-center-computing-07.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Moderniser le système de santé : le pari gagnant de l’IA]]></title>
-  <link>https://www.ia-news.fr/moderniser-le-systeme-de-sante-le-pari-gagnant-de-lia/</link>
+  <title><![CDATA[Quand l’IA propulse la performance des chaînes d’approvisionnement]]></title>
+  <link>https://www.ia-news.fr/quand-lia-propulse-la-performance-des-chaines-dapprovisionnement/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/03/supply-chain-02.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/03/supply-chain-02.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/supply-chain-02.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Delinea sécurise l&rsquo;exécution des agents IA en temps réel]]></title>
+  <link>https://www.ia-news.fr/delinea-securise-lexecution-des-agents-ia-en-temps-reel/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Camunda désigné en tant que Visionnaire dans le Magic Quadrant™ 2025 de Gartner® pour les technologies dʼorchestration et dʼautomatisation métier]]></title>
+  <link>https://www.ia-news.fr/camunda-designe-en-tant-que-visionnaire-dans-le-magic-quadrant-2025-de-gartner-pour-les-technologies-d%ca%bcorchestration-et-d%ca%bcautomatisation-metier/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
