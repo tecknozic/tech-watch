@@ -9,18 +9,26 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 10:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 16:06:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[What is PHP and why did it spark a global cyber-security scramble?]]></title>
+            <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0</guid>
+            <pubDate>Thu, 22 Oct 2026 11:15:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb]]></title>
             <description><![CDATA[It has been a dramatic, public and global response, but the cyber event hasn't happened yet.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o#0</guid>
             <pubDate>Thu, 22 Oct 2026 10:17:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/56705500-cdf5-11f1-97f7-a7674fb562de.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71b5/live/6f991250-ce0f-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA['500 new vulnerabilities' found in government, says AI minister]]></title>
@@ -37,14 +45,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx23d0k57d3o#0</guid>
             <pubDate>Thu, 22 Oct 2026 08:23:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What is PHP and why did it spark a global cyber-security scramble?]]></title>
-            <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0</guid>
-            <pubDate>Thu, 22 Oct 2026 06:24:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump's green card curbs test Indian tech workers' American dream]]></title>

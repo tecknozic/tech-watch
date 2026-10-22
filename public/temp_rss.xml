@@ -9,18 +9,26 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 10:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 16:06:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[What is PHP and why did it spark a global cyber-security scramble?]]></title>
+            <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0</guid>
+            <pubDate>Thu, 22 Oct 2026 11:15:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb]]></title>
             <description><![CDATA[It has been a dramatic, public and global response, but the cyber event hasn't happened yet.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o#0</guid>
             <pubDate>Thu, 22 Oct 2026 10:17:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/56705500-cdf5-11f1-97f7-a7674fb562de.jpg"/>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71b5/live/6f991250-ce0f-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA['500 new vulnerabilities' found in government, says AI minister]]></title>
@@ -37,14 +45,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx23d0k57d3o#0</guid>
             <pubDate>Thu, 22 Oct 2026 08:23:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What is PHP and why did it spark a global cyber-security scramble?]]></title>
-            <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0</guid>
-            <pubDate>Thu, 22 Oct 2026 06:24:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump's green card curbs test Indian tech workers' American dream]]></title>
@@ -183,6 +183,80 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg"/>
         </item>
     
+<item>
+		<title>Spotify&#8217;s current AI bet is about being the music service that agents choose</title>
+		<link>https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 15:03:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[music streaming]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[streaming]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180626</guid>
+
+					<description><![CDATA[Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Claude Duet app is Anthropic&#8217;s bet on agents</title>
+		<link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 13:53:26 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ai agent]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180587</guid>
+
+					<description><![CDATA[Claude Duet is available through waitlist for Pro and Max plan users]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Nirva raises $33M for a pendant that only listens to you</title>
+		<link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Ambient AI]]></category>
+		<category><![CDATA[Lightspeed Venture Capital]]></category>
+		<category><![CDATA[South Park Commons]]></category>
+		<category><![CDATA[wearables]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180570</guid>
+
+					<description><![CDATA[Nirva will ship its $249 ambient AI pendant by the end of the year. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>DeepSeek reportedly raises $15B days after US restrictions</title>
+		<link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[artificial intellignce]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[Funding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180589</guid>
+
+					<description><![CDATA[DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown</title>
 		<link>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</link>
@@ -463,75 +537,196 @@
 		
 		
 			</item>
-<item>
-		<title>Meta&#8217;s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps</title>
-		<link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[muse]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179696</guid>
+<item><title><![CDATA[Stateful vs. Stateless: Managing Context in AI Agent Builds]]></title><description><![CDATA[Stateful versus stateless design changes how systems scale and remember context. Learn when to use memory nodes, state stores, or both.]]></description><link>https://blog.n8n.io/stateful-vs-stateless/</link><guid isPermaLink="false">6ad6646299223b00019f6953</guid><category><![CDATA[Guide]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 22 Oct 2026 15:44:39 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-6_stateful-vs-stateless_11zon.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-6_stateful-vs-stateless_11zon.jpg" alt="Stateful vs. Stateless: Managing Context in AI Agent Builds"><p>State is the information an AI agent carries across tasks and, from conversation history to long-term memory and user profiles. Choosing between stateful versus stateless architecture shapes how agentic workflows manage scale and recover from failures. It&#x2019;s a core design decision with implications for your entire system&#x2019;s reliability and performance.</p><h2 id="stateful-vs-stateless-the-core-concepts">Stateful vs. stateless: The core concepts</h2><p>The difference between stateful and stateless architecture comes down to what happens to information between interactions. Does the system retain what happened from earlier interactions, or does it start every request with a blank slate?</p><p>Before comparing stateful versus stateless applications, it helps to define three related terms:</p><ul><li><strong>State: </strong>Information that persists beyond a single interaction, such as a shopping cart, authentication status, or conversation history.</li><li><strong>Session:</strong> A series of related interactions associated with the same user or process. It gives the system a boundary for deciding which interactions belong together.</li><li><strong>Context:</strong> The information the LLM-powered system uses to understand and respond to the current request. It can come from the current input, previous interactions, or stored data.</li></ul><h3 id="stateful-applications">Stateful applications</h3><p>A stateful application retains information from previous interactions and uses it to handle future ones. That information might include conversation history, authentication details, shopping cart contents, or progress through a multi-step process.</p><p>The advantage of statefulness is continuity. The application can pick up where an earlier interaction left off. The trade-off is that you need somewhere to store and manage that state and ensure it&apos;s available when the next request arrives.</p><h3 id="stateless-applications">Stateless applications</h3><p>A stateless application treats each request independently. This means everything needed to process the request must arrive alongside it or be retrieved from another system. There&#x2019;s no falling back on information retained from the previous request.</p><p>It&#x2019;s easier to distribute requests across instances in stateless applications. Any suitable instance can handle the request because it doesn&#x2019;t need to recover state elsewhere. This can make the application more scalable and fault-tolerant. But when continuity matters, you need to introduce state somewhere in the system. That&apos;s why many architectures use a stateless request-processing layer while storing persistent data in a cache or other shared system.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">Modern LLM apps also have a scratchpad. This is a temporary storage where an AI agent keeps its intermediary results before responding to the user. The scratchpad is not part of a stateful system and serves primarily to store information while the agent sends multiple queries to the LLM during a single user request.</div></div><h2 id="key-differences-between-stateful-and-stateless">Key differences between stateful and stateless</h2><p>The practical differences in stateful versus stateless architecture start with where information lives. In a stateful system, the application retains information between requests. In a stateless system, each request contains or retrieves what it needs independently. That decision affects how the system scales, recovers from failures, and uses resources.</p>
+<!--kg-card-begin: html-->
+<div style="background:#1A1A1F;border-radius:12px;overflow:hidden;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;table-layout:fixed;font-family:inherit;">
+<colgroup><col style="width:28%"><col style="width:36%"><col style="width:36%"></colgroup>
+<tbody>
+<tr>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:bottom;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;"></td>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:bottom;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;">Stateful</td>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:bottom;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;">Stateless</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">State retention</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Retains information across requests or sessions</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Processes each request independently</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Scalability</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">State must remain accessible as traffic moves between instances</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Requests can be distributed more freely across available instances</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Fault tolerance</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">A server crash can disrupt access to state unless it&apos;s replicated or persisted elsewhere</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Another server can typically process the next request without recovering local session state</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Complexity and resources</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Requires infrastructure for storing, synchronizing, and recovering state</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Simpler application instances, but persistent data may need external state storage</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--kg-card-end: html-->
+<p>You don&#x2019;t need to make an entire system stateful or stateless. Many architectures keep compute stateless for easier scaling while moving the state that needs to persist into a database, cache, or other shared store.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/stateful-stateless_11zon.png" class="kg-image" alt="Stateful vs. Stateless: Managing Context in AI Agent Builds" loading="lazy" width="768" height="1376" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/stateful-stateless_11zon.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/stateful-stateless_11zon.png 768w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">This schematic illustration demonstrates the key differences between stateful and stateless architecture across four key dimensions: context retention, scalability, fault tolerance and setup complexity</em></i></figcaption></figure><h2 id="are-ai-agents-and-llms-stateful-or-stateless">Are AI agents and LLMs stateful or stateless?</h2><p>LLMs don&#x2019;t automatically retain the conversation from one inference request to the next. If an application wants a model to use previous messages, they must be supplied in the model&#x2019;s input or retrieved elsewhere in the system.</p><p>AI agents can behave statefully by giving the model access to information from earlier interactions. That&#x2019;s <a href="https://docs.n8n.io/build/integrate-ai/understand-ai-components/how-memory-works"><u>how memory works</u></a> &#x2014; the agent stores and retrieves state outside the model, then adds relevant context to future requests.</p><p>How that state is stored depends on how long it needs to last and who needs access to it. An in-memory buffer can hold recent messages within a session, while a persistent store can preserve them beyond a single process or restart. In distributed systems, a shared store can make state available across multiple points.</p><h2 id="when-to-use-stateful-vs-stateless-apis">When to use stateful vs. stateless APIs&#xa0;</h2><p><strong>Use stateless APIs for scale and simplicity. </strong>REST APIs are a good example. Each request contains the info necessary to authenticate and process it. Remember that stateless requests can be easily distributed across multiple instances. This is especially helpful if you need an API to grow its capacity without slowing down or crashing.</p><p><strong>Use stateful APIs when context must persist.</strong> Stateful behavior makes sense for conversations, multi-step processes, and other interactions where the next step depends on what happened before. This architecture is especially useful for session-cookie authentication APIs, FTP APIs, and real-time APIs for activities like chat or gaming.</p><h2 id="agent-state-in-n8n-memory-nodes-vs-state-stores">Agent state in n8n: Memory nodes vs. state stores</h2><p><a href="https://n8n.io"><u>n8n</u></a> is a source-available, AI-native automation platform where engineering teams can build AI agents and <a href="https://blog.n8n.io/ai-agentic-workflows/"><u>agentic workflows</u></a>. In n8n, you can choose where state lives based on what needs to persist. An <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI Agent node</u></a> can use Memory nodes for conversational context, while state stores hold data that needs to survive beyond an agent session. This lets you add state where it&#x2019;s useful without making the entire workflow stateful.</p><h3 id="stateless-by-default">Stateless by default</h3><p>n8n <a href="https://docs.n8n.io/build/understand-workflows/understand-executions"><u>workflow executions</u></a> are independent. One execution doesn&#x2019;t automatically remember data from the previous one, which keeps the execution layer simpler to scale and recover. When a workflow needs continuity, you explicitly add the appropriate form of state.</p><p>Execution history also gives you visibility into the data that moved through each run, making stateful behavior easier to inspect and debug.</p><h3 id="short-termsession-state-with-memory-nodes">Short-term/session state with Memory nodes</h3><p>Memory nodes give AI agents access to previous messages within a session. The <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memorybufferwindow"><u>Simple Memory node</u></a> provides an in-memory buffer for recent conversation history, but it&#x2019;s not compatible with <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/basic-configuration/use-environment-variables/queue-mode"><u>queue mode</u></a>.</p><p>When memory needs to persist beyond the running process, the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memorypostgreschat"><u>Postgres Chat Memory node</u></a> uses a persistent store and separates conversations by session ID. <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memoryredischat"><u>Redis Chat Memory</u></a> offers another option when you need a fast distributed cache that can share session state across workers. For distributed execution in queue mode, use a persistent memory option so session state remains available across workers. And when you need more control over conversation history, <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memorymanager"><u>Chat Memory Manager</u></a> lets workflows load, insert, and clear messages explicitly.</p><p>These approaches to <a href="https://blog.n8n.io/ai-agent-memory/"><u>AI Agent Memory</u></a> let you match storage to the lifespan and scale of the conversation. For example, an <a href="https://n8n.io/workflows/1954/"><u>AI agent chat</u></a> can use session memory to keep earlier messages available as the conversation continues.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">Most modern LLMs have a caching mechanism that significantly reduces costs. If you use a memory node with a sliding window (i.e. the last 20 messages), it invalidates the cache during long conversations. We recommend either increasing the size of the sliding window or implementing a more advanced technique (i.e. summarizing the last X messages instead of using a na&#xef;ve sliding window).</div></div><h3 id="durable-shared-state-with-state-stores">Durable, shared state with state stores</h3><p>Some state needs to outlive a conversation or remain available across workflow executions. n8n <a href="https://docs.n8n.io/build/work-with-data/data-tables"><u>data tables</u></a> provide persistent, structured storage that workflows can read from and write to across executions. Depending on the use case, you can also use workflow static data or an external <a href="https://www.postgresql.org/"><u>Postgres</u></a> or <a href="https://redis.io/"><u>Redis</u></a> store.</p><p>Using Memory nodes alongside state stores gives you two distinct layers of state. Chat memory nodes preserve conversational context for an agent, while state stores persist workflow and application data across executions in a data table or an SQL database.</p>
+<!--kg-card-begin: html-->
+<script>
+(function () {
+  var self = document.currentScript;
+  var oldText = "Most popular workflows with these integrations";
+  var newText = "Explore these ready-made workflows to jumpstart your next stateful architecture:";
 
-					<description><![CDATA[New data also shows Muse is retaining users at higher rates than its AI rivals.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in its LEGO era&#8217;</title>
-		<link>https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 16:20:06 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[equitypod]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179644</guid>
+  // Pass a heading in case the helper supports one
+  workflowBanner([1954, 6829, 2872, 2098, 4941], self, { heading: newText });
 
-					<description><![CDATA[It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Plants can speak using electricity, so this startup built an AI model to decipher their language</title>
-		<link>https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[plants]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[plant monitoring]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179291</guid>
+  // Otherwise, swap the default heading once the banner renders
+  var tries = 0;
+  var timer = setInterval(function () {
+    var matches = Array.prototype.filter.call(
+      document.querySelectorAll("h1, h2, h3"),
+      function (el) { return el.textContent.trim() === oldText; }
+    );
+    var h = matches.filter(function (el) {
+      return self.compareDocumentPosition(el) & Node.DOCUMENT_POSITION_FOLLOWING;
+    })[0] || matches[0];
 
-					<description><![CDATA[Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Figma co-founder Dylan Field thinks MCP is not a perfect protocol</title>
-		<link>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 14:13:32 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Dylan Field]]></category>
-		<category><![CDATA[Figma]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179569</guid>
-
-					<description><![CDATA[Figma said it plans to support as many standards as possible without exposing all of its data.]]></description>
-		
-		
-		
-			</item>
+    if (h) { h.textContent = newText; clearInterval(timer); }
+    if (++tries > 60) clearInterval(timer);
+  }, 50);
+})();
+</script>
+<!--kg-card-end: html-->
+<h2 id="build-stateless-then-add-state-where-you-need-it">Build stateless, then add state where you need it</h2><p>Stateful versus stateless doesn&#x2019;t have to be a system-wide choice. Start with independent, stateless execution where possible, then introduce state wherever your workflow needs continuity.</p><p>For AI agents in n8n, that might mean adding session memory for an ongoing conversation, persistent memory when context needs to survive restarts, or a shared state store when data needs to carry across workflows and executions. Choosing the right layer keeps state deliberate instead of letting it become an architectural constraint.</p><p>Build stateful behavior on a stateless foundation you control. <a href="https://app.n8n.cloud/register" rel="noreferrer"><u>Start for free</u></a> or explore <a href="https://n8n.io/workflows/"><u>n8n&apos;s templates.</u></a></p>]]></content:encoded></item>
+<item><title><![CDATA[Self-Hosted LLM vs. Cloud APIs: How to Route Between Them]]></title><description><![CDATA[A self-hosted LLM isn’t always cheaper than an API. Learn when on-prem wins, what your hardware can run, and how to route between local and cloud models.
+]]></description><link>https://blog.n8n.io/self-hosted-llm/</link><guid isPermaLink="false">6ad65812cb248000019ea941</guid><category><![CDATA[Guides]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 22 Oct 2026 15:01:32 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--22--1.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--22--1.jpeg" alt="Self-Hosted LLM vs. Cloud APIs: How to Route Between Them"><p>A self-hosted LLM can give you more control over where your data lives. If the model and the workflow handling its requests both run on infrastructure you control, prompts can stay inside your network instead of passing through an external provider.</p><p>Self-hosting can be appealing for sensitive workloads. But it also requires hardware, maintenance, and operational overhead that cloud-based APIs mostly offload.&#xa0;</p><p>A hybrid option offers a way to route requests locally or to the cloud without managing two disconnected systems.</p><h2 id="the-best-self-hosting-llm-open-weight-models">The best self-hosting LLM open-weight models</h2><p>An open-weight model makes its trained model weights available for you to download and run on your own infrastructure.</p><p>Look at the tasks you want the model to do, try open-weight models via OpenRouter or another provider first. Once you have found the smallest model that handles your task reliably, you can deploy it on your infrastructure. A smaller model usually needs less compute and responds faster, so moving up in size makes sense when the extra capability measurably improves results for your workflow.</p><p><strong>Params</strong>, short for parameters, measure a model&#x2019;s size. For example, a 24B model has around 24 billion learned parameters. Larger models can be more capable, but they also need more compute and memory.</p><p><strong>Min VRAM</strong> is the approximate minimum amount of GPU memory needed to run the model. If the model doesn&#x2019;t fit into your available VRAM, you need a smaller model, or a quantized version of the model, or stronger hardware to support it.</p><p>Here are a few open-weight models for self-hosting, with their parameters and minimum recommended VRAM.</p>
+<!--kg-card-begin: html-->
+<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
+  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
+    Scroll for more &#x2794;
+  </div>
+  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
+    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 800px;">
+      <thead>
+        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 200px;">Model</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 80px;">Params</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;">Min VRAM*</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444;">Best for</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Phi-4-mini</td>
+          <td style="padding: 16px;">3.8B</td>
+          <td style="padding: 16px;">~8 GB</td>
+          <td style="padding: 16px;">A lightweight starting point for local assistants and tasks when you have limited hardware</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Qwen3 8B</td>
+          <td style="padding: 16px;">8B</td>
+          <td style="padding: 16px;">~8 GB (8-bit configuration)</td>
+          <td style="padding: 16px;">General-purpose option for chat, coding, and multilingual workloads that doesn&apos;t require high-end GPU hardware</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Gemma 3 12B</td>
+          <td style="padding: 16px;">12B</td>
+          <td style="padding: 16px;">~12&#x2013;16 GB (when quantized)</td>
+          <td style="padding: 16px;">General reasoning, summarization, and multimodal tasks like understanding text and images</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">DeepSeek R1-Distill-Qwen-14B</td>
+          <td style="padding: 16px;">14B</td>
+          <td style="padding: 16px;">~12-16 GB (when quantized)</td>
+          <td style="padding: 16px;">Reasoning-heavy tasks when you want more capacity than smaller local models but don&apos;t want to run a much larger model</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Mistral Small 3.1</td>
+          <td style="padding: 16px;">24B</td>
+          <td style="padding: 16px;">~12&#x2013;16 GB (4-bit quantization), ~44&#x2013;55 GB (unquantized)</td>
+          <td style="padding: 16px;">More demanding local apps, including function calling, coding, lengthy documentation, and multimodal workflows</td>
+        </tr>
+        <tr>
+          <td style="padding: 16px; font-weight: bold;">Llama 4 Scout</td>
+          <td style="padding: 16px;">109B total, 17B active</td>
+          <td style="padding: 16px;">~55&#x2013;80 GB</td>
+          <td style="padding: 16px;">High-end private LLM deployments, large-document analysis, and multimodal workloads</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
+</div>
+<!--kg-card-end: html-->
+<h2 id="what-you-need-to-run-an-open-weight-model">What you need to run an open-weight model</h2><p>After choosing an open-weight model, check whether your hardware and inference can run it for daily workflows. VRAM sets the upper limit on what your GPU can handle, and quantization reduces the memory required to load the model.</p><h3 id="the-standard-self-hosted-llm-stack">The standard self-hosted LLM stack</h3><p>A self-hosted LLM setup usually has five layers working together:</p><ul><li><strong>Hardware:</strong> The GPU provides the VRAM and compute power that determine which models you can run and how quickly their response times are.</li><li><strong>Model:</strong> The LLM and open-weight model you choose for tasks.</li><li><strong>Inference runtime:</strong> Software like <a href="https://ollama.com/"><u>Ollama</u></a> or <a href="https://docs.vllm.ai/en/stable/"><u>vLLM</u></a> loads the model and exposes it to other applications, often through an API.</li><li><strong>Retrieval layer:</strong> If the model needs private or domain-specific information, retrieval-augmented generation (RAG) lets the system search an external knowledge source for relevant information and add that context to the model&#x2019;s request before generating an answer.</li><li><strong>Application layer:</strong> The chat interface, API, or workflow that sends requests to the model and uses the response.</li></ul><h3 id="vram-and-quantization">VRAM and quantization</h3><p>Model weights need VRAM while the model is loaded for inference. When the weights and runtime requirements fit in GPU memory, the GPU can perform the relevant computations without relying on slower system memory. If they don&#x2019;t fit, an inference engine might offload data or compute to system memory or the CPU, which can reduce performance.</p><p>Quantization reduces the memory required by representing model weights with fewer bits. This means you can run a larger model on the same GPU. Moderate quantization can preserve most of the model&#x2019;s output quality, but aggressive compression can affect complex tasks like numerical reasoning.</p><h2 id="self-hosting-vs-cloud-hosting-explained">Self-hosting vs. cloud hosting explained</h2><p>You can run an LLM locally, but that doesn&#x2019;t mean you should run every request that way. Some workloads may benefit from keeping processing within your infrastructure, but others may need the scale or capabilities of a cloud provider.&#xa0;</p><p>A hybrid setup lets you choose the best path for each type of request, depending on a few factors.</p><h3 id="privacy-and-compliance-requirements">Privacy and compliance requirements</h3><p>AI systems may process sensitive or regulated data, and your organization may have legal, contractual, or internal restrictions on where that data can be processed or transferred. For example, <a href="https://eur-lex.europa.eu/eli/reg/2016/679"><u>GDPR Chapter V</u></a> sets conditions for transferring personal data to third countries or international organizations.</p><p>Running the model locally makes data residency compliance easier because you control where the processing takes place. But self-hosting doesn&#x2019;t make the system automatically compliant, as you need safeguards around access, logging, and storage. Some cloud-hosted models (especially those with enterprise SLA) may have stronger access controls and other guardrails.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/local-cloud-LLM--1-.png" class="kg-image" alt="Self-Hosted LLM vs. Cloud APIs: How to Route Between Them" loading="lazy" width="1376" height="768" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/local-cloud-LLM--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/local-cloud-LLM--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/local-cloud-LLM--1-.png 1376w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Schematic illustration to help decide which LLM to use (local vs. cloud)</em></i></figcaption></figure><h3 id="cost-and-breakeven-volume">Cost and breakeven volume</h3><p>Cloud APIs typically charge based on usage, and more tokens means a larger bill. With self-hosting, you pay for the hardware and the people operating it and spread those costs across all the requests that the system handles.</p><p>The breakeven point is where the total cost of running your own setup becomes lower than the cost of using a cloud API. If your usage is low or unpredictable, using the cloud may be more economical. But if you process a large, steady volume of requests, self-hosting may be the better choice for your organization.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">If you&#x2019;re using LLMs for batch processing, here&#x2019;s another useful tip. You can rent a GPU-powered VPS like <a href="https://www.runpod.io/"><u>runpod</u></a>, and run it only when you need to process data. This way, you&#x2019;ll ensure relative data privacy and reduce costs, since the VPS runs only when necessary.</div></div><h3 id="latency-and-frontier-capability">Latency and frontier capability</h3><p>A local LLM model can provide predictable latency if you have the right hardware. It also avoids the network round trip to an external provider. But local inference isn&#x2019;t always faster. A large model running on constrained hardware can be much slower than an optimized cloud service.&#xa0;</p><p>Cloud providers can offer highly optimized infrastructure and access to frontier models, which are the most capable models currently available for more complex reasoning tasks. If a task needs that extra capability, the frontier&#x2019;s added latency may be worth sending it to a cloud model.</p><p>Here are the main differences between a self-hosted LLM and a cloud API.</p>
+<!--kg-card-begin: html-->
+<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
+  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
+    Scroll for more &#x2794;
+  </div>
+  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
+    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 600px;">
+      <thead>
+        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;"></th>
+          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 220px;">Self-hosted LLM</th>
+          <th style="padding: 16px; border-bottom: 1px solid #444;">Cloud API</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Privacy</td>
+          <td style="padding: 16px;">Greater control over where the system processes and handles data</td>
+          <td style="padding: 16px;">An external provider processes the data according to its service and handling terms</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Cost</td>
+          <td style="padding: 16px;">Higher fixed infrastructure and operating costs</td>
+          <td style="padding: 16px;">Usage or token-based</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Latency</td>
+          <td style="padding: 16px;">Can be predictable with enough local capacity</td>
+          <td style="padding: 16px;">Depends on the network, provider capacity, and rate limits</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #333;">
+          <td style="padding: 16px; font-weight: bold;">Frontier capability</td>
+          <td style="padding: 16px;">Limited to models you can deploy and run</td>
+          <td style="padding: 16px;">Easier access to the latest leading models</td>
+        </tr>
+        <tr>
+          <td style="padding: 16px; font-weight: bold;">Maintenance</td>
+          <td style="padding: 16px;">Managed by internal team</td>
+          <td style="padding: 16px;">Mostly handled by the provider</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
+</div>
+<!--kg-card-end: html-->
+<h2 id="route-between-local-and-cloud-based-llms-in-n8n">Route between local and cloud-based LLMs in n8n</h2><p>Once you&#x2019;ve decided which requests run locally and which should go to the cloud, you still need a reliable way to apply rules for each one. You can hard-code that logic into individual apps, but that becomes harder to inspect and update over time as you add new models and rules.</p><p>This is where <a href="https://n8n.io/"><u>n8n</u></a> comes in. n8n is a source-available automation platform where engineering teams can create AI agents and agentic workflows. You can also connect local and cloud-based models in the same workflow and use routing logic to decide which path each request takes based on workload type, complexity, or data sensitivity.</p><p>This is what a basic hybrid workflow looks like.</p><ul><li><strong>Decide what information drives the route:</strong> Use information you already have, such as a sensitivity flag, task type, request volume, or complexity score wherever possible.</li><li><strong>Connect the local path:</strong> Add the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatollama"><u>Ollama Chat Model</u></a> node and create an <a href="https://docs.n8n.io/integrations/builtin/credentials/ollama"><u>Ollama credential</u></a> with your instance&#x2019;s Base URL. If your workflows need an agent that can use tools, you can connect a chat model to the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI Agent</u></a> node, which uses the model to decide what action to take.&#xa0;</li><li><strong>Add the cloud path:</strong> Add the chat model node for the cloud provider you want to use, such as the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatopenai"><u>OpenAI Chat Model</u></a> or <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatanthropic"><u>Anthropic Chat Model</u></a> node. This gives the workflow a second path for tasks that need to use cloud processing.</li><li><strong>Choose how to route the request:</strong> Use the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.modelselector"><u>Model Selector node</u></a> when one AI agent <a href="https://docs.n8n.io/build/integrate-ai/understand-ai-components/what-chains-do"><u>or chain</u></a> should use different language models based on your defined rules. It checks those rules in order and supplies the first matching model to the same agent or chain. Use an <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.if"><u>If node</u></a> to split the wider workflow into two separate branches, or a <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.switch"><u>Switch node</u></a> when you need several branches with different downstream steps.</li><li><strong>Define rules:</strong> Route requests by task type, complexity, or data sensitivity. Apply data-sensitivity checks before sending the request to a cloud model. If an agent needs to inspect sensitive content to determine the appropriate route, run the inspection locally first.</li><li><strong>Test both paths:</strong> Run representative local and cloud requests through the workflow and <a href="https://docs.n8n.io/build/understand-workflows/understand-executions"><u>check the execution</u></a> to confirm that each rule goes through the intended model. Include a sensitive test case to verify that restricted data never reaches the cloud branch.</li></ul><p></p>
+<!--kg-card-begin: html-->
+<script>
+  workflowBanner([3139], document.currentScript, {
+    workflowsHeader: "If you want to see per-prompt model routing in action, check out this template:"
+  });
+</script>
+<!--kg-card-end: html-->
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/local-cloud-LLM-wf--1-.png" class="kg-image" alt="Self-Hosted LLM vs. Cloud APIs: How to Route Between Them" loading="lazy" width="1400" height="700" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/local-cloud-LLM-wf--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/local-cloud-LLM-wf--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/local-cloud-LLM-wf--1-.png 1400w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">An example workflow that receives a webhook payload and switches between local and cloud API models depending on the request source. For the cloud API branch, a small classifier model assesses the request complexity, so that the AI Agent node can use the most appropriate LLM</em></i></figcaption></figure><h2 id="keep-your-llm-setup-flexible-with-n8n">Keep your LLM setup flexible with n8n</h2><p>A hybrid setup gives you room to change your self-hosted LLM strategy as models, workflow requirements, and costs scale. Instead of committing every workload to a single environment, you can adjust the split over time depending on different requests and keep the surrounding&#xa0;</p>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Keep your LLM setup flexible with n8n</h3>
+    <p>Start with cloud routing today and add local models as your requirements evolve</p>
+  </div>
+  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud free</a>
+</div>
+<!--kg-card-end: html-->
+<p></p>]]></content:encoded></item>
 <item><title><![CDATA[Why we refreshed the n8n brand]]></title><description><![CDATA[A new logo, a new typeface, and a new take on our pink, built for where n8n is going.]]></description><link>https://blog.n8n.io/n8n-brand-refresh-2026/</link><guid isPermaLink="false">6ac69fd4b39bc30001bd3e1c</guid><category><![CDATA[News]]></category><dc:creator><![CDATA[Jan Oberhauser]]></dc:creator><pubDate>Tue, 20 Oct 2026 11:09:09 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/Blog-cover-rebrand.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/Blog-cover-rebrand.png" alt="Why we refreshed the n8n brand"><p>If you have spent any time around n8n, you know how we work. We ship something, break something, learn from it, listen to what people tell us, and make it better. Then we do it again. Iteration is not a process we adopted. It is how n8n got built.</p><p>So it makes sense that we have applied exactly the same approach to our brand. On October 14, at our In The Loop conference, we introduced a new logo, a new typeface, and a refined color system, with our pink still at its center. The look is evolving. What we stand for stays the same.</p><p>Here is what is changing, why, and what is not.</p><h2 id="first-some-context">First, some context</h2><p>n8n is a platform where people build workflows and AI agents that connect their tools, data, and models. It started as a workflow automation tool. It is now a global community of builders working across automation and AI.</p><p>That community matters to this story. Many of you have seen our logo on things you have built, contributed to, or learned from. It is more than a shape to a lot of people, and we know that. Some of you will like the new logo right away, some will need time, and some will miss the old one. That is completely fair. I understand that, as even for me it took some time.</p><h2 id="why-the-logo-changed">Why the logo changed</h2><p>Our old logo was built around a simple idea: connected nodes. It represented what n8n was about. You connect one thing to another, build a workflow, and make something happen.</p><p>But look at what happens in n8n today. A person steps into a workflow and makes a decision. An agent takes an action. A model interprets information. Data moves between systems. One process triggers another. Different pieces of a system react to what is happening around them in real time. The nodes are still there, but increasingly the interesting part is what happens between them.</p><p>That is the idea behind the new logo. It is less about showing a connection and more about showing the activity that connection makes possible. It is a visual expression of n8n moving from workflows that connect things to systems that can respond, adapt, and act.</p><figure class="kg-card kg-video-card kg-width-regular" data-kg-thumbnail="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-animation-thumb.png" data-kg-custom-thumbnail>
             <div class="kg-video-container">
                 <video src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/media/2026/10/n8n-logo-animation.mp4" poster="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-animation-thumb.png" width="1928" height="1080" loop autoplay muted playsinline preload="metadata" controls></video>
@@ -1140,32 +1335,11 @@ image = client.images.generate(
 </div>
 <!--kg-card-end: html-->
 ]]></content:encoded></item>
-<item><title><![CDATA[Reducing AI Workflow Latency: Patterns That Actually Work]]></title><description><![CDATA[ Learn how to reduce AI workflow latency with production patterns for latency optimization: model routing, caching, parallel execution, timeouts, and budgets. 
-]]></description><link>https://blog.n8n.io/reducing-ai-workflow-latency/</link><guid isPermaLink="false">6aac2b507c00b3000146e5fe</guid><category><![CDATA[Ai]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Sat, 19 Sep 2026 02:23:59 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-reducing-ai-workflow-latency.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-reducing-ai-workflow-latency.png" alt="Reducing AI Workflow Latency: Patterns That Actually Work"><p>A single model call can be fast, but production AI workflows stack calls until latency becomes unbearable. You can&#x2019;t code your way out of it. You need a workflow platform like n8n, with built-in controls for parallel execution, timeouts, and caching. This guide to reducing AI workflow latency shows you how to put them to work.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">n8n is a source-available AI-native workflow automation platform. It offers a visual canvas for building reliable automations. Users can design pre-defined steps and add non-deterministic AI capabilities into the mix. In this article, we provide examples relevant to n8n, but most of the concepts can also be applied to other platforms, whether they are visual no-code tools or various SDKs.&#xa0;</div></div><h2 id="where-ai-workflow-latency-comes-from">Where AI workflow latency comes from</h2><p>Total latency in an agentic system can be broken into three layers:</p><ul><li><strong>Model inference</strong> is the time the model spends reading your prompt and generating tokens.</li><li><strong>Tool and API calls</strong> cover everything the agent reaches out to, from a retrieval index to a third-party endpoint.&#xa0;</li><li><strong>Orchestration overhead</strong> is the total time, computing power, file transfer bandwidth and memory that goes into running a workflow</li></ul><p>Each layer requires a different fix. Swapping models does nothing for a workflow that spends four seconds on three sequential API calls. And parallelizing those API calls won&#x2019;t fix a workflow that has a bottleneck from running worker nodes across disparate availability zones. You need to identify where the lag is happening and address it directly.</p><h3 id="the-token-lifecycle-prefill-decoding-and-time-to-first-token">The token lifecycle: Prefill, decoding, and Time to First Token</h3><p>A large language model (LLM) request runs in two phases:&#xa0;</p><ul><li><strong>Prefill</strong> processes your whole input at once and produces the first token. It&#x2019;s usually fast and runs in parallel on the GPU.</li><li><strong>Decoding </strong>generates the remaining tokens, one at a time. It&#x2019;s the longer process because it runs sequentially.</li></ul><p>One important metric an engineer can track for interactive workflows is the amount of time a model takes to generate and deliver the first piece of text after you send a prompt, known as Time to First Token (TTFT). A low TTFT is typically anything under 200 to 500 milliseconds. If the TFFT is a second or longer (for a non-reasoning LLM), it may signal heavy server traffic or overloaded computer memory.&#xa0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">Note that the TTFT metric applies only to interactive workflows, where the user can actually see the LLM&#x2019;s response in real time. Various automations do not stream the LLM&#x2019;s output directly to the user and only display the final output.&#xa0;</div></div><h3 id="tool-calls-and-orchestration-overhead">Tool calls and orchestration overhead</h3><p>Tool calls can take multiple seconds. Every retrieval step and API lookup combines network round-trip time (RTT) with the target system&#x2019;s processing time. If independent calls run sequentially, their latencies add up. For example, three calls that take 800 ms each and run sequentially take 2.4 seconds to complete. If you parallelize those calls, it takes about 800 milliseconds (not including any orchestration overhead).</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">Most recent LLMs support parallel tool calling. If your workflow supports independent tool calls, you can prompt the model to use this feature in order to improve the workflow performance.</div></div><p>Orchestration overhead typically causes shorter delays, which makes it easy to overlook. A 100 millisecond delay between steps looks harmless. But when you multiply it across retrieval, inference, and post-processing, you can find seconds of latency visible to the user.&#xa0;</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/llm-delays-01-1-.png" class="kg-image" alt="Reducing AI Workflow Latency: Patterns That Actually Work" loading="lazy" width="1200" height="700" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/llm-delays-01-1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/llm-delays-01-1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/llm-delays-01-1-.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">In the most basic case, a total AI workflow delay consists of pre-AI / post-AI orchestration steps (blue), LLM prefill / decode times (yellow) and the Tool call delays (red)</span></figcaption></figure><h3 id="latency-budgets">Latency budgets</h3><p>A latency budget is the total allowable response time that an engineering team or product manager sets for an agentic workflow to respond. Workflow designers can divide the total budget among specific steps, such as data retrieval or network hops.</p><p>But first, make sure latency is the problem in your system. You don&#x2019;t want to spend weeks optimizing response time when users actually need better accuracy or retrieval.&#xa0;</p><p>If you&#x2019;ve built your workflow in n8n, you can <a href="https://docs.n8n.io/build/understand-workflows/understand-executions/view-executions-for-a-single-workflow"><u>view executions</u></a> to figure out where a run spent its time. Once you confirm latency is the problem in your system, analyze the following factors.</p><p><strong>Time to Complete Response (TTCR).</strong> Understanding the total amount of time a model takes to process the prompt, complete its reasoning, and finish delivering a response is important for latency optimization.&#xa0;</p><p><strong>TTFT.</strong> The TTFT has an outsized impact on the user&#x2019;s perception of latency in the system. Try to keep it between 300 and 500 milliseconds or lower.</p><p><strong>Output Tokens per Second (OTPS).</strong> The speed at which a model generates new text after its initial response impacts the user experience and how efficiently a complex workflow can complete background tasks. Adding the OTPS and TTFT together create the TTCR.</p><p><strong>Workflow type</strong>. Real-time or interactive workflows, such as a chat agent or support bot, need a faster response time than a background workflow, such as a data sync.&#xa0;</p><p>Your exact needs may vary, but here are some example end-to-end latency budgets per workflow type.</p><ul><li><strong>Real-time workflows</strong>: 500 milliseconds or lower</li><li><strong>Batch workflows:</strong> 5 to 20 seconds</li><li><strong>Background workflows:</strong> 30+ seconds</li></ul><h2 id="workflow-level-patterns-in-n8n">Workflow level patterns in n8n</h2><p>When you build the orchestration layer yourself, you can own a scheduler and execution store forever. n8n lets you configure patterns like parallel execution, timeouts, and caching directly in the workflow, reducing the need for custom orchestration code. Here&#x2019;s how.</p><h3 id="run-parallel-tool-calls-within-an-ai-agent-step">Run parallel tool calls within an AI Agent step</h3><p>When an agent needs to run two independent lookups, the model can request both in the same turn and the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent node</u></a> fires them together.&#xa0;</p><p>Let&#x2019;s say an agent needs to look up two currency exchange rates before running a calculation. The model can run both exchange-rate lookups in parallel. The calculator, which is dependent on their results, waits to run the calculations in sequence.&#xa0;</p><p>For more complex architectures, the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolaiagent"><u>AI Agent Tool</u></a> node can delegate work to specialist agents.&#xa0;</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/llm-delays-02-1.png" class="kg-image" alt="Reducing AI Workflow Latency: Patterns That Actually Work" loading="lazy" width="1200" height="750" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/llm-delays-02-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/llm-delays-02-1.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/llm-delays-02-1.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">When the Tools are called in parallel, you save time not only by stacking the Tool execution timing, but also by reducing the amount of LLM calls (since LLM is called one time after both tool executions are finished)</em></i></figcaption></figure><p>See how parallel tool calls work in the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/"><u>AI Agent</u></a> node</p><h3 id="fail-fast-with-timeouts-retry-limits-and-guardrails">Fail fast with timeouts, retry limits, and guardrails</h3><p>A hung API call is one of the most expensive kinds of latency because nothing downstream can start until it resolves.&#xa0;</p><p>Set a hard timeout on external calls. The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest"><u>HTTP Request</u></a> node supports a timeout so a slow endpoint can fail at a set time and deploy an intentional fallback instead of stalling the entire workflow indefinitely.&#xa0;</p><p>A retry can improve reliability for transient failures, but it also increases latency. If an API call normally takes one second and the system runs three retries with a three-second timeout each run, a failure can consume much more of the workflow&#x2019;s latency budget than a single request.&#xa0;</p><p>Use n8n to <a href="https://docs.n8n.io/integrations/builtin/handle-rate-limits"><u>handle rate limits</u></a> for retries at either the node or workflow level. If you want to use bounded retries on your node, click on it and open its Settings. Enable the Retry On Fail toggle, and set the maximum number of tries. If you want to cap the entire execution, <a href="https://docs.n8n.io/build/manage-workflows/configure-workflow-settings"><u>configure the workflow settings</u></a> to time out after a certain amount of time passes.</p><p>The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails"><u>Guardrails node</u></a> can help catch bad inputs that send the agent down a long, useless path. You can configure it to detect violations, such as URLS, regular expressions, secret keys, personally identifiable information, and sanitize them with placeholders. Or you can use a full set of guardrails that send any violations to the Fail branch.</p><h3 id="isolate-slow-operations-with-sub-workflows">Isolate slow operations with sub-workflows</h3><p>Some steps are slow for reasons you can&apos;t fix. If a vendor API takes eight seconds, moving the call into another node won&#x2019;t make the vendor faster. But a sub-workflow can improve the architecture around that slow operation.&#xa0;</p><p>Break <a href="https://docs.n8n.io/flow-logic/subworkflows/"><u>workflows into smaller parts</u></a> in n8n with the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executeworkflowtrigger"><u>Execute Sub-workflow Trigger</u></a> node. This lets you give the slow step its own timeout, retry, and concurrency settings. You can also control whether the parent workflow waits for it to complete.</p><h3 id="scale-execution-with-concurrency-and-queue-mode">Scale execution with concurrency and queue mode</h3><p>What happens when 40 executions land at once and your instance runs them all? Everything slows down, and a throughput problem starts looking like a latency problem.&#xa0;</p><p>n8n limits the number of <a href="https://docs.n8n.io/deploy/use-n8n-cloud/understand-concurrency"><u>concurrent executions for Cloud </u></a>instances depending on <a href="https://n8n.io/pricing/"><u>your plan</u></a>. If you&#x2019;re self-hosting n8n, you can <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/scaling/control-concurrency"><u>control concurrency</u></a> to cap how many production executions run at once. And if you <a href="https://docs.n8n.io/deploy/host-n8n/configure-n8n/scaling/enable-queue-mode"><u>enable queue mode</u></a>, the main instance handles triggers and webhooks and hands each execution through <a href="https://redis.io/"><u>Redis</u></a>, where a pool of workers picks up the job. This lets you scale throughput as you add workers.</p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Build your first latency-optimized AI workflow</h3>
-    <p>Get started in 10 minutes with n8n Cloud &#x2014; free to try.</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Start free with n8n Cloud</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="model-level-patterns-routing-tokens-and-caching">Model-level patterns: Routing, tokens, and caching</h2><p>Two variables drive inference latency: The model you pick sets how fast each token comes out, and the length of the answer sets how many you wait for. LLM latency optimization starts with choosing the right model and minimizing unnecessary output.</p><h3 id="route-tasks-to-right-sized-models">Route tasks to right-sized models</h3><p>Classification and short extraction steps run well on a small model. Smaller models generate tokens faster because each token uses less compute, so swapping a large dense 70B model for a smaller Mixture of Experts (MoE) saves hundreds of milliseconds per query. Reserve the large model (especially the one with built-in reasoning) for multi-step automations.</p><h3 id="cut-output-tokens-before-input-tokens">Cut output tokens before input tokens</h3><p>Generated output is often the easiest inference cost to control because decoding is sequential. <a href="https://developers.openai.com/api/docs/guides/latency-optimization"><u>OpenAI&#x2019;s latency optimization</u></a> guidelines suggest the relationship between output and latency is close to linear. If you cut 50% of your output tokens, you can cut about 50% of your latency.&#xa0;</p><p>To cut output tokens, start capping the model&#x2019;s response. Set a maximum output length, ask for structured output with short field names, and tell the model to answer in a set number of words.</p><h3 id="prompt-caching-and-semantic-caching">Prompt caching and semantic caching</h3><p>The model provider generally controls prompt caching. When a request repeatedly shares a cacheable prefix, the provider can avoid recomputing some of the input processing. This can reduce input-processing latency but doesn&#x2019;t eliminate the decoding phase &#x2014; the model still runs end to end.</p><p>Semantic caching can avoid inference entirely for new requests that are similar to existing ones.&#xa0;</p><p>For example, one user asks &#x201c;What&#x2019;s your return window?&#x201d; Another user asks &#x201c;How long do I have to send something back?&#x201d; The questions are asking for the same information in different words, so the semantic cache can retrieve a previous answer instead of prompting the model again.&#xa0;</p><p>In n8n, the <a href="https://n8n.io/integrations/redis-vector-store/"><u>Redis Vector Store</u></a> enables zero-inference cache hits for repeated queries, not just exact and semantic caching.</p>
-<!--kg-card-begin: html-->
-<script>
-  workflowBanner([10887], document.currentScript, {
-      workflowsHeader: "Try this template to reduce LLM costs with semantic caching:"
-  });
-</script>
-<!--kg-card-end: html-->
-<h2 id="reducing-ai-workflow-latency-with-n8n">Reducing AI workflow latency with n8n</h2><p>The key to reducing AI workflow latency is to optimize in the right order. Start by measuring where you&#x2019;re losing time in model inference, tool calls, or orchestration overhead. Get the workflow patterns right, then clean up the model-level basics.&#xa0;</p><p>With n8n, you can measure executions and apply latency patterns directly into your workflows. </p><p>Try <a href="https://app.n8n.cloud/register"><u>n8n today</u></a> and start building faster AI workflows without adding custom orchestration code.<br></p>]]></content:encoded></item>
-<item><title><![CDATA[How the Transactional Outbox Pattern Guarantees Event Delivery]]></title><description><![CDATA[Learn how the transactional outbox pattern prevents dual writes and enables reliable event publishing for scalable event-driven architectures.]]></description><link>https://blog.n8n.io/how-the-transactional-outbox-pattern-guarantees-event-delivery/</link><guid isPermaLink="false">6a98e48b054cb70001516ff6</guid><category><![CDATA[Guide]]></category><category><![CDATA[Integrations & APIs]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Sat, 19 Sep 2026 02:18:14 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-transactional-outbox-pattern.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-transactional-outbox-pattern.png" alt="How the Transactional Outbox Pattern Guarantees Event Delivery"><p>If your application updates a database and publishes events, keeping those operations in sync is a challenge. A service can commit a database transaction, then crash before the corresponding event ever gets published.</p><p>The transactional outbox pattern makes that specific failure impossible. It guarantees the event is delivered, not just attempted. It&apos;s become a foundational pattern in event-driven architecture, where services depend on reliable event delivery to stay in sync.</p><h2 id="when-events-get-lost-in-distributed-systems">When events get lost in distributed systems</h2><p>Imagine a customer places an order. Your application saves the order to the database, then publishes an OrderCreated event so your inventory, billing, and shipping services can take over.</p><p>The problem is that those two actions don&apos;t happen simultaneously. If your application crashes after saving the order but before publishing the event, the order exists, but the rest of your system isn&#x2019;t alerted. That&apos;s the dual-write problem: One part of the operation succeeds while the other fails, creating a delivery failure that can leave downstream services permanently out of sync.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/transaction-outbox.png" class="kg-image" alt="How the Transactional Outbox Pattern Guarantees Event Delivery" loading="lazy" width="1376" height="768" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/transaction-outbox.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/transaction-outbox.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/transaction-outbox.png 1376w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">A schematic diagram of the transactional outbox pattern: (1) A service writes into 2 tables during a single transaction, (2) a separate message relay fetches new outbox messages and passes them to (3) the message broker. </span></figcaption></figure><h2 id="how-the-outbox-pattern-guarantees-delivery"><br>How the outbox pattern guarantees delivery</h2><p>The fix is to write the database change and the event in the same transaction. If the transaction succeeds, both the business data and the event are saved. If it fails, neither is.</p><p>The application doesn&apos;t publish the event immediately. Instead, it stores the event in an outbox table alongside the business data. A separate message relay reads that table and publishes each event to the message broker. If the broker is unavailable or the publish fails, the relay simply retries. Because the event is already stored safely in the database, retrying doesn&apos;t risk losing data or creating inconsistencies; it just delays delivery until it succeeds.</p><h2 id="building-the-relay-in-an-automation-workflow">Building the relay in an automation workflow</h2><p>The outbox table guarantees an event gets recorded, but it doesn&#x2019;t deliver that event on its own. That&apos;s the job of a message relay, which continuously checks for new events, publishes them to a message broker, and retries if something goes wrong. Without that relay, the event never leaves the database. In microservices, the outbox pattern is a common way to make sure every service receives the same committed events, even when individual services or message brokers experience temporary failures.</p><p>There are two common ways to detect new events. The simplest approach is polling, where the relay periodically queries the outbox table for unpublished rows. If you need lower latency, change data capture (CDC) reads the database&apos;s transaction log and streams new records as they&apos;re committed. Polling is easier to set up, while CDC reduces latency at the cost of additional infrastructure. For many teams, polling is the right place to start. As throughput and latency requirements grow, migrating to CDC can improve performance without changing the overall outbox pattern.</p><p>You could build that relay yourself, but most teams end up creating redundant, duplicate capabilities. <a href="https://n8n.io/"><u>n8n</u></a> is a workflow automation platform that provides retries, execution history, failure handling, and monitoring right out of the box, making it faster to build a relay that&apos;s reliable and easier to operate in production.&#xa0;</p><p>In n8n, you can set up publishing from the outbox to a message broker. If you haven&#x2019;t already set up the message outbound, you may face a dual-write program. Here&#x2019;s how to solve it:</p><ul><li><strong>Detect new outbox rows: </strong>Use a <a href="https://docs.n8n.io/integrations/builtin/trigger-nodes/n8n-nodes-base.postgrestrigger"><u>Postgres Trigger</u></a> node to react to new rows as they&apos;re written, or a <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.scheduletrigger#custom-cron-interval"><u>Schedule Trigger</u></a> node to poll the outbox table at regular intervals.</li><li><strong>Publish each event:</strong> Send the event to your message broker or downstream service. n8n supports several message brokers, such as <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.rabbitmq"><u>RabbitMQ </u></a>and <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.redis"><u>Redis</u></a>. However, you can also use the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest"><u>HTTP Request </u></a>node, with built-in retries to handle temporary failures.</li><li><strong>Mark rows as processed:</strong> Only update the outbox table after delivery succeeds. Marking a row as processed too early risks losing the event if the relay fails before it&apos;s published.</li><li><strong>Alert on delivery failures:</strong> If retries are exhausted, use a workflow with an <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.errortrigger#error-data"><u>Error Trigger</u></a> node to notify your team so failed events don&apos;t go unnoticed.</li><li><strong>Review execution history:</strong> Inspect each relay run to confirm events were delivered successfully or troubleshoot failures.</li></ul><p>Once you&apos;ve built your relay, <a href="https://docs.n8n.io/build/understand-workflows/save-and-publish-workflows"><u>publish workflows</u></a> so your team can reuse and maintain the same implementation across projects.</p><h2 id="checklist-for-guaranteeing-delivery-in-your-outbox-implementation">Checklist for guaranteeing delivery in your outbox implementation</h2><p>The transactional outbox pattern only works if every part of the delivery pipeline is designed to handle failure. A few small implementation mistakes (like marking events as processed before delivery succeeds or letting your outbox table grow indefinitely) can undermine the guarantees the pattern is meant to provide.&#xa0;</p><p>Before moving to production, make sure you&apos;ve covered the following:</p><ul><li><strong>Write events and business data in the same transaction:</strong> If you insert the outbox record after committing the business transaction, you can still lose events if the application crashes.</li><li><strong>Mark events as processed only after successful delivery:</strong> Wait until the message broker confirms receipt before updating the outbox table.</li><li><strong>Design consumers to handle duplicate events:</strong> Even with retries, duplicate delivery is always possible. Make downstream consumers idempotent so they can safely process the same event more than once.</li><li><strong>Choose the right relay strategy:</strong> Polling is often the simplest option, while change data capture offers lower latency if your infrastructure justifies the added complexity.</li><li><strong>Monitor stalled events:</strong> Set alert on outbox rows that remain unprocessed longer than expected so delivery failures don&apos;t go unnoticed.</li><li><strong>Archive processed events:</strong> Regularly clean up or archive processed rows to prevent the outbox table from growing without bound.</li><li><strong>Preserve event ordering where it matters:</strong> If downstream services depend on processing events in sequence, make sure your relay doesn&apos;t introduce ordering issues under concurrent workloads.</li></ul><p>Building a reliable relay shouldn&apos;t mean maintaining a custom worker service. With n8n, you can automate event delivery, monitor every execution, and retry failed deliveries without writing the surrounding infrastructure yourself.</p><h2 id="reliable-event-delivery-starts-with-the-right-relay">Reliable event delivery starts with the right relay</h2><p>The transactional outbox pattern solves one of the most common failure modes in distributed systems by making sure database updates and events are committed together. But that guarantee only holds if a message relay reliably publishes every event, retries failed deliveries, and gives you visibility into what happened when something goes wrong. That&apos;s what turns an architectural pattern into a production-ready system.</p><p><a href="https://app.n8n.cloud/register?ps_xid=b6ao4K12tahjtQ&amp;utm_campaign=%7Bcampaign%7D&amp;ps_partner_key=ZmViNTNiZmI5YjBl&amp;utm_content=%7Badcontent%7D&amp;utm_medium=%7Bsubchannel%7D"><u>Try n8n Cloud for free</u></a> to build, run, and monitor your message relay in one place.</p><h2 id="faq">FAQ</h2><h3 id="can-the-transactional-outbox-pattern-publish-to-an-apache-kafka-topic">Can the transactional outbox pattern publish to an Apache Kafka topic?</h3><p>Yes, a message relay can publish each committed event to an Apache Kafka topic after the database transaction succeeds. The transactional outbox pattern isn&apos;t tied to Kafka (it works with any message broker), but Kafka is a popular choice for building scalable, event-driven systems.</p><h2 id><br></h2><p><br></p><h2 id="-1"><br></h2>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 12 Oct 2026 21:42:32 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 00:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -1174,7 +1348,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 08:42:32 GMT</pubDate>
+  <pubDate>Tue, 20 Oct 2026 16:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -1183,7 +1357,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 07:42:32 GMT</pubDate>
+  <pubDate>Mon, 19 Oct 2026 18:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -1192,7 +1366,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 02:42:32 GMT</pubDate>
+  <pubDate>Thu, 15 Oct 2026 22:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -1201,7 +1375,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 12 Oct 2026 15:42:32 GMT</pubDate>
+  <pubDate>Tue, 20 Oct 2026 17:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -1210,7 +1384,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 19:42:32 GMT</pubDate>
+  <pubDate>Mon, 19 Oct 2026 02:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1219,7 +1393,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 22:42:32 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 08:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1228,7 +1402,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 01:42:32 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 06:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -1237,7 +1411,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 06:42:32 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 01:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -1246,7 +1420,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 07:42:32 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 04:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -1255,7 +1429,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 12:42:32 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 08:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1264,7 +1438,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 10:42:32 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 15:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1273,7 +1447,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 00:42:32 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 20:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1282,7 +1456,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 11:42:32 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 06:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1291,7 +1465,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 17 Oct 2026 18:42:32 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 15:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1300,7 +1474,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 12 Oct 2026 12:42:32 GMT</pubDate>
+  <pubDate>Thu, 15 Oct 2026 13:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1309,7 +1483,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 20 Oct 2026 04:42:32 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1318,7 +1492,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 21 Oct 2026 13:42:32 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 20:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1327,7 +1501,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 21 Oct 2026 08:42:32 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 23:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1336,7 +1510,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 22:42:32 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 00:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1345,7 +1519,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 02:42:32 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 07:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1354,7 +1528,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 15:42:32 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 05:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1363,7 +1537,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 21:42:32 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 00:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1372,7 +1546,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 21 Oct 2026 16:42:32 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 16:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1381,7 +1555,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 04:42:32 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 04:06:59 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1756,58 +1930,58 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/Ibexa-Agentic-Platform.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Telehouse inaugure un nouveau module d’hébergement IA ready au sein de son campus de data center TH3 Paris Magny]]></title>
-  <link>https://www.ia-news.fr/telehouse-inaugure-un-nouveau-module-dhebergement-ia-ready-au-sein-de-son-campus-de-data-center-th3-paris-magny/</link>
+  <title><![CDATA[Shadow AI : Bitdefender donne aux DSI une vue d’ensemble]]></title>
+  <link>https://www.ia-news.fr/shadow-ai-bitdefender-donne-aux-dsi-une-vue-densemble/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/data-center-with-server-racks-2022-07-26-17-02-57-utc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/data-center-with-server-racks-2022-07-26-17-02-57-utc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/data-center-with-server-racks-2022-07-26-17-02-57-utc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-bitdefender-article-1-.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-bitdefender-article-1-.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-bitdefender-article-1-.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Etude Ipsos : L’usage de l’intelligence artificielle par les Français]]></title>
-  <link>https://www.ia-news.fr/etude-ipsos-lusage-de-lintelligence-artificielle-par-les-francais/</link>
+  <title><![CDATA[La MACIF accélère sa transformation IT Data grâce à l&rsquo;expertise d&rsquo;Infortive Transition]]></title>
+  <link>https://www.ia-news.fr/la-macif-accelere-sa-transformation-it-data-grace-a-lexpertise-dinfortive-transition/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/11/Intelligence-artificielle-IA-AI-13.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/11/Intelligence-artificielle-IA-AI-13.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/11/Intelligence-artificielle-IA-AI-13.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/system-administrator-working-on-cyber-security-in-2021-11-03-15-57-59-utc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/system-administrator-working-on-cyber-security-in-2021-11-03-15-57-59-utc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/system-administrator-working-on-cyber-security-in-2021-11-03-15-57-59-utc.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Camunda désigné en tant que Visionnaire dans le Magic Quadrant™ 2025 de Gartner® pour les technologies dʼorchestration et dʼautomatisation métier]]></title>
-  <link>https://www.ia-news.fr/camunda-designe-en-tant-que-visionnaire-dans-le-magic-quadrant-2025-de-gartner-pour-les-technologies-d%ca%bcorchestration-et-d%ca%bcautomatisation-metier/</link>
+  <title><![CDATA[IA en entreprise, innover sans s’exposer aux risques cyber]]></title>
+  <link>https://www.ia-news.fr/ia-en-entreprise-innover-sans-sexposer-aux-risques-cyber/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/02/Cyber-securite-security-protection-12.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/02/Cyber-securite-security-protection-12.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/02/Cyber-securite-security-protection-12.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Améliorer la conformité des services financiers grâce à I’IA et Microsoft Teams]]></title>
-  <link>https://www.ia-news.fr/ameliorer-la-conformite-des-services-financiers-grace-a-iia-et-microsoft-teams/</link>
+  <title><![CDATA[Camunda présente ProcessOS]]></title>
+  <link>https://www.ia-news.fr/camunda-presente-processos/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-netbook-keyboard.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-netbook-keyboard.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-netbook-keyboard.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Lancement de Clovis, l’IA générative qui protège les données des entreprises]]></title>
-  <link>https://www.ia-news.fr/lancement-de-clovis-lia-generative-qui-protege-les-donnees-des-entreprises/</link>
+  <title><![CDATA[Limova met l’IA au service des entrepreneurs]]></title>
+  <link>https://www.ia-news.fr/limova-met-lia-au-service-des-entrepreneurs/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-2.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L’IA au service de la conformité : un nouvel allié pour les responsables réglementaires]]></title>
-  <link>https://www.ia-news.fr/lia-au-service-de-la-conformite-un-nouvel-allie-pour-les-responsables-reglementaires/</link>
+  <title><![CDATA[Starburst choisit Lando Norris pour incarner sa vision de l’IA]]></title>
+  <link>https://www.ia-news.fr/starburst-choisit-lando-norris-pour-incarner-sa-vision-de-lia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/05/ai-ia-2025-01-07.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/05/ai-ia-2025-01-07.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/ai-ia-2025-01-07.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
