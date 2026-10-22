@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 16:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 20:52:09 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax]]></title>
+            <description><![CDATA[The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cky83vwnyglno#0</guid>
+            <pubDate>Thu, 22 Oct 2026 18:26:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Race to update services' computer systems after cyber-security flaw found]]></title>
+            <description><![CDATA[Websites were taken offline after the developers of programming language PHP said "critical vulnerabilities" had been discovered.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o#0</guid>
+            <pubDate>Thu, 22 Oct 2026 17:12:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg"/>
+        </item>
         <item>
             <title><![CDATA[What is PHP and why did it spark a global cyber-security scramble?]]></title>
             <description><![CDATA[AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.]]></description>
@@ -103,22 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b56/live/9be50560-cc9f-11f1-94e6-edd4c60b2e1d.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Google resolves cloud outage affecting UK banks and websites]]></title>
-            <description><![CDATA[Revolut was one of the hardest hit, with banking services going down for many customers.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#0</guid>
-            <pubDate>Tue, 20 Oct 2026 18:03:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fb/live/5e172460-ccc3-11f1-951b-8fbc7a9ea030.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK asks Apple to widen access to its payment tech ]]></title>
-            <description><![CDATA[Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqm26zzl0k12o#0</guid>
-            <pubDate>Tue, 20 Oct 2026 12:29:24 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500f/live/e6103ea0-cc6a-11f1-baeb-8d65d4bcd7ab.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The next generation of chip is thinner and flexible when compared to traditional silicon.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,6 +184,112 @@
         </item>
     
 <item>
+		<title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
+		<link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 19:07:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[1password]]></category>
+		<category><![CDATA[dots]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[agents]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180727</guid>
+
+					<description><![CDATA[The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts. ]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Canva releases its first image generation model</title>
+		<link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[canva]]></category>
+		<category><![CDATA[image generation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
+
+					<description><![CDATA[Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
+		<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
+
+					<description><![CDATA[OpenAI is launching its decision model to the world. Can it compete with the original Jev?]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
+		<link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[microsoft AI]]></category>
+		<category><![CDATA[Mustafa Suleyman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180761</guid>
+
+					<description><![CDATA[Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
+		<link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[connectwise]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180678</guid>
+
+					<description><![CDATA[Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Uber puts all 30,000 employees on ChatGPT Work</title>
+		<link>https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Uber]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180196</guid>
+
+					<description><![CDATA[The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.  ]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Spotify&#8217;s current AI bet is about being the music service that agents choose</title>
 		<link>https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/</link>
 		
@@ -215,7 +321,7 @@
 		<category><![CDATA[Claude]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3180587</guid>
 
-					<description><![CDATA[Claude Duet is available through waitlist for Pro and Max plan users]]></description>
+					<description><![CDATA[Claude Duet is available through waitlist for Pro and Max plan users.]]></description>
 		
 		
 		
@@ -228,10 +334,10 @@
 		<pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Ambient AI]]></category>
 		<category><![CDATA[Lightspeed Venture Capital]]></category>
-		<category><![CDATA[South Park Commons]]></category>
 		<category><![CDATA[wearables]]></category>
+		<category><![CDATA[South Park Commons]]></category>
+		<category><![CDATA[Ambient AI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3180570</guid>
 
 					<description><![CDATA[Nirva will ship its $249 ambient AI pendant by the end of the year. ]]></description>
@@ -250,9 +356,10 @@
 		<category><![CDATA[artificial intellignce]]></category>
 		<category><![CDATA[deepseek]]></category>
 		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3180589</guid>
 
-					<description><![CDATA[DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.]]></description>
+					<description><![CDATA[DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.]]></description>
 		
 		
 		
@@ -270,9 +377,29 @@
 		<category><![CDATA[data centers]]></category>
 		<category><![CDATA[GPU]]></category>
 		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3180358</guid>
 
 					<description><![CDATA[Blackstone’s AI head on why the PE giant isn't panicked by market jitters.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Meta wants to pay for its broad AI buildout with a newly created class of stock</title>
+		<link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2026 22:45:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[muse]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3180349</guid>
+
+					<description><![CDATA[The social media giant is planning a new stock strategy to help power its broad investments in AI models and services. ]]></description>
 		
 		
 		
@@ -418,125 +545,27 @@
 		
 		
 			</item>
-<item>
-		<title>Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate</title>
-		<link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 22:24:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Clem Delangue]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179822</guid>
-
-					<description><![CDATA[Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Anthropic’s cloud partnerships are getting messy</title>
-		<link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[cloud compute]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179891</guid>
-
-					<description><![CDATA[Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>SpaceX&#8217;s AI business is beating expectations</title>
-		<link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz, Kirsten Korosec]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179777</guid>
-
-					<description><![CDATA[SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
-		<link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 20:35:10 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[biotech]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179783</guid>
-
-					<description><![CDATA[OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app developers</title>
-		<link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 18:38:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179702</guid>
-
-					<description><![CDATA[Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>ChatGPT now lets you lock your chats</title>
-		<link>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 18:36:53 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179763</guid>
-
-					<description><![CDATA[The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat. ]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei</title>
-		<link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Eric Schmidt]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3179732</guid>
-
-					<description><![CDATA[Eric Schmidt’s fortune is about to get even bigger. ]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[Hallucination Detection Methods for AI Agent Workflows]]></title><description><![CDATA[<p>AI agent hallucinations are hard to catch because they usually look like normal answers. An agent can invent a fact, misread retrieved context, or contradict itself without signaling that anything went wrong. Once that output triggers another workflow step, the mistake can quickly become a production problem.</p><p>Effective hallucination detection</p>]]></description><link>https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/</link><guid isPermaLink="false">6ad22cb0029ec000015e4ebf</guid><dc:creator><![CDATA[Emilio Patiño Monsalve]]></dc:creator><pubDate>Thu, 22 Oct 2026 17:21:13 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-6_hallucination-detection-methods.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-6_hallucination-detection-methods.jpg" alt="Hallucination Detection Methods for AI Agent Workflows"><p>AI agent hallucinations are hard to catch because they usually look like normal answers. An agent can invent a fact, misread retrieved context, or contradict itself without signaling that anything went wrong. Once that output triggers another workflow step, the mistake can quickly become a production problem.</p><p>Effective hallucination detection methods don&#x2019;t rely on a single score. They need to be as multi-faceted as the hallucinations they catch. In this guide, we&#x2019;ll break down how those methods work, where each one falls short, and how to layer them into AI workflows that are easier to inspect and control.</p><h2 id="types-of-ai-hallucinations">Types of AI hallucinations</h2><p>Not all <a href="https://blog.n8n.io/ai-hallucinations/"><u>AI hallucinations</u></a> fail in the same way. Models might invent a fact, drift away from the context they&#x2019;ve been given, fill a knowledge gap with plausible-sounding details, or contradict something they said earlier.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/llm-hallucinations.png" class="kg-image" alt="Hallucination Detection Methods for AI Agent Workflows" loading="lazy" width="1264" height="711" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/llm-hallucinations.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/llm-hallucinations.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/llm-hallucinations.png 1264w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Schematic diagram of the four common LLM hallucination types: factual, contextual, confabulation and self-contradiction</span></figcaption></figure><p>Knowing which failure you&#x2019;re dealing with matters because each type calls for a different detection method. Here are the four main types of hallucinations to watch for:</p><ul><li><strong>Factual hallucinations: </strong>The model makes a claim that conflicts with verifiable facts, like inventing a statistic, person, or event.</li><li><strong>Contextual hallucinations:</strong> The answer isn&#x2019;t supported by the context supplied to the model. This is especially important in RAG systems, where an answer can sound reasonable while misrepresenting or going beyond the retrieved material.</li><li><strong>Confabulations:</strong> The model fills gaps with details that weren&#x2019;t provided or established, producing a coherent answer without sufficient evidence.</li><li><strong>Self-contradictions:</strong> The model produces claims that conflict with other parts of its own response or with information it provided earlier.</li></ul><p>These distinctions show why there&#x2019;s no universal hallucination detector. A groundedness check can identify claims that stray from retrieved context, for example, but it won&#x2019;t necessarily tell you whether the source material itself is factually correct. In production systems, reliable detection means matching the check to the failure mode &#x2014; and often layering several checks together.</p><h2 id="detection-methods-that-work-in-production">Detection methods that work in production</h2><p>LLM hallucination detection works best as a layered system. No single check catches every failure mode: Some methods compare an answer with its context, others look for inconsistent outputs or uncertainty, and others escalate questionable results to a person. Combining these signals gives you more coverage than treating one score as a definitive pass or fail.</p><h3 id="faithfulness-and-groundedness-checks">Faithfulness and groundedness checks</h3><p>Faithfulness checks ask whether the model&#x2019;s claims are actually supported by the context it received. For example, in a RAG workflow, you can break an answer into individual claims and compare each one with the retrieved documents, producing a score based on how much of the response can be traced back to that context.&#xa0;</p><p>Tools like <a href="https://deepeval.com/"><u>DeepEval</u></a> can automate this process, making faithfulness scoring useful for automated hallucination detection across test sets, evaluation datasets, and live outputs.</p><h3 id="self-consistency-checks">Self-consistency checks</h3><p>With self-consistency checks, you ask the model the same question multiple times, then compare the answers. If independently generated responses converge on the same claims, you&#x2019;ve got a useful consistency signal; if they disagree substantially, the output deserves more scrutiny. Because this method compares the model against its own outputs, it doesn&#x2019;t require an external knowledge base.&#xa0;</p><p>The limitation is important, though: Different inference runs can converge on the same incorrect information. So think of consistency as a signal, not proof of accuracy.</p><h3 id="semantic-entropy-and-uncertainty-estimation">Semantic entropy and uncertainty estimation</h3><p>Semantic entropy looks beyond whether generated answers use the same words and asks whether they express the same underlying meaning. Generate several responses to the same prompt, group semantically equivalent answers, then estimate how probability is distributed across those meaning clusters.&#xa0;</p><p>High semantic entropy indicates that the model is uncertain about what the answer should be, making it useful for identifying outputs that need another validation step. Like self-consistency, however, uncertainty estimation tells you how stable an answer is, not whether it&#x2019;s factually correct.</p>
+<!--kg-card-begin: html-->
+ <div class="content-banner">
+  <div>
+    <h3>See n8n&apos;s AI agent architecture in action.</h3>
+  </div>
+  <a href="https://n8n.io/workflows/" class="global-button blog-banner-signup">Explore the template library</a>
+</div>
+<!--kg-card-end: html-->
+<h3 id="source-and-retrieval-verification">Source and retrieval verification</h3><p>Faithfulness asks whether an answer reflects the context the model received; source verification asks whether its claims hold up against an authoritative external source. That distinction matters for a RAG hallucination caused by poor retrieval: A perfectly faithful answer can still be wrong if the retrieved document is outdated, irrelevant, or incorrect. Production workflows can verify important claims against authoritative repositories like databases, APIs, and documentation, making this approach especially useful when there&#x2019;s a clear source of truth.</p><h3 id="confidence-thresholds-and-human-in-the-loop">Confidence thresholds and human in the loop</h3><p>Not every questionable output needs the same response. You can define confidence thresholds that route high-confidence results forward automatically, send ambiguous outputs through additional checks, and hold high-risk cases for a human in the loop before an agent takes an external action. The threshold should reflect the consequences of getting something wrong: An internal summary can tolerate more uncertainty than an agent preparing to modify a customer record or trigger a business process. This tiered approach lets teams <a href="https://blog.n8n.io/human-in-the-loop-automation/"><u>keep humans in control</u></a> where judgment matters without requiring manual approval for every execution.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">In addition to <a href="https://blog.n8n.io/human-in-the-loop-vs-human-on-the-loop/"><u>Human-in-the-loop</u></a>, there&#x2019;s also a Human-on-the-loop approach to control LLM output quality after the workflow execution.</div></div><h2 id="implementing-detection-with-open-source-tools">Implementing detection with open-source tools</h2><p>In practice, hallucination detection usually means combining an LLM evaluation framework with workflow logic that decides what happens when a check fails. A code-first framework like DeepEval can calculate metrics like faithfulness scoring, while guardrail libraries can add validation around model outputs.&#xa0;</p><p>In <a href="https://n8n.io/"><u>n8n</u></a>, a source-available AI-native automation platform, you can add checks around LLMs on the visual canvas and use the results to decide whether an output continues or gets retried or routed elsewhere. This keeps evaluation logic inside the same workflow that produced the answer instead of splitting detection across separate systems.</p><p>That workflow context also matters for AI agent observability. The <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI Agent node</u></a> keeps model and tool activity within an inspectable execution path, letting teams trace what the agent received and what it generated.&#xa0;</p><p>If a workflow fails, an <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.errortrigger"><u>Error Trigger node</u></a> can start a separate error-handling workflow, while execution history lets you <a href="https://docs.n8n.io/build/understand-workflows/understand-executions/debug-executions"><u>debug executions</u></a> using the data from a previous run. The result is a layered setup: Evaluations and guardrails measure the model output, and workflow logic acts on the confidence score and routes the output to a corresponding branch. Finally, execution records give you the context to investigate failures.</p><h2 id="why-detection-alone-isn%E2%80%99t-enough">Why detection alone isn&#x2019;t enough</h2><p>Hallucination detection reduces risk, but it can&#x2019;t guarantee that every incorrect output gets caught. Scores depend on the quality of the context and evaluation method, thresholds can produce false positives or miss subtle errors, and even a well-grounded response can be wrong if its source is unreliable.&#xa0;</p><p>Detection works best alongside prevention, clear escalation paths, and <a href="https://blog.n8n.io/llm-observability/"><u>LLM observability</u></a>. When something does slip through, visibility into the model&#x2019;s inputs, retrieved context, outputs, and downstream actions helps you trace the failure and improve the workflow instead of just flagging the results.</p><h2 id="building-hallucination-checks-into-production-workflows">Building hallucination checks into production workflows</h2><p>In production, each detection method covers a different failure mode, so the strongest workflows layer several checks:&#xa0;</p><ul><li>Faithfulness checks test whether claims match the supplied context.</li><li>Source verification checks them against authoritative information.</li><li>Consistency or uncertainty measures help identify answers that deserve more scrutiny.</li><li>For higher-risk decisions, confidence thresholds can route an output to human review.</li></ul><p>The important part is what happens after a problem is detected. In production, a flagged response needs somewhere to go: another validation step, a retry, an error workflow, or a person who can make the final call. Building those paths into the workflow makes hallucination detection part of how the AI system operates, not a test you run after something&#x2019;s already gone wrong.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-hallucination-check.png" class="kg-image" alt="Hallucination Detection Methods for AI Agent Workflows" loading="lazy" width="1600" height="500" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-hallucination-check.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-hallucination-check.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-hallucination-check.png 1600w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">n8n workflow example that has a second LLM pass after the agent output to check for hallucinations in the email text. Suspicious text is not discarded automatically and instead sent for a human approval</span></figcaption></figure>
+<!--kg-card-begin: html-->
+<div class="content-banner">
+  <div>
+    <h3>Tired of building observability from scratch?</h3>
+    <p>See how n8n&apos;s execution history works.</p>
+  </div>
+  <a href="https://docs.n8n.io/build/understand-workflows/understand-executions/view-all-executions" class="global-button blog-banner-signup">Learn more</a>
+</div>
+<!--kg-card-end: html-->
+<h2 id="put-hallucination-detection-into-practice-with-n8n">Put hallucination detection into practice with n8n</h2><p>n8n gives you one place to orchestrate those safeguards alongside your AI agents to improve AI agent reliability. You can add custom evaluation logic, route flagged responses for approval, inspect execution data, and define what happens next when a check fails.</p><p>Ready to weave detection methods into production? <a href="https://app.n8n.cloud/register?ps_xid=b6ao4K12tahjtQ"><u>Get started with n8n Cloud</u></a>, or self-host the <a href="https://docs.n8n.io/deploy/host-n8n"><u>free Community Edition</u></a> for full control over your AI workflows.</p><h2 id="faq">FAQ</h2><h3 id="how-do-i-make-sure-my-ai-agent-isn%E2%80%99t-hallucinating">How do I make sure my AI agent isn&#x2019;t hallucinating?</h3><p>You can&#x2019;t completely prevent AI hallucinations, but you can catch more unreliable outputs by layering checks. Test responses for faithfulness, verify important claims against trusted sources, flag uncertain answers, and require human review when the risk of an incorrect action is high.</p><h3 id="do-hallucination-detection-tools-support-multimodal-outputs-like-images-and-audio">Do hallucination detection tools support multimodal outputs like images and audio?</h3><p>Some do, but support depends on the detection tool and model. Multimodal evaluation can check outputs like images and audio, while text-only methods may require you to first extract a transcript or description.</p><h3 id="can-hallucination-detection-block-a-bad-answer-before-the-user-sees-it">Can hallucination detection block a bad answer before the user sees it?</h3><p>Yes, run detection before the response reaches the user, then use a threshold to determine what happens next. A flagged output can be stopped, regenerated, sent through another validation check, or held for human approval instead of being returned automatically.</p><p></p><p><br><br></p>]]></content:encoded></item>
+<item><title><![CDATA[API Versioning Strategies for Stable Workflow Integrations]]></title><description><![CDATA[ Compare API versioning strategies like URI, header, and date-based approaches, and learn how to handle a provider’s deprecation without breaking integration]]></description><link>https://blog.n8n.io/api-versioning-strategies/</link><guid isPermaLink="false">6ad64635cb248000019ea8f3</guid><category><![CDATA[Integrations & APIs]]></category><category><![CDATA[Guide]]></category><dc:creator><![CDATA[Yulia Dmitrievna]]></dc:creator><pubDate>Thu, 22 Oct 2026 16:15:48 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-6_api-versioning.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-6_api-versioning.jpg" alt="API Versioning Strategies for Stable Workflow Integrations"><p>An API integration can work perfectly for months. Then the provider decides to improve its endpoints, change response formats, and retire old version behavior. If a breaking change reaches production before your workflow is ready, downstream steps may receive the wrong data before anyone notices.</p><p>API versioning reduces that risk by separating incompatible changes from the version your integration already uses. By keeping older behavior available while introducing a new version, providers let you update, test, and migrate integrations on your own schedule.</p><h2 id="what-is-api-versioning">What is API versioning?</h2><p>API versioning is the practice of maintaining distinct versions of an application programming interface (API) so providers can change how it works on their end without forcing every existing integration to update the moment those changes are released.</p><p>Each version represents a familiar interface that your workflow expects, including when API endpoints are available, the data they accept or return, and how requests and responses behave.</p><p>When you rely on a third-party API, the provider decides when new versions and API breaking changes are released. Pinning your integration to a specific version gives you time to review those changes and migrate at your own pace.</p><p>The same principle applies to REST API versioning. Providers can keep different interfaces available so they don&apos;t force new behavior on existing integrations. If a change is backward compatible, existing integrations can usually keep working without modification. Versioning comes into play when a change breaks that backward compatibility.</p><h2 id="common-api-versioning-strategies">Common API versioning strategies</h2><p>You&#x2019;ll usually see an API versioned in the following ways:</p><ul><li>The URL path; e.g., `/v1/products `</li><li>An HTTP header; e.g., `curl -H &#x201c;Accepts-version: 1.0&#x201d; http://www.example.com/api/products`&#xa0;</li><li>As a date; e.g., `/2026.10/` as part of an API endpoint</li><li>A query parameter; e.g., `example-api.com/products?version=v1`</li></ul><p>The provider&#x2019;s API design decides which approach to use, so your job is to understand where the version is and what it means for your integration. The design can affect how clearly caches distinguish between responses or how easily you can spot the active version while debugging.</p><p>Here are the four API versioning strategies in more detail.</p><h3 id="1-uri-versioning">1. URI versioning</h3><p>With URI versioning, or URL path versioning, the version appears directly in the API&#x2019;s URL. One version might have a URL structure containing <em>v1</em>, while the newer version uses <em>v2</em>.</p><p>The active version is easy to see in your workflow, logs, and API documentation. If an API request fails or returns data in a format your workflow doesn&#x2019;t expect, you can check the URL immediately to confirm which version your integration used. You don&#x2019;t need to look elsewhere in the request for that information. Since each version has its own URL, caching systems can also tell them apart easily.</p><h3 id="2-header-versioning">2. Header versioning</h3><p>In this type of versioning, the API URL stays the same, and your workflow sends the version in an HTTP header instead. A header is extra information attached to a request, such as authentication details or data type, and can tell the provider which API version you want to use.</p><p>URLs stay consistent even when the provider releases new versions. However, the version becomes less visible, so if an API starts returning unexpected data, looking at the URL won&#x2019;t tell you which version handled the request. You need to check the header versioning versus the URI versioning.</p><p>Caching systems also need to account for the version header &#x2014; two requests can use the same URL but ask for different versions.</p><h3 id="3-date-based-versioning">3. Date-based versioning</h3><p>With date-based versioning, the provider identifies a version by its release date instead of a version number like <em>v1</em> or <em>v2</em>. This is different from semantic versioning for an API, where the provider uses a version number like <em>2.1.0</em> to distinguish major, minor, and patch releases.</p><p>If your workflow uses a version from a specific date, you can compare it with the provider&#x2019;s release notes to see how the changes in later versions affect your integration.</p><p>However, the date itself doesn&#x2019;t explain those changes. You have to review the provider&#x2019;s documentation and test the newer version before switching. Some providers send the date through an HTTP header, so you can combine data-based versioning with header versioning.</p><h3 id="4-query-parameter">4. Query parameter</h3><p>In query parameter versioning, the version appears as an extra setting at the end of the API URL. The main part of the URL stays the same, while the added parameter tells the provider which version should handle the request.</p><p>The version remains visible when you inspect the request. You can see what resource the workflow asked for and which API version it asked to use without checking a separate header. That makes it handy for troubleshooting and confirming whether the workflow still points to the intended version.</p><p>A caching system, however, may see two URLs that differ only by their version parameter, even though each returns different data. If the caching system ignores the parameter, it could serve a response from the wrong version. When that happens, it&#x2019;s best to set the version parameter for your integration and make sure the systems handling those requests can tell them apart.</p><h2 id="what-to-watch-for-when-a-provider-deprecates-a-version">What to watch for when a provider deprecates a version</h2><p>Your API deprecation strategy should include monitoring headers and other metadata for signals that an API version is scheduled for retirement. A <strong>deprecation header</strong> is usually the first sign and tells you that the version is or will be deprecated. You should flag the integration for migration before it stops working, even if the API still works normally.</p><p>A <strong>sunset header</strong> adds an exact end date for when the version is expected to become unavailable. You can use the remaining time to test and switch versions. After that point, the provider may return <em>410 Gone</em>, which means the requested resource is no longer available and the condition is likely permanent. Don&#x2019;t retry the same version or send the same request. Instead, your workflow should detect the response and route it for handling.</p><h2 id="build-version-migration-into-your-workflow-before-the-provider-forces-it-on-you">Build version migration into your workflow before the provider forces it on you</h2><p>Version migration is easier to manage when your workflow is purpose-built to expect API changes. <a href="https://n8n.io/"><u>n8n</u></a> is a source-available, AI-native automation platform where engineering teams can create AI agents and agentic workflows that anticipate API versioning.</p><p>In n8n, built-in nodes handle API versioning for you. If a node is not available, you can use the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest"><u>HTTP Request node</u></a> to connect a workflow to a third-party API and make the API version part of the workflow&#x2019;s configuration. Instead of relying on whatever version the provider uses by default, you can specify the version yourself in the request URL, header, or parameter. That means the workflow keeps asking for the version you built and tested it against and won&#x2019;t unexpectedly inherit different behavior when the provider changes its default.</p><p>You can also make the workflow respond differently when that version starts reaching the end of its life. Try inspecting the response status and headers and check for a deprecation warning or a <em>410 Gone</em> response. A warning can trigger an alert or other workflow that gives you time to schedule a migration.</p><p>If the version is already gone, you can stop the normal path and send the failure to a separate error workflow, where an <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.errortrigger"><u>Error Trigger</u></a> node can start a recovery process. If the recovery process needs custom parsing, you can <a href="https://docs.n8n.io/build/code-in-n8n"><u>add custom Code in n8n</u></a> to normalize or validate it before deciding what happens next.</p><p>If the API provider explicitly specifies the deprecation date, you can add an IF node and route API requests based on the current server date.</p><p>n8n also maintains execution history so you can return to previous runs when troubleshooting. You can <a href="https://docs.n8n.io/build/understand-workflows/understand-executions/debug-executions"><u>debug executions</u></a> by loading data from a failed production execution back into the current workflow, checking what happened, making a change, and testing it again against the previous execution data. This feature is available on <a href="https://docs.n8n.io/deploy/host-n8n/community-edition-features"><u>multiple editions</u></a>, including all <a href="https://app.n8n.cloud/login"><u>n8n Cloud</u></a> plans and Registered Community, Business, and Enterprise editions for self-hosted n8n.</p><p>In n8n, you can build API integrations that are ready for version changes and give them a safer migration path.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/410-error.png" class="kg-image" alt="API Versioning Strategies for Stable Workflow Integrations" loading="lazy" width="900" height="500" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/410-error.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/410-error.png 900w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">An example workflow that checks for an API error and sends a custom error message if the requested API version is no longer supported</span></figcaption></figure><h2 id="prepare-for-the-api-version-changes-you-don%E2%80%99t-control-with-n8n">Prepare for the API version changes you don&#x2019;t control with n8n</h2><p>API versioning becomes easier to manage when you separate what the provider controls from what you control. You can&#x2019;t choose whether an API uses a URL, header, date, or query parameter, but you can decide whether your integration depends on the provider&#x2019;s default or handles that version proactively.</p><p>In n8n, you can keep version-handling logic visible with the rest of the workflow. Prepare inside the workflow and watch the API request and its failure paths to make the best possible decision for migration and managing changes.&#xa0;</p><p><a href="https://app.n8n.cloud/register"><u>Try n8n Cloud</u></a> for a hosted setup, or <a href="https://docs.n8n.io/deploy/host-n8n"><u>explore self-hosting in n8n</u></a> if you prefer managing your own environment.</p>]]></content:encoded></item>
 <item><title><![CDATA[Stateful vs. Stateless: Managing Context in AI Agent Builds]]></title><description><![CDATA[Stateful versus stateless design changes how systems scale and remember context. Learn when to use memory nodes, state stores, or both.]]></description><link>https://blog.n8n.io/stateful-vs-stateless/</link><guid isPermaLink="false">6ad6646299223b00019f6953</guid><category><![CDATA[Guide]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 22 Oct 2026 15:44:39 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-6_stateful-vs-stateless_11zon.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL-6_stateful-vs-stateless_11zon.jpg" alt="Stateful vs. Stateless: Managing Context in AI Agent Builds"><p>State is the information an AI agent carries across tasks and, from conversation history to long-term memory and user profiles. Choosing between stateful versus stateless architecture shapes how agentic workflows manage scale and recover from failures. It&#x2019;s a core design decision with implications for your entire system&#x2019;s reliability and performance.</p><h2 id="stateful-vs-stateless-the-core-concepts">Stateful vs. stateless: The core concepts</h2><p>The difference between stateful and stateless architecture comes down to what happens to information between interactions. Does the system retain what happened from earlier interactions, or does it start every request with a blank slate?</p><p>Before comparing stateful versus stateless applications, it helps to define three related terms:</p><ul><li><strong>State: </strong>Information that persists beyond a single interaction, such as a shopping cart, authentication status, or conversation history.</li><li><strong>Session:</strong> A series of related interactions associated with the same user or process. It gives the system a boundary for deciding which interactions belong together.</li><li><strong>Context:</strong> The information the LLM-powered system uses to understand and respond to the current request. It can come from the current input, previous interactions, or stored data.</li></ul><h3 id="stateful-applications">Stateful applications</h3><p>A stateful application retains information from previous interactions and uses it to handle future ones. That information might include conversation history, authentication details, shopping cart contents, or progress through a multi-step process.</p><p>The advantage of statefulness is continuity. The application can pick up where an earlier interaction left off. The trade-off is that you need somewhere to store and manage that state and ensure it&apos;s available when the next request arrives.</p><h3 id="stateless-applications">Stateless applications</h3><p>A stateless application treats each request independently. This means everything needed to process the request must arrive alongside it or be retrieved from another system. There&#x2019;s no falling back on information retained from the previous request.</p><p>It&#x2019;s easier to distribute requests across instances in stateless applications. Any suitable instance can handle the request because it doesn&#x2019;t need to recover state elsewhere. This can make the application more scalable and fault-tolerant. But when continuity matters, you need to introduce state somewhere in the system. That&apos;s why many architectures use a stateless request-processing layer while storing persistent data in a cache or other shared system.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">Modern LLM apps also have a scratchpad. This is a temporary storage where an AI agent keeps its intermediary results before responding to the user. The scratchpad is not part of a stateful system and serves primarily to store information while the agent sends multiple queries to the LLM during a single user request.</div></div><h2 id="key-differences-between-stateful-and-stateless">Key differences between stateful and stateless</h2><p>The practical differences in stateful versus stateless architecture start with where information lives. In a stateful system, the application retains information between requests. In a stateless system, each request contains or retrieves what it needs independently. That decision affects how the system scales, recovers from failures, and uses resources.</p>
 <!--kg-card-begin: html-->
 <div style="background:#1A1A1F;border-radius:12px;overflow:hidden;margin:24px 0;">
@@ -1301,45 +1330,11 @@ image = client.images.generate(
 <!--kg-card-end: html-->
 <p></p>]]></content:encoded></item>
 <item><title><![CDATA[You can now top up your n8n Assistant credits]]></title><description><![CDATA[On n8n Cloud, you can now buy extra Assistant credits when you run out - manually or with auto top-up. Here's how it works.]]></description><link>https://blog.n8n.io/top-up-your-n8n-assistant-credits/</link><guid isPermaLink="false">6abd79f13c8a390001c91027</guid><dc:creator><![CDATA[Ophir Prusak]]></dc:creator><pubDate>Wed, 30 Sep 2026 21:35:00 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-assistant-credits-top-up.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-assistant-credits-top-up.png" alt="You can now top up your n8n Assistant credits"><p>Starting today, if you&apos;re on n8n Cloud (Starter or Pro) and you run out of Assistant credits, you can buy more and keep building.</p><p>Being able to top up has been one of the most common requests we&apos;ve heard since we launched n8n Assistant. Until now, running out meant waiting for your allowance to reset on the 1st of the month, or upgrading your plan. Neither is a great option when you&apos;re halfway through building a workflow.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/image-1.png" class="kg-image" alt="You can now top up your n8n Assistant credits" loading="lazy" width="2000" height="1167" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/image-1.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/image-1.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/image-1.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/image-1.png 2000w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">The new Assistant credits tab</span></figcaption></figure><h2 id="how-top-ups-work">How top-ups work</h2><p>Your plan still includes a monthly allowance of Assistant credits that resets on the 1st of the month. Top-ups are extra credits on top of that, and they&apos;re optional.</p><p>You can add extra credits in two ways:</p><ul><li><strong>Top up manually.</strong> Pick a credit package whenever you need one.</li><li><strong>Turn on auto top-up.</strong> Choose the extra-credit balance that triggers a top-up and the balance to refill to. A monthly limit, on by default, caps how much auto top-up can charge in a month.</li></ul><p>The Assistant always uses your included credits first, and only moves on to extra credits once those run out. Extra credits carry over from month to month and expire 12 months after you buy them.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/image-2.png" class="kg-image" alt="You can now top up your n8n Assistant credits" loading="lazy" width="2000" height="1153" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/image-2.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/image-2.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/image-2.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/image-2.png 2000w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Manual Top Up</span></figcaption></figure><h2 id="see-where-your-credits-go">See where your credits go</h2><p>The new <strong>Assistant credits</strong> tab in the Cloud admin dashboard shows:</p><ul><li>Your balance, split into included and extra credits</li><li>A spend chart for the last 24 hours, 7 days, or 30 days</li><li>Which users on your instance use the most credits</li><li>Your top-up history</li></ul><p>In the editor, the Assistant panel shows how many credits the current conversation has used, and warns you when you&apos;re down to 10%.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/image-3.png" class="kg-image" alt="You can now top up your n8n Assistant credits" loading="lazy" width="2000" height="664" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/image-3.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/image-3.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/09/image-3.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w2400/2026/09/image-3.png 2400w" sizes="(min-width: 720px) 720px"></figure><h2 id="weve-updated-your-monthly-credits">We&apos;ve updated your monthly credits</h2><p>If you&apos;re on Starter or Pro, you&apos;ll notice that your monthly credit allowance has changed.</p><p>For most people, the updated allowance will go further than before. That comes down to some improvements we&#x2019;ve made:</p><ol><li><strong>A newer, more capable model.</strong> We&apos;ve moved everyone to a newer model, so the Assistant needs fewer credits to do the same work.</li><li><strong>One standard credit value.</strong> Now that you can buy credits, a credit needs a fixed price. We recalibrated credits so they&apos;re worth the same on every paid plan, and set each plan&apos;s allowance to match.</li><li><strong>Improvements under the hood.</strong> We&apos;ve optimized how the Assistant works internally, so it gets more done with each request.</li></ol><h2 id="how-many-credits-does-it-take-to-build-a-workflow">How many credits does it take to build a workflow?</h2><p>That&apos;s the question we get most often, and there&apos;s no single answer. It depends on the request: longer conversations, more complex workflows, and debugging sessions use more credits than short, focused requests. No two prompts will cost the same, due to non-deterministic LLM behavior and different surrounding context.</p><p>What we can provide is a is a sense of the range to expect. Here are what a few typical requests use today:</p><ul><li><strong>A quick question </strong>[10-20 Credits]<ul><li>&quot;What authentication methods for Slack does n8n Support?&quot; <br></li></ul></li><li><strong>A simple workflow or fix from one prompt </strong>[50-100 credits]<ul><li>&quot;Once a day, check the weather in Berlin using a free weather API and email me the forecast.&quot; <br></li></ul></li><li><strong>A larger build with explicit testing, or a longer debugging session </strong>[300-600 credits]<ul><li>&#x201c;Before building, research the current docs for free keyless APIs for geocoding, weather forecasts, country info and exchange rates, and pick three real destinations with very different weather this week so each one lands in a different trip category. Then build a &quot;Travel Weather Briefing&quot; workflow: a form asks for a city, travel dates and home currency, the APIs above gather the data, writes packing tips, labels the trip Hot, Cold, Wet or Mild, and each briefing is saved to a Data Table. Post the briefing to a Slack channel, show it on the form&apos;s completion page. Ensure you handle errors such as unknown cities or currencies, and test the workflow with the three cities you researched.&#x201d; <br></li></ul></li></ul><p>These ranges will change as we keep improving the Assistant and the models behind it, so treat them as a rough guide. One tip that definitely helps: specific prompts use fewer credits than open-ended ones.</p><h2 id="a-few-things-to-know">A few things to know</h2><ul><li><strong>Credits are shared across your instance.</strong> Everyone on the instance draws from the same balance. If five people on your team use the Assistant, they&apos;re all using the same pool, and the top users view shows who&apos;s using what.</li><li><strong>Only the instance owner can top up.</strong> Topping up also requires an active paid plan.</li><li><strong>Your workflows keep running.</strong> Running a workflow never uses Assistant credits, even if the Assistant built it. Only your conversations with the Assistant do.</li><li><strong>Assistant credits and Gateway credits are separate.</strong> Assistant credits pay for your conversations with the Assistant. Gateway credits pay for the AI model calls your workflows and agents make when they run. Topping up one doesn&apos;t add to the other.</li><li><strong>Free trials include a one-time allowance.</strong> Free trials get 800 credits. Top-ups aren&apos;t available during a trial, so you&#x2019;ll need to upgrade to a paid plan to get more.</li><li><strong>Self-hosted n8n doesn&apos;t use Assistant credits.</strong> The Assistant runs on your own model provider account instead.</li></ul><p>For all the details, check out the <a href="https://docs.n8n.io/deploy/use-n8n-cloud/assistant-credits">Assistant credits docs</a>.<br><br><strong>Got any questions?<br>Just send a reply in the </strong><a href="https://community.n8n.io/t/assistant-credits-top-up-now-available/318075" rel="noreferrer"><strong>community forum post</strong></a><strong>.</strong><br></p>]]></content:encoded></item>
-<item><title><![CDATA[Introducing n8n Agents]]></title><description><![CDATA[n8n now has a new type of Agent. Describe what an agent should do, choose a model, the tools and workflows it can use, and it's ready to go!]]></description><link>https://blog.n8n.io/introducing-n8n-agents/</link><guid isPermaLink="false">6ab54c33f129f4000110d8dc</guid><dc:creator><![CDATA[Ophir Prusak]]></dc:creator><pubDate>Fri, 25 Sep 2026 12:00:23 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-introducing-n8n-agents.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-introducing-n8n-agents.png" alt="Introducing n8n Agents"><p>n8n now has <strong>Agents</strong>. You describe what an agent should do, give it a model and the tools and workflows it can use, and it works out the steps itself. You can talk to it in Slack, run it on a schedule, or call it from any workflow, and it&apos;s the same agent in every one of those places.</p><p>With agents, it&apos;s easier to handle open-ended or back-and-forth jobs that could get complicated to build as a fixed workflow. And you can build an agent without first learning how workflows work.</p><p>Agents sit <strong>next</strong> to your workflows, and the two are built to work together. Your agent can use your workflows as tools, so you decide exactly what it&apos;s allowed to do in your systems. And when a workflow needs an agent for one of its steps, the new <strong>Message an Agent</strong> node calls it from inside the workflow.</p><p>If you use the AI Agent node today, nothing about it has changed. Everything you&apos;ve built keeps working.</p><p>&#x1f447;<strong> Check out the following video which goes into detail with a real world  example. </strong>&#x1f447;</p><figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/AbqPOLfLsm8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="How to build a powerful Telegram agent in n8n fast"></iframe></figure><h3 id="why-agents-and-why-now">Why agents, and why now</h3><p>For as long as n8n has existed, automating something meant working out the steps and adding them to the canvas. That&apos;s still the right approach for plenty of work. A lead comes in, you enrich it, score it, route it. The more fixed the sequence, the better a workflow fits, even if one of the steps is a model making a decision.</p><p>Two things have changed:</p><ol><li><strong>Models can work out the how.</strong> Give a current model a goal and the right tools, and it&apos;s really good at figuring out the steps to get there.</li><li><strong>People expect to ask for an outcome.</strong> More and more, people want to define a goal, and have it handled, instead of designing the process first.</li></ol><p>That matters most for jobs where the input is different every time. Someone on the team asks in Slack why a customer&apos;s usage dropped last month. Answering takes a few rounds: pull the account, ask which product line they mean, check the support history, come back with a summary and a follow-up question. The next step depends on the answer to the last one, so there&apos;s no way to lay out the process in advance.</p><p>The same goes for a support email, a new GitHub issue, or any request where you know the domain but not the task. For those jobs, you want to describe the goal in plain language, give the agent access to what it needs, and let it work out the steps as it goes.</p><p>Until now, taking on a job like that in n8n meant fitting an open-ended conversation into a workflow. You could do it, and plenty of people did, but it took some work to build. Agents are built for those jobs.</p><p>Sometimes you want the workflow in charge, with the agent as a step inside it. <br>Sometimes you want the agent in charge, with workflows as tools. <br><br>n8n now gives you both.</p><h3 id="but-ive-been-building-agents-in-n8n-for-years">&quot;But I&apos;ve been building agents in n8n for years&quot;</h3><p>You have, and so have we. A chat trigger, a memory node, an AI Agent node with a few tools attached, and a workflow around it to hold it all together. Lots of n8n users run agents built exactly this way, and they work.</p><p>The difference is how much of it you have to assemble yourself. It&apos;s a bit like building your own PC versus buying a pre-built one. Building your own gets you a working machine, but you pick every part and connect every cable. A pre-built PC arrives with everything connected and ready to go, and you can still open it up and add what you need.</p><p>n8n Agents are the pre-built version. Memory, sessions, channels, versions and approvals come with every agent, so you spend your time on what the agent should do. You can still extend it with any tool or workflow you like.</p><h3 id="what-goes-into-an-agent">What goes into an agent</h3><p>You don&apos;t need to know how workflows work to build one. You describe what the agent should do in plain language, and when you open it later, its instructions read like a brief you&apos;d write for a colleague. If your first agents were built in a tool where you write instructions and attach tools, this is how you build them in n8n.</p>
-<!--kg-card-begin: html-->
-<!--ARCADE EMBED START--><script> function onArcadeIframeMessage(e) { if (e.origin !== 'https://demo.arcade.software' || !e.isTrusted) return; const arcadeIframe = document.querySelector(`iframe[src*="${e.data.id}"]`); if (!arcadeIframe || !arcadeIframe.contentWindow) return; if (e.data.event === 'arcade-init') { arcadeIframe.contentWindow.postMessage({event: 'register-popout-handler'}, '*'); } if (e.data.event === 'arcade-popout-open') { arcadeIframe.style['position'] = 'fixed'; arcadeIframe.style['z-index'] = '9999999'; } if (e.data.event === 'arcade-popout-close') { arcadeIframe.style['position'] = 'absolute'; arcadeIframe.style['z-index'] = 'auto'; } } window.addEventListener('message', onArcadeIframeMessage); </script><div style="position: relative; padding-bottom: calc(62.5915% + 41px); height: 0px; width: 100%;"><iframe src="https://demo.arcade.software/4NXYfNjH8VqtIMeiG9d8?embed&amp;embed_mobile=tab&amp;embed_desktop=modal&amp;show_copy_link=true" title="n8n Agents interface overview" frameborder="0" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="clipboard-write; autoplay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; color-scheme: light;"></iframe></div><!--ARCADE EMBED END-->
-<!--kg-card-end: html-->
-<p></p><p>Each agent has:</p><ul><li><strong>A model.</strong> Any model you have credentials for, or n8n&apos;s Gateway credits.</li><li><strong>Instructions.</strong> Its role, its tone, what it should and shouldn&apos;t do, and which tools to prefer.</li><li><strong>Channels &amp; triggers.</strong> Slack, Telegram, Linear, Discord, a schedule.</li><li><strong>Tools.</strong> Built-in n8n integrations, MCP servers, any workflow.</li><li><strong>Skills.</strong> Reusable instructions and reference files the agent loads when it needs them, shareable across agents.</li><li><strong>Sub-agents.</strong> One agent can call another.</li><li><strong>Knowledge.</strong> Upload csv, pdf, markdown or txt files for the agent to ground its answers in. Available on n8n Cloud. Vector stores as well.</li><li><strong>Memory.</strong> It holds the session conversation by default and can remember across sessions as well.</li><li><strong>Sessions.</strong> Every conversation is stored, reviewable, and can be picked up again.</li></ul><p>Once it&apos;s running, you can see what it did. Each session shows every step the agent took, which tools it called, and the input and output of each call.</p><p>&#x2192;  <a href="https://docs.n8n.io/build/build-and-manage-agents">Full details in the docs</a>.</p><h3 id="your-workflows-can-be-your-agents-tools">Your workflows can be your agent&apos;s tools</h3><p>An agent can use three kinds of tools, and you choose per tool:</p><ul><li><strong>MCP servers.</strong> Connect a service and the agent gets all of its tools at once, then works out how to use them. The quickest to set up, and you can exclude any tools you don&apos;t want it to touch.</li><li><strong>n8n tools &amp; nodes.</strong> The integrations you already use, set up for one specific action with the parameters you choose. More setup, and more control over exactly what the agent can do.</li><li><strong>Workflows.</strong> A whole process you&apos;ve already built, run exactly the way you defined it.</li></ul><p>Workflows are the part we&apos;re most excited about. Every workflow you&apos;ve built in n8n is something an agent can use, and none of it needs to change.</p><p>Take a support agent handling the inbound queue. It has three workflows as tools:</p><ul><li><strong>Get account context.</strong> Pulls the account from the CRM, checks contract status, scores health. It works, and it&apos;s boring, which is the highest compliment you can pay a workflow.</li><li><strong>Add a note to the account.</strong> Takes an account ID and a note, and writes the note. That&apos;s all it can do.</li><li><strong>Page on-call.</strong> Posts an urgent ticket to the on-call channel.</li></ul><p>The agent reads each ticket, decides whether it needs account context, drafts a reply, logs what happened, and escalates anything urgent. It decides when each workflow runs. What happens when a workflow runs is fixed, step by step, the way you built it.</p><p>That second workflow is the one to notice. Without a workflow in between, logging a note would mean giving the agent write access to your CRM and trusting its instructions to keep it to the notes field. With the workflow, the agent never holds that credential. It holds a workflow that adds a note and does nothing else.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/image-1790268411768.png" class="kg-image" alt="Introducing n8n Agents" loading="lazy" width="1200" height="510" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/image-1790268411768.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/image-1790268411768.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/image-1790268411768.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Example of an agent calling workflows</span></figcaption></figure><p>Around that, the controls you&apos;d expect:</p><ul><li><strong>Approvals.</strong> Mark a tool as sensitive and the agent pauses for Approve or Reject before using it. For the support agent, paging on-call waits for a person.</li><li><strong>Per-tool credentials.</strong> Each tool runs with the credential you attached to it. The agent never holds the keys to your instance.</li><li><strong>Access to the agent itself</strong> follows your n8n roles, so who can edit and publish it is up to you.</li></ul><p>So you choose, per use case, how much is defined process and how much the agent decides. And you can move that line later: pull a task out of the agent into a workflow when you want it fixed, or hand a workflow to an agent when you want it used with discretion.</p><p>For anything sensitive, start where the blast radius is small: scoped tools, a test channel, and approvals on any action that writes to a system of record.</p><h3 id="built-for-teams-that-rely-on-it">Built for teams that rely on it</h3><p>A support agent is only useful if the team can count on it. Three things help with that:</p><ul><li><strong>One agent, used everywhere.</strong> Connect it to Slack and the whole team talks to it there, each in their own conversation. Put it on a schedule for a morning pass over the queue. Call it from your ticket-intake workflow. Change the instructions once, publish, and every place it&apos;s connected gets the new version.</li><li><strong>Drafts and published versions.</strong> Edit and preview the draft while the team keeps using the published version. Publish when you&apos;re ready. Restore, revert, or unpublish when you need to.</li><li><strong>Sessions and execution logs.</strong> Inputs, tool calls, outputs and errors, per session, so you can see what it did last Tuesday.</li></ul><h3 id="using-agents-inside-workflows">Using agents inside workflows</h3><p>Agents work in the other direction too. When a workflow needs an agent for one of its steps, add the <strong>Message an Agent</strong> node. It sends the agent a message built from your workflow data and passes the agent&apos;s answer to the next node.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/message_an_agent_2.png" class="kg-image" alt="Introducing n8n Agents" loading="lazy" width="790" height="414" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/message_an_agent_2.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/message_an_agent_2.png 790w" sizes="(min-width: 720px) 720px"></figure><p>The agent brings its own instructions, tools and memory, so the node itself stays simple: you define what goes in, and you get the answer back. It&apos;s the same published agent your team uses everywhere else, so when you update the agent, every workflow that calls it gets the update.</p><p>The AI Agent node is still there and works as it always has. Use whichever fits the job.</p><h3 id="getting-started">Getting started</h3><p>Open the <strong>Agents</strong> tab and click <strong>Create Agent</strong>, or describe what you want to n8n Assistant. The Assistant picks the best fit for the job, workflow or agent, and builds it. If you already know you want an agent, say so. Either way you get the instructions, tools and channels drafted, ready to test.</p><p>With Gateway credits, you don&apos;t need an API key from an AI provider to try it. Pick a model, have the first conversation, and bring your own keys later if you want to.</p><p>Between the Assistant and Gateway credits, getting started takes little more than a description of what you want. What you end up with is an agent you can read and change yourself.</p><p>If you&apos;re not sure what to build first, try an internal Slack bot connected to one or two systems your team asks about all the time. A few other ideas:</p><ul><li>A support agent that reads new tickets, pulls account context and drafts a reply</li><li>A research agent that looks into inbound leads and posts a summary to Slack</li><li>A Linear agent that watches new issues and recommends follow-ups</li><li>A morning summary of what changed overnight, on a schedule</li></ul><p>The full guide is in the docs: <a href="https://docs.n8n.io/build/build-and-manage-agents">Build and manage agents</a>.</p><h3 id="things-you-should-know">Things you should know</h3><ul><li><strong>Availability:</strong><ul><li>On n8n Cloud for everyone on the latest stable version.</li><li>Community Self-hosted (with some extra setup). See <a href="https://docs.n8n.io/build/build-and-manage-agents#self-hosted">Self-hosted setup</a>.</li><li>Enterprise: now in preview, with additional governance features on the way.</li></ul></li><li><strong>Cost.</strong> One turn with an agent is one execution. Tool calls to your workflows and to sub-agents don&apos;t count separately, and agents share your workflow execution quota. Building an agent with n8n Assistant uses AI credits, as any Assistant conversation does.</li><li><strong>Still in preview.</strong> Everyone on Cloud can use agents and they work. We&apos;re improving them release by release, so test before publishing and keep approvals on anything sensitive.</li></ul><p>We have more coming for agents soon. In the meantime, tell us what you built, what it did, and where it fell down. We&apos;re reading the <a href="https://community.n8n.io/t/introducing-n8n-agents-a-new-way-to-build-agents-you-set-up-once-and-use-anywhere/306323">community forum</a> closely.</p><figure class="kg-card kg-video-card kg-width-wide kg-card-hascaption" data-kg-thumbnail="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/media/2026/09/Pixel_robot_and_workflow_merge_20260924165317_thumb.jpg" data-kg-custom-thumbnail>
-            <div class="kg-video-container">
-                <video src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/media/2026/09/Pixel_robot_and_workflow_merge_20260924165317.mp4" poster="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/media/2026/09/Pixel_robot_and_workflow_merge_20260924165317_thumb.jpg" width="1280" height="720" playsinline preload="metadata" controls></video>
-                
-                
-            </div>
-            <figcaption><p><span style="white-space: pre-wrap;">Agents &amp; Workflows - Better Together.</span></p></figcaption>
-        </figure><h3 id></h3>]]></content:encoded></item>
-<item><title><![CDATA[Prompt Testing Frameworks for Production AI Workflows]]></title><description><![CDATA[Still guessing if your prompts work? Learn how to build a systematic prompt testing framework that catches regressions before they reach production.
-]]></description><link>https://blog.n8n.io/prompt-testing-frameworks/</link><guid isPermaLink="false">6aad62587c00b3000146e658</guid><category><![CDATA[Guides]]></category><category><![CDATA[AI]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Mon, 21 Sep 2026 17:28:51 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-prompt-testing-frameworks.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-prompt-testing-frameworks.png" alt="Prompt Testing Frameworks for Production AI Workflows"><p>Prompt testing frameworks make it easier to catch regressions in LLM-powered projects before they reach production. Without testing, you tweak a prompt, spot-check a few examples, and ship when the results look better. Then it goes live and users start complaining because you missed a regression.</p><p>There&#x2019;s a better way.</p><p>This guide covers how LLM evaluation frameworks make prompt quality assurance a measurable, repeatable process.</p><h2 id="why-prompt-testing-requires-a-different-approach-than-traditional-software-testing">Why prompt testing requires a different approach than traditional software testing</h2><p>Traditional software tests usually have a clear idea of what &#x201c;correct&#x201d; looks like. You expect the same output for a given input.&#xa0;</p><p>LLMs don&#x2019;t behave that way. The same prompt can produce different responses from one run to the next, even when nothing in your workflow has changed. That makes exact-match tests a poor fit for many kinds of <a href="https://blog.n8n.io/llm-evaluation-framework/"><u>LLM evaluation</u></a>.</p><p>There&#x2019;s also more room for an output to be technically valid but still bad. One response might contain the right information but ignore the requested format. Another might sound convincing while getting an important detail wrong. And you can&#x2019;t anticipate every input your users will eventually throw at the model.&#xa0;</p><p>Prompt testing frameworks account for that uncertainty by checking against representative examples and measuring the parts of an output that actually matter for your use case.</p><h2 id="popular-prompt-testing-frameworks-and-tools">Popular prompt testing frameworks and tools</h2><p>There&#x2019;s no shortage of prompt evaluation tools, but they don&#x2019;t all solve the problem in the same way. Some are designed to run evaluations from code or the command line, while others give teams a managed environment for testing and tracing LLM applications. The right fit for your system depends on where you want evaluation to live in your development process.</p><p>Here are some popular options:</p><ul><li><a href="https://github.com/promptfoo/promptfoo"><strong><u>Promptfoo</u></strong></a><strong>: </strong>An open-source, developer-focused framework for comparing prompts and models against test cases. It&#x2019;s a good fit when you want evaluations to live alongside your code and CI/CD process.</li><li><a href="https://deepeval.com/"><strong><u>DeepEval</u></strong></a><strong>:</strong> A Python-based evaluation framework built around automated tests for LLM applications. It&#x2019;s useful for teams that want to treat LLM evaluation more like conventional software testing.</li><li><a href="https://smith.langchain.com/"><strong><u>LangSmith</u></strong></a><strong>:</strong> A managed platform for tracing and evaluating applications built with LangChain and other frameworks. Its tracing capabilities are especially useful when you need to understand what happened inside a multi-step LLM or agent run.</li><li><a href="https://www.braintrust.dev"><strong><u>Braintrust</u></strong></a><strong>:</strong> An evaluation platform for running experiments and comparing changes across prompts, models, and datasets.</li><li><a href="https://langfuse.com/"><strong><u>Langfuse</u></strong></a><strong> and </strong><a href="https://arize.com/phoenix/"><strong><u>Arize Phoenix</u></strong></a><strong>:</strong> Observability-focused tools that help teams inspect LLM behavior and evaluate application performance over time.</li></ul><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/eval-platfroms--1---1-.png" class="kg-image" alt="Prompt Testing Frameworks for Production AI Workflows" loading="lazy" width="1200" height="600" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/eval-platfroms--1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/eval-platfroms--1---1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/eval-platfroms--1---1-.png 1200w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Evaluation tools can be broadly categorized as a code-first/CLI, observability platforms and in-workflow solutions.</em></i></figcaption></figure><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">There&#x2019;s another approach when evaluations sit closer to your automation logic. It&#x2019;s possible to bring testing into the same environment where the AI workflow runs. <a href="https://n8n.io"><u>n8n</u></a> is a source-available, AI-native automation platform, where engineering teams create AI agents and agentic workflows. With <a href="https://docs.n8n.io/advanced-ai/evaluations/overview/"><u>n8n Evaluations</u></a>, you can run test data through a workflow and compare results on the same canvas instead of maintaining a separate evaluation framework.&#xa0;</div></div>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Test your prompts without leaving your workflow</h3>
-    <p>Run test datasets, score outputs, and compare prompt versions on the same canvas with n8n Evaluations</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Sign up for free</a>
-</div>
-<!--kg-card-end: html-->
-<h2 id="evaluation-methods-how-to-score-prompt-outputs">Evaluation methods: How to score prompt outputs</h2><p>Not every prompt failure looks the same. A response can be factually wrong, miss the expected format, or simply be less useful than another version. That means there are various metrics that can tell you whether a prompt is working.</p><p>The best scoring method depends on what you expect the model to produce. Here are two distinct ways to evaluate.</p><h3 id="deterministic-evaluation">Deterministic evaluation</h3><p>Deterministic metrics work well when you can define success in advance. For example, you might check whether an output matches an expected string, belongs to the correct category, or uses the right tools.</p><p>These checks give you a consistent pass/fail result or numerical score. If a new prompt version starts producing the wrong category or drifting from an expected answer, the change shows up immediately.</p><p>In n8n, built-in <a href="https://docs.n8n.io/build/integrate-ai/test-and-improve-ai-workflows/use-metrics-to-measure-quality"><u>metrics to measure quality</u></a> include String Similarity, Categorization, and Tools Used. You can also create custom metrics inside the workflow when you need to check something specific for your use case. Custom regular expressions are just one of them: You can check if the LLM reply contains a substring in the expected format (e.g., valid product SKU, phone number, etc.)</p><h3 id="llm-as-a-judge">LLM-as-a-Judge</h3><p>Some outputs don&#x2019;t have a single correct answer. If you&#x2019;re testing a customer support response, for example, two very different answers might both be useful and accurate. An exact-match check won&#x2019;t tell you much.</p><p>An LLM can instead evaluate the generated response against defined criteria and assign a score. n8n includes AI-based Correctness and Helpfulness metrics, both scored on a 1&#x2013;5 scale, so you can compare prompt versions on qualities that are difficult to capture with deterministic checks alone.</p><p>This approach is particularly useful when you use a cheaper and faster model in production. It delivers cost-efficient outputs, and you can use a slower and more potent LLM for testing on a small subset of question/answer pairs.</p><h2 id="catching-regressions-across-prompt-versions">Catching regressions across prompt versions</h2><p>You can use prompt output scores to spot regressions. Start by comparing new prompt versions against a baseline, then track the metrics to see whether performance holds up over time.</p><h3 id="baseline-runs-and-side-by-side-comparison">Baseline runs and side-by-side comparison</h3><p>A baseline gives every prompt change something concrete to beat. Run your current prompt against a fixed test dataset and save the outputs and scores. Then, after making a change, run the same cases again. Comparing the two runs side by side shows where the new version improved and where it slipped.</p><p>This makes prompt versioning especially useful. You can connect each version to actual evaluation results and make changes based on how the prompt performs across the dataset. That becomes crucial with <a href="https://n8n.io/ai-agents/"><u>AI agents</u></a>, where a prompt change can affect behavior beyond the wording of the final response.</p><h3 id="reading-metric-trends-to-catch-silent-degradation">Reading metric trends to catch silent degradation</h3><p>Some regressions are obvious in a side-by-side comparison. Others only become visible when you look at the scores across multiple test cases or runs. For example, a prompt might continue producing reasonable responses while its average correctness gradually drops.</p><p>Tracking metric trends with prompt regression testing helps you notice when scores are moving in the wrong direction, even if individual outputs still look fine. For more complex workflows, monitoring <a href="https://blog.n8n.io/how-to-evaluate-the-performance-of-ai-agents/"><u>AI agent performance</u></a> can help you evaluate whether changes affect how reliably the agent completes its task.</p><h2 id="how-to-run-prompt-testing-inside-n8n-workflows">How to run prompt testing inside n8n workflows</h2><p>You don&#x2019;t need to separate prompt testing from the workflow you&#x2019;re evaluating. n8n lets you use a test dataset, run it through your existing workflow, score the results, and compare evaluation runs on the same canvas.</p><h3 id="setting-up-a-test-table">Setting up a test table</h3><p>Start with examples that represent the inputs your workflow actually needs to handle. In n8n, your test dataset can live in a <a href="https://docs.n8n.io/build/work-with-data/data-tables"><u>Data Table</u></a> or <a href="https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets"><u>Google Sheet</u></a>, with each row representing a test case.</p><p>Include the input you want to send through the workflow and, where appropriate, the expected output or other values you&#x2019;ll need for scoring. The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.evaluationtrigger"><u>Evaluation Trigger</u></a> node runs the workflow once for each row so you can test the same cases whenever the prompt changes.</p><h3 id="running-evaluations-and-scoring-results">Running evaluations and scoring results</h3><p>Once the dataset is ready, add the evaluation path to your workflow. The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.evaluation"><u>Evaluation node</u></a>&#x2019;s Set Outputs operation records the values you want to evaluate, while Set Metrics scores each run using built-in or custom metrics.</p><p>The <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.evaluation#check-if-evaluating"><u>Check If Evaluating</u></a> operation keeps this logic separate from normal executions. Evaluation-specific steps only run during a test, so they don&#x2019;t add unnecessary model calls, latency, or cost to your production workflow. Results then appear in the Evaluations tab, where you can compare runs across prompt versions.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">Check this step-by-step tutorial on setting up the <a href="https://blog.n8n.io/llm-evaluation-framework/"><u>LLM evaluations</u></a> in n8n.</div></div><h3 id="connecting-to-langsmith-for-deeper-tracing">Connecting to LangSmith for deeper tracing</h3><p>Sometimes a score tells you that performance dropped without telling you why. For deeper debugging, self-hosted n8n instances support a <a href="https://docs.n8n.io/build/integrate-ai/langchain-in-n8n#use-langsmith-with-a-self-hosted-n8n-instance"><u>LangSmith integration</u></a> that adds tracing for LangChain-based workflows.* This lets you inspect spans within an execution when you need more detail about what happened along the way.</p><p><em><strong>*Note: </strong>LangChain tracing is only available for self-hosted n8n instances, not n8n Cloud.</em></p><h3 id="running-regression-checks-in-n8n">Running regression checks in n8n</h3><p>After you have a baseline, rerun the evaluation whenever you update the prompt. Because the same dataset and metrics are used each time, the Evaluations tab gives you a consistent way to compare the new version with earlier runs.</p><p>Look at both the overall metrics and individual test cases. A higher average score can hide a regression on an important input, while a small change in the aggregate might come from only one difficult case. Reviewing both helps you decide whether the new prompt is ready to ship or needs another iteration.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/n8n-evals.png" class="kg-image" alt="Prompt Testing Frameworks for Production AI Workflows" loading="lazy" width="1500" height="600" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/09/n8n-evals.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/09/n8n-evals.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/n8n-evals.png 1500w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">This workflow evaluates the RAG workflow by assessing retrieved text relevance. Source: https://n8n.io/workflows/4273-evaluation-metric-example-rag-document-relevance/</em></i></figcaption></figure><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text"><a href="https://app.n8n.cloud/register"><u>Sign up for n8n Cloud</u></a> to start testing AI workflows before they reach production.</div></div><h2 id="make-prompt-testing-part-of-every-change">Make prompt testing part of every change</h2><p>Prompt testing works best when it&#x2019;s a regular part of your development process. Keep the same representative test cases around as your prompts evolve. When you make an update, score the new outputs against the baseline before deciding whether it&#x2019;s ready for production.</p><p>That turns prompt testing frameworks from an occasional quality check into part of the development process. You still have room to experiment with prompts, but you don&#x2019;t have to rely on a few good-looking responses to decide whether a change is ready to ship.</p><p>With n8n, that testing loop can live alongside the workflow itself. </p>
-<!--kg-card-begin: html-->
-<div class="content-banner">
-  <div>
-    <h3>Make prompt testing part of every change</h3>
-    <p>Keep test cases, score outputs, and compare runs against your baseline without leaving your n8n workflow</p>
-  </div>
-  <a href="https://app.n8n.cloud/register" class="global-button blog-banner-signup">Try n8n Cloud free</a>
-</div>
-<!--kg-card-end: html-->
-]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 17 Oct 2026 00:06:59 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 19:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -1348,7 +1343,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 20 Oct 2026 16:06:59 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 06:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -1357,7 +1352,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 18:06:59 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 00:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -1366,7 +1361,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 22:06:59 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 11:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -1375,7 +1370,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 20 Oct 2026 17:06:59 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 04:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -1384,7 +1379,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 02:06:59 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 17:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1393,7 +1388,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 08:06:59 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 04:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1402,7 +1397,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 06:06:59 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 17:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -1411,7 +1406,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 01:06:59 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 16:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -1420,7 +1415,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 21 Oct 2026 04:06:59 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 12:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -1429,7 +1424,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 08:06:59 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 15:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1438,7 +1433,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 15:06:59 GMT</pubDate>
+  <pubDate>Fri, 16 Oct 2026 20:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1447,7 +1442,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 20:06:59 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 19:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1456,7 +1451,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 06:06:59 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 09:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1465,7 +1460,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 15:06:59 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 20:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1474,7 +1469,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 15 Oct 2026 13:06:59 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 13:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1483,7 +1478,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 13 Oct 2026 23:06:59 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 19:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1492,7 +1487,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 20:06:59 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 15:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1501,7 +1496,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 23:06:59 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 00:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1510,7 +1505,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 00:06:59 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 08:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1519,7 +1514,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 07:06:59 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 03:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1528,7 +1523,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 17 Oct 2026 05:06:59 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 10:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1537,7 +1532,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 21 Oct 2026 00:06:59 GMT</pubDate>
+  <pubDate>Mon, 19 Oct 2026 10:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1546,7 +1541,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 14 Oct 2026 16:06:59 GMT</pubDate>
+  <pubDate>Thu, 22 Oct 2026 19:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1555,10 +1550,19 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 16 Oct 2026 04:06:59 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 12:52:17 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[SetRecord.ai ouvre un programme de six mois pour mesurer et corriger ce que les IA affirment sur les entreprises]]></title>
+  <link>https://www.ia-news.fr/setrecord-ai-ouvre-un-programme-de-six-mois-pour-mesurer-et-corriger-ce-que-les-ia-affirment-sur-les-entreprises/</link>
+  <description><![CDATA[SetRecord.ai annonce l’ouverture d’un programme de six mois destiné aux entreprises qui veulent savoir, puis corriger, ce que les principaux modèles d’IA affirment à leur ...]]></description>
+  <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-12.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-12.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-12.jpg" /> <p>SetRecord.ai annonce l’ouverture d’un programme de six mois destiné aux entreprises qui veulent savoir, puis corriger, ce que les principaux modèles d’IA affirment à leur ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[Les secteurs réglementés au cœur du projet de Snowflake sur les données et l’IA]]></title>
@@ -1595,15 +1599,6 @@ image = client.images.generate(
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" /> <p>Six experts de l’intelligence artificielle, de la sociologie et de l’économie annoncent la création de l’Institut Xenia, un institut de recherche indépendant consacré à un ...</p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Pour l’IA d’entreprise, Keepit mise sur des données vérifiables]]></title>
-  <link>https://www.ia-news.fr/pour-lia-dentreprise-keepit-mise-sur-des-donnees-verifiables/</link>
-  <description><![CDATA[Avec AI Truth Cloud, Keepit entend aider les entreprises à s’appuyer sur des données vérifiables et gouvernées pour développer leurs usages de l’intelligence artificielle. L’entreprise ...]]></description>
-  <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" /> <p>Avec AI Truth Cloud, Keepit entend aider les entreprises à s’appuyer sur des données vérifiables et gouvernées pour développer leurs usages de l’intelligence artificielle. L’entreprise ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[LABEL4.AI remporte le prix i-Lab 2026 avec son projet de détection des deepfakes]]></title>
@@ -1687,6 +1682,15 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/computer-monitor-with-decoded-data-on-screen-and-l-2022-04-29-00-29-09-utc.jpg" /> <p>Longtemps considérée comme un sujet d'innovation réservé aux grands acteurs du numérique, l'intelligence artificielle devient une composante concrète des outils de gestion des services informatiques. Pour les DSI, la question n'est plus de savoir si l'IA sera utilisée, mais dans quelles ...</p>]]></content:encoded>
 </item>
 <item>
+  <title><![CDATA[Pour l’IA d’entreprise, Keepit mise sur des données vérifiables]]></title>
+  <link>https://www.ia-news.fr/pour-lia-dentreprise-keepit-mise-sur-des-donnees-verifiables/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
   <title><![CDATA[Cato Networks : la sécurité des agents se joue dans leurs permissions]]></title>
   <link>https://www.ia-news.fr/cato-networks-la-securite-des-agents-se-joue-dans-leurs-permissions/</link>
   <description><![CDATA[]]></description>
@@ -1696,16 +1700,7 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/10/cato-networks-visuel-article-2.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Snowflake place l’AI control plane au centre du passage à l’échelle des agents]]></title>
-  <link>https://www.ia-news.fr/snowflake-place-lai-control-plane-au-centre-du-passage-a-lechelle-des-agents/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/10/snowflake-visuel-article-1.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/10/snowflake-visuel-article-1.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/10/snowflake-visuel-article-1.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Alphalink ouvre un département dédié à l’intelligence artificielle]]></title>
+  <title><![CDATA[Alphalink ouvre un département d��dié à l’intelligence artificielle]]></title>
   <link>https://www.ia-news.fr/alphalink-ouvre-un-departement-dedie-a-lintelligence-artificielle/</link>
   <description><![CDATA[Alphalink annonce la création d’un département entièrement dédié à l’intelligence artificielle. Cette nouvelle activité marque une étape importante dans la stratégie de l’opérateur et ouvre un nouveau chapitre pour son ...]]></description>
   <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
@@ -1939,49 +1934,58 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-bitdefender-article-1-.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[La MACIF accélère sa transformation IT Data grâce à l&rsquo;expertise d&rsquo;Infortive Transition]]></title>
-  <link>https://www.ia-news.fr/la-macif-accelere-sa-transformation-it-data-grace-a-lexpertise-dinfortive-transition/</link>
+  <title><![CDATA[Synapse IA Suite: l&rsquo;IA générative pour le secteur de la relation client]]></title>
+  <link>https://www.ia-news.fr/synapse-ia-suite-lia-generative-pour-le-secteur-de-la-relation-client/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/system-administrator-working-on-cyber-security-in-2021-11-03-15-57-59-utc.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/system-administrator-working-on-cyber-security-in-2021-11-03-15-57-59-utc.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/system-administrator-working-on-cyber-security-in-2021-11-03-15-57-59-utc.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/intelligence-artificielle-00.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[IA en entreprise, innover sans s’exposer aux risques cyber]]></title>
-  <link>https://www.ia-news.fr/ia-en-entreprise-innover-sans-sexposer-aux-risques-cyber/</link>
+  <title><![CDATA[ShowHeroes Group acquiert le Suédois Vidds, renforçant ses capacités de création  vidéo alimentées par l&rsquo;IA]]></title>
+  <link>https://www.ia-news.fr/showheroes-group-acquiert-le-suedois-vidds-renforcant-ses-capacites-de-creation-video-alimentees-par-lia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/02/Cyber-securite-security-protection-12.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/02/Cyber-securite-security-protection-12.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/02/Cyber-securite-security-protection-12.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/accord-pdm.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/accord-pdm.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/accord-pdm.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Camunda présente ProcessOS]]></title>
-  <link>https://www.ia-news.fr/camunda-presente-processos/</link>
+  <title><![CDATA[IA: Synapse Développement recrute]]></title>
+  <link>https://www.ia-news.fr/ia-synapse-developpement-recrute/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/03/Informatique-parc-itam-itsm.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/01/image.png" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/01/image.png" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/01/image.png" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Limova met l’IA au service des entrepreneurs]]></title>
-  <link>https://www.ia-news.fr/limova-met-lia-au-service-des-entrepreneurs/</link>
+  <title><![CDATA[thecamp : Le nouveau phare de l&rsquo;intelligence artificielle en Euroméditerranée]]></title>
+  <link>https://www.ia-news.fr/thecamp-le-nouveau-phare-de-lintelligence-artificielle-en-euromediterranee/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Starburst choisit Lando Norris pour incarner sa vision de l’IA]]></title>
-  <link>https://www.ia-news.fr/starburst-choisit-lando-norris-pour-incarner-sa-vision-de-lia/</link>
+  <title><![CDATA[Custocy affiche une croissance record et renforce son positionnement en cybersécurité]]></title>
+  <link>https://www.ia-news.fr/custocy-affiche-une-croissance-record-et-renforce-son-positionnement-en-cybersecurite/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/08/visuel-starburst-article-1.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/evolution-business.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Cybersécurité : les bonnes pratiques face à la GenAI]]></title>
+  <link>https://www.ia-news.fr/cybersecurite-les-bonnes-pratiques-face-a-la-genai/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
