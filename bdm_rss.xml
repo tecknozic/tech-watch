@@ -1557,7 +1557,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="footer-nl" data-hwh-push-zone="footer">
 			<div data-hwh-push="nl">
 				
-<section class="newsletter-container bg-blue-dark ">
+<section class="newsletter-container bg-green ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1574,7 +1574,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="input-div d-flex">
 						<input type="hidden" name="cord_theme" value="Club">
 						<input type="hidden" name="cord_title" value="70 000 pros sont déjà abonnés">
-						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
+						<input type="hidden" name="cord_bg_color" value="bg-green">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-footer" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
@@ -1608,8 +1608,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1754,7 +1754,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1792767672|a2e0d119b85e747d0efa1c22212a93421f9c836cb01e57fdc0ac71035e97fb9f">
+		<input type="hidden" name="hwh_form_ts" value="1792782191|d4fea78506aae1a9b426e70fbac5ec5bae216f009ee8387ae2cd1d588b35d088">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -1992,7 +1992,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1792767672|a2e0d119b85e747d0efa1c22212a93421f9c836cb01e57fdc0ac71035e97fb9f">
+		<input type="hidden" name="hwh_form_ts" value="1792782191|d4fea78506aae1a9b426e70fbac5ec5bae216f009ee8387ae2cd1d588b35d088">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
