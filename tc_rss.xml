@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/category/artificial-intelligence/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 26 Oct 2026 17:39:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Oct 2026 21:06:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,9 +35,9 @@
 		<pubDate>Mon, 26 Oct 2026 16:49:42 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Enterprise AI]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[anthropic ipo]]></category>
+		<category><![CDATA[Enterprise AI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181689</guid>
 
 					<description><![CDATA[Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.]]></description>
@@ -52,11 +52,11 @@
 		<dc:creator><![CDATA[Aditya Mehta]]></dc:creator>
 		<pubDate>Mon, 26 Oct 2026 16:46:36 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
+		<category><![CDATA[apollo]]></category>
+		<category><![CDATA[SpaceX]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181659</guid>
 
-					<description><![CDATA[SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.
-]]></description>
+					<description><![CDATA[The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.]]></description>
 		
 		
 		
@@ -106,6 +106,7 @@
 		<pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apollo Global Management]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181532</guid>
 
 					<description><![CDATA["Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."]]></description>
@@ -119,15 +120,32 @@
 		
 		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
 		<pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[wearables]]></category>
-		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Hardware]]></category>
 		<category><![CDATA[AI wearables]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[wearables]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3067743</guid>
 
 					<description><![CDATA[We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Will AI expose the rickety infrastructure of the internet?</title>
+		<link>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 24 Oct 2026 20:15:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[php]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3181514</guid>
+
+					<description><![CDATA[The moment you realize the internet is "held together by glue and dreams."]]></description>
 		
 		
 		
@@ -162,7 +180,7 @@
 		<category><![CDATA[voice AI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181490</guid>
 
-					<description><![CDATA[Block said that the voice model can run locally on a MacBook M4 Max]]></description>
+					<description><![CDATA[Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.]]></description>
 		
 		
 		
@@ -175,14 +193,14 @@
 		<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[ChatGPT]]></category>
 		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
 		<category><![CDATA[SpaceX]]></category>
 		<category><![CDATA[vote]]></category>
-		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[xAI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181243</guid>
 
 					<description><![CDATA[A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.]]></description>
@@ -357,23 +375,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
 
 					<description><![CDATA[Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
-		<link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[microsoft AI]]></category>
-		<category><![CDATA[Mustafa Suleyman]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3180761</guid>
-
-					<description><![CDATA[Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.]]></description>
 		
 		
 		
