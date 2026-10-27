@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 16:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 21:30:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -112,6 +112,14 @@
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
+            <description><![CDATA[We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa#2</guid>
+            <pubDate>Tue, 27 Oct 2026 20:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pjwm9g.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[The next generation of chip is thinner and flexible when compared to traditional silicon.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyl#2</guid>
@@ -133,14 +141,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyj#2</guid>
             <pubDate>Tue, 06 Oct 2026 19:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pf8pjc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech Life]]></title>
-            <description><![CDATA[How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8jyh#2</guid>
-            <pubDate>Tue, 29 Sep 2026 19:30:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pd1gb8.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Now]]></title>
@@ -176,6 +176,42 @@
         </item>
     
 <item>
+		<title>Disruptive raises $10B fund to make big bets on at least 10 companies</title>
+		<link>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 18:55:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[disruptive]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3182189</guid>
+
+					<description><![CDATA[Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</title>
+		<link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 17:08:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[MIT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3182002</guid>
+
+					<description><![CDATA[TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering</title>
 		<link>https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/</link>
 		
@@ -189,7 +225,7 @@
 		<category><![CDATA[world models]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3182045</guid>
 
-					<description><![CDATA[Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.]]></description>
+					<description><![CDATA[Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters. ]]></description>
 		
 		
 		
@@ -240,8 +276,8 @@
 		
 		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
 		<pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Opera]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181922</guid>
 
@@ -257,6 +293,11 @@
 		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
 		<pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[abstract ventures]]></category>
+		<category><![CDATA[blackbird ventures]]></category>
+		<category><![CDATA[General COmpute]]></category>
+		<category><![CDATA[neocloud]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181881</guid>
 
 					<description><![CDATA[General Compute is betting on inference chips from outside the Nvidia ecosystem. ]]></description>
@@ -270,14 +311,14 @@
 		
 		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
 		<pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Accel]]></category>
-		<category><![CDATA[nvidia]]></category>
 		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[nvidia]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181625</guid>
 
-					<description><![CDATA[Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.]]></description>
+					<description><![CDATA[Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.]]></description>
 		
 		
 		
@@ -289,8 +330,10 @@
 		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
 		<pubDate>Tue, 27 Oct 2026 02:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Alexander Embiricos]]></category>
 		<category><![CDATA[Disrupt]]></category>
 		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181218</guid>
 
 					<description><![CDATA[Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ]]></description>
@@ -305,7 +348,9 @@
 		<dc:creator><![CDATA[Aditya Mehta]]></dc:creator>
 		<pubDate>Tue, 27 Oct 2026 01:12:21 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
+		<category><![CDATA[alibaba]]></category>
+		<category><![CDATA[Cohere]]></category>
+		<category><![CDATA[qwen]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3181989</guid>
 
 					<description><![CDATA[An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.
@@ -495,39 +540,8 @@
 		
 		
 			</item>
-<item>
-		<title>Here are the top AI agents that can live in your text messages </title>
-		<link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[instinct]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3173132</guid>
-
-					<description><![CDATA[We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>OpenAI says it will no longer train its AI models on the live internet, citing &#8216;significant risks&#8217;</title>
-		<link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3181396</guid>
-
-					<description><![CDATA[OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. ]]></description>
-		
-		
-		
-			</item>
-<item><title><![CDATA[Introducing n8n 3.0]]></title><description><![CDATA[n8n 3.0 beta is out, focused on reliability, stability and security. Here’s what’s changing and how to get ready.]]></description><link>https://blog.n8n.io/introducing-n8n-v3/</link><guid isPermaLink="false">6adf6f9c2fe82a000155fec7</guid><dc:creator><![CDATA[Ophir Prusak]]></dc:creator><pubDate>Tue, 27 Oct 2026 11:53:21 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/announcing-n8n-3-0-v7.png" medium="image"/><content:encoded><![CDATA[<h3 id="today-were-releasing-n8n-version-300-beta">Today we&apos;re releasing n8n version 3.0.0 BETA</h3><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/announcing-n8n-3-0-v7.png" alt="Introducing n8n 3.0"><p>n8n 3.0 focuses on internal changes that improve reliability, stability and security, and lays the groundwork for the improvements we&apos;re building next. It clears out legacy features, tightens security defaults and reworks parts of how n8n runs under the hood.</p><p>The short version: the beta is available today and the stable release follows in early December. Because 3.0 includes breaking changes, some workflows and settings may need updates before you upgrade. The Migration Report in your instance tells you exactly which ones. </p><p>It&#x2019;s worth taking a look now, even if you&#x2019;re not planning to upgrade right away.</p><h2 id="why-change-the-version-number">Why change the version number?</h2><p>n8n follows <a href="https://semver.org/">semantic versioning</a>. That means we don&apos;t ship breaking changes (updates that might require you to change your workflows or configuration) without bumping the major version number.</p><p>Over the past year we collected a list of breaking changes we wanted to make: legacy code paths to remove, defaults to make safer, a few features to retire. Each of them had to wait for a major version, so 3.0 brings them together in one release.</p><p>If you&apos;re wondering where the new features went, they didn&apos;t wait. We ship features continuously instead of saving them for a major version. Since 2.0 came out in December 2025, we&apos;ve shipped over 45 releases, roughly one a week, and many of them included major new features. The full list is on our <a href="https://docs.n8n.io/changelog">changelog</a>.</p><p>That&apos;s why 3.0 can focus purely on the foundation, and everything new after the stable release ships on 3.x.</p><h2 id="whats-in-version-30">What&apos;s in version 3.0</h2><p>The <a href="https://docs.n8n.io/changelog/v30-breaking-changes">3.0 breaking changes docs</a> have a detailed list with what to do for each change. Here are the main themes, with a few examples.</p><h3 id="reliability-and-stability">Reliability and stability</h3><ul><li><strong>Queue mode.</strong> Manual executions now always run on workers, so the main instance isn&apos;t doing that work.</li><li><strong>Binary data.</strong> The in-memory binary data mode is removed. Instances use the filesystem, or S3 and other external storage, which is more predictable under load.</li><li><strong>Guardrails against runaway work.</strong> The default Code node timeout (task runner) drops from 5 minutes to 1 minute, and it&apos;s configurable. Decompression limits are lower, to protect instances from oversized archives (&quot;zip bombs&quot;).</li><li><strong>Scheduling.</strong> The old Cron and Interval nodes are replaced by the Schedule Trigger, which runs on n8n&apos;s more durable scheduler.</li></ul><h3 id="security">Security</h3><p>We made several defaults safer:</p><ul><li>Encryption key rotation is always on.</li><li>Slack credentials require a signing secret, so nobody can send forged requests pretending to be Slack.</li><li>A larger default SSRF (server-side request forgery) block list when SSRF protection is enabled.</li><li>Unverified community packages are off by default.</li></ul><h3 id="self-hosting">Self-hosting</h3><p>Self-hosted n8n now runs on Docker. Installing with npm or <code>npx n8n</code> is no longer supported, partly because new security features depend on a container setup. If you liked <code>npx n8n</code> for how quick it was, there&apos;s a <a href="https://docs.n8n.io/deploy/host-n8n/install-options/one-line-setup">one-line setup script</a> that gets you to the same place. Kubernetes and Helm deployments aren&apos;t affected.</p><h3 id="cleanup">Cleanup</h3><p>We removed legacy nodes: Function, Function Item, Item Lists, Cron, Interval, the legacy OpenAI node, older AI Agent modes, older versions of the Edit Image node, nodes for services that no longer exist, and others. Most have a direct replacement (Function becomes the Code node; Item Lists becomes Split Out, Aggregate, Sort, Limit, Remove Duplicates or Summarize), and many migrate automatically.</p><p>A few features are retired too. Chat Hub is off by default (you can turn it back on for 3.x; the n8n AI assistant and agents are replacing it), Import from URL is gone from the editor, and the Ask AI tab is gone from the Code node.</p><h2 id="check-if-youre-ready-the-migration-report">Check if you&apos;re ready: the Migration Report</h2><p>This is the part I&apos;d read if I read nothing else.</p><p>Every instance on version 2.39 or later has a Migration Report under <strong>Settings &gt; Migration Report</strong>.</p><p><strong>The latest 2.x version has the newest version of the report and we&apos;ll continue to improve the experience as we get more feedback, so update first.</strong></p><p>Here&apos;s what it does:</p><ul><li>Lists the workflows and instance-level settings affected by 3.0.</li><li>Fixes many issues automatically. Each fix is saved as a new workflow version for you to review and publish, and your published workflows keep running on v2 while you work.</li><li>Suggests an owner for each workflow (whoever edited it last), lets admins reassign, and emails owners what to fix.</li><li>Filters out workflows that aren&apos;t published or haven&apos;t run in a long time, so you can mark those &quot;won&apos;t fix&quot; and move on.</li><li>Exports a CSV summary.</li></ul><p>Admins see every workflow; other users see the workflows they have access to. Unlike last year, you don&apos;t need to be an admin to see it.</p><p>The path we recommend:</p><ol><li>Update to the latest 2.x and open the Migration Report.</li><li>Fix, or mark &quot;won&apos;t fix&quot;, everything it flags.</li><li>Take a full backup.</li><li>Upgrade a test or staging instance first, then production.</li></ol><h2 id="try-the-beta-today">Try the beta today</h2><p>No sign-up needed.</p><ul><li><strong>Self-hosted:</strong> install it like any other beta release.</li><li><strong>n8n Cloud:</strong> pick <code>3.0.0 Beta (early access)</code> when <a href="https://docs.n8n.io/deploy/use-n8n-cloud/update-your-version">changing your n8n version</a>.</li></ul><p>One thing to know before you click: <strong>moving to 3.x is one way.</strong> There&apos;s no going back to 2.x. Try it on a test instance first, and take a full backup.</p><h2 id="a-year-since-20">A year since 2.0</h2><p>It&apos;s only been a year, but the numbers are worth a look.</p><ul><li><a href="https://github.com/n8n-io/n8n"><strong>GitHub</strong></a> <strong>stars:</strong> from about 160,000 at the 2.0 release to over 208,000 today.</li><li><a href="https://community.n8n.io/"><strong>Community forum</strong></a> <strong>members:</strong> from 115,192 to over 183,000.</li></ul><p>Behind those numbers are the people who file issues, build nodes, answer questions in the forum, write tutorials, and tell us when something broke. Thank you for all of it.</p><h2 id="faq-what-you-need-to-know">FAQ: What you need to know</h2><p><strong>When is this happening?</strong><br>Beta (3.0.0) today, October 27. Stable (3.x) in early December. Follow the <a href="https://docs.n8n.io/changelog/release-notes">release notes</a> for updates.</p><p><strong>What are the breaking changes?</strong><br>Here are all of them, with what to do for each, are in the <a href="https://docs.n8n.io/changelog/v30-breaking-changes">3.0 breaking changes docs</a>.</p><p><strong>How do I know if I&apos;m affected?</strong><br>Open the Migration Report under <strong>Settings &gt; Migration Report</strong> (version 2.39 or later).</p><p><strong>Does the Community edition get all 3.0 updates?</strong><br>Yes. Everything in 3.0 applies to self-hosted Community, Cloud, and Enterprise/Business.</p><p><strong>What happens to 2.x?</strong><br>After the stable release, 2.x gets security and critical bug fixes for 12 months. New features ship on 3.x only.</p><p><strong>I&apos;m still on 1.x. What do I do?</strong><br>Upgrade to 2.x first; there&apos;s no direct path from 1.x to 3.x. Support for 1.x ends December 31, 2026.</p><p><strong>Can I roll back?</strong><br>No. Take a full backup before upgrading; going back means restoring it.</p><p><strong>Is there downtime?</strong><br>A short restart, like any upgrade.</p><p><strong>Do my credentials and execution history carry over?</strong><br>Yes.</p><p><strong>What if I have questions?</strong><br>Reply to the <a href="https://community.n8n.io/t/announcing-n8n-version-3-0-coming-soon/324016">announcement thread</a> in the community forum and we&apos;ll help you out.</p><p>Thanks from Ophir and all of the n8n team!</p>]]></content:encoded></item>
-<item><title><![CDATA[AI Agent Memory: How LLM Agents Manage State in Production]]></title><description><![CDATA[Learn how AI agent memory works, explore short-term and long-term memory architectures, and discover how to combine n8n and Cognee to build AI workflows that retain context, share knowledge, and learn across sessions.]]></description><link>https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/</link><guid isPermaLink="false">6ad9f4da2f1ad6000113582e</guid><category><![CDATA[By partners]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 23 Oct 2026 12:20:34 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/BlogHeader-Congnee.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">This Verified Node Spotlight is a guest post written by Veljko Kovac, Head of FDE at <a href="https://www.cognee.ai/" rel="noreferrer">Cognee</a>, an open-source agent memory platform.</div></div><h2 id="every-llm-call-starts-from-zero">Every LLM call starts from zero</h2><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/BlogHeader-Congnee.png" alt="AI Agent Memory: How LLM Agents Manage State in Production"><p>An LLM has no memory of its own. Each request is independent: the model reads the prompt, returns a response, and keeps nothing. Send a second request and, as far as the model knows, the first never happened.</p><p>That is fine for a one-shot question. It breaks down the moment you build something that works over time: a support agent handling a follow-up, a sales assistant prepping for a renewal call, or a workflow that runs every hour and should know what it did last time. These systems need <strong>state</strong>, and the model can&apos;t hold it for them.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png" class="kg-image" alt="AI Agent Memory: How LLM Agents Manage State in Production" loading="lazy" width="2000" height="1117" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png 2048w" sizes="(min-width: 720px) 720px"></figure><p>So when people ask how LLM memory works, the honest answer is that the memory lives outside the model. The agent stores what it learns somewhere else, retrieves the relevant parts before each call, and feeds them back into the prompt. That external layer is what we call <a href="https://www.cognee.ai/agent-memory?utm_source=n8n&amp;utm_campaign=agent_memory_guest_post"><u>AI agent memory</u></a>, and how you design it decides whether your agent remembers the right things or drowns in the wrong ones.</p><p>This post explains how that layer works, the main ways to build it, and how to use it in <a href="https://n8n.io/"><u>n8n</u></a>, both as a shared &quot;company brain&quot; your workflows can query and as memory inside a single agentic workflow.</p><h2 id="short-term-and-long-term-memory">Short-term and long-term memory</h2><p>Agent memory usually works on two timescales, and they are often built as two separate components.</p><p><strong>Short-term memory</strong> keeps track of what&apos;s happening right now: recent messages, intermediate reasoning, tool outputs, the state of the task. It lives close to the agent, often inside the harness itself. When the context window fills up, a common trick is to summarize the history so far and feed the summary back in. That works until it doesn&apos;t: summaries lose detail, and some outputs shouldn&apos;t be compressed at all, for example intermediate drafts or the results of expensive computations.</p><p><strong>Long-term memory</strong> survives across sessions. It holds user preferences, outcomes of past tasks, lessons about what worked, and increasingly, company knowledge the agent didn&apos;t generate itself: docs, tickets, CRM records. This almost always needs a dedicated external layer from day one, because something has to decide what gets kept, how it&apos;s organized, and what comes back for each request.</p><p>Either way, the delivery mechanism doesn&apos;t change. The model still receives one prompt. Memory just changes how that prompt is assembled: the new user message, plus the running session, plus whatever long-term memories are relevant right now.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png" class="kg-image" alt="AI Agent Memory: How LLM Agents Manage State in Production" loading="lazy" width="2000" height="1110" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png 2018w" sizes="(min-width: 720px) 720px"></figure><h2 id="llm-memory-context-rag-agent-memory-whats-the-difference">LLM memory, context, RAG, agent memory: what&apos;s the difference?</h2><p>These four terms get used interchangeably, but they describe different places where knowledge can live. A real system often uses all of them.</p>
+<item><title><![CDATA[Introducing n8n 3.0]]></title><description><![CDATA[n8n 3.0 beta is out, focused on reliability, stability and security. Here’s what’s changing and how to get ready.]]></description><link>https://blog.n8n.io/introducing-n8n-v3/</link><guid isPermaLink="false">6adf6f9c2fe82a000155fec7</guid><dc:creator><![CDATA[Ophir Prusak]]></dc:creator><pubDate>Tue, 27 Oct 2026 11:53:21 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/announcing-n8n-3-0-v7.png" medium="image"/><content:encoded><![CDATA[<h3 id="today-were-releasing-n8n-version-300-beta">Today we&apos;re releasing n8n version 3.0.0 BETA</h3><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/announcing-n8n-3-0-v7.png" alt="Introducing n8n 3.0"><p>n8n 3.0 focuses on internal changes that improve reliability, stability and security, and lays the groundwork for the improvements we&apos;re building next. It clears out legacy features, tightens security defaults and reworks parts of how n8n runs under the hood.</p><p>The short version: the beta is available today and the stable release follows in early December. Because 3.0 includes breaking changes, some workflows and settings may need updates before you upgrade. The Migration Report in your instance tells you exactly which ones. </p><p>It&#x2019;s worth taking a look now, even if you&#x2019;re not planning to upgrade right away.</p><h2 id="why-change-the-version-number">Why change the version number?</h2><p>n8n follows <a href="https://semver.org/">semantic versioning</a>. That means we don&apos;t ship breaking changes (updates that might require you to change your workflows or configuration) without bumping the major version number.</p><p>Over the past year we collected a list of breaking changes we wanted to make: legacy code paths to remove, defaults to make safer, a few features to retire. Each of them had to wait for a major version, so 3.0 brings them together in one release.</p><p>If you&apos;re wondering where the new features went, they didn&apos;t wait. We ship features continuously instead of saving them for a major version. Since 2.0 came out in December 2025, we&apos;ve shipped over 45 releases, roughly one a week, and many of them included major new features. The full list is on our <a href="https://docs.n8n.io/changelog">changelog</a>.</p><p>That&apos;s why 3.0 can focus purely on the foundation, and everything new after the stable release ships on 3.x.</p><h2 id="whats-in-version-30">What&apos;s in version 3.0</h2><p>The <a href="https://docs.n8n.io/changelog/v30-breaking-changes">3.0 breaking changes docs</a> have a detailed list with what to do for each change. Here are the main themes, with a few examples.</p><h3 id="reliability-and-stability">Reliability and stability</h3><ul><li><strong>Queue mode.</strong> Manual executions now always run on workers, so the main instance isn&apos;t doing that work.</li><li><strong>Binary data.</strong> The in-memory binary data mode is removed. Instances use the filesystem, or S3 and other external storage, which is more predictable under load.</li><li><strong>Guardrails against runaway work.</strong> The default Code node timeout (task runner) drops from 5 minutes to 1 minute, and it&apos;s configurable. Decompression limits are lower, to protect instances from oversized archives (&quot;zip bombs&quot;).</li><li><strong>Scheduling.</strong> The old Cron and Interval nodes are replaced by the Schedule Trigger, which runs on n8n&apos;s more durable scheduler.</li></ul><h3 id="security">Security</h3><p>We made several defaults safer:</p><ul><li>Encryption key rotation is always on.</li><li>Slack credentials require a signing secret, so nobody can send forged requests pretending to be Slack.</li><li>A larger default SSRF (server-side request forgery) block list when SSRF protection is enabled.</li><li>Unverified community packages are off by default.</li></ul><h3 id="self-hosting">Self-hosting</h3><p>Self-hosted n8n now runs on Docker. Installing with npm or <code>npx n8n</code> is no longer supported, partly because new security features depend on a container setup. If you liked <code>npx n8n</code> for how quick it was, there&apos;s a <a href="https://docs.n8n.io/deploy/host-n8n/install-options/one-line-setup">one-line setup script</a> that gets you to the same place. Kubernetes and Helm deployments aren&apos;t affected.</p><h3 id="cleanup">Cleanup</h3><p>We removed legacy nodes: Function, Function Item, Item Lists, Cron, Interval, the legacy OpenAI node, older AI Agent modes, older versions of the Edit Image node, nodes for services that no longer exist, and others. Most have a direct replacement (Function becomes the Code node; Item Lists becomes Split Out, Aggregate, Sort, Limit, Remove Duplicates or Summarize), and many migrate automatically.</p><p>A few features are retired too. Chat Hub is off by default (you can turn it back on for 3.x; the n8n AI assistant and agents are replacing it), Import from URL is gone from the editor, and the Ask AI tab is gone from the Code node.</p><h2 id="check-if-youre-ready-the-migration-report">Check if you&apos;re ready: the Migration Report</h2><p>This is the part I&apos;d read if I read nothing else.</p><p>Every instance on version 2.39 or later has a Migration Report under <strong>Settings &gt; Migration Report</strong>.</p><p><strong>The latest 2.x version has the newest version of the report and we&apos;ll continue to improve the experience as we get more feedback, so update first.</strong></p><p>Here&apos;s what it does:</p><ul><li>Lists the workflows and instance-level settings affected by 3.0.</li><li>Fixes many issues automatically. Each fix is saved as a new workflow version for you to review and publish, and your published workflows keep running on v2 while you work.</li><li>Suggests an owner for each workflow (whoever edited it last), lets admins reassign, and emails owners what to fix.</li><li>Filters out workflows that aren&apos;t published or haven&apos;t run in a long time, so you can mark those &quot;won&apos;t fix&quot; and move on.</li><li>Exports a CSV summary.</li></ul><p>Admins see every workflow; other users see the workflows they have access to. Unlike last year, you don&apos;t need to be an admin to see it.</p><p>The path we recommend:</p><ol><li>Update to the latest 2.x and open the Migration Report.</li><li>Fix, or mark &quot;won&apos;t fix&quot;, everything it flags.</li><li>Take a full backup.</li><li>Upgrade a test or staging instance first, then production.</li></ol><p><strong>Check out the detailed </strong><a href="https://docs.n8n.io/changelog/v30-migration-tool" rel="noreferrer"><strong>v3 Migration Tool Docs</strong></a></p><h2 id="try-the-beta-today">Try the beta today</h2><p>No sign-up needed.</p><ul><li><strong>Self-hosted:</strong> install it like any other beta release.</li><li><strong>n8n Cloud:</strong> pick <code>3.0.0 Beta (early access)</code> when <a href="https://docs.n8n.io/deploy/use-n8n-cloud/update-your-version">changing your n8n version</a>.</li></ul><p>One thing to know before you click: <strong>moving to 3.x is one way.</strong> There&apos;s no going back to 2.x. Try it on a test instance first, and take a full backup.</p><h2 id="a-year-since-20">A year since 2.0</h2><p>It&apos;s only been a year, but the numbers are worth a look.</p><ul><li><a href="https://github.com/n8n-io/n8n"><strong>GitHub</strong></a> <strong>stars:</strong> from about 160,000 at the 2.0 release to over 208,000 today.</li><li><a href="https://community.n8n.io/"><strong>Community forum</strong></a> <strong>members:</strong> from 115,192 to over 183,000.</li></ul><p>Behind those numbers are the people who file issues, build nodes, answer questions in the forum, write tutorials, and tell us when something broke. Thank you for all of it.</p><h2 id="faq-what-you-need-to-know">FAQ: What you need to know</h2><p><strong>When is this happening?</strong><br>Beta (3.0.0) today, October 27. Stable (3.x) in early December. Follow the <a href="https://docs.n8n.io/changelog/release-notes">release notes</a> for updates.</p><p><strong>What are the breaking changes?</strong><br>Here are all of them, with what to do for each, are in the <a href="https://docs.n8n.io/changelog/v30-breaking-changes">3.0 breaking changes docs</a>.</p><p><strong>How do I know if I&apos;m affected?</strong><br>Open the Migration Report under <strong>Settings &gt; Migration Report</strong> (version 2.39 or later).</p><p><strong>Does the Community edition get all 3.0 updates?</strong><br>Yes. Everything in 3.0 applies to self-hosted Community, Cloud, and Enterprise/Business.</p><p><strong>What happens to 2.x?</strong><br>After the stable release, 2.x gets security and critical bug fixes for 12 months. New features ship on 3.x only.</p><p><strong>I&apos;m still on 1.x. What do I do?</strong><br>Upgrade to 2.x first; there&apos;s no direct path from 1.x to 3.x. Support for 1.x ends December 31, 2026.</p><p><strong>Can I roll back?</strong><br>No. Take a full backup before upgrading; going back means restoring it.</p><p><strong>Is there downtime?</strong><br>A short restart, like any upgrade.</p><p><strong>Do my credentials and execution history carry over?</strong><br>Yes.</p><p><strong>What if I have questions?</strong><br>Reply to the <a href="https://community.n8n.io/t/announcing-n8n-version-3-0-coming-soon/324016">announcement thread</a> in the community forum and we&apos;ll help you out.</p><p>Thanks from Ophir and all of the n8n team!</p>]]></content:encoded></item>
+<item><title><![CDATA[AI Agent Memory: How LLM Agents Manage State in Production]]></title><description><![CDATA[Learn how AI agent memory works, explore short-term and long-term memory architectures, and discover how to combine n8n and Cognee to build AI workflows that retain context, share knowledge, and learn across sessions.]]></description><link>https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/</link><guid isPermaLink="false">6ad9f4da2f1ad6000113582e</guid><category><![CDATA[By partners]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 23 Oct 2026 12:20:34 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/Minimalist-Audio-Flow-Diagram.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">This is a guest post written by Veljko Kovac, Head of FDE at <a href="https://www.cognee.ai/" rel="noreferrer">Cognee</a>, an open-source agent memory platform.</div></div><h2 id="every-llm-call-starts-from-zero">Every LLM call starts from zero</h2><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/Minimalist-Audio-Flow-Diagram.png" alt="AI Agent Memory: How LLM Agents Manage State in Production"><p>An LLM has no memory of its own. Each request is independent: the model reads the prompt, returns a response, and keeps nothing. Send a second request and, as far as the model knows, the first never happened.</p><p>That is fine for a one-shot question. It breaks down the moment you build something that works over time: a support agent handling a follow-up, a sales assistant prepping for a renewal call, or a workflow that runs every hour and should know what it did last time. These systems need <strong>state</strong>, and the model can&apos;t hold it for them.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png" class="kg-image" alt="AI Agent Memory: How LLM Agents Manage State in Production" loading="lazy" width="2000" height="1117" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-6c845b53-7aee-44f7-a87e-360d9be4cfac.png 2048w" sizes="(min-width: 720px) 720px"></figure><p>So when people ask how LLM memory works, the honest answer is that the memory lives outside the model. The agent stores what it learns somewhere else, retrieves the relevant parts before each call, and feeds them back into the prompt. That external layer is what we call <a href="https://www.cognee.ai/agent-memory?utm_source=n8n&amp;utm_campaign=agent_memory_guest_post"><u>AI agent memory</u></a>, and how you design it decides whether your agent remembers the right things or drowns in the wrong ones.</p><p>This post explains how that layer works, the main ways to build it, and how to use it in <a href="https://n8n.io/"><u>n8n</u></a>, both as a shared &quot;company brain&quot; your workflows can query and as memory inside a single agentic workflow.</p><h2 id="short-term-and-long-term-memory">Short-term and long-term memory</h2><p>Agent memory usually works on two timescales, and they are often built as two separate components.</p><p><strong>Short-term memory</strong> keeps track of what&apos;s happening right now: recent messages, intermediate reasoning, tool outputs, the state of the task. It lives close to the agent, often inside the harness itself. When the context window fills up, a common trick is to summarize the history so far and feed the summary back in. That works until it doesn&apos;t: summaries lose detail, and some outputs shouldn&apos;t be compressed at all, for example intermediate drafts or the results of expensive computations.</p><p><strong>Long-term memory</strong> survives across sessions. It holds user preferences, outcomes of past tasks, lessons about what worked, and increasingly, company knowledge the agent didn&apos;t generate itself: docs, tickets, CRM records. This almost always needs a dedicated external layer from day one, because something has to decide what gets kept, how it&apos;s organized, and what comes back for each request.</p><p>Either way, the delivery mechanism doesn&apos;t change. The model still receives one prompt. Memory just changes how that prompt is assembled: the new user message, plus the running session, plus whatever long-term memories are relevant right now.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png" class="kg-image" alt="AI Agent Memory: How LLM Agents Manage State in Production" loading="lazy" width="2000" height="1110" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/data-src-image-cb8f4abb-afc5-4f6a-b9da-bddd63517293.png 2018w" sizes="(min-width: 720px) 720px"></figure><h2 id="llm-memory-context-rag-agent-memory-whats-the-difference">LLM memory, context, RAG, agent memory: what&apos;s the difference?</h2><p>These four terms get used interchangeably, but they describe different places where knowledge can live. A real system often uses all of them.</p>
 <!--kg-card-begin: html-->
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="156"><col width="156"><col width="156"><col width="156"></colgroup><thead><tr style="height:0pt"><th style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;background-color:#f2f2f2;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;" scope="col"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Approach</span></p></th><th style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;background-color:#f2f2f2;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;" scope="col"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Where knowledge lives</span></p></th><th style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;background-color:#f2f2f2;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;" scope="col"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Who updates it</span></p></th><th style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;background-color:#f2f2f2;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;" scope="col"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Good for</span></p></th></tr></thead><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">LLM memory (model weights)</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Inside the model</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Training or fine-tuning</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">General knowledge and skills</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Context engineering</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The current prompt</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Agent harness or application code, on every call</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Getting the right data into this request</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">RAG</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">An external, mostly static corpus</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">People or systems writing documents</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Grounding answers in existing knowledge</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Agent memory</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">An external memory layer that keeps evolving</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">People, data pipelines, and the agent itself</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.295;margin-top:0pt;margin-bottom:8pt;"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Continuity across tasks, sessions and sources</span></p></td></tr></tbody></table>
 <!--kg-card-end: html-->
@@ -1296,7 +1310,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 00:54:01 GMT</pubDate>
+  <pubDate>Sat, 24 Oct 2026 07:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -1305,7 +1319,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 25 Oct 2026 03:54:01 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 11:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -1314,7 +1328,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 03:54:01 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 23:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -1323,7 +1337,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 17 Oct 2026 22:54:01 GMT</pubDate>
+  <pubDate>Tue, 27 Oct 2026 09:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -1332,7 +1346,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 07:54:01 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 05:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -1341,7 +1355,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 21 Oct 2026 14:54:01 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 03:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1350,7 +1364,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 18 Oct 2026 17:54:01 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 20:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1359,7 +1373,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 25 Oct 2026 19:54:01 GMT</pubDate>
+  <pubDate>Tue, 20 Oct 2026 14:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -1368,7 +1382,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 20 Oct 2026 16:54:01 GMT</pubDate>
+  <pubDate>Mon, 19 Oct 2026 15:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -1377,7 +1391,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 20 Oct 2026 04:54:01 GMT</pubDate>
+  <pubDate>Tue, 20 Oct 2026 18:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -1386,7 +1400,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 22:54:01 GMT</pubDate>
+  <pubDate>Mon, 26 Oct 2026 18:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1395,7 +1409,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 22 Oct 2026 12:54:01 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 08:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1404,7 +1418,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 24 Oct 2026 04:54:01 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 13:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1413,7 +1427,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 21 Oct 2026 12:54:01 GMT</pubDate>
+  <pubDate>Tue, 27 Oct 2026 12:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1422,7 +1436,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Oct 2026 01:54:01 GMT</pubDate>
+  <pubDate>Tue, 27 Oct 2026 07:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1431,7 +1445,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 23 Oct 2026 03:54:01 GMT</pubDate>
+  <pubDate>Sat, 24 Oct 2026 12:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1440,7 +1454,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 25 Oct 2026 03:54:01 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 08:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1449,7 +1463,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 19 Oct 2026 05:54:01 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 22:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1458,7 +1472,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 26 Oct 2026 11:54:01 GMT</pubDate>
+  <pubDate>Fri, 23 Oct 2026 16:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1467,7 +1481,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 25 Oct 2026 22:54:01 GMT</pubDate>
+  <pubDate>Tue, 20 Oct 2026 21:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1476,7 +1490,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 24 Oct 2026 22:54:01 GMT</pubDate>
+  <pubDate>Mon, 19 Oct 2026 20:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1485,7 +1499,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 21 Oct 2026 22:54:01 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1494,7 +1508,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 20 Oct 2026 09:54:01 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 03:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1503,7 +1517,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 23 Oct 2026 07:54:01 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 01:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1512,7 +1526,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Oct 2026 10:54:01 GMT</pubDate>
+  <pubDate>Sat, 24 Oct 2026 14:30:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1869,58 +1883,40 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/10/snowflake-visuel-article-1.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[ASC Technologies lance Neo Suite pour l’enregistrement multicanal]]></title>
-  <link>https://www.ia-news.fr/asc-technologies-lance-neo-suite-pour-lenregistrement-multicanal/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-composants-futur.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-composants-futur.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-composants-futur.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Relations investisseurs : Notified facilite l’analyse des résultats financiers avec une nouvelle solution IA]]></title>
-  <link>https://www.ia-news.fr/relations-investisseurs-notified-facilite-lanalyse-des-resultats-financiers-avec-une-nouvelle-solution-ia/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/logiciel-saas-erp-005.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Le groupe Kéa annonce sa 10e acquisition]]></title>
-  <link>https://www.ia-news.fr/le-groupe-kea-annonce-sa-10e-acquisition/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/09/groupekea.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/09/groupekea.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/groupekea.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Databricks renforce sa direction EMEA]]></title>
-  <link>https://www.ia-news.fr/databricks-renforce-sa-direction-emea/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/05/evolution-006.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/05/evolution-006.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/evolution-006.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[Le Bachelor en Intelligence Artificielle (IA) de l&rsquo;UTT est accrédité par la CTI]]></title>
-  <link>https://www.ia-news.fr/le-bachelor-en-intelligence-artificielle-ia-de-lutt-est-accredite-par-la-cti/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-0003.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-0003.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-0003.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[1re édition du baromètre Digital Workplace par Experteam et Mozzaik 365]]></title>
-  <link>https://www.ia-news.fr/1re-edition-du-barometre-digital-workplace-par-experteam-et-mozzaik-365/</link>
+  <title><![CDATA[Stelliant Expertise optimise ses processus de gestion avec l’IA de confiance de Golem.ai]]></title>
+  <link>https://www.ia-news.fr/stelliant-expertise-optimise-ses-processus-de-gestion-avec-lia-de-confiance-de-golem-ai/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
   <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" medium="image" />
   <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" />
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Shadow AI : Bitdefender donne aux DSI une vue d’ensemble]]></title>
+  <link>https://www.ia-news.fr/shadow-ai-bitdefender-donne-aux-dsi-une-vue-densemble/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-bitdefender-article-1-.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-bitdefender-article-1-.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-bitdefender-article-1-.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[De l’outil à l’organisation : comment l’IA générative redéfinit-elle la compétitivité des ESN]]></title>
+  <link>https://www.ia-news.fr/de-loutil-a-lorganisation-comment-lia-generative-redefinit-elle-la-competitivite-des-esn/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/04/Intelligence-artificielle-IA-AI-16.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Sage rachète Doyen AI]]></title>
+  <link>https://www.ia-news.fr/sage-rachete-doyen-ai/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/02/partenariat-hand-shake-324-006.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/02/partenariat-hand-shake-324-006.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/02/partenariat-hand-shake-324-006.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
