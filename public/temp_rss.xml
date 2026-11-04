@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 22:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 03:25:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Graduates are managing AI - but are they learning much else?]]></title>
+            <description><![CDATA[Graduates are spending more time managing AI, but are they missing out on other work experience?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c820vz6wyp65o#0</guid>
+            <pubDate>Wed, 04 Nov 2026 00:04:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d9/live/cc0124d0-cd54-11f1-a64c-550be9e3c66b.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Binance says fake job interviews used as part of $6.3bn crypto hack]]></title>
             <description><![CDATA[An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.]]></description>
@@ -111,14 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a84/live/96e73740-609e-11f0-ba44-5934558aeaa1.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Crypto giant Binance hit by $6.3bn hack suspected to be largest in history]]></title>
-            <description><![CDATA[Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o#0</guid>
-            <pubDate>Fri, 30 Oct 2026 09:33:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/15f26510-d4f1-11f1-9df7-95635b0b4a0d.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,17 +184,34 @@
         </item>
     
 <item>
+		<title>Anthropic is working on a system to prove AI models&#8217; identity</title>
+		<link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2026 22:41:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[cryptography]]></category>
+		<category><![CDATA[inference]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3184891</guid>
+
+					<description><![CDATA[Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.
+]]></description>
+		
+		
+		
+			</item>
+<item>
 		<title>Data centers are turning to old jet engines as the wait for power grows</title>
 		<link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</link>
 		
 		<dc:creator><![CDATA[Aditya Mehta]]></dc:creator>
 		<pubDate>Tue, 03 Nov 2026 22:19:53 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[data centers]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3184896</guid>
 
-					<description><![CDATA[The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.]]></description>
+					<description><![CDATA[The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.]]></description>
 		
 		
 		
@@ -212,7 +229,7 @@
 		<category><![CDATA[Exclusive]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3184842</guid>
 
-					<description><![CDATA[Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.]]></description>
+					<description><![CDATA[Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.]]></description>
 		
 		
 		
@@ -322,24 +339,24 @@
 		
 			</item>
 <item>
-		<title>The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4</title>
+		<title>The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4</title>
 		<link>https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/</link>
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
 		<pubDate>Tue, 03 Nov 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fintech]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Fintech]]></category>
 		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
 		<category><![CDATA[TechCrunch Founder Summit 2026]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3184579</guid>
 
-					<description><![CDATA[On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.]]></description>
+					<description><![CDATA[On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.]]></description>
 		
 		
 		
@@ -529,23 +546,6 @@
 		
 		
 			</item>
-<item>
-		<title>Elon Musk throttles Grok Bot limits due to &#8216;unsustainably high&#8217; costs</title>
-		<link>https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 02 Nov 2026 16:23:21 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3184148</guid>
-
-					<description><![CDATA[Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."]]></description>
-		
-		
-		
-			</item>
 <item><title><![CDATA[Throttling vs. Rate Limiting: Backoff Strategies for Workflows]]></title><description><![CDATA[Throttling versus rate limiting changes how you respond to API limits. See how Retry-After, exponential backoff, and jitter make retries more reliable.]]></description><link>https://blog.n8n.io/throttling-vs-rate-limiting/</link><guid isPermaLink="false">6ae0e1dfc09a010001550c51</guid><category><![CDATA[Guides]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Fri, 30 Oct 2026 16:30:34 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--23-.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--23-.jpeg" alt="Throttling vs. Rate Limiting: Backoff Strategies for Workflows"><p>A burst of 429 (Too Many Requests) errors can bring an otherwise healthy workflow to a halt. Retrying is part of the solution, but timing matters: Retry too quickly and you&#x2019;re likely to hit the same limit again.</p><p>Understanding throttling versus rate limiting helps you respond more intelligently, from pacing API calls upfront to backing off when the provider tells you to wait.</p><h2 id="api-throttling-vs-rate-limiting-who-enforces-who-adapts">API throttling vs. rate limiting: Who enforces, who adapts</h2><p>Rate limiting and throttling both control how much traffic reaches an API, but they don&#x2019;t handle excess requests the same way. A rate limit sets a cap on how many requests a client can make within a given period. Once you cross that cap, the provider can reject additional requests, often with a <em>429 Too Many Requests</em> response.</p><p>Throttling can instead slow or delay requests when traffic exceeds an allowed rate. Either way, the provider controls the limit. As the API consumer, you control how your workflow responds: pacing requests to avoid the limit where possible and backing off when you hit it.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/rate-limit-vs-throttling--1---1---1-.png" class="kg-image" alt="Throttling vs. Rate Limiting: Backoff Strategies for Workflows" loading="lazy" width="768" height="1300" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/rate-limit-vs-throttling--1---1---1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/rate-limit-vs-throttling--1---1---1-.png 768w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">The diagram illustrates the difference between API rate limiting and throttling: in the first case, an extra API request results in an error, while in the second, it simply takes longer to process</em></i></figcaption></figure><h3 id="what-is-api-throttling">What Is API throttling?</h3><p>API throttling regulates request traffic by slowing its flow instead of just letting every request through at once. When demand gets too high, requests may be delayed or queued until capacity becomes available.</p><p>That doesn&#x2019;t necessarily mean a request for your workflow fails just because the API is under pressure. But it can take longer to complete. Your workflow still needs to account for that delay, especially when later steps depend on the response.</p><h3 id="rate-limiting-vs-throttling-the-practical-difference">Rate limiting vs. throttling: The practical difference</h3><p>Imagine an API allows 100 requests per minute and your workflow sends request 101 before that minute is up. With rate limiting, that request may be rejected with a 429 error, leaving your workflow to decide when to try again. With throttling, the provider may hold request 101 in a queue and process it later instead.</p><p>That difference changes what your workflow sees (an error versus a delay) but not who&#x2019;s in control. The API provider enforces the traffic policy. Your job is to adapt your request pattern so the workflow can keep moving without repeatedly overwhelming the service.</p>
 <!--kg-card-begin: html-->
 <div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
@@ -717,108 +717,97 @@
 <item><title><![CDATA[Self-Hosted LLM vs. Cloud APIs: How to Route Between Them]]></title><description><![CDATA[A self-hosted LLM isn’t always cheaper than an API. Learn when on-prem wins, what your hardware can run, and how to route between local and cloud models.
 ]]></description><link>https://blog.n8n.io/self-hosted-llm/</link><guid isPermaLink="false">6ad65812cb248000019ea941</guid><category><![CDATA[Guides]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Thu, 22 Oct 2026 15:01:32 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--22--1.jpeg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/TL--22--1.jpeg" alt="Self-Hosted LLM vs. Cloud APIs: How to Route Between Them"><p>A self-hosted LLM can give you more control over where your data lives. If the model and the workflow handling its requests both run on infrastructure you control, prompts can stay inside your network instead of passing through an external provider.</p><p>Self-hosting can be appealing for sensitive workloads. But it also requires hardware, maintenance, and operational overhead that cloud-based APIs mostly offload.&#xa0;</p><p>A hybrid option offers a way to route requests locally or to the cloud without managing two disconnected systems.</p><h2 id="the-best-self-hosting-llm-open-weight-models">The best self-hosting LLM open-weight models</h2><p>An open-weight model makes its trained model weights available for you to download and run on your own infrastructure.</p><p>Look at the tasks you want the model to do, try open-weight models via OpenRouter or another provider first. Once you have found the smallest model that handles your task reliably, you can deploy it on your infrastructure. A smaller model usually needs less compute and responds faster, so moving up in size makes sense when the extra capability measurably improves results for your workflow.</p><p><strong>Params</strong>, short for parameters, measure a model&#x2019;s size. For example, a 24B model has around 24 billion learned parameters. Larger models can be more capable, but they also need more compute and memory.</p><p><strong>Min VRAM</strong> is the approximate minimum amount of GPU memory needed to run the model. If the model doesn&#x2019;t fit into your available VRAM, you need a smaller model, or a quantized version of the model, or stronger hardware to support it.</p><p>Here are a few open-weight models for self-hosting, with their parameters and minimum recommended VRAM.</p>
 <!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 800px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 200px;">Model</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 80px;">Params</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;">Min VRAM*</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444;">Best for</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Phi-4-mini</td>
-          <td style="padding: 16px;">3.8B</td>
-          <td style="padding: 16px;">~8 GB</td>
-          <td style="padding: 16px;">A lightweight starting point for local assistants and tasks when you have limited hardware</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Qwen3 8B</td>
-          <td style="padding: 16px;">8B</td>
-          <td style="padding: 16px;">~8 GB (8-bit configuration)</td>
-          <td style="padding: 16px;">General-purpose option for chat, coding, and multilingual workloads that doesn&apos;t require high-end GPU hardware</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Gemma 3 12B</td>
-          <td style="padding: 16px;">12B</td>
-          <td style="padding: 16px;">~12&#x2013;16 GB (when quantized)</td>
-          <td style="padding: 16px;">General reasoning, summarization, and multimodal tasks like understanding text and images</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">DeepSeek R1-Distill-Qwen-14B</td>
-          <td style="padding: 16px;">14B</td>
-          <td style="padding: 16px;">~12-16 GB (when quantized)</td>
-          <td style="padding: 16px;">Reasoning-heavy tasks when you want more capacity than smaller local models but don&apos;t want to run a much larger model</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Mistral Small 3.1</td>
-          <td style="padding: 16px;">24B</td>
-          <td style="padding: 16px;">~12&#x2013;16 GB (4-bit quantization), ~44&#x2013;55 GB (unquantized)</td>
-          <td style="padding: 16px;">More demanding local apps, including function calling, coding, lengthy documentation, and multimodal workflows</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">Llama 4 Scout</td>
-          <td style="padding: 16px;">109B total, 17B active</td>
-          <td style="padding: 16px;">~55&#x2013;80 GB</td>
-          <td style="padding: 16px;">High-end private LLM deployments, large-document analysis, and multimodal workloads</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
+<div style="margin:24px 0;">
+<div style="text-align:right;font-size:12px;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;font-family:inherit;margin-bottom:8px;">Scroll for more &#x2192;</div>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;background:#1A1A1F;border-radius:12px;">
+<table style="width:100%;min-width:1200px;border-collapse:collapse;table-layout:fixed;font-family:inherit;">
+<colgroup><col style="width:20%"><col style="width:11%"><col style="width:24%"><col style="width:45%"></colgroup>
+<tbody>
+<tr>
+<td style="background:#26262E;padding:18px 24px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Model</td>
+<td style="background:#26262E;padding:18px 24px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Params</td>
+<td style="background:#26262E;padding:18px 24px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Min VRAM*</td>
+<td style="background:#26262E;padding:18px 24px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Best for</td>
+</tr>
+<tr>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:700;color:#FFFFFF;">Phi-4-mini</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">3.8B</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">~8 GB</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">A lightweight starting point for local assistants and tasks when you have limited hardware</td>
+</tr>
+<tr>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:700;color:#FFFFFF;">Qwen3 8B</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">8B</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">~8 GB (8-bit configuration)</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">General-purpose option for chat, coding, and multilingual workloads that doesn&apos;t require high-end GPU hardware</td>
+</tr>
+<tr>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:700;color:#FFFFFF;">Gemma 3 12B</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">12B</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">~12&#x2013;16 GB (when quantized)</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">General reasoning, summarization, and multimodal tasks like understanding text and images</td>
+</tr>
+<tr>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:700;color:#FFFFFF;">DeepSeek R1-Distill-Qwen-14B</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">14B</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">~12&#x2013;16 GB (when quantized)</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">Reasoning-heavy tasks when you want more capacity than smaller local models but don&apos;t want to run a much larger model</td>
+</tr>
+<tr>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:700;color:#FFFFFF;">Mistral Small 3.1</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">24B</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">~12&#x2013;16 GB (4-bit quantization), ~44&#x2013;55 GB (unquantized)</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">More demanding local apps, including function calling, coding, lengthy documentation, and multimodal workflows</td>
+</tr>
+<tr>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:700;color:#FFFFFF;">Llama 4 Scout</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">109B total, 17B active</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">~55&#x2013;80 GB</td>
+<td style="padding:22px 24px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.6;font-weight:400;color:#D5D5DD;">High-end private LLM deployments, large-document analysis, and multimodal workloads</td>
+</tr>
+</tbody>
+</table>
+</div>
 </div>
 <!--kg-card-end: html-->
 <h2 id="what-you-need-to-run-an-open-weight-model">What you need to run an open-weight model</h2><p>After choosing an open-weight model, check whether your hardware and inference can run it for daily workflows. VRAM sets the upper limit on what your GPU can handle, and quantization reduces the memory required to load the model.</p><h3 id="the-standard-self-hosted-llm-stack">The standard self-hosted LLM stack</h3><p>A self-hosted LLM setup usually has five layers working together:</p><ul><li><strong>Hardware:</strong> The GPU provides the VRAM and compute power that determine which models you can run and how quickly their response times are.</li><li><strong>Model:</strong> The LLM and open-weight model you choose for tasks.</li><li><strong>Inference runtime:</strong> Software like <a href="https://ollama.com/"><u>Ollama</u></a> or <a href="https://docs.vllm.ai/en/stable/"><u>vLLM</u></a> loads the model and exposes it to other applications, often through an API.</li><li><strong>Retrieval layer:</strong> If the model needs private or domain-specific information, retrieval-augmented generation (RAG) lets the system search an external knowledge source for relevant information and add that context to the model&#x2019;s request before generating an answer.</li><li><strong>Application layer:</strong> The chat interface, API, or workflow that sends requests to the model and uses the response.</li></ul><h3 id="vram-and-quantization">VRAM and quantization</h3><p>Model weights need VRAM while the model is loaded for inference. When the weights and runtime requirements fit in GPU memory, the GPU can perform the relevant computations without relying on slower system memory. If they don&#x2019;t fit, an inference engine might offload data or compute to system memory or the CPU, which can reduce performance.</p><p>Quantization reduces the memory required by representing model weights with fewer bits. This means you can run a larger model on the same GPU. Moderate quantization can preserve most of the model&#x2019;s output quality, but aggressive compression can affect complex tasks like numerical reasoning.</p><h2 id="self-hosting-vs-cloud-hosting-explained">Self-hosting vs. cloud hosting explained</h2><p>You can run an LLM locally, but that doesn&#x2019;t mean you should run every request that way. Some workloads may benefit from keeping processing within your infrastructure, but others may need the scale or capabilities of a cloud provider.&#xa0;</p><p>A hybrid setup lets you choose the best path for each type of request, depending on a few factors.</p><h3 id="privacy-and-compliance-requirements">Privacy and compliance requirements</h3><p>AI systems may process sensitive or regulated data, and your organization may have legal, contractual, or internal restrictions on where that data can be processed or transferred. For example, <a href="https://eur-lex.europa.eu/eli/reg/2016/679"><u>GDPR Chapter V</u></a> sets conditions for transferring personal data to third countries or international organizations.</p><p>Running the model locally makes data residency compliance easier because you control where the processing takes place. But self-hosting doesn&#x2019;t make the system automatically compliant, as you need safeguards around access, logging, and storage. Some cloud-hosted models (especially those with enterprise SLA) may have stronger access controls and other guardrails.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/local-cloud-LLM--1-.png" class="kg-image" alt="Self-Hosted LLM vs. Cloud APIs: How to Route Between Them" loading="lazy" width="1376" height="768" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/local-cloud-LLM--1-.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/local-cloud-LLM--1-.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/local-cloud-LLM--1-.png 1376w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">Schematic illustration to help decide which LLM to use (local vs. cloud)</em></i></figcaption></figure><h3 id="cost-and-breakeven-volume">Cost and breakeven volume</h3><p>Cloud APIs typically charge based on usage, and more tokens means a larger bill. With self-hosting, you pay for the hardware and the people operating it and spread those costs across all the requests that the system handles.</p><p>The breakeven point is where the total cost of running your own setup becomes lower than the cost of using a cloud API. If your usage is low or unpredictable, using the cloud may be more economical. But if you process a large, steady volume of requests, self-hosting may be the better choice for your organization.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">If you&#x2019;re using LLMs for batch processing, here&#x2019;s another useful tip. You can rent a GPU-powered VPS like <a href="https://www.runpod.io/"><u>runpod</u></a>, and run it only when you need to process data. This way, you&#x2019;ll ensure relative data privacy and reduce costs, since the VPS runs only when necessary.</div></div><h3 id="latency-and-frontier-capability">Latency and frontier capability</h3><p>A local LLM model can provide predictable latency if you have the right hardware. It also avoids the network round trip to an external provider. But local inference isn&#x2019;t always faster. A large model running on constrained hardware can be much slower than an optimized cloud service.&#xa0;</p><p>Cloud providers can offer highly optimized infrastructure and access to frontier models, which are the most capable models currently available for more complex reasoning tasks. If a task needs that extra capability, the frontier&#x2019;s added latency may be worth sending it to a cloud model.</p><p>Here are the main differences between a self-hosted LLM and a cloud API.</p>
 <!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 600px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 160px;"></th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 220px;">Self-hosted LLM</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444;">Cloud API</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Privacy</td>
-          <td style="padding: 16px;">Greater control over where the system processes and handles data</td>
-          <td style="padding: 16px;">An external provider processes the data according to its service and handling terms</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Cost</td>
-          <td style="padding: 16px;">Higher fixed infrastructure and operating costs</td>
-          <td style="padding: 16px;">Usage or token-based</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Latency</td>
-          <td style="padding: 16px;">Can be predictable with enough local capacity</td>
-          <td style="padding: 16px;">Depends on the network, provider capacity, and rate limits</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Frontier capability</td>
-          <td style="padding: 16px;">Limited to models you can deploy and run</td>
-          <td style="padding: 16px;">Easier access to the latest leading models</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">Maintenance</td>
-          <td style="padding: 16px;">Managed by internal team</td>
-          <td style="padding: 16px;">Mostly handled by the provider</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
+<div style="background:#1A1A1F;border-radius:12px;overflow:hidden;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;table-layout:fixed;font-family:inherit;">
+<colgroup><col style="width:22%"><col style="width:39%"><col style="width:39%"></colgroup>
+<tbody>
+<tr>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;"></td>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Self-hosted LLM</td>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Cloud API</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Privacy</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Greater control over where the system processes and handles data</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">An external provider processes the data according to its service and handling terms</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Cost</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Higher fixed infrastructure and operating costs</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Usage or token-based</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Latency</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Can be predictable with enough local capacity</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Depends on the network, provider capacity, and rate limits</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Frontier capability</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Limited to models you can deploy and run</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Easier access to the latest leading models</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Maintenance</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Managed by internal team</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Mostly handled by the provider</td>
+</tr>
+</tbody>
+</table>
 </div>
 <!--kg-card-end: html-->
 <h2 id="route-between-local-and-cloud-based-llms-in-n8n">Route between local and cloud-based LLMs in n8n</h2><p>Once you&#x2019;ve decided which requests run locally and which should go to the cloud, you still need a reliable way to apply rules for each one. You can hard-code that logic into individual apps, but that becomes harder to inspect and update over time as you add new models and rules.</p><p>This is where <a href="https://n8n.io/"><u>n8n</u></a> comes in. n8n is a source-available automation platform where engineering teams can create AI agents and agentic workflows. You can also connect local and cloud-based models in the same workflow and use routing logic to decide which path each request takes based on workload type, complexity, or data sensitivity.</p><p>This is what a basic hybrid workflow looks like.</p><ul><li><strong>Decide what information drives the route:</strong> Use information you already have, such as a sensitivity flag, task type, request volume, or complexity score wherever possible.</li><li><strong>Connect the local path:</strong> Add the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatollama"><u>Ollama Chat Model</u></a> node and create an <a href="https://docs.n8n.io/integrations/builtin/credentials/ollama"><u>Ollama credential</u></a> with your instance&#x2019;s Base URL. If your workflows need an agent that can use tools, you can connect a chat model to the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent"><u>AI Agent</u></a> node, which uses the model to decide what action to take.&#xa0;</li><li><strong>Add the cloud path:</strong> Add the chat model node for the cloud provider you want to use, such as the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatopenai"><u>OpenAI Chat Model</u></a> or <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatanthropic"><u>Anthropic Chat Model</u></a> node. This gives the workflow a second path for tasks that need to use cloud processing.</li><li><strong>Choose how to route the request:</strong> Use the <a href="https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.modelselector"><u>Model Selector node</u></a> when one AI agent <a href="https://docs.n8n.io/build/integrate-ai/understand-ai-components/what-chains-do"><u>or chain</u></a> should use different language models based on your defined rules. It checks those rules in order and supplies the first matching model to the same agent or chain. Use an <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.if"><u>If node</u></a> to split the wider workflow into two separate branches, or a <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.switch"><u>Switch node</u></a> when you need several branches with different downstream steps.</li><li><strong>Define rules:</strong> Route requests by task type, complexity, or data sensitivity. Apply data-sensitivity checks before sending the request to a cloud model. If an agent needs to inspect sensitive content to determine the appropriate route, run the inspection locally first.</li><li><strong>Test both paths:</strong> Run representative local and cloud requests through the workflow and <a href="https://docs.n8n.io/build/understand-workflows/understand-executions"><u>check the execution</u></a> to confirm that each rule goes through the intended model. Include a sensitive test case to verify that restricted data never reaches the cloud branch.</li></ul><p></p>
@@ -1209,91 +1198,84 @@ image = client.images.generate(
 <item><title><![CDATA[11 Best DevOps Automation Tools for Engineering Teams]]></title><description><![CDATA[Compare 11 DevOps automation tools for modern engineering teams. Learn how to choose the right platforms for each layer of your stack.
 ]]></description><link>https://blog.n8n.io/devops-automation-tools/</link><guid isPermaLink="false">6ac6793cb39bc30001bd3df1</guid><category><![CDATA[Guides]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Mon, 12 Oct 2026 15:42:14 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-devops-automation-tools.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/blog-header-devops-automation-tools.png" alt="11 Best DevOps Automation Tools for Engineering Teams"><p>The DevOps automation tools that excel at CI/CD aren&#x2019;t necessarily the ones you want provisioning infrastructure or monitoring production. But you&#x2019;ll need to choose the right tools for each job without creating a stack that takes more effort to coordinate than the manual work it replaced.</p><p>Here are 11 options worth considering, their strengths, and the trade-offs that come along.</p><h2 id="how-to-evaluate-a-devops-automation-tool">How to evaluate a DevOps automation tool</h2><p>The right tool depends on what you&#x2019;re actually trying to automate. A team looking to speed up builds and deployments has different requirements from one managing infrastructure at scale or trying to coordinate incident response across several systems. Before choosing a DevOps automation platform, decide on the job it needs to do, then look at how well it fits the rest of your stack.</p><p>A few things matter here:</p><ul><li><strong>Scope: </strong>Does it handle CI/CD, infrastructure provisioning, configuration management, monitoring, or orchestration across those layers?</li><li><strong>Integration:</strong> Can it connect cleanly to the tools and APIs you already use, or will your team spend time maintaining custom glue code?</li><li><strong>Control:</strong> Can you add custom logic when the built-in functionality stops being enough?</li><li><strong>Reliability and visibility:</strong> When an automation fails, can you quickly see what happened and recover without reconstructing the entire run?</li><li><strong>Governance:</strong> Can you control who can build, edit, and run automations as more people start using them?</li><li><strong>Scale:</strong> Will the platform keep up as execution volume and workflow complexity grow?</li></ul><p>In practice, most teams won&#x2019;t choose one tool from the list below and call their DevOps stack finished. Technical teams typically use specialized tools for different layers, then connect them so deployments, infrastructure changes, alerts, and follow-up actions can move through the same operational process. That makes interoperability just as important as any individual feature.</p><h2 id="11-of-the-best-devops-automation-tools">11 of the best DevOps automation tools</h2><p>Each tool in DevOps has a defined purpose. CI/CD automation tools focus on getting code from commit to production, while infrastructure automation tools handle the environments that code runs on. Other platforms specialize in configuration, container orchestration, or monitoring. That&#x2019;s why some of the most useful DevOps tools of 2026 work together as different layers of the same stack.</p><p>Here&#x2019;s a quick look at the 11 tools we&#x2019;ll compare.</p>
 <!--kg-card-begin: html-->
-<div style="position: relative; max-width: 100%; margin-bottom: 1rem;">
-  <div style="text-align: right; font-size: 12px; color: #888888; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 0.5px;">
-    Scroll for more &#x2794;
-  </div>
-  <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px;">
-    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px; background-color: #1e1e24; color: #e0e0e0; border-radius: 8px; overflow: hidden; min-width: 700px;">
-      <thead>
-        <tr style="background-color: #2d2d3b; text-align: left; text-transform: uppercase; font-size: 12px; letter-spacing: 0.5px;">
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 140px;">Tool</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 180px;">Category</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 220px;">Best for</th>
-          <th style="padding: 16px; border-bottom: 1px solid #444; min-width: 100px;">Free version</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Jenkins</td>
-          <td style="padding: 16px;">CI/CD</td>
-          <td style="padding: 16px;">Highly customizable pipelines</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">GitHub Actions</td>
-          <td style="padding: 16px;">CI/CD</td>
-          <td style="padding: 16px;">GitHub-native automation</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">GitLab CI/CD</td>
-          <td style="padding: 16px;">CI/CD</td>
-          <td style="padding: 16px;">Integrated GitLab pipelines</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Terraform</td>
-          <td style="padding: 16px;">Infrastructure as code</td>
-          <td style="padding: 16px;">Declarative infrastructure provisioning</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Pulumi</td>
-          <td style="padding: 16px;">Infrastructure as code</td>
-          <td style="padding: 16px;">Infrastructure automation using programming languages</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Docker</td>
-          <td style="padding: 16px;">Containers</td>
-          <td style="padding: 16px;">Packaging applications consistently</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Kubernetes</td>
-          <td style="padding: 16px;">Container orchestration</td>
-          <td style="padding: 16px;">Managing containerized workloads</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Ansible</td>
-          <td style="padding: 16px;">Configuration management</td>
-          <td style="padding: 16px;">Agentless configuration and provisioning</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Prometheus</td>
-          <td style="padding: 16px;">Monitoring</td>
-          <td style="padding: 16px;">Metrics and alerting</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-        <tr style="border-bottom: 1px solid #333;">
-          <td style="padding: 16px; font-weight: bold;">Datadog</td>
-          <td style="padding: 16px;">Monitoring and observability</td>
-          <td style="padding: 16px;">Visibility across complex environments</td>
-          <td style="padding: 16px;">Limited</td>
-        </tr>
-        <tr>
-          <td style="padding: 16px; font-weight: bold;">Azure DevOps</td>
-          <td style="padding: 16px;">DevOps platform</td>
-          <td style="padding: 16px;">Microsoft-centric development teams</td>
-          <td style="padding: 16px;">Yes</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="position: absolute; top: 25px; right: 0; bottom: 4px; width: 45px; background: linear-gradient(to right, rgba(30,30,36,0) 0%, rgba(30,30,36,1) 100%); pointer-events: none; border-radius: 0 8px 8px 0;"></div>
+<div style="background:#1A1A1F;border-radius:12px;overflow:hidden;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;table-layout:fixed;font-family:inherit;">
+<colgroup><col style="width:20%"><col style="width:26%"><col style="width:36%"><col style="width:18%"></colgroup>
+<tbody>
+<tr>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Tool</td>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Category</td>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Best for</td>
+<td style="background:#26262E;padding:16px 20px;border:none;vertical-align:top;font-size:12px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:#A0A0AC;white-space:nowrap;">Free version</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Jenkins</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">CI/CD</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Highly customizable pipelines</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">GitHub Actions</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">CI/CD</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">GitHub-native automation</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">GitLab CI/CD</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">CI/CD</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Integrated GitLab pipelines</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Terraform</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Infrastructure as code</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Declarative infrastructure provisioning</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Pulumi</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Infrastructure as code</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Infrastructure automation using programming languages</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Docker</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Containers</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Packaging applications consistently</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Kubernetes</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Container orchestration</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Managing containerized workloads</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Ansible</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Configuration management</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Agentless configuration and provisioning</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Prometheus</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Monitoring</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Metrics and alerting</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Datadog</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Monitoring and observability</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Visibility across complex environments</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Limited</td>
+</tr>
+<tr>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:700;color:#FFFFFF;">Azure DevOps</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">DevOps platform</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Microsoft-centric development teams</td>
+<td style="padding:18px 20px;border:none;border-top:1px solid rgba(255,255,255,0.08);vertical-align:top;font-size:15px;line-height:1.55;font-weight:400;color:#D5D5DD;">Yes</td>
+</tr>
+</tbody>
+</table>
 </div>
 <!--kg-card-end: html-->
 <h3 id="jenkins">Jenkins</h3><p><a href="https://www.jenkins.io/"><u>Jenkins</u></a> is an open-source automation server built for highly customizable CI/CD pipelines, from automated testing to deployment. Its huge plugin ecosystem makes it a flexible choice for teams with complex or unusual build requirements. The trade-off is maintenance: Jenkins can require significant setup and ongoing administration, so it&#x2019;s best for experienced engineering teams that want deep pipeline control.</p><h3 id="github-actions">GitHub Actions</h3><p><a href="https://github.com/features/actions"><u>GitHub Actions</u></a> brings continuous integration and deployment automation directly into GitHub, letting teams trigger builds, automated testing, deployments, and other workflows from repository events. That tight integration makes it especially convenient for teams already developing on GitHub. However, complex YAML pipelines can become rigid and repetitive over time, making them harder to manage as workflows scale.</p><h3 id="gitlab-cicd">GitLab CI/CD</h3><p><a href="https://docs.gitlab.com/ci/"><u>GitLab CI/CD</u></a> integrates pipelines with GitLab repositories, allowing teams to automate builds, tests, and deployments from the same development platform. It&#x2019;s a natural fit for teams already centered on GitLab, but organizations using a more fragmented development stack may get less value from that tight integration.</p><h3 id="terraform">Terraform</h3><p><a href="https://developer.hashicorp.com/terraform"><u>Terraform</u></a> is an infrastructure-as-code (IaC) tool for defining and provisioning cloud and on-premises resources with declarative configuration. It&#x2019;s a strong fit for teams managing infrastructure across multiple providers. The trade-off is that state management and increasingly complex configurations can add operational overhead as environments grow.</p><h3 id="pulumi">Pulumi</h3><p><a href="https://www.pulumi.com/"><u>Pulumi</u></a> takes a code-first approach to IaC, letting developers define infrastructure with familiar programming languages rather than a dedicated configuration language. That makes it attractive to software teams that want infrastructure logic to resemble application development. The trade-off is added abstraction and tooling compared with simpler declarative approaches.</p><h3 id="docker">Docker</h3><p><a href="https://www.docker.com/"><u>Docker</u></a> packages applications and their dependencies into containers, helping teams keep development, testing, and production environments consistent. It&#x2019;s an accessible foundation for container-based delivery and works well across many DevOps stacks. But since Docker handles containers instead of full production orchestration, larger deployments typically need additional tooling.</p><h3 id="kubernetes">Kubernetes</h3><p><a href="https://kubernetes.io/"><u>Kubernetes</u></a> automates how teams deploy, scale, and manage containerized applications. It&#x2019;s especially useful for teams running distributed workloads that need resilient container orchestration at scale. That power comes with substantial complexity, so smaller teams or simpler applications may find that Kubernetes creates more infrastructure to manage than they need.</p><h3 id="ansible">Ansible</h3><p><a href="https://docs.ansible.com/"><u>Ansible</u></a> automates configuration management, provisioning, and application deployment using human-readable playbooks. Its agentless architecture makes it relatively straightforward to introduce across existing infrastructure. But as playbooks and inventories expand, they can become difficult to organize and maintain. It&#x2019;s best for teams standardizing configuration across many systems.</p><h3 id="prometheus">Prometheus</h3><p><a href="https://prometheus.io/"><u>Prometheus</u></a> is an open-source monitoring system built around time-series metrics and alerting. It&#x2019;s a strong choice for engineering teams that want flexible, infrastructure-focused monitoring, particularly in cloud-native environments. The trade-off is that long-term storage and broader observability requirements often call for additional tooling around the core platform.</p><h3 id="datadog">Datadog</h3><p><a href="https://www.datadoghq.com/"><u>Datadog</u></a> is a managed observability platform that brings telemetry like infrastructure monitoring, logs, and traces into one environment. It&#x2019;s well suited to teams that want broad visibility without operating their own monitoring stack. The main trade-off is cost, which can increase as infrastructure and telemetry volumes grow.</p><h3 id="azure-devops">Azure DevOps</h3><p><a href="https://azure.microsoft.com/en-us/products/devops"><u>Azure DevOps</u></a> combines pipelines with repositories, testing, artifacts, and project-management capabilities to support the broader development lifecycle. It can be an especially good fit for organizations already invested in Microsoft development and cloud tooling, but its breadth can also be a drawback: Teams looking for a lightweight or narrowly focused automation tool may find the platform larger and more complex than they need.</p><h2 id="where-n8n-fits-into-a-devops-stack">Where n8n fits into a DevOps stack</h2><p><a href="https://n8n.io/"><u>n8n</u></a> is an AI-native, source-available automation platform that sits between the specialized tools in your stack, orchestrating the workflows that cross their boundaries. For DevOps pipeline automation, that means connecting tools and APIs while giving teams a central place to debug executions, handle failures, add custom logic, scale workloads, and test AI-powered steps.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/cicd.png" class="kg-image" alt="11 Best DevOps Automation Tools for Engineering Teams" loading="lazy" width="900" height="400" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/cicd.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/cicd.png 900w" sizes="(min-width: 720px) 720px"><figcaption><i><em class="italic" style="white-space: pre-wrap;">with n8n you can initiate various DevOps actions and combine them with reporting, ticketing etc.&#xa0;</em></i></figcaption></figure>
@@ -1349,7 +1331,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 28 Oct 2026 02:36:24 GMT</pubDate>
+  <pubDate>Sun, 01 Nov 2026 06:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -1358,7 +1340,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 03 Nov 2026 02:36:24 GMT</pubDate>
+  <pubDate>Tue, 03 Nov 2026 22:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -1367,7 +1349,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 31 Oct 2026 22:36:24 GMT</pubDate>
+  <pubDate>Thu, 29 Oct 2026 03:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -1376,7 +1358,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 03 Nov 2026 14:36:24 GMT</pubDate>
+  <pubDate>Tue, 03 Nov 2026 10:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -1385,7 +1367,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 01 Nov 2026 15:36:24 GMT</pubDate>
+  <pubDate>Tue, 03 Nov 2026 18:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -1394,7 +1376,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 30 Oct 2026 07:36:24 GMT</pubDate>
+  <pubDate>Sun, 01 Nov 2026 07:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1403,7 +1385,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 03 Nov 2026 14:36:24 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 04:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1412,7 +1394,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 28 Oct 2026 14:36:24 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 22:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -1421,7 +1403,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 01 Nov 2026 07:36:24 GMT</pubDate>
+  <pubDate>Tue, 27 Oct 2026 10:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -1430,7 +1412,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 02 Nov 2026 03:36:24 GMT</pubDate>
+  <pubDate>Tue, 27 Oct 2026 23:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -1439,7 +1421,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 26 Oct 2026 03:36:24 GMT</pubDate>
+  <pubDate>Sun, 01 Nov 2026 20:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1448,7 +1430,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 25 Oct 2026 18:36:24 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 12:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1457,7 +1439,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 01 Nov 2026 07:36:24 GMT</pubDate>
+  <pubDate>Fri, 30 Oct 2026 08:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1466,7 +1448,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 25 Oct 2026 14:36:24 GMT</pubDate>
+  <pubDate>Mon, 26 Oct 2026 21:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1475,7 +1457,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 25 Oct 2026 00:36:24 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 10:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1484,7 +1466,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Oct 2026 08:36:24 GMT</pubDate>
+  <pubDate>Fri, 30 Oct 2026 03:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1493,7 +1475,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Oct 2026 05:36:24 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 12:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1502,7 +1484,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 26 Oct 2026 23:36:24 GMT</pubDate>
+  <pubDate>Sat, 31 Oct 2026 08:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1511,7 +1493,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 28 Oct 2026 21:36:24 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 06:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1520,7 +1502,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 25 Oct 2026 12:36:24 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 04:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1529,7 +1511,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 02 Nov 2026 12:36:24 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 13:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1538,7 +1520,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 30 Oct 2026 04:36:24 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 20:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1547,7 +1529,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 31 Oct 2026 16:36:24 GMT</pubDate>
+  <pubDate>Mon, 26 Oct 2026 00:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1556,7 +1538,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 29 Oct 2026 09:36:24 GMT</pubDate>
+  <pubDate>Tue, 27 Oct 2026 05:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1565,7 +1547,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 01 Nov 2026 11:36:24 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 12:25:14 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1922,40 +1904,58 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001.jpg" /> <p>Le Club Consulting &amp; Coaching (C3) d’HEC Alumni publie, avec l’aide de plus de 50 dirigeants de cabinets de conseil, « ConseilIA : le nouvel âge du Conseil Augmenté ». Cet ouvrage décrypte la transformation ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Rocket School lance une formation à l’IA pour les professionnels du droit]]></title>
-  <link>https://www.ia-news.fr/rocket-school-lance-une-formation-a-lia-pour-les-professionnels-du-droit/</link>
+  <title><![CDATA[Custocy : Accélération de la croissance avec sa solution NDR souveraine]]></title>
+  <link>https://www.ia-news.fr/custocy-acceleration-de-la-croissance-avec-sa-solution-ndr-souveraine/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/rocket-school.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/rocket-school.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/rocket-school.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/evo-perf-graph.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Couchbase AI Services permet aux entreprises de maîtriser l’IA agentique]]></title>
-  <link>https://www.ia-news.fr/couchbase-ai-services-permet-aux-entreprises-de-maitriser-lia-agentique/</link>
+  <title><![CDATA[L’Europe sera-t-elle le parent pauvre de l’IA ?]]></title>
+  <link>https://www.ia-news.fr/leurope-sera-t-elle-le-parent-pauvre-de-lia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/10/Intelligence-artificielle-IA-AI-8.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/10/Intelligence-artificielle-IA-AI-8.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/10/Intelligence-artificielle-IA-AI-8.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2016/12/possessed-photography-rDxP1tF3CmA-unsplash.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[L’efficacité énergétique de l’intelligence artificielle de Golem.ai validée par un Benchmark externe]]></title>
-  <link>https://www.ia-news.fr/lefficacite-energetique-de-lintelligence-artificielle-de-golem-ai-validee-par-un-benchmark-externe/</link>
+  <title><![CDATA[Nouvelle étude de Cloudera]]></title>
+  <link>https://www.ia-news.fr/nouvelle-etude-de-cloudera/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-processeur-bleu.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/04/ai-ia-clavier-2025-01-06.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Telehouse partenaire d&rsquo;Antemeta pour le déploiement de la solution d&rsquo;IA souveraine « Antemeta Suite » sur le campus Telehouse 3]]></title>
-  <link>https://www.ia-news.fr/telehouse-partenaire-dantemeta-pour-le-deploiement-de-la-solution-dia-souveraine-antemeta-suite-sur-le-campus-telehouse-3/</link>
+  <title><![CDATA[Delinea sécurise l&rsquo;exécution des agents IA en temps réel]]></title>
+  <link>https://www.ia-news.fr/delinea-securise-lexecution-des-agents-ia-en-temps-reel/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-logique-0004.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-logique-0004.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/02/ai-ia-logique-0004.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/Intelligence-artificielle-IA-AI-10.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Intelligence artificielle et ITSM : usages concrets pour les DSI]]></title>
+  <link>https://www.ia-news.fr/intelligence-artificielle-et-itsm-usages-concrets-pour-les-dsi/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/Intelligence-artificielle-IA-AI-5.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Assistant(e) Plus, le magazine du groupe Blitzzz Media, intègre l&rsquo;IA pour offrir à ses lecteurs des formations et des tutoriels vidéo inédits sur ChatGPT et Midjourney]]></title>
+  <link>https://www.ia-news.fr/assistante-plus-le-magazine-du-groupe-blitzzz-media-integre-lia-pour-offrir-a-ses-lecteurs-des-formations-et-des-tutoriels-video-inedits-sur-chatgpt-et-midjourney/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
