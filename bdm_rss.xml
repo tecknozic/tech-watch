@@ -95,9 +95,14 @@
 </script>
 			<title>IA : actualités, conseils et études autour de l’intelligence artificielle</title>
 <link data-rocket-prefetch href="https://try.abtasty.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://scripts.clarity.ms" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.clarity.ms" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://tag.aticdn.net" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://www.googletagmanager.com" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://f.hellowork.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://accounts.google.com" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://unpkg.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://tracker.quadran.eu" rel="dns-prefetch"><link rel="preload" data-rocket-preload as="image" href="https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-276x144.jpg" imagesrcset="https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-664x347.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-768x402.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne.jpg 1200w" imagesizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" fetchpriority="high">
 	<meta name="description" content="Les dernières actualités de l’intelligence artificielle et des conseils pour mieux utiliser ChatGPT, Claude, Gemini, Vibe (ex-Le Chat), Perplexity&#8230;"/>
 	<meta property="og:locale" content="fr_FR" />
 	<meta property="og:type" content="website" />
@@ -366,8 +371,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/sbezngvba/" class="e-link badge badge-grey">Formation</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
@@ -1538,7 +1543,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="footer-nl" data-hwh-push-zone="footer">
 			<div data-hwh-push="nl">
 				
-<section class="newsletter-container bg-blue ">
+<section class="newsletter-container bg-green ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1555,7 +1560,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="input-div d-flex">
 						<input type="hidden" name="cord_theme" value="Référence">
 						<input type="hidden" name="cord_title" value="Envie de parler le même langage que vos collègues&nbsp;?">
-						<input type="hidden" name="cord_bg_color" value="bg-blue">
+						<input type="hidden" name="cord_bg_color" value="bg-green">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-footer" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
@@ -1589,8 +1594,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1736,7 +1741,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1794230756|a2bbf0253aa298f06b469966d1d73defddb3a261c961206f460b4bf10c8bb6cb">
+		<input type="hidden" name="hwh_form_ts" value="1794265206|c7be2e8e17a14cf73d684bee87588ccf7c518d95cc138a50b9dd2fce7bafa1ca">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -1989,7 +1994,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1794230756|a2bbf0253aa298f06b469966d1d73defddb3a261c961206f460b4bf10c8bb6cb">
+		<input type="hidden" name="hwh_form_ts" value="1794265206|c7be2e8e17a14cf73d684bee87588ccf7c518d95cc138a50b9dd2fce7bafa1ca">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
