@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 04:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 14:01:36 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Who could replace Jensen Huang as Nvidia's chief executive?]]></title>
+            <description><![CDATA[As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqgm37dv20e8o#0</guid>
+            <pubDate>Thu, 12 Nov 2026 11:21:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg"/>
+        </item>
         <item>
             <title><![CDATA[What we know as pressure builds on embattled Nvidia CEO Jensen Huang]]></title>
             <description><![CDATA[The billionaire tech executive's future is in question after reports of a second extramarital affair.]]></description>
@@ -21,6 +29,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgel338xql3o#0</guid>
             <pubDate>Thu, 12 Nov 2026 04:18:33 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lego marketplace BrickLink offline after 'unusual activity' detected]]></title>
+            <description><![CDATA[Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o#0</guid>
+            <pubDate>Wed, 11 Nov 2026 22:26:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg"/>
         </item>
         <item>
             <title><![CDATA[New Indian mega library rocked by scandal over 'AI-generated books']]></title>
@@ -103,22 +119,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3dc/live/368a3e40-dc50-11f1-93e1-3b657b665bcf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Government 'looking seriously' at banning under-16s from Vinted and eBay]]></title>
-            <description><![CDATA[The culture secretary confirms reports they could be in the list of platforms set to be banned next March.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro#0</guid>
-            <pubDate>Sun, 08 Nov 2026 15:37:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can the Zelda remake capture the magic of the original?]]></title>
-            <description><![CDATA[Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o#0</guid>
-            <pubDate>Sun, 08 Nov 2026 00:37:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tech Life]]></title>
             <description><![CDATA[We investigate internet-connected device flaws worldwide, plus US election tech fallout.]]></description>
             <link>https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,6 +183,25 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg"/>
         </item>
     
+<item>
+		<title>Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition</title>
+		<link>https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2026 13:26:25 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[south korea]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
+		<category><![CDATA[South Korea startup]]></category>
+		<category><![CDATA[Startup Battlefield 200]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3187646</guid>
+
+					<description><![CDATA[The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Who could replace Jensen Huang? A highly unscientific list of possible successors</title>
 		<link>https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/</link>
@@ -507,22 +526,7 @@
 		
 		
 			</item>
-<item>
-		<title>PSI is trying to make a business out of AI-driven scientific discovery</title>
-		<link>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Tue, 10 Nov 2026 19:03:52 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[science]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3186906</guid>
-
-					<description><![CDATA[PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades. ]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[The future of work is built by everyone]]></title><description><![CDATA[Building automation is getting easier fast. So why keep it locked inside one team? A follow-up on what replaces the central automation team, and what n8n is learning as it opens building up to everyone.]]></description><link>https://blog.n8n.io/the-future-of-work-is-built-by-everyone/</link><guid isPermaLink="false">6af193889468c900010cb22b</guid><category><![CDATA[n8n on n8n]]></category><dc:creator><![CDATA[Romina da Costa]]></dc:creator><pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/Blog-header---n8n_on_n8n-02.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/Blog-header---n8n_on_n8n-02.jpg" alt="The future of work is built by everyone"><p>Who should actually be responsible for building automation inside a company?</p><p>Many organizations still answer that question the same way: a specialized team, usually small, usually stretched thin, building on behalf of everyone else. I wrote about why that model breaks down as a company and its automation vision scales in my <a href="https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/" rel="noreferrer">last piece</a>. So here&#x2019;s the follow-up question: If centralizing that capability is the wrong long-term answer, what actually replaces it?</p><p>My answer, and I admit it&#x2019;s an opinionated one: everyone builds. Not everyone has to become an automation engineer. But the ability to spot a repetitive piece of your own work and automate it yourself, without filing a ticket and waiting in a queue, has to become a normal part of how people work, the same way spreadsheets did a generation ago.</p><p>This isn&#x2019;t a nice-to-have; it&apos;s what the future of work looks like, and companies that treat it as optional are going to find themselves permanently behind the ones that don&apos;t.</p><h2 id="why-the-gatekeeping-model-was-never-going-to-last">Why the gatekeeping model was never going to last</h2><p>The instinct to centralize building makes sense at the start. You concentrate scarce technical skill in one place, and that team clears a real backlog fast. I&apos;ve written about what happens next: the team that solved the backlog problem becomes the new bottleneck, because the rest of the organization never had to build the capability itself.</p><p>Zoom out past automation teams specifically, and the same pattern shows up whenever technology gets treated as something a specialist does on your behalf, the way infrastructure did before platform engineering existed. A central team provisioning servers on request is slower, creates a permanent dependency, and puts judgment about what&apos;s actually needed in the hands of the people furthest from the problem. Platform engineering exists because infrastructure teams eventually stopped being gatekeepers and started building self-service paths instead. Automation is a few years behind, but I believe we will be going through a similar shift.</p><h2 id="whats-changing">What&apos;s changing</h2><p>Building is getting radically easier at a pace faster than most leadership teams have adjusted to. The practice of &#x201c;flowgramming&#x201d; using built-in AI assistants like the one available in n8n or via MCP has made it so that someone in finance can now build something in an afternoon that used to require a ticket, a queue, and several weeks of waiting. The barriers to entry are only getting lower.</p><p>This is not the only argument for decentralizing, and it isn&apos;t a universal one either. For companies in regulated industries, or serving customers with strict security requirements, keeping build access centralized can be the right call even if it&apos;s not technically necessary. That&apos;s a legitimate choice tied to risk appetite, and each organization will have to decide where they land on that speed vs. risk equation.</p><p>For a scale-up in a fast moving space like n8n, the calculus is different, and the risk runs the other way. Now that the technical barrier has significantly dropped and will continue to do so, the longer we keep automation concentrated in one team the more we risk falling behind organizations that are working out how to open this up safely. There&apos;s another reason to embrace decentralization that is true for n8n specifically: we build the product meant to make this kind of building accessible to everyone everywhere and we can&apos;t credibly sell a future we haven&apos;t lived ourselves. That&apos;s the whole idea behind starting &#x201c;n8n on n8n:&#x201d; getting it right internally is key to showing the world what is possible.</p><h2 id="how-decentralization-goes-wrong">How decentralization goes wrong</h2><p>Two responses are common when companies hear the call to &quot;let everyone build.&quot; They either resist it entirely, worried about chaos, or they open the floodgates with no structure and chaos ensues.</p><p>Both reactions miss a key opportunity. The future of work being built by everyone doesn&apos;t mean no standards. It means the standards have to travel with the capability, instead of living inside one team&apos;s head.</p><p>At n8n, the things we want to scale are the same ones I hold my own team to:</p><ul><li>Understand the process before you automate it, so you&apos;re not just making a broken process move faster.</li><li>Know when a proven tool beats building something yourself, so people aren&apos;t quietly reinventing things that already exist, or creating an unnecessary maintenance burden.</li><li>Build things that outlast the person who made them, with enough documentation that someone else can actually pick them up.&#xa0;</li><li>Treat responsible use of data and AI as non-negotiable, not something only a central team has to think about.</li></ul><p>None of that requires a computer science degree. But it does require investments in upskilling, enablement, and architecture that will support more people thinking and building the way an automation engineer would.</p><h2 id="what-the-journey-looks-like">What the journey looks like</h2><p>For us, this has meant moving the Automation team towards something closer to a guild than a service desk. We are developing a network of people across departments who&apos;ve picked up enough of this discipline to be the person their own team turns to first, backed by shared resources instead of everyone reinventing the same workflow from scratch: reusable templates, office hours where people bring a working problem instead of a request, and a documentation standard we&apos;re still rolling out that&apos;s meant to travel with every workflow regardless of who built it.</p><p>It&#x2019;s still early days and much of this remains aspirational, as the standards I just described aren&apos;t consistent across every team that does. Our Automation team is still struggling with a growing workflow maintenance burden with workflows that we are not in a position yet to fully hand over or redistribute to teams. But we are naming the problems and creating solutions rather than simply increasing headcount. This forces us to continue to prioritize the most business critical work, and create the right incentive structures for learning and development in automation across the organization.</p><h2 id="why-this-is-actually-about-the-future-of-work">Why this is actually about the future of work</h2><p>The companies that figure out how to give people real building capability, safely, are going to move much faster than the ones that keep it locked inside one team. That gap is going to show up in how quickly a company can respond to almost anything: a new competitor, a new regulation, or a tool that changes what&apos;s possible overnight.</p><p>The future of work isn&apos;t a smaller number of very powerful specialists doing more with AI. It&apos;s an organization where building automation becomes part of basic technical literacy, the way using the internet itself did. The difference is pace. That shift took a generation to settle in. This one won&apos;t take as long, partly because the pace of change has been astounding, and partly because the benefits don&apos;t concentrate on one function: they show up everywhere at once, which means the upskilling has to happen function by function, and faster than we&apos;ve ever had to do it before.</p><p>Getting there isn&apos;t about handing everyone a tool. It&apos;s about deciding, deliberately, that this is worth teaching, worth standardizing, and worth building a real team around: one that sets the standards, builds the architecture everyone else builds on top of, still owns the highest-stakes and most business-critical systems itself, and makes everyone else capable of the rest.</p><p></p>]]></content:encoded></item>
 <item><title><![CDATA[Microservices best practices every automation engineer should know]]></title><description><![CDATA[Discover microservices best practices to build resilient systems. Learn what the best patterns look like and how workflow automation fits into the process.
 ]]></description><link>https://blog.n8n.io/microservices-best-practices/</link><guid isPermaLink="false">6aea321080b5aa000133993e</guid><category><![CDATA[Guide]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Tue, 10 Nov 2026 20:39:16 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/TL-6_microservices-best-practices--1-.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/TL-6_microservices-best-practices--1-.jpg" alt="Microservices best practices every automation engineer should know"><p>A microservices architecture breaks an application into small, independent services that each handle a specific function and communicate through APIs. If one service fails, the others ideally keep running instead of taking down the entire application. It makes systems more failure-resistant, but only if those microservices are designed to fail safely.</p><p>Microservices best practices help you control how your services depend on and communicate with each other, so a failed API or unavailable database doesn&#x2019;t trigger a chain reaction.</p><h2 id="define-clear-service-boundaries">Define clear service boundaries</h2><p>When designing microservices, decide where one service stops and another begins. A useful rule of thumb is to draw those boundaries around a distinct business capability.</p><p>Domain-driven design is a practical approach to draw boundaries. It groups related business logic into a bounded context, or a defined part of the business with its own rules, language, and data. The single responsibility principle is also useful &#x2014; each service should own one business capability rather than sharing that responsibility with others.</p><p>For example, an order service might take care of order creation and each order&#x2019;s status, while a payment service handles charging and refunds. Keeping those responsibilities separate also makes each service independently deployable, so changing your payment logic doesn&#x2019;t require you to release unrelated parts of the application.</p><p>If different services share the same responsibility, even a small change might force you to update APIs, move data, and coordinate deployments across all of them.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">In n8n, <a href="https://docs.n8n.io/build/flow-logic/break-workflows-into-smaller-parts"><u>sub-workflows</u></a> can help you separate service-specific orchestration into smaller, reusable workflows. Each sub-workflow owns its own service-calling logic and error handling, making failures easier to isolate and troubleshoot.</div></div><h2 id="build-resilience-into-service-to-service-calls">Build resilience into service-to-service calls</h2><p>As your services start depending on one another, service-to-service communication becomes part of your potential failure surface. A service can be healthy and still fail to complete its task because another one times out, rejects a request, or becomes temporarily unavailable.&#xa0;</p><p>With <a href="https://blog.n8n.io/orchestration-vs-choreography/"><u>synchronous communication</u></a>, one service waits for another to respond, so a slow dependency can delay the caller even when the caller itself is working normally. If you don&#x2019;t need an immediate response, asynchronous communication can reduce that dependency. For example, one service can place work on a message queue for another process when it&#x2019;s ready.</p><p>Designing for these failures is a core part of distributed system resilience, where the wider system can keep doing its job even when one dependency has a problem. That&#x2019;s why you use microservices architecture patterns like circuit breakers, retries, and bulkheads. Each addresses a different failure mode.</p><h3 id="circuit-breaker-pattern">Circuit breaker pattern</h3><p>A circuit breaker watches for repeated failures and temporarily stops sending requests once they cross a threshold. It doesn&#x2019;t repeatedly wait for a service that&#x2019;s unlikely to respond, but instead it lets the caller fail fast for a period and gives the dependency time to recover.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text"> n8n&#x2019;s <a href="https://docs.n8n.io/build/flow-logic/handle-errors-gracefully"><u>error workflows</u></a> give you workflow-level failure handling instead of a stateful circuit breaker. You can configure an error workflow separately in <a href="https://docs.n8n.io/build/manage-workflows/configure-workflow-settings"><u>Workflow Settings</u></a> &#x2014; if the main execution fails, n8n runs that workflow starting with the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.errortrigger/"><u>Error Trigger</u></a>. You can use it to log the failure or start recovery logic.</div></div><h3 id="retry-with-exponential-backoff">Retry with exponential backoff</h3><p>Some failures are only temporary, so if a service times out for a few seconds, trying again may be enough to complete the request. Retries make sense for transient faults, like timeouts or rate limits. However, retrying immediately can put pressure on a struggling service.</p><p>Exponential backoff handles this by increasing the delay after each failed attempt.&#xa0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">For more straightforward retries, n8n&#x2019;s <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/common-issues#retry-on-fail"><u>Retry On Fail setting</u></a> lets you set the maximum number of tries and a fixed waiting period between them. If you want the delay itself to increase after every failure, you can build that logic into the workflow with a loop and the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.wait"><u>Wait node</u></a>.</div></div>
 <!--kg-card-begin: html-->
@@ -943,327 +947,11 @@
             </div>
             
         </figure><p>That distinction matters to us because agentic AI is not something we have bolted onto n8n. It is becoming part of how people use n8n to build. As we grow into a multi-product company, our brand needed to reflect that.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-construction.jpg" class="kg-image" alt="Why we refreshed the n8n brand" loading="lazy" width="1920" height="1080" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-logo-construction.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-logo-construction.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/n8n-logo-construction.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-construction.jpg 1920w" sizes="(min-width: 720px) 720px"></figure><h2 id="the-typeface-and-the-color">The typeface and the color</h2><p>The typeface follows the same logic. n8n lives in the technical world, so the type needed to be precise. But the people using n8n are just as important as the technology: builders experimenting, solving problems, and sharing what they have made. So the typeface balances those two sides: technical without feeling sterile, precise without feeling rigid. It is the same story in a different medium.</p><p>And yes, our pink stays. It has always been part of n8n, so we have refined it and added a set of grays around it, partly to give the system more range and partly to keep it from running too wild.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-brand-cards.jpg" class="kg-image" alt="Why we refreshed the n8n brand" loading="lazy" width="1920" height="1080" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-brand-cards.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-brand-cards.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/n8n-brand-cards.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-brand-cards.jpg 1920w" sizes="(min-width: 720px) 720px"></figure><h2 id="what-does-not-change">What does not change</h2><p>This is a zhush, not a rebuild. We did not start from scratch. We took what we had, worked out what still mattered, and built on top of it.</p><p>The things that matter most about n8n are staying exactly where they are:</p><ul><li>Our community of builders, and the ecosystem we have built together</li><li>Connection, control, and flexibility, which is why Community Edition and model choice stay</li><li>The pink stays. We refined it a little, but it is still very pink</li><li>Who we are: curious builders who care about the people we build with, and who like to keep things a little playful</li></ul><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-cap.jpg" class="kg-image" alt="Why we refreshed the n8n brand" loading="lazy" width="1920" height="1080" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-logo-cap.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-logo-cap.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/n8n-logo-cap.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-cap.jpg 1920w" sizes="(min-width: 720px) 720px"></figure><h2 id="how-we-got-here">How we got here</h2><p>People from across n8n worked on our rebrand; our leadership challenged it, community members saw early versions and told us what they thought. We know that is only a small slice of a community this size, and that many of you are seeing this for the first time.</p><h2 id="see-it-for-yourself">See it for yourself</h2><p>This is a new chapter for n8n. But it is not a departure from what came before. We are still doing what we have always done: building, learning, listening, and making n8n better. The brand refresh is another part of that process.</p><p>The new identity went live on October 14, at In The Loop. You will start seeing it across the product, the website, our community, and events. <a href="https://youtu.be/Hijhd9NNtF8" rel="noreferrer">Watch the brand refresh video</a> to see how it came together, then explore the <a href="https://n8n.io">refreshed n8n</a>. Get all the brand details on our new <a href="https://guidelines.n8n.design/">brand guidelines</a>. </p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-builders-badge.jpg" class="kg-image" alt="Why we refreshed the n8n brand" loading="lazy" width="1920" height="1080" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-builders-badge.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-builders-badge.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/n8n-builders-badge.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-builders-badge.jpg 1920w" sizes="(min-width: 720px) 720px"></figure><p>And then tell us what you think, including the parts that do not work for you. That is how we have always worked: ship it, learn from it, listen, and make it better. The brand is no different. <a href="https://community.n8n.io/t/our-brand-refresh-and-why-the-logo-changed/323036">Come find us on the forum</a>&#xa0;and keep shaping n8n with us.</p>]]></content:encoded></item>
-<item><title><![CDATA[Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API]]></title><description><![CDATA[<p>Most small businesses want the same handful of AI jobs. They want to draft emails, summarize calls, read invoices, search their own documents, and make the odd image. Plenty of them can&apos;t send customer data to a cloud API to do it.</p><p>Often the reason is data privacy</p>]]></description><link>https://blog.n8n.io/n8n-nvidia-dgx-spark/</link><guid isPermaLink="false">6ad61856981bfc000110b965</guid><category><![CDATA[AI]]></category><category><![CDATA[Tutorial]]></category><dc:creator><![CDATA[Jamie Madden]]></dc:creator><pubDate>Mon, 19 Oct 2026 13:22:17 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/NVIDIA_Blog-Header.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/NVIDIA_Blog-Header.png" alt="Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API"><p>Most small businesses want the same handful of AI jobs. They want to draft emails, summarize calls, read invoices, search their own documents, and make the odd image. Plenty of them can&apos;t send customer data to a cloud API to do it.</p><p>Often the reason is data privacy and sovereignty. A clinic, a law firm, or an accountant may hold records that a contract, a regulator, or a professional duty says must stay under their control. Once that data goes to a cloud API, it sits on someone else&apos;s hardware, possibly in another jurisdiction, under terms the provider can change. Running the models on hardware you own keeps the data in your building, and lets you show an auditor exactly where it went.</p><p>Your n8n workflows can transcribe calls, read invoices, answer questions from your own documents, and draft replies without sending a byte to a cloud API. This post shows you how to serve every model those workflows need from one NVIDIA DGX Spark, behind one OpenAI-compatible endpoint that n8n&apos;s OpenAI nodes already speak.</p><p>A DGX Spark has 128GB of unified memory shared by the CPU and GPU. That&apos;s enough to keep every one of those jobs loaded at once, if you pick the right models. Most of this post is about that.</p><p>The <a href="https://blog.n8n.io/self-hosted-ai/">self-hosted AI starter kit</a> gets one person running local models on a laptop. This is the next step: a box in the office that serves a whole team, with a model for each job and the code to run it.</p><p>In this post, you&apos;ll:</p><ul><li>Choose models that run fast on the DGX Spark&apos;s memory bandwidth</li><li>Serve a 35B mixture-of-experts model with vLLM in NVFP4</li><li>Fit a full AI stack into one box&apos;s shared memory</li><li>Route every job through one LiteLLM endpoint with per-team keys</li><li>Connect n8n to the stack and build a workflow that never calls a cloud API</li><li>Measure what happens to chat speed when someone generates an image</li></ul><h2 id="pick-models-for-the-bandwidth-not-the-parameter-count">Pick models for the bandwidth, not the parameter count</h2><p>The DGX Spark&apos;s <a href="https://www.nvidia.com/en-us/products/workstations/dgx-spark/">GB10 Grace Blackwell Superchip</a> reads memory at 273 GB/s. When a model generates text, it reads its active weights from memory for each token, so the fewer bytes it reads, the faster it runs.</p><p>A mixture-of-experts (MoE) model only activates a few experts per token. <code>Qwen3.6-35B-A3B</code> has 35B parameters in total but about 3B active. Stored in NVFP4 (NVIDIA&apos;s 4-bit floating point format), those active weights are a small fraction of a dense model&apos;s.</p><p>On my DGX Spark, <code>Qwen3.6-35B-A3B</code> generated 120 tokens per second for one user, and 359 tokens per second in total across eight users. Those numbers include the reasoning tokens the model writes before it answers.</p><p>That gives the first design rule: <strong>one strong MoE model for everything text-shaped.</strong> Summarizing, classifying, extracting, drafting, coding, and reading screenshots all go to the same model. Every extra model is another container to pin, patch, and monitor, so a specialist model only gets a slot where an LLM can&apos;t do the job.</p><h2 id="the-stack">The stack</h2><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/dgx-spark-stack-diagram.png" class="kg-image" alt="Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API" loading="lazy" width="2000" height="825" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/dgx-spark-stack-diagram.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/dgx-spark-stack-diagram.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/dgx-spark-stack-diagram.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/dgx-spark-stack-diagram.png 2000w" sizes="(min-width: 720px) 720px"></figure><p>These are the models that stay loaded on one DGX Spark:</p>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>Job</th>
-<th>Model</th>
-<th>License</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Chat, coding, vision, extraction</td>
-<td><code>nvidia/Qwen3.6-35B-A3B-NVFP4</code></td>
-<td>Apache 2.0</td>
-</tr>
-<tr>
-<td>Embeddings</td>
-<td><code>Qwen/Qwen3-Embedding-4B</code></td>
-<td>Apache 2.0</td>
-</tr>
-<tr>
-<td>Reranking</td>
-<td><code>Qwen/Qwen3-Reranker-0.6B</code></td>
-<td>Apache 2.0</td>
-</tr>
-<tr>
-<td>Speech to text</td>
-<td><code>openai/whisper-large-v3-turbo</code></td>
-<td>MIT</td>
-</tr>
-<tr>
-<td>Document OCR</td>
-<td><code>zai-org/GLM-OCR</code></td>
-<td>MIT</td>
-</tr>
-<tr>
-<td>Image generation</td>
-<td><code>Tongyi-MAI/Z-Image-Turbo</code></td>
-<td>Apache 2.0</td>
-</tr>
-<tr>
-<td>Text to speech</td>
-<td><code>hexgrad/Kokoro-82M</code></td>
-<td>Apache 2.0</td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>Every model in the stack allows commercial use. That rule cost more than any technical one, and there&apos;s a section on it later.</p><h2 id="step-1-cache-everything-for-offline-use">Step 1: Cache everything for offline use</h2><p>The stack has to run with the network cable unplugged, so download every model once and record the exact commit you got. This loop caches each model and writes a lock file of repository and commit:</p><pre><code class="language-bash">pipx install &quot;huggingface_hub[cli]&quot;
-hf auth login
-
-for repo in nvidia/Qwen3.6-35B-A3B-NVFP4 Qwen/Qwen3-Embedding-4B Qwen/Qwen3-Reranker-0.6B \
-            openai/whisper-large-v3-turbo zai-org/GLM-OCR Tongyi-MAI/Z-Image-Turbo; do
-  hf download &quot;&#x24;repo&quot;
-  echo &quot;&#x24;repo &#x24;(cat ~/.cache/huggingface/hub/models--&#x24;{repo//\//--}/refs/main)&quot; &gt;&gt; models.lock
-done
-</code></pre><p>When you start a model, pass <code>--revision</code> with the commit from <code>models.lock</code>. vLLM then serves the weights you tested rather than whatever <code>main</code> points to today, so an upstream change can&apos;t swap the weights or the license under you.</p><h3 id="check-the-vllm-version-not-the-tag">Check the vLLM version, not the tag</h3><p>Pin containers the same way, and check what&apos;s inside them. My first attempt used vLLM&apos;s <code>cu130-nightly</code> tag. That tag had stopped updating, and the image it pulled was five months old, with vLLM 0.19. It couldn&apos;t load Qwen3.6 at all. The errors didn&apos;t mention versions. They were a <code>KeyError</code> for a missing weight-scale parameter, which reads like a broken checkpoint.</p><p>Before you trust an image, print the vLLM version inside it:</p><pre><code class="language-bash">docker run --rm --entrypoint python3 &lt;image&gt; -c &quot;import vllm; print(vllm.__version__)&quot;
-</code></pre><p>The image that worked was the official <code>vllm/vllm-omni:v0.30.0</code>, which ships vLLM 0.30.0 with an arm64 build. vLLM-Omni is a full vLLM with extra serving modes for images and speech, so it also serves plain LLMs. Its default entrypoint isn&apos;t <code>vllm serve</code>, so wrap it once:</p><pre><code class="language-bash">printf &apos;FROM vllm/vllm-omni:v0.30.0\nENTRYPOINT [&quot;vllm&quot;, &quot;serve&quot;]\n&apos; | docker build -t vllm-spark:omni-0.30.0 -
-</code></pre><p>The Kokoro-FastAPI image needed a community fix to build on arm64. The Dockerfile comes from <a href="https://forums.developer.nvidia.com/t/running-kokoro-tts-on-nvidia-dgx-spark-arm64-gb10/368846">a post by swann.schilling on the NVIDIA Developer Forums</a>.</p><h2 id="step-2-serve-the-backbone">Step 2: Serve the backbone</h2><p>This command starts the main model in vLLM:</p><pre><code class="language-bash">docker run -d --name qwen3.6 --gpus all --ipc=host \
-  -p 172.17.0.1:8001:8000 \
-  -e HF_HUB_OFFLINE=1 -e VLLM_API_KEY=&lt;your-backend-key&gt; \
-  -v ~/.cache/huggingface:/root/.cache/huggingface \
-  vllm-spark:omni-0.30.0 \
-  nvidia/Qwen3.6-35B-A3B-NVFP4 --revision &lt;commit-from-models.lock&gt; \
-  --served-model-name qwen3.6-35b \
-  --gpu-memory-utilization 0.32 --max-model-len 65536 \
-  --max-num-seqs 8 --max-num-batched-tokens 8192 \
-  --trust-remote-code --kv-cache-dtype fp8 --moe-backend marlin \
-  --enable-chunked-prefill --async-scheduling --enable-prefix-caching \
-  --speculative-config &apos;{&quot;method&quot;:&quot;mtp&quot;,&quot;num_speculative_tokens&quot;:3,&quot;moe_backend&quot;:&quot;triton&quot;}&apos; \
-  --reasoning-parser qwen3 --enable-auto-tool-choice --tool-call-parser qwen3_xml \
-  --host 0.0.0.0 --port 8000
-</code></pre><p>On my DGX Spark, this model was ready to serve 311 seconds after <code>docker run</code>.</p><p>The port is published on <code>172.17.0.1</code>, Docker&apos;s bridge address, so only containers on this machine can reach it. <code>VLLM_API_KEY</code> makes vLLM reject any request without the key.</p><p>The flags that matter most on a DGX Spark:</p><ul><li><code>--gpu-memory-utilization 0.32</code> caps this model at about a third of memory. The other models need the rest.</li><li><code>--kv-cache-dtype fp8</code> halves the memory the KV cache needs, so the same budget holds more context.</li><li><code>--moe-backend marlin</code> picks the kernel for the quantized expert layers. The draft model&apos;s experts aren&apos;t quantized, so <code>--speculative-config</code> sets its own <code>moe_backend</code>.</li><li><code>--speculative-config</code> turns on multi-token prediction (MTP). The model drafts three tokens ahead and checks them in one pass.</li><li><code>--reasoning-parser</code> and <code>--tool-call-parser</code> must match the model family. When tool calling fails, check these flags before you blame the model.</li></ul><p>Check the startup log for the kernels vLLM chose. These lines are from my run:</p><pre><code class="language-text">Using MarlinNvFp4LinearKernel for NVFP4 GEMM
-Using &apos;MARLIN&apos; NvFp4 MoE backend out of potential backends: [&apos;FLASHINFER_TRTLLM&apos;, &apos;FLASHINFER_CUTEDSL&apos;, ...]
-Your GPU does not have native support for FP4 computation but FP4 quantization is being used.
-Weight-only FP4 compression will be used leveraging the Marlin kernel.
-</code></pre><p>That last warning matters for how you read &quot;NVFP4&quot; on a DGX Spark. With this vLLM build, the weights are stored in 4 bits, but the math runs in 16 bits. You still get most of the benefit, because generating tokens is limited by reading weights from memory, and 4-bit weights are a quarter of the size. Faster FP4 kernels for GB10 may raise these numbers in later builds.</p><h2 id="step-3-fit-the-rest-into-shared-memory">Step 3: Fit the rest into shared memory</h2><p>On a DGX Spark, the GPU and the operating system share one 128GB pool. Linux reported 121GB of it as total memory on my box. That changes two things you might take for granted on a discrete GPU.</p><p>First, <code>--gpu-memory-utilization</code> is a fraction of the whole pool, taken at startup. It&apos;s not a fraction of what&apos;s free. An instance without a cap tries to take almost everything, and the next model fails to start.</p><p>Second, vLLM sizes its cache from the memory that&apos;s free when it starts. Start two models at once and they fight over the same memory. Start one at a time, and wait for each to answer its health check before starting the next:</p><pre><code class="language-bash">until curl -sf http://172.17.0.1:8001/health; do sleep 5; done
-</code></pre><p>If a model fails with <code>CUDA error: out of memory</code> while <code>free</code> shows plenty available, the Linux page cache is holding it. This is common straight after downloading 220GB of weights. Drop the cache, then start the model again:</p><pre><code class="language-bash">sudo sh -c &apos;sync; echo 3 &gt; /proc/sys/vm/drop_caches&apos;
-</code></pre><p>This is how long each service took to load from cold, with the page cache dropped first, and how much memory it took:</p>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>Service</th>
-<th>Seconds to ready</th>
-<th>GB taken</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>qwen3.6</td>
-<td>237</td>
-<td>43</td>
-</tr>
-<tr>
-<td>rerank</td>
-<td>106</td>
-<td>8</td>
-</tr>
-<tr>
-<td>whisper</td>
-<td>136</td>
-<td>8</td>
-</tr>
-<tr>
-<td>ocr</td>
-<td>137</td>
-<td>11</td>
-</tr>
-<tr>
-<td>image</td>
-<td>96</td>
-<td>20</td>
-</tr>
-<tr>
-<td>tts</td>
-<td>21</td>
-<td>3</td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>The embedding model needed one more flag on vLLM 0.30.0, <code>--convert embed</code>, and started later, after the rest. With all seven models loaded, the DGX Spark used 108GB and had 13GB available. That&apos;s the limit of what one DGX Spark holds. Start the stack well before anyone needs it: the six services in the table took about 12 minutes.</p><p>vLLM can also fail at startup with <code>Error in memory profiling</code>, when another process frees memory while vLLM measures what&apos;s available. On shared memory, that happens if another model is loading or shutting down. Start the model again once the box is quiet.</p><h2 id="step-4-put-one-endpoint-in-front">Step 4: Put one endpoint in front</h2><p><a href="https://github.com/BerriAI/litellm">LiteLLM</a> gives every client one OpenAI-compatible endpoint. Each job is a named route, so you can swap the model behind a route without touching any client. LiteLLM also handles virtual keys, teams, and budgets in its open-source version.</p><p>Each route in LiteLLM&apos;s <code>config.yaml</code> points at a backend. This excerpt shows three of them:</p><pre><code class="language-yaml">model_list:
-  - model_name: qwen3.6                 # main model: chat, coding, vision, extraction
-    litellm_params:
-      model: hosted_vllm/qwen3.6-35b
-      api_base: http://host.docker.internal:8001/v1
-      api_key: os.environ/BACKEND_API_KEY
-
-  - model_name: whisper
-    litellm_params:
-      model: openai/whisper-large-v3-turbo
-      api_base: http://host.docker.internal:8101/v1
-      api_key: os.environ/BACKEND_API_KEY
-    model_info:
-      mode: audio_transcription
-
-  - model_name: image                   # Z-Image-Turbo on vLLM-Omni
-    litellm_params:
-      model: openai/z-image-turbo
-      api_base: http://host.docker.internal:8103/v1
-      api_key: os.environ/BACKEND_API_KEY
-    model_info:
-      mode: image_generation
-
-litellm_settings:
-  drop_params: true                     # needed for the image route, see below
-
-general_settings:
-  master_key: os.environ/LITELLM_MASTER_KEY
-  database_url: os.environ/DATABASE_URL
-</code></pre><p>Keep <code>drop_params: true</code>. Without it, LiteLLM rejects any image request that sets <code>response_format</code> with a 400 error, because it doesn&apos;t map that field for a self-hosted image model. With it, LiteLLM drops the field, and vLLM-Omni returns the image as base64 anyway.</p><p>LiteLLM runs in Docker too. To let it reach the backends, map <code>host.docker.internal</code> to the host in its Compose service:</p><pre><code class="language-yaml">    extra_hosts:
-      - &quot;host.docker.internal:host-gateway&quot;
-</code></pre><p>The backends listen only on Docker&apos;s bridge network and require a shared key, so LiteLLM is the only service on the office network. Point LiteLLM at the bridge, not at the box&apos;s LAN address. If you use the LAN address, the backends refuse the connection, because they aren&apos;t listening there.</p><p>Pin LiteLLM by image digest, and use version 1.84.0 or later. Two PyPI releases were backdoored in March 2026, and 1.84.0 fixed two authentication bypasses. I ran 1.99.1.</p><p>Any OpenAI client now works against the DGX Spark. This Python example calls three different models through the same client:</p><pre><code class="language-python">from openai import OpenAI
-
-client = OpenAI(base_url=&quot;http://&lt;spark-ip&gt;:4000/v1&quot;, api_key=&quot;&lt;your-litellm-key&gt;&quot;)
-
-reply = client.chat.completions.create(
-    model=&quot;qwen3.6&quot;,
-    messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Draft a two-line reply confirming Tuesday&apos;s delivery.&quot;}],
-)
-
-with open(&quot;call.wav&quot;, &quot;rb&quot;) as audio:
-    transcript = client.audio.transcriptions.create(model=&quot;whisper&quot;, file=audio)
-
-image = client.images.generate(
-    model=&quot;image&quot;,
-    prompt=&quot;a delivery van outside a bakery at dawn&quot;,
-    size=&quot;1024x1024&quot;,
-    extra_body={&quot;num_inference_steps&quot;: 8},
-)
-</code></pre><p><code>num_inference_steps</code> isn&apos;t an OpenAI parameter, so it goes in <code>extra_body</code>. LiteLLM passes it through to vLLM-Omni. The next section explains why it matters.</p><h2 id="step-5-connect-n8n">Step 5: Connect n8n</h2><p>n8n&apos;s OpenAI credential accepts a custom base URL, so n8n can talk to the DGX Spark the same way it talks to OpenAI. To point n8n at the DGX Spark, follow these steps:</p><ol><li>Create a LiteLLM virtual key for the team that owns the workflows, limited to the routes they need. This command creates one with the LiteLLM master key and prints it:</li></ol><pre><code class="language-bash">curl -s http://&lt;spark-ip&gt;:4000/key/generate \
-  -H &quot;Authorization: Bearer &lt;your-litellm-master-key&gt;&quot; -H &apos;Content-Type: application/json&apos; \
-  -d &apos;{&quot;key_alias&quot;: &quot;n8n-accounts&quot;, &quot;models&quot;: [&quot;qwen3.6&quot;, &quot;ocr&quot;]}&apos;
-</code></pre><ol start="2"><li>In n8n, create an <strong>OpenAI</strong> credential.</li><li>Enter the virtual key in <strong>API Key</strong>.</li><li>Set <strong>Base URL</strong> to <code>http://&lt;spark-ip&gt;:4000/v1</code>.</li></ol><p>Because each team gets its own virtual key, LiteLLM tracks spend and usage per team, even though nothing is billed per token.</p><p>To use the DGX Spark from an <strong>AI Agent</strong> or a <strong>Basic LLM Chain</strong>, add an <strong>OpenAI Chat Model</strong> node with this credential, and set its model <strong>By ID</strong> to a LiteLLM route name, such as <code>qwen3.6</code>. Then turn off <strong>Use Responses API</strong> in the node&apos;s options. From version 1.3, the node calls OpenAI&apos;s newer Responses API by default, and the DGX Spark&apos;s models are served through chat completions.</p><h3 id="workflow-read-an-invoice">Workflow: read an invoice</h3><p>This workflow gives you a web form. Upload an invoice image, and the form shows you the supplier, invoice number, date, and total, with no cloud call anywhere. <a href="https://n8n.io/workflows/21011-extract-invoice-details-from-images-with-dgx-spark-ocr-and-qwen36/">Get the template</a>.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/dgx-spark-invoice-workflow.png" class="kg-image" alt="Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API" loading="lazy" width="2000" height="1018" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/dgx-spark-invoice-workflow.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/dgx-spark-invoice-workflow.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/dgx-spark-invoice-workflow.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/dgx-spark-invoice-workflow.png 2048w" sizes="(min-width: 720px) 720px"></figure><p>It has six nodes:</p><ol><li><strong>Upload invoice</strong> (n8n Form Trigger) serves a form with one file field.</li><li><strong>Image to base64</strong> (Extract from File) turns the upload into a base64 string.</li><li><strong>OCR on the DGX Spark</strong> (HTTP Request) sends the image to the <code>ocr</code> route and gets the page back as text.</li><li><strong>Extract fields with Qwen3.6</strong> (HTTP Request) asks <code>qwen3.6</code> for supplier, invoice number, date, total, and currency as JSON.</li><li><strong>Invoice fields</strong> (Edit Fields) turns the reply into one item with those five fields.</li><li><strong>Show the fields</strong> (Form Ending) shows them on the form&apos;s result page.</li></ol><p>To file invoices automatically, swap the form for an <strong>Email Trigger (IMAP)</strong> node, and the result page for a <strong>Postgres</strong> or <strong>Google Sheets</strong> node.</p><p>Both HTTP Request nodes use the OpenAI credential from the previous section, so they send the same key. They use HTTP Request rather than the <strong>OpenAI</strong> node because each call needs a field the <strong>OpenAI</strong> node doesn&apos;t set: an image in the OCR call, and a thinking switch in the extraction call. This is the body of the extraction request:</p><pre><code class="language-javascript">{
-  model: &apos;qwen3.6&apos;,
-  max_tokens: 512,
-  temperature: 0,
-  chat_template_kwargs: { enable_thinking: false },
-  messages: [{ role: &apos;user&apos;, content: &apos;Extract supplier name, invoice number, invoice date, total amount and currency from this OCR text. Reply with one JSON object and nothing else. Use null for anything missing.\n\n&apos; + &#x24;json.choices[0].message.content }]
-}
-</code></pre><p><code>chat_template_kwargs</code> turns off the model&apos;s thinking for this call, and that&apos;s where the speed comes from. I tested it on a clean, single-page sample invoice:</p>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>Step</th>
-<th>With thinking</th>
-<th>Thinking off</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>OCR, one page</td>
-<td>1.8s</td>
-<td>1.8s</td>
-</tr>
-<tr>
-<td>Extraction</td>
-<td>12.1s, 1,616 tokens</td>
-<td>0.59s, 76 tokens</td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>With thinking on, the model wrote 1,538 reasoning tokens before a 78-token answer. With thinking off, it got all five fields right in under a second. For fixed-format extraction, turn thinking off.</p><p>OCR read every line item and total correctly, but it dropped one zero from a VAT ID. Validate IDs before you file them. The form accepts PNG and JPEG files. Convert PDF invoices to images first, because GLM-OCR takes images.</p><p>A scanned or photographed invoice is harder than this clean page, so test OCR on your own documents before you rely on it.</p><h3 id="other-workflows-the-same-stack-serves">Other workflows the same stack serves</h3><ul><li><strong>Call summaries:</strong> Whisper transcribes a recording, <code>qwen3.6</code> summarizes it, and Kokoro reads the summary back for a voicemail or an internal update.</li><li><strong>Answers from your own documents:</strong> <code>embed</code> fills a vector store, <code>rerank</code> orders the matches, and an <strong>AI Agent</strong> on <code>qwen3.6</code> answers with them.</li></ul><h2 id="what-one-dgx-spark-measured">What one DGX Spark measured</h2><p>All numbers come from one benchmark run on October 13, 2026, on vLLM 0.30.0 with pinned model commits. Your numbers will differ with other images, models, or prompts. Every chat prompt started with a random tag, so the prefix cache couldn&apos;t flatter the results.</p><h3 id="chat-speed">Chat speed</h3>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>Users</th>
-<th>Time to first token (median)</th>
-<th>Tokens per second per user</th>
-<th>Tokens per second total</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>0.11s</td>
-<td>120</td>
-<td>87</td>
-</tr>
-<tr>
-<td>4</td>
-<td>0.21s</td>
-<td>68</td>
-<td>242</td>
-</tr>
-<tr>
-<td>8</td>
-<td>0.29s</td>
-<td>47</td>
-<td>359</td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>Per-user speed is the median generation speed of each request, measured after its first token. Total is all tokens generated divided by the test&apos;s elapsed time, so it also counts time to first token and any slower requests. In the single-user run, one of the five requests ran at 43 tokens per second while the other four ran at 117 to 129, which pulls the total down to 87.</p><p>With an 8,537-token prompt, the first token took 1.14 seconds.</p><p>Per-user speed falls as users are added, but total throughput keeps climbing. That&apos;s batching at work: vLLM serves several users in each pass over the weights.</p><h3 id="every-other-job">Every other job</h3>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>Job</th>
-<th>Task</th>
-<th>Seconds (median of 3)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Text to speech</td>
-<td>One paragraph, 30 seconds of audio</td>
-<td>0.87</td>
-</tr>
-<tr>
-<td>Speech to text</td>
-<td>Transcribe that clip</td>
-<td>0.58</td>
-</tr>
-<tr>
-<td>Image generation</td>
-<td>One 1024x1024 image, 8 steps</td>
-<td>12.2</td>
-</tr>
-<tr>
-<td>OCR</td>
-<td>One page</td>
-<td>1.80</td>
-</tr>
-<tr>
-<td>Extraction</td>
-<td>OCR text to invoice JSON, thinking off</td>
-<td>0.59</td>
-</tr>
-<tr>
-<td>Embeddings</td>
-<td>32 passages</td>
-<td>0.18</td>
-</tr>
-<tr>
-<td>Reranking</td>
-<td>32 candidates</td>
-<td>0.03</td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>Speech is far faster than real time in both directions: 30 seconds of audio in under a second each way. Whisper&apos;s transcript was accurate, but it added a &quot;Thank you.&quot; at the end that isn&apos;t in the audio. Whisper is known to invent text on silence, so trim trailing silence before you transcribe.</p><p>Set the step count for image generation yourself. Z-Image-Turbo is built to make an image in about 8 steps, but vLLM-Omni&apos;s default ran about 48 at 1.5 seconds each, which took 72 seconds per image. At 8 steps, the same 1024x1024 image took 12.2 seconds.</p><h3 id="chat-while-an-image-generates">Chat while an image generates</h3><p>Every model on the box shares one GPU. Fitting in memory doesn&apos;t mean running well together. I couldn&apos;t find a published DGX Spark benchmark for this, so I measured it. I generated 1024px images back to back, at the server&apos;s default step count, while running the chat test again.</p>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>Users</th>
-<th>Tokens per second per user, alone</th>
-<th>With images generating</th>
-<th>Change</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>122</td>
-<td>38</td>
-<td>-69%</td>
-</tr>
-<tr>
-<td>4</td>
-<td>69</td>
-<td>24</td>
-<td>-65%</td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>While images were generating, chat ran at about a third of its normal speed, and the images slowed down too, from 73 seconds to between 85 and 122.</p><p>One DGX Spark holds the whole stack, but it can&apos;t run image generation without slowing everyone&apos;s chat. For a small team, queue image jobs or run them outside working hours. Once image generation is part of the daily work, move media to a second DGX Spark and keep the first for text.</p><h2 id="the-license-problem">The license problem</h2><p>Model quality wasn&apos;t the hard part. Licenses were.</p><p>Several of the best open text-to-speech and image models don&apos;t allow commercial use. The FLUX models that compete with Z-Image-Turbo are non-commercial or need a separately priced license. The strongest open image model at the time of writing, Qwen-Image-2.1, ships under a research license. Some repositories even have a non-commercial twin next to a permissive original, so caching the wrong repository ID changes your license.</p><p>The rules this stack follows:</p><ul><li>Allow only Apache 2.0, MIT, CC-BY-4.0, OpenMDW, and the NVIDIA Open Model License.</li><li>Pin every model to a Hugging Face commit, so a license change upstream can&apos;t land silently.</li><li>Credit CC-BY-4.0 models in your documentation.</li></ul><p>This isn&apos;t legal advice. Have someone review every pinned license before you sell or deploy this for a client.</p><h2 id="what-to-watch-for">What to watch for</h2><ul><li>New checkpoints can need a newer vLLM than the one you pinned, and the error won&apos;t say so. Check the version inside the image first.</li><li><code>faster-whisper</code> has no CUDA build for arm64, so tools built on it run on the CPU without telling you.</li><li>This stack uses vLLM rather than Ollama, which ships in the starter kit. Ollama suits one person on a laptop. For a team, vLLM batches requests from many users into each pass over the weights, which is where the multi-user throughput comes from.</li></ul><h2 id="try-it">Try it</h2><ul><li>Import the <a href="https://n8n.io/workflows/21011-extract-invoice-details-from-images-with-dgx-spark-ocr-and-qwen36/">invoice workflow template</a>.</li><li>Start smaller with the <a href="https://github.com/n8n-io/self-hosted-ai-starter-kit">self-hosted AI starter kit</a> if you don&apos;t have a DGX Spark yet.</li></ul><p>If you run this on your own DGX Spark, share your numbers on the <a href="https://community.n8n.io">n8n community forum</a>.</p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 06 Nov 2026 01:25:23 GMT</pubDate>
+  <pubDate>Wed, 11 Nov 2026 18:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -1272,7 +960,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 02 Nov 2026 13:25:23 GMT</pubDate>
+  <pubDate>Sat, 07 Nov 2026 19:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -1281,7 +969,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 10 Nov 2026 22:25:23 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 00:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -1290,7 +978,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 09 Nov 2026 18:25:23 GMT</pubDate>
+  <pubDate>Tue, 10 Nov 2026 22:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -1299,7 +987,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 03 Nov 2026 18:25:23 GMT</pubDate>
+  <pubDate>Sat, 07 Nov 2026 16:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -1308,7 +996,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 03 Nov 2026 08:25:23 GMT</pubDate>
+  <pubDate>Tue, 10 Nov 2026 17:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1317,7 +1005,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 07 Nov 2026 19:25:23 GMT</pubDate>
+  <pubDate>Tue, 03 Nov 2026 13:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1326,7 +1014,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 07 Nov 2026 06:25:23 GMT</pubDate>
+  <pubDate>Mon, 09 Nov 2026 20:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -1335,7 +1023,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 09 Nov 2026 20:25:23 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 12:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -1344,7 +1032,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 09 Nov 2026 23:25:23 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 12:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -1353,7 +1041,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 11 Nov 2026 19:25:23 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 18:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1362,7 +1050,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 02 Nov 2026 12:25:23 GMT</pubDate>
+  <pubDate>Thu, 12 Nov 2026 09:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1371,7 +1059,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 03 Nov 2026 18:25:23 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 18:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1380,7 +1068,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 05 Nov 2026 18:25:23 GMT</pubDate>
+  <pubDate>Tue, 03 Nov 2026 13:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1389,7 +1077,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 02 Nov 2026 17:25:23 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 13:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1398,7 +1086,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 06 Nov 2026 16:25:23 GMT</pubDate>
+  <pubDate>Wed, 11 Nov 2026 20:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1407,7 +1095,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 11 Nov 2026 18:25:23 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 01:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1416,7 +1104,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 11 Nov 2026 10:25:23 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 16:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1425,7 +1113,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 04 Nov 2026 06:25:23 GMT</pubDate>
+  <pubDate>Tue, 10 Nov 2026 12:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1434,7 +1122,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 10 Nov 2026 20:25:23 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 11:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1443,7 +1131,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 04 Nov 2026 14:25:23 GMT</pubDate>
+  <pubDate>Mon, 02 Nov 2026 18:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1452,7 +1140,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 06 Nov 2026 22:25:23 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 03:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1461,7 +1149,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 04 Nov 2026 07:25:23 GMT</pubDate>
+  <pubDate>Thu, 12 Nov 2026 00:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1470,7 +1158,7 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 10 Nov 2026 05:25:23 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 01:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1479,10 +1167,19 @@ image = client.images.generate(
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 06 Nov 2026 11:25:23 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 06:01:43 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Octave acquiert la start-up Cerebre]]></title>
+  <link>https://www.ia-news.fr/octave-acquiert-la-start-up-cerebre/</link>
+  <description><![CDATA[Octave acquiert l’américain Cerebre pour donner à l’IA une image fidèle des sites industriels en service Déjà déployé sur plus de 200 sites du secteur ...]]></description>
+  <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/08/collab-partenariat-corporate-002-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/08/collab-partenariat-corporate-002-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/08/collab-partenariat-corporate-002-150x79.jpg" /> <p>Octave acquiert l’américain Cerebre pour donner à l’IA une image fidèle des sites industriels en service Déjà déployé sur plus de 200 sites du secteur ...</p>]]></content:encoded>
 </item>
 <item>
   <title><![CDATA[L’IA ne manque pas d’intelligence mais les entreprises manquent de préparation]]></title>
@@ -1521,15 +1218,6 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-14-150x79.jpg" /> <p>En plus d’une génération d’images accélérée, il est désormais possible de transformer une simple instruction ou une photo en GIF directement dans ChatGPT, d’ajuster la vitesse de ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Cyberattaques automatisées : pourquoi l&rsquo;IA défensive devient stratégique]]></title>
-  <link>https://www.ia-news.fr/cyberattaques-automatisees-pourquoi-lia-defensive-devient-strategique/</link>
-  <description><![CDATA[Les cyberattaquants confient désormais à l’IA une part croissante de leurs opérations et certaines campagnes atteignent un degré d’automatisation élevé.Pour faire face aux cyberattaques pilotées ...]]></description>
-  <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-16-17-38-47-utc-150x90.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-16-17-38-47-utc-150x90.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-16-17-38-47-utc-150x90.jpg" /> <p>Les cyberattaquants confient désormais à l’IA une part croissante de leurs opérations et certaines campagnes atteignent un degré d’automatisation élevé.Pour faire face aux cyberattaques pilotées ...</p>]]></content:encoded>
-</item>
-<item>
   <title><![CDATA[Insight nommé partenaire Advanced d’OpenAI]]></title>
   <link>https://www.ia-news.fr/insight-nomme-partenaire-advanced-dopenai/</link>
   <description><![CDATA[Insight Enterprises  annonce avoir été nommé partenaire Advanced d’OpenAI au sein de l’OpenAI Partner Network, renforçant ainsi son positionnement en tant que fournisseur de solutions d’intelligence ...]]></description>
@@ -1557,6 +1245,15 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/06/Croissance-courbe-evolution-progression-graphique-expension-06-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
+  <title><![CDATA[Cyberattaques automatisées : pourquoi l&rsquo;IA défensive devient stratégique]]></title>
+  <link>https://www.ia-news.fr/cyberattaques-automatisees-pourquoi-lia-defensive-devient-strategique/</link>
+  <description><![CDATA[Les cyberattaquants confient désormais à l’IA une part croissante de leurs opérations et certaines campagnes atteignent un degré d’automatisation élevé.Pour faire face aux cyberattaques pilotées par l’IA, les entreprises doivent accélérer leur capacité de détection et de réponse, en s’appuyant sur ...]]></description>
+  <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-16-17-38-47-utc-150x90.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-16-17-38-47-utc-150x90.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2022/10/cyber-security-2021-10-16-17-38-47-utc-150x90.jpg" /> <p>Les cyberattaquants confient désormais à l’IA une part croissante de leurs opérations et certaines campagnes atteignent un degré d’automatisation élevé.Pour faire face aux cyberattaques pilotées par l’IA, les entreprises doivent accélérer leur capacité de détection et de réponse, en s’appuyant sur ...</p>]]></content:encoded>
+</item>
+<item>
   <title><![CDATA[Vers une gestion plus intelligente des flux téléphoniques grâce à l’IA]]></title>
   <link>https://www.ia-news.fr/vers-une-gestion-plus-intelligente-des-flux-telephoniques-grace-a-lia/</link>
   <description><![CDATA[En quelques années, l’intelligence artificielle a quitté le terrain de l’expérimentation pour s’imposer comme un véritable levier de performance au sein des entreprises. Elle contribue désormais à automatiser certaines tâches, à fluidifier les processus et à améliorer la qualité des interactions ...]]></description>
@@ -1566,7 +1263,7 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/06/telephonie-ip-6-150x79.jpg" /> <p>En quelques années, l’intelligence artificielle a quitté le terrain de l’expérimentation pour s’imposer comme un véritable levier de performance au sein des entreprises. Elle contribue désormais à automatiser certaines tâches, à fluidifier les processus et à améliorer la qualité des interactions ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Planification : arrêtons de demander à l’IA de prédire l’avenir, demandons-lui de nous aider à décider]]></title>
+  <title><![CDATA[Planification : arr��tons de demander à l’IA de prédire l’avenir, demandons-lui de nous aider à décider]]></title>
   <link>https://www.ia-news.fr/planification-arretons-de-demander-a-lia-de-predire-lavenir-demandons-lui-de-nous-aider-a-decider/</link>
   <description><![CDATA[Par Nicolas Commare, CEO de Colibri S&amp;OPIl y a dix ans, convaincre un dirigeant d’investir dans un outil de planification demandait de la pédagogie. Aujourd’hui, plus personne ne conteste que la Supply Chain est au cœur de la performance d’une entreprise. ...]]></description>
   <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
@@ -1818,58 +1515,58 @@ image = client.images.generate(
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001-150x79.jpg" /> <p>Le Club Consulting &amp; Coaching (C3) d’HEC Alumni publie, avec l’aide de plus de 50 dirigeants de cabinets de conseil, « ConseilIA : le nouvel âge du Conseil Augmenté ». Cet ouvrage décrypte la transformation ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[IA en entreprise : 94 % s’y engagent, moins d’une sur deux passe à l’échelle]]></title>
-  <link>https://www.ia-news.fr/ia-en-entreprise-94-sy-engagent-moins-dune-sur-deux-passe-a-lechelle/</link>
+  <title><![CDATA[Medius annonce son intention d&rsquo;acquérir Expensya]]></title>
+  <link>https://www.ia-news.fr/medius-annonce-son-intention-dacquerir-expensya/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/03/business-technology-solutions-2022-12-15-23-05-00-utc-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/03/business-technology-solutions-2022-12-15-23-05-00-utc-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/03/business-technology-solutions-2022-12-15-23-05-00-utc-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/06/team-event-egypt-150x100.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/06/team-event-egypt-150x100.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/06/team-event-egypt-150x100.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[SCC France et MidGard équipent le SDIS 45]]></title>
-  <link>https://www.ia-news.fr/scc-france-et-midgard-equipent-le-sdis-45/</link>
+  <title><![CDATA[5 défis liés à la mise en œuvre de l&rsquo;IA dans le domaine de l&rsquo;automatisation]]></title>
+  <link>https://www.ia-news.fr/5-defis-lies-a-la-mise-en-oeuvre-de-lia-dans-le-domaine-de-lautomatisation/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/07/midgard-scc-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/07/midgard-scc-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/07/midgard-scc-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-150x84.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-150x84.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-150x84.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Accélérer l’usage de l’IA au sein des TPE et PME]]></title>
-  <link>https://www.ia-news.fr/accelerer-lusage-de-lia-au-sein-des-tpe-et-pme/</link>
+  <title><![CDATA[Ascension fulgurante des startups IA : vision ou folie ?]]></title>
+  <link>https://www.ia-news.fr/ascension-fulgurante-des-startups-ia-vision-ou-folie/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc-150x75.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc-150x75.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc-150x75.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital-150x75.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital-150x75.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital-150x75.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Huit entreprises sur dix craignent que la complexité croissante des processus métier aboutisse à un chaos numérique]]></title>
-  <link>https://www.ia-news.fr/huit-entreprises-sur-dix-craignent-que-la-complexite-croissante-des-processus-metier-aboutisse-a-un-chaos-numerique/</link>
+  <title><![CDATA[Les tokens dans l’IA expliqués simplement : comment les modèles comprennent le langage]]></title>
+  <link>https://www.ia-news.fr/les-tokens-dans-lia-expliques-simplement-comment-les-modeles-comprennent-le-langage/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/saas-software-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0002-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0002-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-0002-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Les « zombies de l’IA » : un nouveau défi pour les entreprises]]></title>
-  <link>https://www.ia-news.fr/les-zombies-de-lia-un-nouveau-defi-pour-les-entreprises/</link>
+  <title><![CDATA[Décryptage de delaware : « ERP augmentés par l’IA : décryptage 2025 chez SAP et Microsoft, cap sur 2026 »]]></title>
+  <link>https://www.ia-news.fr/decryptage-de-delaware-erp-augmentes-par-lia-decryptage-2025-chez-sap-et-microsoft-cap-sur-2026/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/03/zombie-ai-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/09/delaware-2-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/09/delaware-2-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/delaware-2-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[IA : sans cadre clair, pas de passage à l&rsquo;échelle]]></title>
-  <link>https://www.ia-news.fr/ia-sans-cadre-clair-pas-de-passage-a-lechelle/</link>
+  <title><![CDATA[Pigment : les agents IA accèdent aux applications sans contourner les droits]]></title>
+  <link>https://www.ia-news.fr/pigment-les-agents-ia-accedent-aux-applications-sans-contourner-les-droits/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/03/Intelligence-artificielle-IA-AI-17-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-pigment-article-2-150x84.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-pigment-article-2-150x84.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/09/visuel-pigment-article-2-150x84.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
