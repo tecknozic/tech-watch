@@ -67,7 +67,7 @@
 				method: 'POST',
 				credentials: 'same-origin',
 				headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8' },
-				body: 'action=hwh_get_user_state&nonce=f0f9aef2e8'
+				body: 'action=hwh_get_user_state&nonce=b345c861e0'
 			}).then(function (r) { return r.json(); }).then(function (res) {
 				if (res && res.success && res.data && res.data.display && res.data.display.initials) {
 					d.style.setProperty('--hwh-initials', JSON.stringify(res.data.display.initials));
@@ -179,7 +179,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			'theme' : 'ia',
 			'tag' : '',
 			'category_list' : '',
-			'search_result' : '1366',
+			'search_result' : '1369',
 			'article_publication_date' :  '',
 			'article_gated' : false,
 			'user_logged_in' : false		}];
@@ -373,8 +373,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/rghqr/" class="e-link badge badge-grey">Étude</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrfvta/" class="e-link badge badge-grey">Design</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
 			
@@ -470,16 +470,16 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 						<header class="page-header">
 							<h1 class="archive-title pb-3"><span>IA</span></h1><h2 class="archive-description"><p>Les dernières actualités de l’intelligence artificielle et des conseils pour mieux utiliser ChatGPT, Claude, Gemini, Vibe (ex-Le Chat), Perplexity&#8230;</p>
 </h2>																<div class="popular-topics pt-4 pb-md-1">
-																			<a href="https://www.blogdumoderateur.com/dossier/anthropic/" class="badge">Anthropic</a>
 																			<a href="https://www.blogdumoderateur.com/dossier/openai/" class="badge">OpenAI</a>
-																			<a href="https://www.blogdumoderateur.com/dossier/developpement/" class="badge">Développement</a>
+																			<a href="https://www.blogdumoderateur.com/dossier/anthropic/" class="badge">Anthropic</a>
 																			<a href="https://www.blogdumoderateur.com/dossier/google/" class="badge">Google</a>
+																			<a href="https://www.blogdumoderateur.com/dossier/developpement/" class="badge">Développement</a>
 																	</div>
 										<div class="hwh-alert-cta-wrap">
 			<button type="button"
 				class="cta btn outline hwh-alert-cta"
 				data-hwh-alert="serp"
-				data-hwh-alert-terms="[{&quot;id&quot;:1076,&quot;name&quot;:&quot;IA&quot;,&quot;type&quot;:&quot;category&quot;},{&quot;id&quot;:1065,&quot;name&quot;:&quot;Anthropic&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:1064,&quot;name&quot;:&quot;OpenAI&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:217,&quot;name&quot;:&quot;D\u00e9veloppement&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:180,&quot;name&quot;:&quot;Google&quot;,&quot;type&quot;:&quot;post_tag&quot;}]">
+				data-hwh-alert-terms="[{&quot;id&quot;:1076,&quot;name&quot;:&quot;IA&quot;,&quot;type&quot;:&quot;category&quot;},{&quot;id&quot;:1064,&quot;name&quot;:&quot;OpenAI&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:1065,&quot;name&quot;:&quot;Anthropic&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:180,&quot;name&quot;:&quot;Google&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:217,&quot;name&quot;:&quot;D\u00e9veloppement&quot;,&quot;type&quot;:&quot;post_tag&quot;}]">
 				<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-alert"></use></svg>				<span class="hwh-alert-cta__label hwh-alert-cta__label--create">Créer une alerte</span>
 				<span class="hwh-alert-cta__label hwh-alert-cta__label--manage">Gérer mon alerte</span>
 			</button>
@@ -491,6 +491,126 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			</div>
 
 			<div class="archive-list row justify-content-center">
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Avec Gemini 4 Hydrogen, Google Search s’offre une mise à jour majeure" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-216360" class="d-flex my-md-5 my-4 post-216360 post type-post status-publish format-standard has-post-thumbnail category-ia tag-google tag-moteurs-de-recherche">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Avec Gemini 4 Hydrogen, Google Search s’offre une mise à jour majeure" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-370x194.png 370w, https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-510x267.png 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-276x144.png" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-276x144.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Avec Gemini 4 Hydrogen, Google Search s’offre une mise à jour majeure" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-370x194.png 370w, https://f.hellowork.com/blogdumoderateur/2026/11/gemini-4-hydrogen-510x267.png 510w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+			<div class="meta-line">
+
+									<span class="favtag color-b">Google</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-13T10:52:12+01:00">13 novembre 2026</time></span>
+
+				
+			</div>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/gemini-4-hydrogen/" >
+					<h3 class="entry-title">Avec Gemini 4 Hydrogen, Google Search s’offre une mise à jour majeure</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Google assure que son moteur de recherche traite mieux les requêtes complexes grâce à Gemini 4 Hydrogen. Le modèle débarque aussi dans l’application Gemini, dans [...]</div>
+			
+		</div>
+
+	</article><!-- #post-216360 -->
+
+</div>
+					</div><!-- .col -->
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Se former en alternance dès le début 2027" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-215971" class="d-flex my-md-5 my-4 post-215971 post type-post status-publish format-standard has-post-thumbnail category-ia tag-formation tag-transformation-digitale tag-travailler-digital">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Se former en alternance dès le début 2027" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-510x267.jpg 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Se former en alternance dès le début 2027" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/avantages-rentree-decalee-mars-2027-alternance-mbadmb-510x267.jpg 510w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+			<div class="meta-line">
+
+									<span class="favtag color-b">Formation</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-13T09:10:56+01:00">13 novembre 2026</time></span>
+
+				
+			</div>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/se-former-alternance-debut-2027/" >
+					<h3 class="entry-title">Se former en alternance dès le début 2027</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Démarrer en entreprise dès janvier et rejoindre en mars la rentrée d’une majeure consacrée à l’IA et à la data, c’est possible. Vincent Montet, fondateur [...]</div>
+			
+		</div>
+
+	</article><!-- #post-215971 -->
+
+</div>
+					</div><!-- .col -->
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Pourquoi toutes les IA ont des mascottes mignonnes&nbsp;?" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-215877" class="d-flex my-md-5 my-4 post-215877 post type-post status-publish format-standard has-post-thumbnail category-ia tag-culture-web">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Pourquoi toutes les IA ont des mascottes mignonnes&nbsp;?" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-664x347.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-768x402.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly.jpg 1200w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Pourquoi toutes les IA ont des mascottes mignonnes&nbsp;?" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-664x347.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-768x402.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/11/muse-jolly.jpg 1200w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+			<div class="meta-line">
+
+									<span class="favtag color-b">Culture web</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-13T07:00:21+01:00">13 novembre 2026</time></span>
+
+				<span class="hwh-members-badge hwh-members-badge--compact"><span class="screen-reader-text">Réservé aux membres</span></span>
+			</div>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/pourquoi-ia-mascottes-mignonnes/" >
+					<h3 class="entry-title">Pourquoi toutes les IA ont des mascottes mignonnes&nbsp;?</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Alors que les incidents liés aux agents IA et les modèles à accès restreint nourrissent l’inquiétude, les géants de la tech misent sur des personnages [...]</div>
+			
+		</div>
+
+	</article><!-- #post-215877 -->
+
+</div>
+					</div><!-- .col -->
 
 				
 					<div class="col-xl-12">
@@ -973,126 +1093,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					</div><!-- .col -->
 
 				
-					<div class="col-xl-12">
-						<div aria-label="Anthropic dévoile Personal Finance, un outil pour suivre et gérer ses finances avec Claude" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-216019" class="d-flex my-md-5 my-4 post-216019 post type-post status-publish format-standard has-post-thumbnail category-ia tag-anthropic">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Anthropic dévoile Personal Finance, un outil pour suivre et gérer ses finances avec Claude" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-370x194.png 370w, https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-510x267.png 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-276x144.png" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-276x144.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Anthropic dévoile Personal Finance, un outil pour suivre et gérer ses finances avec Claude" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-370x194.png 370w, https://f.hellowork.com/blogdumoderateur/2026/11/claude-personal-finance-510x267.png 510w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-			<div class="meta-line">
-
-									<span class="favtag color-b">Anthropic</span>
-				
-				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-06T10:42:49+01:00">6 novembre 2026</time></span>
-
-				
-			</div>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/anthropic-devoile-personal-finance-outil-suivre-gerer-finances-claude/" >
-					<h3 class="entry-title">Anthropic dévoile Personal Finance, un outil pour suivre et gérer ses finances avec Claude</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Près de six mois après OpenAI, Anthropic propose à son tour une fonctionnalité dédiée aux finances personnelles. Elle est d'abord déployée en bêta aux États-Unis, [...]</div>
-			
-		</div>
-
-	</article><!-- #post-216019 -->
-
-</div>
-					</div><!-- .col -->
-
-				
-					<div class="col-xl-12">
-						<div aria-label="OpenAI lance GPT-6 Cyber, un modèle d’IA dédié à la recherche de failles de sécurité" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-216021" class="d-flex my-md-5 my-4 post-216021 post type-post status-publish format-standard has-post-thumbnail category-ia tag-cybersecurite tag-openai">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="OpenAI lance GPT-6 Cyber, un modèle d’IA dédié à la recherche de failles de sécurité" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/gpt-6-cyber-openai-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/gpt-6-cyber-openai-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/gpt-6-cyber-openai-510x267.jpg 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/gpt-6-cyber-openai-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/gpt-6-cyber-openai-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="OpenAI lance GPT-6 Cyber, un modèle d’IA dédié à la recherche de failles de sécurité" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/gpt-6-cyber-openai-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/gpt-6-cyber-openai-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/gpt-6-cyber-openai-510x267.jpg 510w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-			<div class="meta-line">
-
-									<span class="favtag color-b">OpenAI</span>
-				
-				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-06T10:42:22+01:00">6 novembre 2026</time></span>
-
-				
-			</div>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/openai-lance-gpt-6-cyber/" >
-					<h3 class="entry-title">OpenAI lance GPT-6 Cyber, un modèle d’IA dédié à la recherche de failles de sécurité</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">OpenAI étoffe son offre dédiée à la sécurité avec un modèle classé « critique », qui conçoit des attaques fonctionnelles. Mozilla a déjà publié des [...]</div>
-			
-		</div>
-
-	</article><!-- #post-216021 -->
-
-</div>
-					</div><!-- .col -->
-
-				
-					<div class="col-xl-12">
-						<div aria-label="Avec GPT-Image-2.6, ChatGPT peut générer des GIF" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-215937" class="d-flex my-md-5 my-4 post-215937 post type-post status-publish format-standard has-post-thumbnail category-ia tag-openai">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Avec GPT-Image-2.6, ChatGPT peut générer des GIF" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/gpt-images-2-6-sortie-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/gpt-images-2-6-sortie-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/gpt-images-2-6-sortie-510x267.jpg 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/gpt-images-2-6-sortie-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/gpt-images-2-6-sortie-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Avec GPT-Image-2.6, ChatGPT peut générer des GIF" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/gpt-images-2-6-sortie-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/gpt-images-2-6-sortie-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/gpt-images-2-6-sortie-510x267.jpg 510w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-			<div class="meta-line">
-
-									<span class="favtag color-b">OpenAI</span>
-				
-				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-05T10:52:22+01:00">5 novembre 2026</time></span>
-
-				
-			</div>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/gpt-image-2-6-chatgpt-generer-gif/" >
-					<h3 class="entry-title">Avec GPT-Image-2.6, ChatGPT peut générer des GIF</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Disponible dans ChatGPT, Codex et l’API, le nouveau modèle de génération d’images d’OpenAI gagne en vitesse et peut désormais "mettre les images en mouvement".</div>
-			
-		</div>
-
-	</article><!-- #post-215937 -->
-
-</div>
-					</div><!-- .col -->
-
-				
 				<div class="col-xl-12 pager">
 					<div class="pt-md-5 pt-4 bt-1">
 						<div class='wp-pagenavi' role='navigation'>
@@ -1282,8 +1282,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 											<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge badge-blue">Productivité</a>
 											<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge badge-blue">Interviews</a>
 											<a href="https://www.blogdumoderateur.com/dossier/gemini/" class="badge badge-blue">Gemini</a>
-											<a href="https://www.blogdumoderateur.com/dossier/meta/" class="badge badge-blue">Meta</a>
 											<a href="https://www.blogdumoderateur.com/dossier/transformation-digitale/" class="badge badge-blue">Transformation digitale</a>
+											<a href="https://www.blogdumoderateur.com/dossier/meta/" class="badge badge-blue">Meta</a>
 											<a href="https://www.blogdumoderateur.com/dossier/etude/" class="badge badge-blue">Étude</a>
 											<a href="https://www.blogdumoderateur.com/dossier/strategie-digitale/" class="badge badge-blue">Stratégie digitale</a>
 											<a href="https://www.blogdumoderateur.com/dossier/cybersecurite/" class="badge badge-blue">Cybersécurité</a>
@@ -1330,10 +1330,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 									<a href="https://www.blogdumoderateur.com/dossier/design/" class="badge">Design</a>
+									<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge">Formation</a>
 									<a href="https://www.blogdumoderateur.com/dossier/reglementation/" class="badge">Réglementation</a>
 									<a href="https://www.blogdumoderateur.com/dossier/video/" class="badge">Vidéo</a>
 									<a href="https://www.blogdumoderateur.com/dossier/seo/" class="badge">SEO</a>
-									<a href="https://www.blogdumoderateur.com/dossier/travailler-digital/" class="badge">Travailler dans le digital</a>
 				
 			</div>
 
@@ -1553,14 +1553,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="footer-nl" data-hwh-push-zone="footer">
 			<div data-hwh-push="nl">
 				
-<section class="newsletter-container bg-blue-dark ">
+<section class="newsletter-container bg-blue100 ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
 			<div class="corde-content">
 				<div class="nl-form py-md-7 py-6 ps-md-7 pe-lg-4 px-4 px-md-7">
-					<div class="h2">On filtre, on vérifie, on rédige.</div>
-					<div class="nl-title pt-1 pb-4 h3bis">Inscrivez-vous pour recevoir nos articles&nbsp;:</div>
+					<div class="h2">Envie de parler le même langage que vos collègues&nbsp;?</div>
+					<div class="nl-title pt-1 pb-4 h3bis">On vous aide à avoir les bonnes références</div>
 					
 					
 					<span class="cta btn btn-mob-modal" data-param="footer" tabindex="0">S'inscrire à la newsletter</span>
@@ -1568,9 +1568,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<form action="/wp-admin/admin-ajax.php" method="post" class="form_nl form-valid" data-param="footer">
 				
 					<div class="input-div d-flex">
-						<input type="hidden" name="cord_theme" value="Authenticité">
-						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
-						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
+						<input type="hidden" name="cord_theme" value="Référence">
+						<input type="hidden" name="cord_title" value="Envie de parler le même langage que vos collègues&nbsp;?">
+						<input type="hidden" name="cord_bg_color" value="bg-blue100">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-footer" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
@@ -1604,8 +1604,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1616,8 +1616,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-dm.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/reference-dm.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="display-dm"
@@ -1751,7 +1751,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1794534136|f4d0416fb2e46ef212b652d10e69656c92c96c53a1a41913d37a55540a73c26b">
+		<input type="hidden" name="hwh_form_ts" value="1794574389|bc9afb11a57e74c68dc527506d85ecc97da2fcfa2361fe39fb6799d55898de34">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -2004,7 +2004,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1794534136|f4d0416fb2e46ef212b652d10e69656c92c96c53a1a41913d37a55540a73c26b">
+		<input type="hidden" name="hwh_form_ts" value="1794574389|bc9afb11a57e74c68dc527506d85ecc97da2fcfa2361fe39fb6799d55898de34">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
@@ -2347,7 +2347,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 		<script type="text/rocketlazyloadscript" id="slider-js" data-rocket-src="https://unpkg.com/embla-carousel/embla-carousel.umd.js" data-rocket-defer defer></script>
 <script type="text/rocketlazyloadscript" data-rocket-type="module" data-rocket-src="https://www.blogdumoderateur.com/app/plugins/hw-slider/assets/js/embla-init.js" data-rocket-defer defer></script><script id="hwh-frontend-js-extra">
-var HWH = {"ajax_url":"https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php","rest_url":"https://www.blogdumoderateur.com/wp-json/hwh/v1/","nonce":"f0f9aef2e8","rest_nonce":"f2c6d60b3a","is_logged_in":"","is_wordpress_user":"","current_page_type":null,"home_url":"https://www.blogdumoderateur.com/","mode":"standalone","register_url":"","captcha_enabled":"1","validation_email":"","i18n":{"error_generic":"Une erreur s'est produite. Veuillez r\u00e9essayer.","error_network":"Erreur r\u00e9seau. Veuillez v\u00e9rifier votre connexion.","error_invalid_email":"Veuillez saisir une adresse e-mail valide.","error_password_match":"Les mots de passe ne correspondent pas.","error_session_expired":"Votre session de connexion a expir\u00e9. Veuillez r\u00e9essayer.","error_no_code":"\u00c9chec de l'authentification. Aucun code re\u00e7u du fournisseur.","error_unknown_provider":"Fournisseur d'authentification inconnu.","error_token_exchange_failed":"\u00c9chec de l'authentification. Impossible d'obtenir un jeton aupr\u00e8s du fournisseur.","error_id_token_invalid":"\u00c9chec de l'authentification. Le jeton d'identit\u00e9 est invalide ou expir\u00e9.","error_userinfo_failed":"\u00c9chec de l'authentification. Impossible de r\u00e9cup\u00e9rer votre profil aupr\u00e8s du fournisseur.","error_auth_failed":"\u00c9chec de l'authentification. Veuillez r\u00e9essayer ou utiliser une autre m\u00e9thode de connexion.","error_missing_profile_claims":"\u00c9chec de l'authentification. Le fournisseur n'a pas retourn\u00e9 un profil valide.","error_account_suspended":"Votre compte a \u00e9t\u00e9 suspendu. Veuillez contacter le support.","error_email_not_verified":"Nous n'avons pas pu confirmer votre adresse e-mail aupr\u00e8s de ce service. Connectez-vous avec votre mot de passe, ou cr\u00e9ez un compte avec votre adresse e-mail.","error_account_deleted":"Ce compte n'existe plus.","error_provider_already_linked":"Ce service est d\u00e9j\u00e0 associ\u00e9 \u00e0 un autre compte. Connectez-vous avec votre mot de passe.","error_identity_taken":"Ce service n'a pas pu \u00eatre associ\u00e9 : il est d\u00e9j\u00e0 utilis\u00e9 sur un autre compte.","error_identity_link_failed":"Ce service n'a pas pu \u00eatre associ\u00e9 : il est d\u00e9j\u00e0 utilis\u00e9 sur un autre compte.","error_link_session_mismatch":"Votre session a chang\u00e9 pendant l'op\u00e9ration. Veuillez r\u00e9essayer.","error_link_failed":"Ce service n'a pas pu \u00eatre associ\u00e9. Veuillez r\u00e9essayer.","password_min_length":"Le mot de passe doit comporter au moins 8 caract\u00e8res.","password_max_length":"Le mot de passe ne doit pas d\u00e9passer 64 caract\u00e8res.","password_digit":"Le mot de passe doit contenir au moins un chiffre.","password_uppercase":"Le mot de passe doit contenir au moins une lettre majuscule.","password_special":"Le mot de passe doit contenir au moins un caract\u00e8re sp\u00e9cial.","password_lowercase":"Le mot de passe doit contenir au moins une lettre minuscule.","password_requirements_met":"Toutes les exigences sont satisfaites !","req_length":"8 caract\u00e8res minimum","req_digit":"1 chiffre","req_upper":"1 lettre majuscule","req_special":"1 caract\u00e8re sp\u00e9cial","req_lower":"1 lettre minuscule","req_state_met":"respect\u00e9","req_state_unmet":"non respect\u00e9","success_email_verified":"E-mail v\u00e9rifi\u00e9 ! Vous pouvez maintenant vous connecter.","success_forgot":"Si un compte existe avec cet e-mail, vous recevrez un lien de r\u00e9initialisation de mot de passe.","success_login":"Connexion r\u00e9ussie. Redirection en cours...","success_register":"Compte cr\u00e9\u00e9 ! Veuillez v\u00e9rifier votre e-mail.","success_logout":"Vous avez \u00e9t\u00e9 d\u00e9connect\u00e9.","success_profile_saved":"Profil enregistr\u00e9 avec succ\u00e8s.","success_password_changed":"Mot de passe modifi\u00e9 avec succ\u00e8s.","otp_title":"V\u00e9rifiez votre e-mail","otp_intro":"Saisissez le code \u00e0 6 chiffres envoy\u00e9 \u00e0 :","otp_spam_notice":"V\u00e9rifiez votre dossier spam si vous ne recevez pas l'email.","otp_verify":"V\u00e9rifier","otp_resend":"Renvoyer un nouveau code","otp_resend_wait":"Renvoi disponible \u00e0 l'expiration du minuteur","otp_resend_in":"Vous pouvez renvoyer un code dans %s s","otp_resent":"Code envoy\u00e9, v\u00e9rifiez vos e-mails.","otp_invalid_code":"Le code est incorrect.","otp_expires_in":"Le code expire dans","otp_expired":"Ce code a expir\u00e9.","otp_reason_no_password":"Connectez-vous avec un code \u00e0 usage unique envoy\u00e9 \u00e0 votre e-mail.","otp_reason_blocked":"Trop de tentatives \u00e9chou\u00e9es. Veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_strong_auth_required":"Pour votre s\u00e9curit\u00e9, veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_default":"Saisissez le code de v\u00e9rification envoy\u00e9 \u00e0 votre e-mail.","alert_title_create":"Cr\u00e9er une alerte","alert_title_manage":"G\u00e9rer mon alerte","alert_title_add":"Ajouter des th\u00e9matiques","alert_intro":"Ajoutez des th\u00e9matiques \u00e0 votre alerte quotidienne :","alert_see_more":"Voir plus","alert_save":"Enregistrer","alert_loading":"Chargement\u2026","alert_unfollow":"Ne plus suivre %s","alert_main_category":"Cat\u00e9gorie principale","alert_toast_created":"Votre alerte a bien \u00e9t\u00e9 cr\u00e9\u00e9e.","alert_toast_updated":"Votre alerte a bien \u00e9t\u00e9 mise \u00e0 jour.","alert_toast_deleted":"Votre alerte a bien \u00e9t\u00e9 supprim\u00e9e.","alert_toast_manage":"G\u00e9rez votre alerte dans l'%s.","alert_toast_settings":"Espace personnel","alert_error_unavailable":"Les alertes ne sont pas disponibles pour ce compte.","toast_login":"Vous \u00eates connect\u00e9.","toast_registered":"Votre compte a \u00e9t\u00e9 cr\u00e9\u00e9.","toast_newsletter":"Vous \u00eates inscrit \u00e0 la newsletter.","toast_newsletter_daily":"Vous avez \u00e9t\u00e9 inscrit \u00e0 la newsletter quotidienne.","toast_newsletter_weekly":"Vous avez \u00e9t\u00e9 inscrit \u00e0 la newsletter hebdomadaire.","toast_account_deleted":"Votre compte a \u00e9t\u00e9 supprim\u00e9.","captcha_not_solved":"Veuillez compl\u00e9ter la v\u00e9rification de s\u00e9curit\u00e9 avant de soumettre.","confirm_logout":"\u00cates-vous s\u00fbr(e) de vouloir vous d\u00e9connecter ?","confirm_revoke":"R\u00e9voquer cette session ?","confirm_unlink_provider":"Retirer ce moyen de connexion ?","close":"Fermer","show_password":"Afficher le mot de passe","loading":"Chargement...","submitting":"Envoi en cours...","login_account_label":"Connexion au compte %s","error_email_exists":"Cette adresse est d\u00e9j\u00e0 li\u00e9e \u00e0 un compte. Pour continuer, %1$sconnectez-vous%2$s.","sign_in":"Se connecter","nl_error":"Erreur : %s","nl_error_unknown":"Erreur inconnue","nl_error_email":"L'adresse email fournie ne semble pas \u00eatre valide. Merci de la v\u00e9rifier avant de r\u00e9essayer.","nl_error_modal":"Le module de connexion est indisponible. Merci de r\u00e9essayer.","nl_subscribed":"Vous recevrez \u00e0 pr\u00e9sent notre newsletter %s.","nl_save_frequency":"Enregistrer la fr\u00e9quence"},"sprite_url":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg","debug":"","one_tap":{"client_id":"742566187379-agskvtpehiluk1aq52beqji0uf2gl65b.apps.googleusercontent.com"},"illustrations":{"login":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"login-password":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"set-password":{"title":"Cr\u00e9er un mot de passe","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"forgot":{"title":"Mot de passe oubli\u00e9","variant":"light"},"forgot-confirmed":{"title":"V\u00e9rifiez vos emails !","variant":"light","icon":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed.svg","icon_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed-dm.svg"},"register":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"otp":{"title":"Une derni\u00e8re \u00e9tape !","variant":"light"},"register-profile":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"account-validation":{"title":"Cr\u00e9ez un mot de passe pour acc\u00e9der \u00e0 votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-gate":{"title_signin":"Connectez-vous pour acc\u00e9der \u00e0 tous nos articles","title_signup":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos articles","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium-dm.svg"},"form-activation":{"title":"Activez votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-download":{"title_signin":"Connectez-vous pour t\u00e9l\u00e9charger nos documents","title_signup":"Cr\u00e9ez votre compte pour t\u00e9l\u00e9charger nos documents","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download-dm.svg"},"form-newsletter":{"title_signin":"Connectez-vous pour recevoir la newsletter du digital","title_signup":"Cr\u00e9ez votre compte pour recevoir le meilleur de l'actualit\u00e9 digitale !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter-dm.svg"},"form-alert":{"title_signin":"Connectez-vous pour suivre les th\u00e8mes qui vous int\u00e9ressent","title_signup":"Cr\u00e9ez votre compte pour suivre les th\u00e8mes qui vous int\u00e9ressent","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-alert.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-alert-dm.svg"},"account-profile":{"title":"Profil","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile-dm.svg"},"account-newsletters":{"title":"Newsletter","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters-dm.svg"},"account-security":{"title":"S\u00e9curit\u00e9","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security-dm.svg"},"account-alert":{"title":"Alerte th\u00e9matique","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-alert.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-alert-dm.svg"}},"alert_settings_url":"https://www.blogdumoderateur.com/compte/?tab=alert","internal_pages":{"account":"https://www.blogdumoderateur.com/compte/","login":"https://www.blogdumoderateur.com/compte/connexion/"}};
+var HWH = {"ajax_url":"https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php","rest_url":"https://www.blogdumoderateur.com/wp-json/hwh/v1/","nonce":"b345c861e0","rest_nonce":"be03e21fa3","is_logged_in":"","is_wordpress_user":"","current_page_type":null,"home_url":"https://www.blogdumoderateur.com/","mode":"standalone","register_url":"","captcha_enabled":"1","validation_email":"","i18n":{"error_generic":"Une erreur s'est produite. Veuillez r\u00e9essayer.","error_network":"Erreur r\u00e9seau. Veuillez v\u00e9rifier votre connexion.","error_invalid_email":"Veuillez saisir une adresse e-mail valide.","error_password_match":"Les mots de passe ne correspondent pas.","error_session_expired":"Votre session de connexion a expir\u00e9. Veuillez r\u00e9essayer.","error_no_code":"\u00c9chec de l'authentification. Aucun code re\u00e7u du fournisseur.","error_unknown_provider":"Fournisseur d'authentification inconnu.","error_token_exchange_failed":"\u00c9chec de l'authentification. Impossible d'obtenir un jeton aupr\u00e8s du fournisseur.","error_id_token_invalid":"\u00c9chec de l'authentification. Le jeton d'identit\u00e9 est invalide ou expir\u00e9.","error_userinfo_failed":"\u00c9chec de l'authentification. Impossible de r\u00e9cup\u00e9rer votre profil aupr\u00e8s du fournisseur.","error_auth_failed":"\u00c9chec de l'authentification. Veuillez r\u00e9essayer ou utiliser une autre m\u00e9thode de connexion.","error_missing_profile_claims":"\u00c9chec de l'authentification. Le fournisseur n'a pas retourn\u00e9 un profil valide.","error_account_suspended":"Votre compte a \u00e9t\u00e9 suspendu. Veuillez contacter le support.","error_email_not_verified":"Nous n'avons pas pu confirmer votre adresse e-mail aupr\u00e8s de ce service. Connectez-vous avec votre mot de passe, ou cr\u00e9ez un compte avec votre adresse e-mail.","error_account_deleted":"Ce compte n'existe plus.","error_provider_already_linked":"Ce service est d\u00e9j\u00e0 associ\u00e9 \u00e0 un autre compte. Connectez-vous avec votre mot de passe.","error_identity_taken":"Ce service n'a pas pu \u00eatre associ\u00e9 : il est d\u00e9j\u00e0 utilis\u00e9 sur un autre compte.","error_identity_link_failed":"Ce service n'a pas pu \u00eatre associ\u00e9 : il est d\u00e9j\u00e0 utilis\u00e9 sur un autre compte.","error_link_session_mismatch":"Votre session a chang\u00e9 pendant l'op\u00e9ration. Veuillez r\u00e9essayer.","error_link_failed":"Ce service n'a pas pu \u00eatre associ\u00e9. Veuillez r\u00e9essayer.","password_min_length":"Le mot de passe doit comporter au moins 8 caract\u00e8res.","password_max_length":"Le mot de passe ne doit pas d\u00e9passer 64 caract\u00e8res.","password_digit":"Le mot de passe doit contenir au moins un chiffre.","password_uppercase":"Le mot de passe doit contenir au moins une lettre majuscule.","password_special":"Le mot de passe doit contenir au moins un caract\u00e8re sp\u00e9cial.","password_lowercase":"Le mot de passe doit contenir au moins une lettre minuscule.","password_requirements_met":"Toutes les exigences sont satisfaites !","req_length":"8 caract\u00e8res minimum","req_digit":"1 chiffre","req_upper":"1 lettre majuscule","req_special":"1 caract\u00e8re sp\u00e9cial","req_lower":"1 lettre minuscule","req_state_met":"respect\u00e9","req_state_unmet":"non respect\u00e9","success_email_verified":"E-mail v\u00e9rifi\u00e9 ! Vous pouvez maintenant vous connecter.","success_forgot":"Si un compte existe avec cet e-mail, vous recevrez un lien de r\u00e9initialisation de mot de passe.","success_login":"Connexion r\u00e9ussie. Redirection en cours...","success_register":"Compte cr\u00e9\u00e9 ! Veuillez v\u00e9rifier votre e-mail.","success_logout":"Vous avez \u00e9t\u00e9 d\u00e9connect\u00e9.","success_profile_saved":"Profil enregistr\u00e9 avec succ\u00e8s.","success_password_changed":"Mot de passe modifi\u00e9 avec succ\u00e8s.","otp_title":"V\u00e9rifiez votre e-mail","otp_intro":"Saisissez le code \u00e0 6 chiffres envoy\u00e9 \u00e0 :","otp_spam_notice":"V\u00e9rifiez votre dossier spam si vous ne recevez pas l'email.","otp_verify":"V\u00e9rifier","otp_resend":"Renvoyer un nouveau code","otp_resend_wait":"Renvoi disponible \u00e0 l'expiration du minuteur","otp_resend_in":"Vous pouvez renvoyer un code dans %s s","otp_resent":"Code envoy\u00e9, v\u00e9rifiez vos e-mails.","otp_invalid_code":"Le code est incorrect.","otp_expires_in":"Le code expire dans","otp_expired":"Ce code a expir\u00e9.","otp_reason_no_password":"Connectez-vous avec un code \u00e0 usage unique envoy\u00e9 \u00e0 votre e-mail.","otp_reason_blocked":"Trop de tentatives \u00e9chou\u00e9es. Veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_strong_auth_required":"Pour votre s\u00e9curit\u00e9, veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_default":"Saisissez le code de v\u00e9rification envoy\u00e9 \u00e0 votre e-mail.","alert_title_create":"Cr\u00e9er une alerte","alert_title_manage":"G\u00e9rer mon alerte","alert_title_add":"Ajouter des th\u00e9matiques","alert_intro":"Ajoutez des th\u00e9matiques \u00e0 votre alerte quotidienne :","alert_see_more":"Voir plus","alert_save":"Enregistrer","alert_loading":"Chargement\u2026","alert_unfollow":"Ne plus suivre %s","alert_main_category":"Cat\u00e9gorie principale","alert_toast_created":"Votre alerte a bien \u00e9t\u00e9 cr\u00e9\u00e9e.","alert_toast_updated":"Votre alerte a bien \u00e9t\u00e9 mise \u00e0 jour.","alert_toast_deleted":"Votre alerte a bien \u00e9t\u00e9 supprim\u00e9e.","alert_toast_manage":"G\u00e9rez votre alerte dans l'%s.","alert_toast_settings":"Espace personnel","alert_error_unavailable":"Les alertes ne sont pas disponibles pour ce compte.","toast_login":"Vous \u00eates connect\u00e9.","toast_registered":"Votre compte a \u00e9t\u00e9 cr\u00e9\u00e9.","toast_newsletter":"Vous \u00eates inscrit \u00e0 la newsletter.","toast_newsletter_daily":"Vous avez \u00e9t\u00e9 inscrit \u00e0 la newsletter quotidienne.","toast_newsletter_weekly":"Vous avez \u00e9t\u00e9 inscrit \u00e0 la newsletter hebdomadaire.","toast_account_deleted":"Votre compte a \u00e9t\u00e9 supprim\u00e9.","captcha_not_solved":"Veuillez compl\u00e9ter la v\u00e9rification de s\u00e9curit\u00e9 avant de soumettre.","confirm_logout":"\u00cates-vous s\u00fbr(e) de vouloir vous d\u00e9connecter ?","confirm_revoke":"R\u00e9voquer cette session ?","confirm_unlink_provider":"Retirer ce moyen de connexion ?","close":"Fermer","show_password":"Afficher le mot de passe","loading":"Chargement...","submitting":"Envoi en cours...","login_account_label":"Connexion au compte %s","error_email_exists":"Cette adresse est d\u00e9j\u00e0 li\u00e9e \u00e0 un compte. Pour continuer, %1$sconnectez-vous%2$s.","sign_in":"Se connecter","nl_error":"Erreur : %s","nl_error_unknown":"Erreur inconnue","nl_error_email":"L'adresse email fournie ne semble pas \u00eatre valide. Merci de la v\u00e9rifier avant de r\u00e9essayer.","nl_error_modal":"Le module de connexion est indisponible. Merci de r\u00e9essayer.","nl_subscribed":"Vous recevrez \u00e0 pr\u00e9sent notre newsletter %s.","nl_save_frequency":"Enregistrer la fr\u00e9quence"},"sprite_url":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg","debug":"","one_tap":{"client_id":"742566187379-agskvtpehiluk1aq52beqji0uf2gl65b.apps.googleusercontent.com"},"illustrations":{"login":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"login-password":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"set-password":{"title":"Cr\u00e9er un mot de passe","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"forgot":{"title":"Mot de passe oubli\u00e9","variant":"light"},"forgot-confirmed":{"title":"V\u00e9rifiez vos emails !","variant":"light","icon":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed.svg","icon_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed-dm.svg"},"register":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"otp":{"title":"Une derni\u00e8re \u00e9tape !","variant":"light"},"register-profile":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"account-validation":{"title":"Cr\u00e9ez un mot de passe pour acc\u00e9der \u00e0 votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-gate":{"title_signin":"Connectez-vous pour acc\u00e9der \u00e0 tous nos articles","title_signup":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos articles","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium-dm.svg"},"form-activation":{"title":"Activez votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-download":{"title_signin":"Connectez-vous pour t\u00e9l\u00e9charger nos documents","title_signup":"Cr\u00e9ez votre compte pour t\u00e9l\u00e9charger nos documents","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download-dm.svg"},"form-newsletter":{"title_signin":"Connectez-vous pour recevoir la newsletter du digital","title_signup":"Cr\u00e9ez votre compte pour recevoir le meilleur de l'actualit\u00e9 digitale !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter-dm.svg"},"form-alert":{"title_signin":"Connectez-vous pour suivre les th\u00e8mes qui vous int\u00e9ressent","title_signup":"Cr\u00e9ez votre compte pour suivre les th\u00e8mes qui vous int\u00e9ressent","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-alert.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-alert-dm.svg"},"account-profile":{"title":"Profil","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile-dm.svg"},"account-newsletters":{"title":"Newsletter","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters-dm.svg"},"account-security":{"title":"S\u00e9curit\u00e9","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security-dm.svg"},"account-alert":{"title":"Alerte th\u00e9matique","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-alert.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-alert-dm.svg"}},"alert_settings_url":"https://www.blogdumoderateur.com/compte/?tab=alert","internal_pages":{"account":"https://www.blogdumoderateur.com/compte/","login":"https://www.blogdumoderateur.com/compte/connexion/"}};
 //# sourceURL=hwh-frontend-js-extra
 </script>
 <script data-minify="1" data-wp-strategy="defer" id="hwh-frontend-js" src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/js/frontend.js?ver=1794497932" data-rocket-defer defer></script>

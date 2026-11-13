@@ -9,21 +9,77 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 03:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 13:28:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil]]></title>
-            <description><![CDATA[US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.]]></description>
+            <title><![CDATA[Courts, spies and MPs: How the Microsoft outage has been felt around the world]]></title>
+            <description><![CDATA[From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqp9d58eldlro#0</guid>
+            <pubDate>Fri, 13 Nov 2026 13:19:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38e/live/5b3b2f70-df4c-11f1-a48c-75dd2efdacb5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GPs, police and pharmacies among UK services affected by Microsoft outage]]></title>
+            <description><![CDATA[Major airports and intelligence services are unaffected while the government is assessing the impact on its services.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o#0</guid>
+            <pubDate>Fri, 13 Nov 2026 12:43:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about the global Microsoft outage]]></title>
+            <description><![CDATA[Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#0</guid>
+            <pubDate>Fri, 13 Nov 2026 12:31:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a sex scandal at Nvidia is putting pressure on the White House]]></title>
+            <description><![CDATA[Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c67429m3vem3o#0</guid>
+            <pubDate>Fri, 13 Nov 2026 12:22:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know so far about the Microsoft outage]]></title>
+            <description><![CDATA[A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cqzjr903n01po#0</guid>
+            <pubDate>Fri, 13 Nov 2026 11:43:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heat pumps: How much heat does your home really need?]]></title>
+            <description><![CDATA[Knowing how much heat your home loses is important before installing a new heating system. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy43zk3kk04o#0</guid>
+            <pubDate>Fri, 13 Nov 2026 09:29:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happened overnight with the Microsoft global outage?]]></title>
+            <description><![CDATA[Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by "connectivity problems".]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwm2591k27e2o#0</guid>
+            <pubDate>Fri, 13 Nov 2026 07:18:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf55/live/6c53e480-df49-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy]]></title>
+            <description><![CDATA[Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0</guid>
-            <pubDate>Fri, 13 Nov 2026 02:39:00 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2026 03:57:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Microsoft struggling to restore service as global outage affects Outlook and Teams]]></title>
+            <title><![CDATA[Global Microsoft outage affecting tens of thousands of users]]></title>
             <description><![CDATA[Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo#0</guid>
@@ -61,62 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgel338xql3o#0</guid>
             <pubDate>Thu, 12 Nov 2026 15:26:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?]]></title>
-            <description><![CDATA[Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqgm37dv20e8o#0</guid>
-            <pubDate>Thu, 12 Nov 2026 15:10:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lego marketplace BrickLink offline after 'unusual activity' detected]]></title>
-            <description><![CDATA[Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o#0</guid>
-            <pubDate>Wed, 11 Nov 2026 22:26:18 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Indian mega library rocked by scandal over 'AI-generated books']]></title>
-            <description><![CDATA[The Tamil Nadu government has ordered an internal audit of library collections across the state. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c54gne3plvrxo#0</guid>
-            <pubDate>Wed, 11 Nov 2026 11:33:24 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Robot vessels take on the dangerous work of mine hunting]]></title>
-            <description><![CDATA[The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj5yn24llxd6o#0</guid>
-            <pubDate>Wed, 11 Nov 2026 00:19:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia hires major US law firm to investigate alleged Chinese spy affair]]></title>
-            <description><![CDATA[The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go#0</guid>
-            <pubDate>Tue, 10 Nov 2026 22:52:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning]]></title>
-            <description><![CDATA[The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crpdgd723x2zo#0</guid>
-            <pubDate>Tue, 10 Nov 2026 17:56:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security]]></title>
-            <description><![CDATA[Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo#0</guid>
-            <pubDate>Tue, 10 Nov 2026 09:23:55 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
@@ -183,6 +183,38 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg"/>
         </item>
     
+<item>
+		<title>Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil</title>
+		<link>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2026 12:52:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Jensen Huang]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3187846</guid>
+
+					<description><![CDATA[Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.]]></description>
+		
+		
+		
+			</item>
+<item>
+		<title>Jensen Huang didn&#8217;t show confidence in his successor, report says</title>
+		<link>https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2026 12:28:23 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Jensen Huang]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3188240</guid>
+
+					<description><![CDATA[Huang described Kress as a "deer in the headlights" during a meeting in summer.]]></description>
+		
+		
+		
+			</item>
 <item>
 		<title>Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump</title>
 		<link>https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/</link>
@@ -503,41 +535,7 @@
 		
 		
 			</item>
-<item>
-		<title>Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition</title>
-		<link>https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Thu, 12 Nov 2026 13:26:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[south korea]]></category>
-		<category><![CDATA[South Korea startup]]></category>
-		<category><![CDATA[Startup Battlefield 200]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3187646</guid>
-
-					<description><![CDATA[The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.]]></description>
-		
-		
-		
-			</item>
-<item>
-		<title>Who could replace Jensen Huang? A highly unscientific list of possible successors</title>
-		<link>https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Thu, 12 Nov 2026 03:13:10 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Jensen Huang]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3187615</guid>
-
-					<description><![CDATA[Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.]]></description>
-		
-		
-		
-			</item>
+<item><title><![CDATA[New in n8n: Public API rate limits that keep every team on your instance running]]></title><description><![CDATA[Cap public API requests per API key in n8n, with 429 headers that tell clients when to retry and idempotency keys for safe retries.]]></description><link>https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/</link><guid isPermaLink="false">6af487c72c54d200011d87a7</guid><category><![CDATA[New on n8n]]></category><dc:creator><![CDATA[Andrea Saez]]></dc:creator><pubDate>Fri, 13 Nov 2026 09:29:35 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/9a7a15f4-ac1a-4c44-86e8-9b047cb9c474.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/9a7a15f4-ac1a-4c44-86e8-9b047cb9c474.png" alt="New in n8n: Public API rate limits that keep every team on your instance running"><p>n8n now lets admins cap how many public API requests each API key can make, so a single runaway workflow hits its API key&apos;s limit instead of blocking other teams.</p><p>Rate limiting is available from n8n 2.47.0 on every plan, on n8n Cloud and self-hosted. It works alongside idempotency keys (available since n8n 2.45.0), which make retries safe, ensuring clients calling your instance know when to slow down and when to retry.</p><h2 id="why-rate-limits-matter-when-several-teams-share-one-instance">Why rate limits matter when several teams share one instance</h2><p>When several teams build on the same n8n instance, the public API becomes something many people depend on at once. API clients built by different teams call it, and so do n8n workflows that call the API of their own instance through the n8n node or the HTTP Request node.</p><p>Those workflows can create a lot of traffic in a short time. A node runs once for each item, so a list of 1,000 items sends about 1,000 requests at once. Without per-key controls, one workflow like that can block everyone else on the instance, and some customers have been building their own rate limiters around n8n to protect against it.</p><p>Rate limits give admins that protection inside n8n, without building a separate rate limiter. Each team gets room to build, and the instance stays protected when one workflow runs away.</p><h2 id="what-public-api-rate-limits-do-in-n8n">What public API rate limits do in n8n</h2><p><a href="https://docs.n8n.io/connect/n8n-api/rate-limits"><u>Rate limits</u></a> put a ceiling on how much traffic each API key can send to your instance, so a busy or runaway client hits its own limit instead of blocking other teams, and the instance stays protected from runaway automation.</p><ul><li><strong>You decide how much traffic is acceptable.</strong> Reads and writes get separate limits, both across all endpoints and per endpoint, so you can set a tighter limit on writes than on reads. Each API key has its own count within those limits.</li><li><strong>Clients get a clear signal when they reach a limit.</strong> n8n answers with a 429 response that includes Retry-After and rate-limit headers, so clients know when to retry and how many requests they have left, and can slow down before they reach the limit.</li><li><strong>You can start with sensible defaults and adjust as you go.</strong> Every limit starts with a default value, and changes you make in the settings page or through the API apply immediately, without a restart.</li><li><strong>The protection holds as you scale out.</strong> In multi-main setups, every main shares one count per API key through Redis, so an API key that reaches its limit gets a 429 from every main until the window ends.</li></ul><h2 id="how-to-turn-on-rate-limits-in-n8n">How to turn on rate limits in n8n</h2><p>Rate limiting is off by default, so you decide when to switch it on. You can configure it in whichever of three ways fits how you run n8n:</p><ul><li><strong>In the settings page:</strong> go to Settings &gt; Policies &gt; Public API Limits, turn on Enable API key rate limits, adjust the limits and windows, and select Enable limits.</li><li><strong>Through the public API:</strong> use <strong>GET /api/v1/settings/rate-limits</strong> to read the current settings and PUT /api/v1/settings/rate-limits to replace them. The API key needs the securitySettings:manage scope.</li><li><strong>With environment variables on self-hosted:</strong> set N8N_PUBLIC_API_RATE_LIMIT_ENABLED to true and restart n8n, then use the N8N_PUBLIC_API_RATE_LIMIT_* variables to change individual limits and windows.</li></ul><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/aa124385-e1b9-4a05-81aa-b933144b48f3.png" class="kg-image" alt="New in n8n: Public API rate limits that keep every team on your instance running" loading="lazy" width="2000" height="1125" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/11/aa124385-e1b9-4a05-81aa-b933144b48f3.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/11/aa124385-e1b9-4a05-81aa-b933144b48f3.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/11/aa124385-e1b9-4a05-81aa-b933144b48f3.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w2400/2026/11/aa124385-e1b9-4a05-81aa-b933144b48f3.png 2400w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Public API Rate Limits on n8n</span></figcaption></figure><p>Changes in the settings page or through the API apply immediately, without a restart. An environment variable overrides both, and the settings page shows that field as locked, so the value stays fixed until you change the variable and restart n8n.</p><h2 id="how-to-keep-your-api-clients-and-workflows-within-the-limits">How to keep your API clients and workflows within the limits</h2><p>API clients can read the rate-limit headers to know when to slow down and when to retry. Four habits help them stay within the limits:</p><ul><li>Wait for the number of seconds in Retry-After before retrying.</li><li>Add a small random delay of up to 5 seconds, so retries from different clients spread out.</li><li>Watch X-RateLimit-Remaining, and slow down as it gets close to 0 until the time in X-RateLimit-Reset.</li><li>Spread large jobs out, sending requests at a steady rate across the window.</li></ul><p>Workflows that call the n8n API of their own instance need one extra step. The n8n node and the HTTP Request node send one request per item and fail on a 429, so add Batching to the node (in Request Options for the n8n node, and in Options for the HTTP Request node) and set Items per Batch and Batch Interval (ms). Five items each second sends 300 requests a minute, which is below every default limit. Batching works better here than Retry On Fail, which waits at most 5 seconds between tries and often retries inside the same window.</p><h2 id="how-idempotency-keys-make-retries-safe">How idempotency keys make retries safe</h2><p>Rate limits mean clients will sometimes get a 429 and need to try again, and retrying a POST carries a risk: if the first request already succeeded, the retry can create a duplicate. Idempotency keys make those retries safe, so clients can back off after a 429 and try again with confidence.</p><p>Send an Idempotency-Key header with a public API POST request. If the request succeeds, n8n stores the response for 12 hours, and a retry with the same key and body gets that stored response instead of running the POST again. If the first request fails, n8n releases the key, so the retry runs normally.</p><p>The<a href="https://docs.n8n.io/connect/n8n-api/idempotency/"> <u>API idempotency documentation</u></a> covers the key format and the responses for conflicting or in-progress requests.</p><h2 id="frequently-asked-questions">Frequently Asked Questions</h2><h3 id="what-counts-toward-the-n8n-public-api-rate-limit">What counts toward the n8n public API rate limit?</h3><p>Only requests that use an API key at /api/v1 count toward the limits. Requests from the n8n editor don&apos;t count. Each API key has its own count, and every key works within the same limits.</p><h3 id="how-do-i-give-one-integration-more-headroom-than-the-others">How do I give one integration more headroom than the others?</h3><p>Run that integration on a separate n8n instance. Every API key in an instance shares the same limits, while each key keeps its own count, so a separate instance is the way to give one integration different limits.</p><h3 id="what-happens-if-i-change-a-rate-limit-while-requests-are-in-progress">What happens if I change a rate limit while requests are in progress?</h3><p>The new limit applies immediately. If the new limit is lower than an API key&apos;s current count, that key&apos;s next request gets a 429, and the count resets when the window ends.</p><h3 id="how-do-i-turn-off-one-type-of-rate-limit">How do I turn off one type of rate limit?</h3><p>Set that limit to 0. You can turn off reads or writes, globally or per endpoint, and keep the other limits in place. When rate limiting is enabled, at least one limit must be more than 0.</p><h3 id="why-does-my-n8n-workflow-fail-with-a-429-error-when-it-calls-the-n8n-api">Why does my n8n workflow fail with a 429 error when it calls the n8n API?</h3><p>The workflow is sending more requests than the instance&apos;s rate limits allow. The n8n node and the HTTP Request node run once for each item and fail on a 429, so a large list of items can reach a limit quickly. Add Batching to the node and set Items per Batch and Batch Interval to keep the request rate under the limits.</p><h2 id="what-to-do-next">What to do next</h2><p>Update to n8n 2.47.0 or later, turn on rate limits in Settings &gt; Policies &gt; Public API Limits, and check the <a href="https://docs.n8n.io/connect/n8n-api/rate-limits/"><u>API rate limits documentation</u></a> for the full configuration reference. If your clients send POST requests, add idempotency keys at the same time using the <a href="https://docs.n8n.io/connect/n8n-api/idempotency/"><u>API idempotency documentation</u></a>.                                                                                                                             </p>]]></content:encoded></item>
 <item><title><![CDATA[The future of work is built by everyone]]></title><description><![CDATA[Building automation is getting easier fast. So why keep it locked inside one team? A follow-up on what replaces the central automation team, and what n8n is learning as it opens building up to everyone.]]></description><link>https://blog.n8n.io/the-future-of-work-is-built-by-everyone/</link><guid isPermaLink="false">6af193889468c900010cb22b</guid><category><![CDATA[n8n on n8n]]></category><dc:creator><![CDATA[Romina da Costa]]></dc:creator><pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/Blog-header---n8n_on_n8n-02.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/Blog-header---n8n_on_n8n-02.jpg" alt="The future of work is built by everyone"><p>Who should actually be responsible for building automation inside a company?</p><p>Many organizations still answer that question the same way: a specialized team, usually small, usually stretched thin, building on behalf of everyone else. I wrote about why that model breaks down as a company and its automation vision scales in my <a href="https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/" rel="noreferrer">last piece</a>. So here&#x2019;s the follow-up question: If centralizing that capability is the wrong long-term answer, what actually replaces it?</p><p>My answer, and I admit it&#x2019;s an opinionated one: everyone builds. Not everyone has to become an automation engineer. But the ability to spot a repetitive piece of your own work and automate it yourself, without filing a ticket and waiting in a queue, has to become a normal part of how people work, the same way spreadsheets did a generation ago.</p><p>This isn&#x2019;t a nice-to-have; it&apos;s what the future of work looks like, and companies that treat it as optional are going to find themselves permanently behind the ones that don&apos;t.</p><h2 id="why-the-gatekeeping-model-was-never-going-to-last">Why the gatekeeping model was never going to last</h2><p>The instinct to centralize building makes sense at the start. You concentrate scarce technical skill in one place, and that team clears a real backlog fast. I&apos;ve written about what happens next: the team that solved the backlog problem becomes the new bottleneck, because the rest of the organization never had to build the capability itself.</p><p>Zoom out past automation teams specifically, and the same pattern shows up whenever technology gets treated as something a specialist does on your behalf, the way infrastructure did before platform engineering existed. A central team provisioning servers on request is slower, creates a permanent dependency, and puts judgment about what&apos;s actually needed in the hands of the people furthest from the problem. Platform engineering exists because infrastructure teams eventually stopped being gatekeepers and started building self-service paths instead. Automation is a few years behind, but I believe we will be going through a similar shift.</p><h2 id="whats-changing">What&apos;s changing</h2><p>Building is getting radically easier at a pace faster than most leadership teams have adjusted to. The practice of &#x201c;flowgramming&#x201d; using built-in AI assistants like the one available in n8n or via MCP has made it so that someone in finance can now build something in an afternoon that used to require a ticket, a queue, and several weeks of waiting. The barriers to entry are only getting lower.</p><p>This is not the only argument for decentralizing, and it isn&apos;t a universal one either. For companies in regulated industries, or serving customers with strict security requirements, keeping build access centralized can be the right call even if it&apos;s not technically necessary. That&apos;s a legitimate choice tied to risk appetite, and each organization will have to decide where they land on that speed vs. risk equation.</p><p>For a scale-up in a fast moving space like n8n, the calculus is different, and the risk runs the other way. Now that the technical barrier has significantly dropped and will continue to do so, the longer we keep automation concentrated in one team the more we risk falling behind organizations that are working out how to open this up safely. There&apos;s another reason to embrace decentralization that is true for n8n specifically: we build the product meant to make this kind of building accessible to everyone everywhere and we can&apos;t credibly sell a future we haven&apos;t lived ourselves. That&apos;s the whole idea behind starting &#x201c;n8n on n8n:&#x201d; getting it right internally is key to showing the world what is possible.</p><h2 id="how-decentralization-goes-wrong">How decentralization goes wrong</h2><p>Two responses are common when companies hear the call to &quot;let everyone build.&quot; They either resist it entirely, worried about chaos, or they open the floodgates with no structure and chaos ensues.</p><p>Both reactions miss a key opportunity. The future of work being built by everyone doesn&apos;t mean no standards. It means the standards have to travel with the capability, instead of living inside one team&apos;s head.</p><p>At n8n, the things we want to scale are the same ones I hold my own team to:</p><ul><li>Understand the process before you automate it, so you&apos;re not just making a broken process move faster.</li><li>Know when a proven tool beats building something yourself, so people aren&apos;t quietly reinventing things that already exist, or creating an unnecessary maintenance burden.</li><li>Build things that outlast the person who made them, with enough documentation that someone else can actually pick them up.&#xa0;</li><li>Treat responsible use of data and AI as non-negotiable, not something only a central team has to think about.</li></ul><p>None of that requires a computer science degree. But it does require investments in upskilling, enablement, and architecture that will support more people thinking and building the way an automation engineer would.</p><h2 id="what-the-journey-looks-like">What the journey looks like</h2><p>For us, this has meant moving the Automation team towards something closer to a guild than a service desk. We are developing a network of people across departments who&apos;ve picked up enough of this discipline to be the person their own team turns to first, backed by shared resources instead of everyone reinventing the same workflow from scratch: reusable templates, office hours where people bring a working problem instead of a request, and a documentation standard we&apos;re still rolling out that&apos;s meant to travel with every workflow regardless of who built it.</p><p>It&#x2019;s still early days and much of this remains aspirational, as the standards I just described aren&apos;t consistent across every team that does. Our Automation team is still struggling with a growing workflow maintenance burden with workflows that we are not in a position yet to fully hand over or redistribute to teams. But we are naming the problems and creating solutions rather than simply increasing headcount. This forces us to continue to prioritize the most business critical work, and create the right incentive structures for learning and development in automation across the organization.</p><h2 id="why-this-is-actually-about-the-future-of-work">Why this is actually about the future of work</h2><p>The companies that figure out how to give people real building capability, safely, are going to move much faster than the ones that keep it locked inside one team. That gap is going to show up in how quickly a company can respond to almost anything: a new competitor, a new regulation, or a tool that changes what&apos;s possible overnight.</p><p>The future of work isn&apos;t a smaller number of very powerful specialists doing more with AI. It&apos;s an organization where building automation becomes part of basic technical literacy, the way using the internet itself did. The difference is pace. That shift took a generation to settle in. This one won&apos;t take as long, partly because the pace of change has been astounding, and partly because the benefits don&apos;t concentrate on one function: they show up everywhere at once, which means the upskilling has to happen function by function, and faster than we&apos;ve ever had to do it before.</p><p>Getting there isn&apos;t about handing everyone a tool. It&apos;s about deciding, deliberately, that this is worth teaching, worth standardizing, and worth building a real team around: one that sets the standards, builds the architecture everyone else builds on top of, still owns the highest-stakes and most business-critical systems itself, and makes everyone else capable of the rest.</p><p></p>]]></content:encoded></item>
 <item><title><![CDATA[Microservices best practices every automation engineer should know]]></title><description><![CDATA[Discover microservices best practices to build resilient systems. Learn what the best patterns look like and how workflow automation fits into the process.
 ]]></description><link>https://blog.n8n.io/microservices-best-practices/</link><guid isPermaLink="false">6aea321080b5aa000133993e</guid><category><![CDATA[Guide]]></category><category><![CDATA[ITOps]]></category><dc:creator><![CDATA[n8n team]]></dc:creator><pubDate>Tue, 10 Nov 2026 20:39:16 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/TL-6_microservices-best-practices--1-.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/TL-6_microservices-best-practices--1-.jpg" alt="Microservices best practices every automation engineer should know"><p>A microservices architecture breaks an application into small, independent services that each handle a specific function and communicate through APIs. If one service fails, the others ideally keep running instead of taking down the entire application. It makes systems more failure-resistant, but only if those microservices are designed to fail safely.</p><p>Microservices best practices help you control how your services depend on and communicate with each other, so a failed API or unavailable database doesn&#x2019;t trigger a chain reaction.</p><h2 id="define-clear-service-boundaries">Define clear service boundaries</h2><p>When designing microservices, decide where one service stops and another begins. A useful rule of thumb is to draw those boundaries around a distinct business capability.</p><p>Domain-driven design is a practical approach to draw boundaries. It groups related business logic into a bounded context, or a defined part of the business with its own rules, language, and data. The single responsibility principle is also useful &#x2014; each service should own one business capability rather than sharing that responsibility with others.</p><p>For example, an order service might take care of order creation and each order&#x2019;s status, while a payment service handles charging and refunds. Keeping those responsibilities separate also makes each service independently deployable, so changing your payment logic doesn&#x2019;t require you to release unrelated parts of the application.</p><p>If different services share the same responsibility, even a small change might force you to update APIs, move data, and coordinate deployments across all of them.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">In n8n, <a href="https://docs.n8n.io/build/flow-logic/break-workflows-into-smaller-parts"><u>sub-workflows</u></a> can help you separate service-specific orchestration into smaller, reusable workflows. Each sub-workflow owns its own service-calling logic and error handling, making failures easier to isolate and troubleshoot.</div></div><h2 id="build-resilience-into-service-to-service-calls">Build resilience into service-to-service calls</h2><p>As your services start depending on one another, service-to-service communication becomes part of your potential failure surface. A service can be healthy and still fail to complete its task because another one times out, rejects a request, or becomes temporarily unavailable.&#xa0;</p><p>With <a href="https://blog.n8n.io/orchestration-vs-choreography/"><u>synchronous communication</u></a>, one service waits for another to respond, so a slow dependency can delay the caller even when the caller itself is working normally. If you don&#x2019;t need an immediate response, asynchronous communication can reduce that dependency. For example, one service can place work on a message queue for another process when it&#x2019;s ready.</p><p>Designing for these failures is a core part of distributed system resilience, where the wider system can keep doing its job even when one dependency has a problem. That&#x2019;s why you use microservices architecture patterns like circuit breakers, retries, and bulkheads. Each addresses a different failure mode.</p><h3 id="circuit-breaker-pattern">Circuit breaker pattern</h3><p>A circuit breaker watches for repeated failures and temporarily stops sending requests once they cross a threshold. It doesn&#x2019;t repeatedly wait for a service that&#x2019;s unlikely to respond, but instead it lets the caller fail fast for a period and gives the dependency time to recover.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text"> n8n&#x2019;s <a href="https://docs.n8n.io/build/flow-logic/handle-errors-gracefully"><u>error workflows</u></a> give you workflow-level failure handling instead of a stateful circuit breaker. You can configure an error workflow separately in <a href="https://docs.n8n.io/build/manage-workflows/configure-workflow-settings"><u>Workflow Settings</u></a> &#x2014; if the main execution fails, n8n runs that workflow starting with the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.errortrigger/"><u>Error Trigger</u></a>. You can use it to log the failure or start recovery logic.</div></div><h3 id="retry-with-exponential-backoff">Retry with exponential backoff</h3><p>Some failures are only temporary, so if a service times out for a few seconds, trying again may be enough to complete the request. Retries make sense for transient faults, like timeouts or rate limits. However, retrying immediately can put pressure on a struggling service.</p><p>Exponential backoff handles this by increasing the delay after each failed attempt.&#xa0;</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">For more straightforward retries, n8n&#x2019;s <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/common-issues#retry-on-fail"><u>Retry On Fail setting</u></a> lets you set the maximum number of tries and a fixed waiting period between them. If you want the delay itself to increase after every failure, you can build that logic into the workflow with a loop and the <a href="https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.wait"><u>Wait node</u></a>.</div></div>
@@ -951,19 +949,11 @@
 </div>
 <!--kg-card-end: html-->
 <p></p>]]></content:encoded></item>
-<item><title><![CDATA[Why we refreshed the n8n brand]]></title><description><![CDATA[A new logo, a new typeface, and a new take on our pink, built for where n8n is going.]]></description><link>https://blog.n8n.io/n8n-brand-refresh-2026/</link><guid isPermaLink="false">6ac69fd4b39bc30001bd3e1c</guid><category><![CDATA[News]]></category><dc:creator><![CDATA[Jan Oberhauser]]></dc:creator><pubDate>Tue, 20 Oct 2026 11:09:09 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/Blog-cover-rebrand.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/Blog-cover-rebrand.png" alt="Why we refreshed the n8n brand"><p>If you have spent any time around n8n, you know how we work. We ship something, break something, learn from it, listen to what people tell us, and make it better. Then we do it again. Iteration is not a process we adopted. It is how n8n got built.</p><p>So it makes sense that we have applied exactly the same approach to our brand. On October 14, at our In The Loop conference, we introduced a new logo, a new typeface, and a refined color system, with our pink still at its center. The look is evolving. What we stand for stays the same.</p><p>Here is what is changing, why, and what is not.</p><h2 id="first-some-context">First, some context</h2><p>n8n is a platform where people build workflows and AI agents that connect their tools, data, and models. It started as a workflow automation tool. It is now a global community of builders working across automation and AI.</p><p>That community matters to this story. Many of you have seen our logo on things you have built, contributed to, or learned from. It is more than a shape to a lot of people, and we know that. Some of you will like the new logo right away, some will need time, and some will miss the old one. That is completely fair. I understand that, as even for me it took some time.</p><h2 id="why-the-logo-changed">Why the logo changed</h2><p>Our old logo was built around a simple idea: connected nodes. It represented what n8n was about. You connect one thing to another, build a workflow, and make something happen.</p><p>But look at what happens in n8n today. A person steps into a workflow and makes a decision. An agent takes an action. A model interprets information. Data moves between systems. One process triggers another. Different pieces of a system react to what is happening around them in real time. The nodes are still there, but increasingly the interesting part is what happens between them.</p><p>That is the idea behind the new logo. It is less about showing a connection and more about showing the activity that connection makes possible. It is a visual expression of n8n moving from workflows that connect things to systems that can respond, adapt, and act.</p><figure class="kg-card kg-video-card kg-width-regular" data-kg-thumbnail="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-animation-thumb.png" data-kg-custom-thumbnail>
-            <div class="kg-video-container">
-                <video src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/media/2026/10/n8n-logo-animation.mp4" poster="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-animation-thumb.png" width="1928" height="1080" loop autoplay muted playsinline preload="metadata" controls></video>
-                
-                
-            </div>
-            
-        </figure><p>That distinction matters to us because agentic AI is not something we have bolted onto n8n. It is becoming part of how people use n8n to build. As we grow into a multi-product company, our brand needed to reflect that.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-construction.jpg" class="kg-image" alt="Why we refreshed the n8n brand" loading="lazy" width="1920" height="1080" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-logo-construction.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-logo-construction.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/n8n-logo-construction.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-construction.jpg 1920w" sizes="(min-width: 720px) 720px"></figure><h2 id="the-typeface-and-the-color">The typeface and the color</h2><p>The typeface follows the same logic. n8n lives in the technical world, so the type needed to be precise. But the people using n8n are just as important as the technology: builders experimenting, solving problems, and sharing what they have made. So the typeface balances those two sides: technical without feeling sterile, precise without feeling rigid. It is the same story in a different medium.</p><p>And yes, our pink stays. It has always been part of n8n, so we have refined it and added a set of grays around it, partly to give the system more range and partly to keep it from running too wild.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-brand-cards.jpg" class="kg-image" alt="Why we refreshed the n8n brand" loading="lazy" width="1920" height="1080" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-brand-cards.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-brand-cards.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/n8n-brand-cards.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-brand-cards.jpg 1920w" sizes="(min-width: 720px) 720px"></figure><h2 id="what-does-not-change">What does not change</h2><p>This is a zhush, not a rebuild. We did not start from scratch. We took what we had, worked out what still mattered, and built on top of it.</p><p>The things that matter most about n8n are staying exactly where they are:</p><ul><li>Our community of builders, and the ecosystem we have built together</li><li>Connection, control, and flexibility, which is why Community Edition and model choice stay</li><li>The pink stays. We refined it a little, but it is still very pink</li><li>Who we are: curious builders who care about the people we build with, and who like to keep things a little playful</li></ul><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-cap.jpg" class="kg-image" alt="Why we refreshed the n8n brand" loading="lazy" width="1920" height="1080" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-logo-cap.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-logo-cap.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/n8n-logo-cap.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-logo-cap.jpg 1920w" sizes="(min-width: 720px) 720px"></figure><h2 id="how-we-got-here">How we got here</h2><p>People from across n8n worked on our rebrand; our leadership challenged it, community members saw early versions and told us what they thought. We know that is only a small slice of a community this size, and that many of you are seeing this for the first time.</p><h2 id="see-it-for-yourself">See it for yourself</h2><p>This is a new chapter for n8n. But it is not a departure from what came before. We are still doing what we have always done: building, learning, listening, and making n8n better. The brand refresh is another part of that process.</p><p>The new identity went live on October 14, at In The Loop. You will start seeing it across the product, the website, our community, and events. <a href="https://youtu.be/Hijhd9NNtF8" rel="noreferrer">Watch the brand refresh video</a> to see how it came together, then explore the <a href="https://n8n.io">refreshed n8n</a>. Get all the brand details on our new <a href="https://guidelines.n8n.design/">brand guidelines</a>. </p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-builders-badge.jpg" class="kg-image" alt="Why we refreshed the n8n brand" loading="lazy" width="1920" height="1080" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/10/n8n-builders-badge.jpg 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/10/n8n-builders-badge.jpg 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/10/n8n-builders-badge.jpg 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/10/n8n-builders-badge.jpg 1920w" sizes="(min-width: 720px) 720px"></figure><p>And then tell us what you think, including the parts that do not work for you. That is how we have always worked: ship it, learn from it, listen, and make it better. The brand is no different. <a href="https://community.n8n.io/t/our-brand-refresh-and-why-the-logo-changed/323036">Come find us on the forum</a>&#xa0;and keep shaping n8n with us.</p>]]></content:encoded></item>
 <item>
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 10 Nov 2026 02:41:47 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 11:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -972,7 +962,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 06 Nov 2026 07:41:47 GMT</pubDate>
+  <pubDate>Wed, 11 Nov 2026 08:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -981,7 +971,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 04 Nov 2026 02:41:47 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 23:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -990,7 +980,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 05 Nov 2026 05:41:47 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 12:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -999,7 +989,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 09 Nov 2026 17:41:47 GMT</pubDate>
+  <pubDate>Sun, 08 Nov 2026 19:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -1008,7 +998,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 13 Nov 2026 03:41:47 GMT</pubDate>
+  <pubDate>Thu, 12 Nov 2026 08:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1017,7 +1007,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 05 Nov 2026 15:41:47 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 20:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1026,7 +1016,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 10 Nov 2026 11:41:47 GMT</pubDate>
+  <pubDate>Mon, 09 Nov 2026 00:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -1035,7 +1025,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 05 Nov 2026 01:41:47 GMT</pubDate>
+  <pubDate>Sun, 08 Nov 2026 03:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -1044,7 +1034,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 05 Nov 2026 20:41:47 GMT</pubDate>
+  <pubDate>Fri, 13 Nov 2026 06:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -1053,7 +1043,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 10 Nov 2026 00:41:47 GMT</pubDate>
+  <pubDate>Tue, 10 Nov 2026 11:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1062,7 +1052,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 04 Nov 2026 08:41:47 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 01:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1071,7 +1061,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 05 Nov 2026 15:41:47 GMT</pubDate>
+  <pubDate>Wed, 11 Nov 2026 17:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1080,7 +1070,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 10 Nov 2026 03:41:47 GMT</pubDate>
+  <pubDate>Sat, 07 Nov 2026 14:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1089,7 +1079,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 12 Nov 2026 22:41:47 GMT</pubDate>
+  <pubDate>Mon, 09 Nov 2026 22:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fda66231d58f985dee0_6a19627b169f37f0ff2f5ca3_69eb4a0c5602f57d4a5f6169_formation%252520claude%252520code%252520ecole%252520cube.avif" /> ]]></content:encoded>
@@ -1098,7 +1088,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 07 Nov 2026 00:41:47 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 01:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1107,7 +1097,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 11 Nov 2026 02:41:47 GMT</pubDate>
+  <pubDate>Wed, 11 Nov 2026 10:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1116,7 +1106,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 11 Nov 2026 19:41:47 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 15:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1125,7 +1115,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 12 Nov 2026 02:41:47 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 22:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1134,7 +1124,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 07 Nov 2026 20:41:47 GMT</pubDate>
+  <pubDate>Thu, 12 Nov 2026 02:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1143,7 +1133,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 11 Nov 2026 00:41:47 GMT</pubDate>
+  <pubDate>Sun, 08 Nov 2026 06:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1152,7 +1142,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 08 Nov 2026 21:41:47 GMT</pubDate>
+  <pubDate>Fri, 13 Nov 2026 11:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1161,7 +1151,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 09 Nov 2026 02:41:47 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 01:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fb42eefd17b2daaa76b_6a19622d84548e89236c4246_69e7ab7c3b1824f997364133_intelligence%252520artificielle%252520gratuite%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1170,7 +1160,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 08 Nov 2026 17:41:47 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 03:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1179,7 +1169,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-designers</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 08 Nov 2026 05:41:47 GMT</pubDate>
+  <pubDate>Tue, 03 Nov 2026 15:28:48 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7160b07b95e8de403783_6a196170e9210a2cb96d61d0_69e7a708c8e806d03cc7736e_outils%252520ia%252520pour%252520designers%252520e%2525CC%252581cole%252520Cube.avif" /> ]]></content:encoded>
@@ -1536,40 +1526,58 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-1-150x84.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[NXO renforce sa pratique NetDevOps et intègre l’IA au cœur de l’automatisation réseau]]></title>
-  <link>https://www.ia-news.fr/nxo-renforce-sa-pratique-netdevops-et-integre-lia-au-coeur-de-lautomatisation-reseau/</link>
+  <title><![CDATA[IA et cybersécurité transforment le marché de la téléphonie IP]]></title>
+  <link>https://www.ia-news.fr/ia-et-cybersecurite-transforment-le-marche-de-la-telephonie-ip/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/Intelligence-artificielle-IA-AI-12-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/09/Cyber-securite-security-protection-3-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/09/Cyber-securite-security-protection-3-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/09/Cyber-securite-security-protection-3-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Un an après sa création, Myriade s&rsquo;impose dans l&rsquo;analytique IA des grandes entreprises]]></title>
-  <link>https://www.ia-news.fr/un-an-apres-sa-creation-myriade-simpose-dans-lanalytique-ia-des-grandes-entreprises/</link>
+  <title><![CDATA[Contenus médias : sous la coupe des algorithmes ?]]></title>
+  <link>https://www.ia-news.fr/contenus-medias-sous-la-coupe-des-algorithmes/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-logiciel-ai-ia-intelligence-artificielle-digital-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-logiciel-ai-ia-intelligence-artificielle-digital-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/09/tech-logiciel-ai-ia-intelligence-artificielle-digital-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/01/donnee-algorithme-0-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Cybersécurité : comment l’IA renforce la gestion du risque humain]]></title>
-  <link>https://www.ia-news.fr/cybersecurite-comment-lia-renforce-la-gestion-du-risque-humain/</link>
+  <title><![CDATA[mediaire lève 12 millions d&rsquo;euros pour développer sa gamme d’outils d’IA]]></title>
+  <link>https://www.ia-news.fr/mediaire-leve-12-millions-deuros-pour-developper-sa-gamme-doutils-dia/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women-150x75.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women-150x75.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/securite-informatique-locked-women-150x75.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/digital-domaine-medical-01-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[AssurOne fait le choix d’une IA française de confiance]]></title>
-  <link>https://www.ia-news.fr/assurone-fait-le-choix-dune-ia-francaise-de-confiance/</link>
+  <title><![CDATA[Accélérer l’usage de l’IA au sein des TPE et PME]]></title>
+  <link>https://www.ia-news.fr/accelerer-lusage-de-lia-au-sein-des-tpe-et-pme/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/12/000000020503-150x99.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/12/000000020503-150x99.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/12/000000020503-150x99.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc-150x75.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc-150x75.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-reseau-blanc-150x75.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[Cloudera et VAST Data annoncent un partenariat stratégique]]></title>
+  <link>https://www.ia-news.fr/cloudera-et-vast-data-annoncent-un-partenariat-strategique/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/05/partenariat-hand-shake-324-007-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/05/partenariat-hand-shake-324-007-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/partenariat-hand-shake-324-007-150x79.jpg" /> <p></p>]]></content:encoded>
+</item>
+<item>
+  <title><![CDATA[IA souveraine : 91 % des entreprises s&rsquo;appuient sur le stockage objet pour leurs déploiements en production]]></title>
+  <link>https://www.ia-news.fr/ia-souveraine-91-des-entreprises-sappuient-sur-le-stockage-objet-pour-leurs-deploiements-en-production/</link>
+  <description><![CDATA[]]></description>
+  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-150x84.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-150x84.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/11/futuristic-digital-generated-motion-abstract-matrix-cyber-environment-big-data-analytic-artificial_t20_lLL0g2-150x84.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
