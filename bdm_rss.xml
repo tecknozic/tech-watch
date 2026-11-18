@@ -67,7 +67,7 @@
 				method: 'POST',
 				credentials: 'same-origin',
 				headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8' },
-				body: 'action=hwh_get_user_state&nonce=fab0d51218'
+				body: 'action=hwh_get_user_state&nonce=92cf1b8fe5'
 			}).then(function (r) { return r.json(); }).then(function (res) {
 				if (res && res.success && res.data && res.data.display && res.data.display.initials) {
 					d.style.setProperty('--hwh-initials', JSON.stringify(res.data.display.initials));
@@ -94,15 +94,13 @@
 })();
 </script>
 			<title>IA : actualités, conseils et études autour de l’intelligence artificielle</title>
-<link data-rocket-prefetch href="https://try.abtasty.com" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://scripts.clarity.ms" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://try.abtasty.com" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://www.clarity.ms" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://tag.aticdn.net" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://www.googletagmanager.com" rel="dns-prefetch">
 <link data-rocket-prefetch href="https://f.hellowork.com" rel="dns-prefetch">
-<link data-rocket-prefetch href="https://accounts.google.com" rel="dns-prefetch">
-<link data-rocket-prefetch href="https://unpkg.com" rel="dns-prefetch">
-<link data-rocket-prefetch href="https://tracker.quadran.eu" rel="dns-prefetch"><link rel="preload" data-rocket-preload as="image" href="https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-276x144.jpg" imagesrcset="https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-664x347.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-768x402.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/10/IA-gloutonne.jpg 1200w" imagesizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" fetchpriority="high">
+<link data-rocket-prefetch href="https://unpkg.com" rel="dns-prefetch"><link rel="preload" data-rocket-preload as="image" href="https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-276x144.jpg" imagesrcset="https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-664x347.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-768x402.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement.jpg 1200w" imagesizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" fetchpriority="high">
 	<meta name="description" content="Les dernières actualités de l’intelligence artificielle et des conseils pour mieux utiliser ChatGPT, Claude, Gemini, Vibe (ex-Le Chat), Perplexity&#8230;"/>
 	<meta property="og:locale" content="fr_FR" />
 	<meta property="og:type" content="website" />
@@ -179,7 +177,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			'theme' : 'ia',
 			'tag' : '',
 			'category_list' : '',
-			'search_result' : '1375',
+			'search_result' : '1379',
 			'article_publication_date' :  '',
 			'article_gated' : false,
 			'user_logged_in' : false		}];
@@ -365,18 +363,18 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	
 		<div class="popular-tags mb-1 mb-md-4 mt-5">
 
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/bcranv/" class="e-link badge badge-grey">OpenAI</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/vagreivrjf/" class="e-link badge badge-grey">Interviews</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/cebqhpgvivgr/" class="e-link badge badge-grey">Productivité</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/genafsbezngvba-qvtvgnyr/" class="e-link badge badge-grey">Transformation digitale</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ivqrb/" class="e-link badge badge-grey">Vidéo</span>
 							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/rghqr/" class="e-link badge badge-grey">Étude</span>
-							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/sbezngvba/" class="e-link badge badge-grey">Formation</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/naguebcvp/" class="e-link badge badge-grey">Anthropic</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/fgengrtvr-qvtvgnyr/" class="e-link badge badge-grey">Stratégie digitale</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/pbzzhavgl-znantrzrag/" class="e-link badge badge-grey">Community management</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/qrirybccrzrag/" class="e-link badge badge-grey">Développement</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/ivqrb/" class="e-link badge badge-grey">Vidéo</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/plorefrphevgr/" class="e-link badge badge-grey">Cybersécurité</span>
+							<span data-href="uggcf://jjj.oybtqhzbqrengrhe.pbz/qbffvre/tbbtyr/" class="e-link badge badge-grey">Google</span>
 			
 		</div>
 
@@ -472,14 +470,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </h2>																<div class="popular-topics pt-4 pb-md-1">
 																			<a href="https://www.blogdumoderateur.com/dossier/openai/" class="badge">OpenAI</a>
 																			<a href="https://www.blogdumoderateur.com/dossier/anthropic/" class="badge">Anthropic</a>
-																			<a href="https://www.blogdumoderateur.com/dossier/developpement/" class="badge">Développement</a>
 																			<a href="https://www.blogdumoderateur.com/dossier/google/" class="badge">Google</a>
+																			<a href="https://www.blogdumoderateur.com/dossier/developpement/" class="badge">Développement</a>
 																	</div>
 										<div class="hwh-alert-cta-wrap">
 			<button type="button"
 				class="cta btn outline hwh-alert-cta"
 				data-hwh-alert="serp"
-				data-hwh-alert-terms="[{&quot;id&quot;:1076,&quot;name&quot;:&quot;IA&quot;,&quot;type&quot;:&quot;category&quot;},{&quot;id&quot;:1064,&quot;name&quot;:&quot;OpenAI&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:1065,&quot;name&quot;:&quot;Anthropic&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:217,&quot;name&quot;:&quot;D\u00e9veloppement&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:180,&quot;name&quot;:&quot;Google&quot;,&quot;type&quot;:&quot;post_tag&quot;}]">
+				data-hwh-alert-terms="[{&quot;id&quot;:1076,&quot;name&quot;:&quot;IA&quot;,&quot;type&quot;:&quot;category&quot;},{&quot;id&quot;:1064,&quot;name&quot;:&quot;OpenAI&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:1065,&quot;name&quot;:&quot;Anthropic&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:180,&quot;name&quot;:&quot;Google&quot;,&quot;type&quot;:&quot;post_tag&quot;},{&quot;id&quot;:217,&quot;name&quot;:&quot;D\u00e9veloppement&quot;,&quot;type&quot;:&quot;post_tag&quot;}]">
 				<svg class="ico" aria-hidden="true" focusable="false"><use xlink:href="https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg#icon-alert"></use></svg>				<span class="hwh-alert-cta__label hwh-alert-cta__label--create">Créer une alerte</span>
 				<span class="hwh-alert-cta__label hwh-alert-cta__label--manage">Gérer mon alerte</span>
 			</button>
@@ -491,6 +489,166 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			</div>
 
 			<div class="archive-list row justify-content-center">
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Gemini va conserver vos discussions plus longtemps, même avec l’historique désactivé" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-216532" class="d-flex my-md-5 my-4 post-216532 post type-post status-publish format-standard has-post-thumbnail category-ia tag-gemini tag-google">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img fetchpriority="high" width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Gemini va conserver vos discussions plus longtemps, même avec l’historique désactivé" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-294x154.jpg 294w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-664x347.jpg 664w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-768x402.jpg 768w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement-510x267.jpg 510w, https://f.hellowork.com/blogdumoderateur/2026/11/Gemini-memoire-historique-entrainement.jpg 1200w" />		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+			<div class="meta-line">
+
+									<span class="favtag color-b">Gemini</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-18T11:28:25+01:00">18 novembre 2026</time></span>
+
+				
+			</div>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/gemini-conserver-discussions-plus-longtemps/" >
+					<h3 class="entry-title">Gemini va conserver vos discussions plus longtemps, même avec l’historique désactivé</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Gemini va remplacer le réglage « Conserver l’activité » par deux paramètres indépendants et porter à environ deux mois la conservation des discussions lorsque l’historique [...]</div>
+			
+		</div>
+
+	</article><!-- #post-216532 -->
+
+</div>
+					</div><!-- .col -->
+
+				
+					<div class="col-xl-12">
+						<div aria-label="Métiers exposés à l’IA&nbsp;: les offres d’emploi ralentissent aussi pour les profils expérimentés" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-216504" class="d-flex my-md-5 my-4 post-216504 post type-post status-publish format-standard has-post-thumbnail category-ia tag-etude tag-recrutement tag-travailler-digital">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Métiers exposés à l’IA&nbsp;: les offres d’emploi ralentissent aussi pour les profils expérimentés" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-664x349.png 664w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-768x404.png 768w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-370x194.png 370w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-510x267.png 510w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface.png 1200w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-276x144.png" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-276x144.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Métiers exposés à l’IA&nbsp;: les offres d’emploi ralentissent aussi pour les profils expérimentés" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-664x349.png 664w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-768x404.png 768w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-370x194.png 370w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface-510x267.png 510w, https://f.hellowork.com/blogdumoderateur/2026/11/ecart-evolution-offres-emploi-coface.png 1200w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+			<div class="meta-line">
+
+									<span class="favtag color-b">Étude</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-18T11:20:31+01:00">18 novembre 2026</time></span>
+
+				
+			</div>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/metiers-exposes-ia-offres-emploi-ralentissent-profils-experimentes/" >
+					<h3 class="entry-title">Métiers exposés à l’IA&nbsp;: les offres d’emploi ralentissent aussi pour les profils expérimentés</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">Selon une étude de Coface et de l’Observatoire des emplois menacés et émergents, les annonces des professions très exposées à l’IA restent en retrait par [...]</div>
+			
+		</div>
+
+	</article><!-- #post-216504 -->
+
+</div>
+					</div><!-- .col -->
+
+				
+					<div class="col-xl-12">
+						<div aria-label="OpenAI lance GPT-6.2 Astra et Sol, des modèles moins chers et plus performants" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-216478" class="d-flex my-md-5 my-4 post-216478 post type-post status-publish format-standard has-post-thumbnail category-ia tag-openai">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="OpenAI lance GPT-6.2 Astra et Sol, des modèles moins chers et plus performants" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-510x267.jpg 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="OpenAI lance GPT-6.2 Astra et Sol, des modèles moins chers et plus performants" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/openai-gpt-6-2-astra-sol-510x267.jpg 510w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+			<div class="meta-line">
+
+									<span class="favtag color-b">OpenAI</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-18T10:40:46+01:00">18 novembre 2026</time></span>
+
+				
+			</div>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/openai-gpt-6-2-astra-sol-modeles-moins-chers-plus-performants/" >
+					<h3 class="entry-title">OpenAI lance GPT-6.2 Astra et Sol, des modèles moins chers et plus performants</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">OpenAI dévoile GPT-6.2 Astra, son nouveau modèle de pointe pour les projets complexes, et GPT-6.2 Sol, pensé pour le travail quotidien.</div>
+			
+		</div>
+
+	</article><!-- #post-216478 -->
+
+</div>
+					</div><!-- .col -->
+
+				
+					<div class="col-xl-12">
+						<div aria-label="ChatGPT for Sales&nbsp;: OpenAI veut faire de ChatGPT l’outil de travail des commerciaux" class="a-container content-serp nostyle t-size-small d-block bt-1">
+
+	<article id="post-216480" class="d-flex my-md-5 my-4 post-216480 post type-post status-publish format-standard has-post-thumbnail category-ia tag-openai">
+
+		
+	<div class="post-thumbnail picture rounded-img">
+		
+		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ChatGPT for Sales&nbsp;: OpenAI veut faire de ChatGPT l’outil de travail des commerciaux" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-510x267.jpg 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ChatGPT for Sales&nbsp;: OpenAI veut faire de ChatGPT l’outil de travail des commerciaux" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/ChatGPT-for-Sales-510x267.jpg 510w" /></noscript>		
+	</div><!-- .post-thumbnail -->
+
+	
+		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
+
+			<div class="meta-line">
+
+									<span class="favtag color-b">OpenAI</span>
+				
+				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-18T10:39:26+01:00">18 novembre 2026</time></span>
+
+				
+			</div>
+
+			<header class="entry-header pt-1">
+
+				<a href="https://www.blogdumoderateur.com/chatgpt-for-sales-outil-travail-commerciaux/" >
+					<h3 class="entry-title">ChatGPT for Sales&nbsp;: OpenAI veut faire de ChatGPT l’outil de travail des commerciaux</h3>				</a>
+
+			</header><!-- .entry-header -->
+
+							<div class="entry-excerpt t-def t-size-def pt-1">OpenAI lance un plugin Sales et plus de 30 plugins partenaires. Les commerciaux peuvent préparer un rendez-vous, rédiger une relance ou mettre à jour leur [...]</div>
+			
+		</div>
+
+	</article><!-- #post-216480 -->
+
+</div>
+					</div><!-- .col -->
 
 				
 					<div class="col-xl-12">
@@ -933,166 +1091,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					</div><!-- .col -->
 
 				
-					<div class="col-xl-12">
-						<div aria-label="Zendesk dévoile l’Outcome AI Platform pour adapter le service client aux assistants IA personnels" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-216255" class="d-flex my-md-5 my-4 post-216255 post type-post status-publish format-standard has-post-thumbnail category-ia tag-productivite tag-strategie-digitale tag-transformation-digitale">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Zendesk dévoile l’Outcome AI Platform pour adapter le service client aux assistants IA personnels" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-510x267.jpg 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-276x144.jpg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-276x144.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Zendesk dévoile l’Outcome AI Platform pour adapter le service client aux assistants IA personnels" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-276x144.jpg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-370x194.jpg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/Michael-Chaouat-VP-Sales-Zendesk-1-510x267.jpg 510w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-			<div class="meta-line">
-
-									<span class="favtag color-b">Productivité</span>
-				
-				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-12T11:02:34+01:00">12 novembre 2026</time></span>
-
-				
-			</div>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/zendesk-outcome-ai-platform-adapter-service-client-assistants-ia-personnels/" >
-					<h3 class="entry-title">Zendesk dévoile l’Outcome AI Platform pour adapter le service client aux assistants IA personnels</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Présentée lors de l’AI Summit, la nouvelle plateforme de Zendesk réunit un annuaire de support vérifié, une connexion aux outils IA tiers et une facturation [...]</div>
-			
-		</div>
-
-	</article><!-- #post-216255 -->
-
-</div>
-					</div><!-- .col -->
-
-				
-					<div class="col-xl-12">
-						<div aria-label="Agents always-on, MCP, Firefly Design&nbsp;: les principales annonces d’Adobe MAX 2026" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-216163" class="d-flex my-md-5 my-4 post-216163 post type-post status-publish format-standard has-post-thumbnail category-ia tag-adobe tag-design">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Agents always-on, MCP, Firefly Design&nbsp;: les principales annonces d’Adobe MAX 2026" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-370x194.jpeg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-510x267.jpeg 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-276x144.jpeg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-276x144.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Agents always-on, MCP, Firefly Design&nbsp;: les principales annonces d’Adobe MAX 2026" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-370x194.jpeg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/FF-Design-Logo-3-510x267.jpeg 510w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-			<div class="meta-line">
-
-									<span class="favtag color-b">Adobe</span>
-				
-				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-10T15:00:11+01:00">10 novembre 2026</time></span>
-
-				
-			</div>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/principales-annonces-adobe-max-2026/" >
-					<h3 class="entry-title">Agents always-on, MCP, Firefly Design&nbsp;: les principales annonces d’Adobe MAX 2026</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">En ouverture de MAX 2026, Adobe a présenté des agents capables de travailler en arrière-plan, annoncé des intégrations MCP pour les agents tiers, et enrichi [...]</div>
-			
-		</div>
-
-	</article><!-- #post-216163 -->
-
-</div>
-					</div><!-- .col -->
-
-				
-					<div class="col-xl-12">
-						<div aria-label="Automattic lance une plateforme pour déployer des sites créés avec ChatGPT, Claude ou OpenClaw" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-216194" class="d-flex my-md-5 my-4 post-216194 post type-post status-publish format-standard has-post-thumbnail category-ia tag-developpement tag-wordpress">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Automattic lance une plateforme pour déployer des sites créés avec ChatGPT, Claude ou OpenClaw" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-370x194.jpeg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-510x267.jpeg 510w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-276x144.jpeg" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-276x144.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Automattic lance une plateforme pour déployer des sites créés avec ChatGPT, Claude ou OpenClaw" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-276x144.jpeg 276w, https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-370x194.jpeg 370w, https://f.hellowork.com/blogdumoderateur/2026/11/spacefast-automattic-vibe-coding-510x267.jpeg 510w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-			<div class="meta-line">
-
-									<span class="favtag color-b">Développement</span>
-				
-				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-10T11:08:11+01:00">10 novembre 2026</time></span>
-
-				
-			</div>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/automattic-lance-spacefast/" >
-					<h3 class="entry-title">Automattic lance une plateforme pour déployer des sites créés avec ChatGPT, Claude ou OpenClaw</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">La maison mère de WordPress.com dévoile une plateforme qui prend en charge l'hébergement, le nom de domaine et la base de données des projets conçus [...]</div>
-			
-		</div>
-
-	</article><!-- #post-216194 -->
-
-</div>
-					</div><!-- .col -->
-
-				
-					<div class="col-xl-12">
-						<div aria-label="ChatGPT Ads&nbsp;: que disent les premiers tests&nbsp;?" class="a-container content-serp nostyle t-size-small d-block bt-1">
-
-	<article id="post-216116" class="d-flex my-md-5 my-4 post-216116 post type-post status-publish format-standard has-post-thumbnail category-ia tag-openai tag-publicite">
-
-		
-	<div class="post-thumbnail picture rounded-img">
-		
-		<img width="276" height="144" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20276%20144'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ChatGPT Ads&nbsp;: que disent les premiers tests&nbsp;?" data-lazy-sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" data-lazy-srcset="https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-294x154.png 294w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-664x347.png 664w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-768x402.png 768w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-370x194.png 370w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-510x267.png 510w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa.png 1200w" data-lazy-src="https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-276x144.png" /><noscript><img width="276" height="144" src="https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-276x144.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ChatGPT Ads&nbsp;: que disent les premiers tests&nbsp;?" sizes="(min-width: 768px) 276px, (min-width: 400px) 510px, (max-width: 400px) 276px, 276px" decoding="async" srcset="https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-276x144.png 276w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-294x154.png 294w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-664x347.png 664w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-768x402.png 768w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-370x194.png 370w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa-510x267.png 510w, https://f.hellowork.com/blogdumoderateur/2026/11/marika-kinet-paid-director-origine-orixa.png 1200w" /></noscript>		
-	</div><!-- .post-thumbnail -->
-
-	
-		<div class="entry-meta ms-md-5 pt-md-0 pt-3">
-
-			<div class="meta-line">
-
-									<span class="favtag color-b">Publicité</span>
-				
-				<span class="posted-on t-def"><time class="entry-date published updated" datetime="2026-11-10T11:06:21+01:00">10 novembre 2026</time></span>
-
-				
-			</div>
-
-			<header class="entry-header pt-1">
-
-				<a href="https://www.blogdumoderateur.com/chatgpt-ads-que-disent-premiers-tests/" >
-					<h3 class="entry-title">ChatGPT Ads&nbsp;: que disent les premiers tests&nbsp;?</h3>				</a>
-
-			</header><!-- .entry-header -->
-
-							<div class="entry-excerpt t-def t-size-def pt-1">Lancé fin août en France, ChatGPT Ads tient-il ses promesses ? Après plusieurs semaines de tests, l'agence Origine by ORIXA livre ses premiers enseignements, entre [...]</div>
-			
-		</div>
-
-	</article><!-- #post-216116 -->
-
-</div>
-					</div><!-- .col -->
-
-				
 				<div class="col-xl-12 pager">
 					<div class="pt-md-5 pt-4 bt-1">
 						<div class='wp-pagenavi' role='navigation'>
@@ -1279,10 +1277,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<div class="col-12">
 				<div class="popular-topics">
 					<h3 class="color-w pb-3">Sujets connexes</h3>
-											<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge badge-blue">Productivité</a>
-											<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge badge-blue">Interviews</a>
 											<a href="https://www.blogdumoderateur.com/dossier/gemini/" class="badge badge-blue">Gemini</a>
+											<a href="https://www.blogdumoderateur.com/dossier/interviews/" class="badge badge-blue">Interviews</a>
 											<a href="https://www.blogdumoderateur.com/dossier/transformation-digitale/" class="badge badge-blue">Transformation digitale</a>
+											<a href="https://www.blogdumoderateur.com/dossier/productivite/" class="badge badge-blue">Productivité</a>
 											<a href="https://www.blogdumoderateur.com/dossier/meta/" class="badge badge-blue">Meta</a>
 											<a href="https://www.blogdumoderateur.com/dossier/etude/" class="badge badge-blue">Étude</a>
 											<a href="https://www.blogdumoderateur.com/dossier/strategie-digitale/" class="badge badge-blue">Stratégie digitale</a>
@@ -1330,10 +1328,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 									<a href="https://www.blogdumoderateur.com/dossier/video/" class="badge">Vidéo</a>
-									<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge">Formation</a>
-									<a href="https://www.blogdumoderateur.com/dossier/business/" class="badge">Business</a>
 									<a href="https://www.blogdumoderateur.com/dossier/reglementation/" class="badge">Réglementation</a>
-									<a href="https://www.blogdumoderateur.com/dossier/seo/" class="badge">SEO</a>
+									<a href="https://www.blogdumoderateur.com/dossier/business/" class="badge">Business</a>
+									<a href="https://www.blogdumoderateur.com/dossier/e-commerce/" class="badge">E-commerce</a>
+									<a href="https://www.blogdumoderateur.com/dossier/design/" class="badge">Design</a>
 				
 			</div>
 
@@ -1553,7 +1551,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="footer-nl" data-hwh-push-zone="footer">
 			<div data-hwh-push="nl">
 				
-<section class="newsletter-container bg-blue ">
+<section class="newsletter-container bg-green ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1570,7 +1568,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="input-div d-flex">
 						<input type="hidden" name="cord_theme" value="Club">
 						<input type="hidden" name="cord_title" value="70 000 pros sont déjà abonnés">
-						<input type="hidden" name="cord_bg_color" value="bg-blue">
+						<input type="hidden" name="cord_bg_color" value="bg-green">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-footer" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
@@ -1604,8 +1602,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/07/club-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1751,7 +1749,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1794959649|f38c052e22a8fcfe5545cf2ceaf66c9b1c9938ae144b86805eeec3867a5956a6">
+		<input type="hidden" name="hwh_form_ts" value="1795012181|b1e0c21d42bbae0c493c943b325fdb77e0ef422bc1f3e609b02e92a94c47bc65">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -2004,7 +2002,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1794959649|f38c052e22a8fcfe5545cf2ceaf66c9b1c9938ae144b86805eeec3867a5956a6">
+		<input type="hidden" name="hwh_form_ts" value="1795012181|b1e0c21d42bbae0c493c943b325fdb77e0ef422bc1f3e609b02e92a94c47bc65">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
@@ -2347,7 +2345,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 		<script type="text/rocketlazyloadscript" id="slider-js" data-rocket-src="https://unpkg.com/embla-carousel/embla-carousel.umd.js" data-rocket-defer defer></script>
 <script type="text/rocketlazyloadscript" data-rocket-type="module" data-rocket-src="https://www.blogdumoderateur.com/app/plugins/hw-slider/assets/js/embla-init.js" data-rocket-defer defer></script><script id="hwh-frontend-js-extra">
-var HWH = {"ajax_url":"https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php","rest_url":"https://www.blogdumoderateur.com/wp-json/hwh/v1/","nonce":"fab0d51218","rest_nonce":"2970d71804","is_logged_in":"","is_wordpress_user":"","current_page_type":null,"home_url":"https://www.blogdumoderateur.com/","mode":"standalone","register_url":"","captcha_enabled":"1","validation_email":"","i18n":{"error_generic":"Une erreur s'est produite. Veuillez r\u00e9essayer.","error_network":"Erreur r\u00e9seau. Veuillez v\u00e9rifier votre connexion.","error_invalid_email":"Veuillez saisir une adresse e-mail valide.","error_password_match":"Les mots de passe ne correspondent pas.","error_session_expired":"Votre session de connexion a expir\u00e9. Veuillez r\u00e9essayer.","error_no_code":"\u00c9chec de l'authentification. Aucun code re\u00e7u du fournisseur.","error_unknown_provider":"Fournisseur d'authentification inconnu.","error_token_exchange_failed":"\u00c9chec de l'authentification. Impossible d'obtenir un jeton aupr\u00e8s du fournisseur.","error_id_token_invalid":"\u00c9chec de l'authentification. Le jeton d'identit\u00e9 est invalide ou expir\u00e9.","error_userinfo_failed":"\u00c9chec de l'authentification. Impossible de r\u00e9cup\u00e9rer votre profil aupr\u00e8s du fournisseur.","error_auth_failed":"\u00c9chec de l'authentification. Veuillez r\u00e9essayer ou utiliser une autre m\u00e9thode de connexion.","error_missing_profile_claims":"\u00c9chec de l'authentification. Le fournisseur n'a pas retourn\u00e9 un profil valide.","error_account_suspended":"Votre compte a \u00e9t\u00e9 suspendu. Veuillez contacter le support.","error_email_not_verified":"Nous n'avons pas pu confirmer votre adresse e-mail aupr\u00e8s de ce service. Connectez-vous avec votre mot de passe, ou cr\u00e9ez un compte avec votre adresse e-mail.","error_account_deleted":"Ce compte n'existe plus.","error_provider_already_linked":"Ce service est d\u00e9j\u00e0 associ\u00e9 \u00e0 un autre compte. Connectez-vous avec votre mot de passe.","error_identity_taken":"Ce service n'a pas pu \u00eatre associ\u00e9 : il est d\u00e9j\u00e0 utilis\u00e9 sur un autre compte.","error_identity_link_failed":"Ce service n'a pas pu \u00eatre associ\u00e9 : il est d\u00e9j\u00e0 utilis\u00e9 sur un autre compte.","error_link_session_mismatch":"Votre session a chang\u00e9 pendant l'op\u00e9ration. Veuillez r\u00e9essayer.","error_link_failed":"Ce service n'a pas pu \u00eatre associ\u00e9. Veuillez r\u00e9essayer.","password_min_length":"Le mot de passe doit comporter au moins 8 caract\u00e8res.","password_max_length":"Le mot de passe ne doit pas d\u00e9passer 64 caract\u00e8res.","password_digit":"Le mot de passe doit contenir au moins un chiffre.","password_uppercase":"Le mot de passe doit contenir au moins une lettre majuscule.","password_special":"Le mot de passe doit contenir au moins un caract\u00e8re sp\u00e9cial.","password_lowercase":"Le mot de passe doit contenir au moins une lettre minuscule.","password_requirements_met":"Toutes les exigences sont satisfaites !","req_length":"8 caract\u00e8res minimum","req_digit":"1 chiffre","req_upper":"1 lettre majuscule","req_special":"1 caract\u00e8re sp\u00e9cial","req_lower":"1 lettre minuscule","req_state_met":"respect\u00e9","req_state_unmet":"non respect\u00e9","success_email_verified":"E-mail v\u00e9rifi\u00e9 ! Vous pouvez maintenant vous connecter.","success_forgot":"Si un compte existe avec cet e-mail, vous recevrez un lien de r\u00e9initialisation de mot de passe.","success_login":"Connexion r\u00e9ussie. Redirection en cours...","success_register":"Compte cr\u00e9\u00e9 ! Veuillez v\u00e9rifier votre e-mail.","success_logout":"Vous avez \u00e9t\u00e9 d\u00e9connect\u00e9.","success_profile_saved":"Profil enregistr\u00e9 avec succ\u00e8s.","success_password_changed":"Mot de passe modifi\u00e9 avec succ\u00e8s.","otp_title":"V\u00e9rifiez votre e-mail","otp_intro":"Saisissez le code \u00e0 6 chiffres envoy\u00e9 \u00e0 :","otp_spam_notice":"V\u00e9rifiez votre dossier spam si vous ne recevez pas l'email.","otp_verify":"V\u00e9rifier","otp_resend":"Renvoyer un nouveau code","otp_resend_wait":"Renvoi disponible \u00e0 l'expiration du minuteur","otp_resend_in":"Vous pouvez renvoyer un code dans %s s","otp_resent":"Code envoy\u00e9, v\u00e9rifiez vos e-mails.","otp_invalid_code":"Le code est incorrect.","otp_expires_in":"Le code expire dans","otp_expired":"Ce code a expir\u00e9.","otp_reason_no_password":"Connectez-vous avec un code \u00e0 usage unique envoy\u00e9 \u00e0 votre e-mail.","otp_reason_blocked":"Trop de tentatives \u00e9chou\u00e9es. Veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_strong_auth_required":"Pour votre s\u00e9curit\u00e9, veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_default":"Saisissez le code de v\u00e9rification envoy\u00e9 \u00e0 votre e-mail.","alert_title_create":"Cr\u00e9er une alerte","alert_title_manage":"G\u00e9rer mon alerte","alert_title_add":"Ajouter des th\u00e9matiques","alert_intro":"Ajoutez des th\u00e9matiques \u00e0 votre alerte quotidienne :","alert_see_more":"Voir plus","alert_save":"Enregistrer","alert_loading":"Chargement\u2026","alert_unfollow":"Ne plus suivre %s","alert_main_category":"Cat\u00e9gorie principale","alert_toast_created":"Votre alerte a bien \u00e9t\u00e9 cr\u00e9\u00e9e.","alert_toast_updated":"Votre alerte a bien \u00e9t\u00e9 mise \u00e0 jour.","alert_toast_deleted":"Votre alerte a bien \u00e9t\u00e9 supprim\u00e9e.","alert_toast_manage":"G\u00e9rez votre alerte dans l'%s.","alert_toast_settings":"Espace personnel","alert_error_unavailable":"Les alertes ne sont pas disponibles pour ce compte.","toast_login":"Vous \u00eates connect\u00e9.","toast_registered":"Votre compte a \u00e9t\u00e9 cr\u00e9\u00e9.","toast_newsletter":"Vous \u00eates inscrit \u00e0 la newsletter.","toast_newsletter_daily":"Vous avez \u00e9t\u00e9 inscrit \u00e0 la newsletter quotidienne.","toast_newsletter_weekly":"Vous avez \u00e9t\u00e9 inscrit \u00e0 la newsletter hebdomadaire.","toast_account_deleted":"Votre compte a \u00e9t\u00e9 supprim\u00e9.","captcha_not_solved":"Veuillez compl\u00e9ter la v\u00e9rification de s\u00e9curit\u00e9 avant de soumettre.","confirm_logout":"\u00cates-vous s\u00fbr(e) de vouloir vous d\u00e9connecter ?","confirm_revoke":"R\u00e9voquer cette session ?","confirm_unlink_provider":"Retirer ce moyen de connexion ?","close":"Fermer","show_password":"Afficher le mot de passe","loading":"Chargement...","submitting":"Envoi en cours...","login_account_label":"Connexion au compte %s","error_email_exists":"Cette adresse est d\u00e9j\u00e0 li\u00e9e \u00e0 un compte. Pour continuer, %1$sconnectez-vous%2$s.","sign_in":"Se connecter","nl_error":"Erreur : %s","nl_error_unknown":"Erreur inconnue","nl_error_email":"L'adresse email fournie ne semble pas \u00eatre valide. Merci de la v\u00e9rifier avant de r\u00e9essayer.","nl_error_modal":"Le module de connexion est indisponible. Merci de r\u00e9essayer.","nl_subscribed":"Vous recevrez \u00e0 pr\u00e9sent notre newsletter %s.","nl_save_frequency":"Enregistrer la fr\u00e9quence"},"sprite_url":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg","debug":"","one_tap":{"client_id":"742566187379-agskvtpehiluk1aq52beqji0uf2gl65b.apps.googleusercontent.com"},"illustrations":{"login":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"login-password":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"set-password":{"title":"Cr\u00e9er un mot de passe","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"forgot":{"title":"Mot de passe oubli\u00e9","variant":"light"},"forgot-confirmed":{"title":"V\u00e9rifiez vos emails !","variant":"light","icon":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed.svg","icon_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed-dm.svg"},"register":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"otp":{"title":"Une derni\u00e8re \u00e9tape !","variant":"light"},"register-profile":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"account-validation":{"title":"Cr\u00e9ez un mot de passe pour acc\u00e9der \u00e0 votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-gate":{"title_signin":"Connectez-vous pour acc\u00e9der \u00e0 tous nos articles","title_signup":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos articles","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium-dm.svg"},"form-activation":{"title":"Activez votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-download":{"title_signin":"Connectez-vous pour t\u00e9l\u00e9charger nos documents","title_signup":"Cr\u00e9ez votre compte pour t\u00e9l\u00e9charger nos documents","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download-dm.svg"},"form-newsletter":{"title_signin":"Connectez-vous pour recevoir la newsletter du digital","title_signup":"Cr\u00e9ez votre compte pour recevoir le meilleur de l'actualit\u00e9 digitale !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter-dm.svg"},"form-alert":{"title_signin":"Connectez-vous pour suivre les th\u00e8mes qui vous int\u00e9ressent","title_signup":"Cr\u00e9ez votre compte pour suivre les th\u00e8mes qui vous int\u00e9ressent","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-alert.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-alert-dm.svg"},"account-profile":{"title":"Profil","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile-dm.svg"},"account-newsletters":{"title":"Newsletter","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters-dm.svg"},"account-security":{"title":"S\u00e9curit\u00e9","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security-dm.svg"},"account-alert":{"title":"Alerte th\u00e9matique","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-alert.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-alert-dm.svg"}},"alert_settings_url":"https://www.blogdumoderateur.com/compte/?tab=alert","internal_pages":{"account":"https://www.blogdumoderateur.com/compte/","login":"https://www.blogdumoderateur.com/compte/connexion/"}};
+var HWH = {"ajax_url":"https://www.blogdumoderateur.com/core/wp-admin/admin-ajax.php","rest_url":"https://www.blogdumoderateur.com/wp-json/hwh/v1/","nonce":"92cf1b8fe5","rest_nonce":"4b1e8b3a55","is_logged_in":"","is_wordpress_user":"","current_page_type":null,"home_url":"https://www.blogdumoderateur.com/","mode":"standalone","register_url":"","captcha_enabled":"1","validation_email":"","i18n":{"error_generic":"Une erreur s'est produite. Veuillez r\u00e9essayer.","error_network":"Erreur r\u00e9seau. Veuillez v\u00e9rifier votre connexion.","error_invalid_email":"Veuillez saisir une adresse e-mail valide.","error_password_match":"Les mots de passe ne correspondent pas.","error_session_expired":"Votre session de connexion a expir\u00e9. Veuillez r\u00e9essayer.","error_no_code":"\u00c9chec de l'authentification. Aucun code re\u00e7u du fournisseur.","error_unknown_provider":"Fournisseur d'authentification inconnu.","error_token_exchange_failed":"\u00c9chec de l'authentification. Impossible d'obtenir un jeton aupr\u00e8s du fournisseur.","error_id_token_invalid":"\u00c9chec de l'authentification. Le jeton d'identit\u00e9 est invalide ou expir\u00e9.","error_userinfo_failed":"\u00c9chec de l'authentification. Impossible de r\u00e9cup\u00e9rer votre profil aupr\u00e8s du fournisseur.","error_auth_failed":"\u00c9chec de l'authentification. Veuillez r\u00e9essayer ou utiliser une autre m\u00e9thode de connexion.","error_missing_profile_claims":"\u00c9chec de l'authentification. Le fournisseur n'a pas retourn\u00e9 un profil valide.","error_account_suspended":"Votre compte a \u00e9t\u00e9 suspendu. Veuillez contacter le support.","error_email_not_verified":"Nous n'avons pas pu confirmer votre adresse e-mail aupr\u00e8s de ce service. Connectez-vous avec votre mot de passe, ou cr\u00e9ez un compte avec votre adresse e-mail.","error_account_deleted":"Ce compte n'existe plus.","error_provider_already_linked":"Ce service est d\u00e9j\u00e0 associ\u00e9 \u00e0 un autre compte. Connectez-vous avec votre mot de passe.","error_identity_taken":"Ce service n'a pas pu \u00eatre associ\u00e9 : il est d\u00e9j\u00e0 utilis\u00e9 sur un autre compte.","error_identity_link_failed":"Ce service n'a pas pu \u00eatre associ\u00e9 : il est d\u00e9j\u00e0 utilis\u00e9 sur un autre compte.","error_link_session_mismatch":"Votre session a chang\u00e9 pendant l'op\u00e9ration. Veuillez r\u00e9essayer.","error_link_failed":"Ce service n'a pas pu \u00eatre associ\u00e9. Veuillez r\u00e9essayer.","password_min_length":"Le mot de passe doit comporter au moins 8 caract\u00e8res.","password_max_length":"Le mot de passe ne doit pas d\u00e9passer 64 caract\u00e8res.","password_digit":"Le mot de passe doit contenir au moins un chiffre.","password_uppercase":"Le mot de passe doit contenir au moins une lettre majuscule.","password_special":"Le mot de passe doit contenir au moins un caract\u00e8re sp\u00e9cial.","password_lowercase":"Le mot de passe doit contenir au moins une lettre minuscule.","password_requirements_met":"Toutes les exigences sont satisfaites !","req_length":"8 caract\u00e8res minimum","req_digit":"1 chiffre","req_upper":"1 lettre majuscule","req_special":"1 caract\u00e8re sp\u00e9cial","req_lower":"1 lettre minuscule","req_state_met":"respect\u00e9","req_state_unmet":"non respect\u00e9","success_email_verified":"E-mail v\u00e9rifi\u00e9 ! Vous pouvez maintenant vous connecter.","success_forgot":"Si un compte existe avec cet e-mail, vous recevrez un lien de r\u00e9initialisation de mot de passe.","success_login":"Connexion r\u00e9ussie. Redirection en cours...","success_register":"Compte cr\u00e9\u00e9 ! Veuillez v\u00e9rifier votre e-mail.","success_logout":"Vous avez \u00e9t\u00e9 d\u00e9connect\u00e9.","success_profile_saved":"Profil enregistr\u00e9 avec succ\u00e8s.","success_password_changed":"Mot de passe modifi\u00e9 avec succ\u00e8s.","otp_title":"V\u00e9rifiez votre e-mail","otp_intro":"Saisissez le code \u00e0 6 chiffres envoy\u00e9 \u00e0 :","otp_spam_notice":"V\u00e9rifiez votre dossier spam si vous ne recevez pas l'email.","otp_verify":"V\u00e9rifier","otp_resend":"Renvoyer un nouveau code","otp_resend_wait":"Renvoi disponible \u00e0 l'expiration du minuteur","otp_resend_in":"Vous pouvez renvoyer un code dans %s s","otp_resent":"Code envoy\u00e9, v\u00e9rifiez vos e-mails.","otp_invalid_code":"Le code est incorrect.","otp_expires_in":"Le code expire dans","otp_expired":"Ce code a expir\u00e9.","otp_reason_no_password":"Connectez-vous avec un code \u00e0 usage unique envoy\u00e9 \u00e0 votre e-mail.","otp_reason_blocked":"Trop de tentatives \u00e9chou\u00e9es. Veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_strong_auth_required":"Pour votre s\u00e9curit\u00e9, veuillez v\u00e9rifier votre identit\u00e9.","otp_reason_default":"Saisissez le code de v\u00e9rification envoy\u00e9 \u00e0 votre e-mail.","alert_title_create":"Cr\u00e9er une alerte","alert_title_manage":"G\u00e9rer mon alerte","alert_title_add":"Ajouter des th\u00e9matiques","alert_intro":"Ajoutez des th\u00e9matiques \u00e0 votre alerte quotidienne :","alert_see_more":"Voir plus","alert_save":"Enregistrer","alert_loading":"Chargement\u2026","alert_unfollow":"Ne plus suivre %s","alert_main_category":"Cat\u00e9gorie principale","alert_toast_created":"Votre alerte a bien \u00e9t\u00e9 cr\u00e9\u00e9e.","alert_toast_updated":"Votre alerte a bien \u00e9t\u00e9 mise \u00e0 jour.","alert_toast_deleted":"Votre alerte a bien \u00e9t\u00e9 supprim\u00e9e.","alert_toast_manage":"G\u00e9rez votre alerte dans l'%s.","alert_toast_settings":"Espace personnel","alert_error_unavailable":"Les alertes ne sont pas disponibles pour ce compte.","toast_login":"Vous \u00eates connect\u00e9.","toast_registered":"Votre compte a \u00e9t\u00e9 cr\u00e9\u00e9.","toast_newsletter":"Vous \u00eates inscrit \u00e0 la newsletter.","toast_newsletter_daily":"Vous avez \u00e9t\u00e9 inscrit \u00e0 la newsletter quotidienne.","toast_newsletter_weekly":"Vous avez \u00e9t\u00e9 inscrit \u00e0 la newsletter hebdomadaire.","toast_account_deleted":"Votre compte a \u00e9t\u00e9 supprim\u00e9.","captcha_not_solved":"Veuillez compl\u00e9ter la v\u00e9rification de s\u00e9curit\u00e9 avant de soumettre.","confirm_logout":"\u00cates-vous s\u00fbr(e) de vouloir vous d\u00e9connecter ?","confirm_revoke":"R\u00e9voquer cette session ?","confirm_unlink_provider":"Retirer ce moyen de connexion ?","close":"Fermer","show_password":"Afficher le mot de passe","loading":"Chargement...","submitting":"Envoi en cours...","login_account_label":"Connexion au compte %s","error_email_exists":"Cette adresse est d\u00e9j\u00e0 li\u00e9e \u00e0 un compte. Pour continuer, %1$sconnectez-vous%2$s.","sign_in":"Se connecter","nl_error":"Erreur : %s","nl_error_unknown":"Erreur inconnue","nl_error_email":"L'adresse email fournie ne semble pas \u00eatre valide. Merci de la v\u00e9rifier avant de r\u00e9essayer.","nl_error_modal":"Le module de connexion est indisponible. Merci de r\u00e9essayer.","nl_subscribed":"Vous recevrez \u00e0 pr\u00e9sent notre newsletter %s.","nl_save_frequency":"Enregistrer la fr\u00e9quence"},"sprite_url":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icons/_sprite.svg","debug":"","one_tap":{"client_id":"742566187379-agskvtpehiluk1aq52beqji0uf2gl65b.apps.googleusercontent.com"},"illustrations":{"login":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"login-password":{"title":"Connectez-vous pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"set-password":{"title":"Cr\u00e9er un mot de passe","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"forgot":{"title":"Mot de passe oubli\u00e9","variant":"light"},"forgot-confirmed":{"title":"V\u00e9rifiez vos emails !","variant":"light","icon":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed.svg","icon_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/icon-confirmed-dm.svg"},"register":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"otp":{"title":"Une derni\u00e8re \u00e9tape !","variant":"light"},"register-profile":{"title":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos contenus !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-login-dm.svg"},"account-validation":{"title":"Cr\u00e9ez un mot de passe pour acc\u00e9der \u00e0 votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-gate":{"title_signin":"Connectez-vous pour acc\u00e9der \u00e0 tous nos articles","title_signup":"Cr\u00e9ez votre compte pour acc\u00e9der \u00e0 tous nos articles","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-premium-dm.svg"},"form-activation":{"title":"Activez votre compte","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-activation-dm.svg"},"form-download":{"title_signin":"Connectez-vous pour t\u00e9l\u00e9charger nos documents","title_signup":"Cr\u00e9ez votre compte pour t\u00e9l\u00e9charger nos documents","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-download-dm.svg"},"form-newsletter":{"title_signin":"Connectez-vous pour recevoir la newsletter du digital","title_signup":"Cr\u00e9ez votre compte pour recevoir le meilleur de l'actualit\u00e9 digitale !","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-newsletter-dm.svg"},"form-alert":{"title_signin":"Connectez-vous pour suivre les th\u00e8mes qui vous int\u00e9ressent","title_signup":"Cr\u00e9ez votre compte pour suivre les th\u00e8mes qui vous int\u00e9ressent","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-alert.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/form-alert-dm.svg"},"account-profile":{"title":"Profil","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-profile-dm.svg"},"account-newsletters":{"title":"Newsletter","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-newsletters-dm.svg"},"account-security":{"title":"S\u00e9curit\u00e9","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-security-dm.svg"},"account-alert":{"title":"Alerte th\u00e9matique","src":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-alert.svg","src_dm":"https://www.blogdumoderateur.com/app/themes/blogdumoderateur/img/hellogin/account-alert-dm.svg"}},"alert_settings_url":"https://www.blogdumoderateur.com/compte/?tab=alert","internal_pages":{"account":"https://www.blogdumoderateur.com/compte/","login":"https://www.blogdumoderateur.com/compte/connexion/"}};
 //# sourceURL=hwh-frontend-js-extra
 </script>
 <script data-minify="1" data-wp-strategy="defer" id="hwh-frontend-js" src="https://www.blogdumoderateur.com/app/cache/min/1/app/plugins/hw-hellogin/assets/js/frontend.js?ver=1794497932" data-rocket-defer defer></script>
