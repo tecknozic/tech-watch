@@ -1328,10 +1328,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 									<a href="https://www.blogdumoderateur.com/dossier/community-management/" class="badge">Community management</a>
 									<a href="https://www.blogdumoderateur.com/dossier/video/" class="badge">Vidéo</a>
-									<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge">Formation</a>
-									<a href="https://www.blogdumoderateur.com/dossier/reglementation/" class="badge">Réglementation</a>
-									<a href="https://www.blogdumoderateur.com/dossier/e-commerce/" class="badge">E-commerce</a>
 									<a href="https://www.blogdumoderateur.com/dossier/business/" class="badge">Business</a>
+									<a href="https://www.blogdumoderateur.com/dossier/formation/" class="badge">Formation</a>
+									<a href="https://www.blogdumoderateur.com/dossier/design/" class="badge">Design</a>
+									<a href="https://www.blogdumoderateur.com/dossier/reglementation/" class="badge">Réglementation</a>
 				
 			</div>
 
@@ -1551,7 +1551,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="footer-nl" data-hwh-push-zone="footer">
 			<div data-hwh-push="nl">
 				
-<section class="newsletter-container bg-blue-dark ">
+<section class="newsletter-container bg-blue100 ">
 	<div class="container-fluid">
 		<div class="corde d-flex">  
 
@@ -1568,7 +1568,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div class="input-div d-flex">
 						<input type="hidden" name="cord_theme" value="Authenticité">
 						<input type="hidden" name="cord_title" value="On filtre, on vérifie, on rédige.">
-						<input type="hidden" name="cord_bg_color" value="bg-blue-dark">
+						<input type="hidden" name="cord_bg_color" value="bg-blue100">
 						<input type="email" id="address-footer" name="address" placeholder="Votre email" data-default="Votre email" class="email" autocomplete="off">
 						<label for="address-footer" class="screen-reader-text">Votre email</label>
 												<input type="email" id="address-confirm-footer" name="address-confirm" placeholder="Confirmez votre email" data-default="Confirmez votre email" class="address address-confirm">
@@ -1602,8 +1602,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
-			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png"	/><noscript><img 
-					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgd.png" 
+			 data-lazy-src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png"	/><noscript><img 
+					src="https://f.hellowork.com/blogdumoderateur/2025/08/authenticite-bgl.png" 
 					alt="visuel newsletter" 
 					width="100%" 
 					class="d-none-dm"
@@ -1749,7 +1749,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-modal-website" aria-hidden="true">Site web</label>
 			<input type="text" id="hwh-modal-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="" aria-hidden="true">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1795097169|4618facad36ca4c48296006be20076982acd51e4a8cd9ae3d6920eacb935825f">
+		<input type="hidden" name="hwh_form_ts" value="1795126516|b2f6df7c0117e33b5dc0e2456ba64cf10bcc352180ad43836c6b4ffd51132871">
 		<input type="hidden" name="redirect_to" id="hwh-modal-redirect" value="">
 
 		<!-- User-not-found notice: shown by JS when email does not match any account. -->
@@ -2002,7 +2002,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			<label for="hwh-forgot-website">Site web</label>
 			<input type="text" id="hwh-forgot-website" name="website" tabindex="-1" autocomplete="off" data-form-type="other" value="">
 		</div>
-		<input type="hidden" name="hwh_form_ts" value="1795097169|4618facad36ca4c48296006be20076982acd51e4a8cd9ae3d6920eacb935825f">
+		<input type="hidden" name="hwh_form_ts" value="1795126516|b2f6df7c0117e33b5dc0e2456ba64cf10bcc352180ad43836c6b4ffd51132871">
 
 		<div class="hwh-group">
 			<label for="hwh-modal-forgot-email" class="form-label">
