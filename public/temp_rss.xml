@@ -9,11 +9,27 @@
             <link>https://www.bbc.co.uk/news/technology</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 15:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 01:10:49 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Why is there a shortage of 'wizard' elevator mechanics?]]></title>
+            <description><![CDATA[The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c52e8k19y94mo#0</guid>
+            <pubDate>Fri, 27 Nov 2026 00:02:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia made a big AI bet on Nvidia. What happens now? ]]></title>
+            <description><![CDATA[Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo#0</guid>
+            <pubDate>Thu, 26 Nov 2026 23:08:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Musk's plan to send a million SpaceX data satellites into space approved]]></title>
             <description><![CDATA[The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.]]></description>
@@ -101,22 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c68798vdprwpo#0</guid>
             <pubDate>Mon, 23 Nov 2026 16:12:35 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The rise and fall and rise again of Jensen Huang]]></title>
-            <description><![CDATA[Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmze750zg0jeo#0</guid>
-            <pubDate>Mon, 23 Nov 2026 15:49:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GTA 6 hacker released on licence with warning 'don't let this happen again']]></title>
-            <description><![CDATA[21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro#0</guid>
-            <pubDate>Mon, 23 Nov 2026 14:08:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png"/>
         </item>
         <item>
             <title><![CDATA[Tech Life]]></title>
@@ -565,7 +565,7 @@
 </div>
 <!--kg-card-end: html-->
 ]]></content:encoded></item>
-<item><title><![CDATA[Production AI Playbook: Audit & trace for AI agents]]></title><description><![CDATA[Reconstruct an AI decision, and retain the records needed to explain it later. Five hands-on n8n exercises: reading saved executions, tagging decisions for search, tracing tool calls with OpenTelemetry, and proving which workflow version ran.]]></description><link>https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/</link><guid isPermaLink="false">6abbdf9f3f51f300010a8210</guid><dc:creator><![CDATA[Elvis Saravia]]></dc:creator><pubDate>Tue, 24 Nov 2026 14:30:29 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/Blog-Header_Production-AI-Playbook_-Audit---Trace-for-AI-Agents-V3.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/Blog-Header_Production-AI-Playbook_-Audit---Trace-for-AI-Agents-V3.jpg" alt="Production AI Playbook: Audit &amp; trace for AI agents"><p><em>This post is part of a series that explores proven strategies and practical examples for building reliable AI systems. If you are new to n8n,&#xa0;start with the </em><a href="https://blog.n8n.io/production-ai-playbook-introduction/" rel="noreferrer"><em>introduction</em></a><em>.</em></p><h2 id="why-audit-and-trace-matter-for-ai-agents">Why Audit and Trace Matter for AI Agents</h2><p>Your refund agent has been live for a month. It reads each customer message, looks up the order, and approves small refunds on its own. Then the finance team flags a &#x24;49.99 refund that should never have gone out and asks why the agent approved it. You open the workflow to find out, but the prompt has been edited twice since then, the order record has changed, and nobody recorded which run made that decision. The reality is that the workflow in front of you today cannot explain a decision it made last month.</p><p>This is what&apos;s called the audit gap. Every team that lets an AI workflow act on its own runs into it once real requests start coming in. A decision you cannot reconstruct is a decision you will end up defending from memory. An audit trail closes the gap by keeping the evidence behind each decision, including the original inputs, the workflow version, and any human approval. Tracing connects the steps of a run across workflows and services and records their timing and status. Together, they give you the records to answer the finance team&apos;s question.</p><p>The exercises below build up that record in n8n Cloud, starting with one saved execution, then adding decision tags and traces to follow tool calls and a human approval.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-text"><b><strong style="white-space: pre-wrap;">What about the new n8n Agents?</strong></b> n8n recently introduced <a href="https://blog.n8n.io/introducing-n8n-agents/">n8n Agents</a>, a new way to build and manage agents alongside workflows. These agents already provide built-in visibility into their sessions, including execution steps and tool activity. n8n Agents can also emit agent and tool-call spans when agent tracing is enabled. This article, however, focuses on AI agents built within n8n workflows using the AI Agent node, and the observability features described here don&apos;t necessarily apply to the new n8n Agents in the same way.</div></div><h2 id="reading-one-execution">Reading One Execution</h2><p>When you question a decision, start with the saved execution. It is n8n&apos;s record of a single run, and it shows what each node received and returned. In a refund workflow, that means you can see what the order lookup returned and what the agent told the customer. Comparing the two can reveal a reply the data does not support, even when the run reports success.</p>
+<item><title><![CDATA[Production AI Playbook: Audit & trace for AI agents]]></title><description><![CDATA[Reconstruct an AI decision, and retain the records needed to explain it later. Five hands-on n8n exercises: reading saved executions, tagging decisions for search, tracing tool calls with OpenTelemetry, and proving which workflow version ran.]]></description><link>https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/</link><guid isPermaLink="false">6abbdf9f3f51f300010a8210</guid><category><![CDATA[Production AI Playbook]]></category><dc:creator><![CDATA[Elvis Saravia]]></dc:creator><pubDate>Tue, 24 Nov 2026 14:30:29 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/Blog-Header_Production-AI-Playbook_-Audit---Trace-for-AI-Agents-V3.jpg" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/09/Blog-Header_Production-AI-Playbook_-Audit---Trace-for-AI-Agents-V3.jpg" alt="Production AI Playbook: Audit &amp; trace for AI agents"><p><em>This post is </em><a href="https://blog.n8n.io/tag/production-ai-playbook/" rel="noreferrer"><em>part of a series</em></a><em> that explores proven strategies and practical examples for building reliable AI systems. If you are new to n8n,&#xa0;start with the </em><a href="https://blog.n8n.io/production-ai-playbook-introduction/" rel="noreferrer"><em>introduction</em></a><em>.</em></p><h2 id="why-audit-and-trace-matter-for-ai-agents">Why Audit and Trace Matter for AI Agents</h2><p>Your refund agent has been live for a month. It reads each customer message, looks up the order, and approves small refunds on its own. Then the finance team flags a &#x24;49.99 refund that should never have gone out and asks why the agent approved it. You open the workflow to find out, but the prompt has been edited twice since then, the order record has changed, and nobody recorded which run made that decision. The reality is that the workflow in front of you today cannot explain a decision it made last month.</p><p>This is what&apos;s called the audit gap. Every team that lets an AI workflow act on its own runs into it once real requests start coming in. A decision you cannot reconstruct is a decision you will end up defending from memory. An audit trail closes the gap by keeping the evidence behind each decision, including the original inputs, the workflow version, and any human approval. Tracing connects the steps of a run across workflows and services and records their timing and status. Together, they give you the records to answer the finance team&apos;s question.</p><p>The exercises below build up that record in n8n Cloud, starting with one saved execution, then adding decision tags and traces to follow tool calls and a human approval.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-text"><b><strong style="white-space: pre-wrap;">What about the new n8n Agents?</strong></b> n8n recently introduced <a href="https://blog.n8n.io/introducing-n8n-agents/">n8n Agents</a>, a new way to build and manage agents alongside workflows. These agents already provide built-in visibility into their sessions, including execution steps and tool activity. n8n Agents can also emit agent and tool-call spans when agent tracing is enabled. This article, however, focuses on AI agents built within n8n workflows using the AI Agent node, and the observability features described here don&apos;t necessarily apply to the new n8n Agents in the same way.</div></div><h2 id="reading-one-execution">Reading One Execution</h2><p>When you question a decision, start with the saved execution. It is n8n&apos;s record of a single run, and it shows what each node received and returned. In a refund workflow, that means you can see what the order lookup returned and what the agent told the customer. Comparing the two can reveal a reply the data does not support, even when the run reports success.</p>
 <!--kg-card-begin: html-->
 <div style="background-color: #FAFAFA; border-radius: 24px; padding: 32px; margin: 32px 0; font-family: inherit; box-shadow: inset 8px 8px 12px 0 #EAEAEA, inset -8px -8px 12px 0 #FFFFFF;">
   <div style="margin: 0 0 16px 0;"><span style="display: inline-block; width: fit-content; background-color: #FF91AC; color: #191919; font-family: &apos;n8n Baumer Mono&apos;, &apos;SF Mono&apos;, Consolas, monospace; font-size: 14px; line-height: 18px; letter-spacing: 0.02em; text-transform: uppercase; padding: 4px 12px; border-radius: 9999px; margin: 0;">Try it yourself</span></div>
@@ -744,7 +744,7 @@
   <p style="margin: 0;"><span style="font-weight: 600;">Pro tip:</span> The <code>approver</code> field in Exercise 5 is whatever the request sends. In production, take the reviewer&#x2019;s identity from an authenticated login and restrict access to the resume endpoint. When you test beyond this fixed example, use a fresh trace ID for each run.</p>
 </div>
 <!--kg-card-end: html-->
-<h2 id="streaming-audit-events">Streaming Audit Events</h2><p>Executions and traces record what a workflow did. Audit events record what people did to it, such as changing a workflow, publishing it, or signing in. Cloud Enterprise adds <strong>Settings &gt; Log Streaming</strong>, where you can send selected events to a syslog server, a webhook, or Sentry. Audit events cover workflow changes such as created, updated, published, and unpublished, user login successes and failures, and credential changes. AI node events cover tool calls, model responses, and model errors.</p><p>Choose the events you need under <strong>Settings &gt; Log Streaming &gt; Events</strong>, inspect their payloads for sensitive data, and verify delivery and retention at the destination. Each destination can strip sensitive payload data from audit events. Log streaming records events as they happen, while the saved execution holds the node data, so keep execution data when you need complete node payloads.</p><h2 id="proving-what-changed">Proving What Changed</h2><p>If an agent behaved differently last month, the workflow itself may have changed. Open <strong>Version history</strong> from the workflow&apos;s three-dot menu to inspect or download earlier definitions. n8n creates a version each time you save or restore a workflow. Changes to workflow settings do not create a version.</p><p>Starter includes the last 24 hours of workflow history, Pro includes five days, and Enterprise includes full history. Pro and Enterprise also support named versions, which n8n does not prune automatically. Name a version each time a workflow goes live so you can show which definition was running on a given date, and export any versions you need to keep longer.</p><p>Cloud Enterprise offers two additional controls. With environments enabled, workflow diffs show changes between the instance and its connected Git repository. Workflow reviews let a reviewer approve a saved version before n8n publishes it. They are available from n8n 2.37.0, an instance admin turns them on in <strong>Settings &gt; Security &amp; policies</strong>, and they are in Preview, so evaluate them before production use. A review covers the workflow&apos;s nodes and connections. Workflow settings, credentials, variables, data tables, and sub-workflows sit outside the review and change the published workflow as soon as you edit them. Enabling reviews still lets you publish directly when no review is open.</p><h2 id="design-decisions">Design Decisions</h2><p>You might have questions about your retention. We suggest choosing retention based on how far back an investigation may need to go. Execution data preserves recorded payloads, traces connect workflow activity across services, and audit events record selected changes. Align their retention and access controls.</p><p>Lower trace sampling reduces stored volume but leaves some executions unrepresented. n8n samples by trace ID, so it keeps a trace in full or drops it entirely. Keep full sampling for these exercises, then decide whether an investigation could tolerate missing traces.</p><p>Traces help investigate individual runs. Use evaluations to assess answer quality, as covered in <a href="https://blog.n8n.io/production-ai-playbook-evaluation-and-monitoring/"><u>Evaluation and Monitoring</u></a>.</p><h2 id="production-best-practices">Production Best Practices</h2><p><strong>Validate before acting: </strong>Check required fields before an agent uses a lookup, and record the structured decision your workflow selected.</p><p><strong>Verify retained evidence: </strong>Cloud execution retention depends on your plan. Starter keeps up to 2,500 executions for 7 days, Pro keeps up to 25,000 for 30 days, and Enterprise keeps up to 50,000 with no time limit; n8n removes the oldest runs once it reaches either limit. In workflow <strong>Settings</strong>, choose which successful and failed production executions to save. Preserve required executions, including their workflow versions and external configuration, before records expire, and verify retention in your trace collector.</p><p><strong>Control access: </strong>Protect saved prompts, tool results, and error details in both n8n and the collector. Approval records should identify an authenticated reviewer.</p><h2 id="tips-and-tricks">Tips and Tricks</h2><p><strong>Restart the listener: </strong>Select <strong>Execute workflow</strong> before every new request, and keep <strong>Track published workflows only</strong> off while testing traces.</p><p><strong>Check the endpoint: </strong>Cloud needs a reachable collector URL. Enter the base URL once and keep /v1/traces in the <strong>Trace path</strong>.</p><p><strong>Find resumed runs: </strong>Search by execution ID after a wait, since the resumed span may belong to another trace.</p><h2 id="whats-next">What&apos;s Next</h2><p>This post is part of a series that explores proven strategies and practical examples for building reliable AI systems. Find out what topics are already available in the Production AI Playbook <a href="https://blog.n8n.io/tag/production-ai-playbook/" rel="noreferrer">here</a>, or be the first to know when new topics are added via&#xa0;<a href="https://blog.n8n.io/tag/production-ai-playbook/rss/" rel="noreferrer">RSS</a>,&#xa0;<a href="https://www.linkedin.com/company/n8n/" rel="noopener">LinkedIn</a>&#xa0;or&#xa0;<a href="https://x.com/n8n_io" rel="noopener">X</a>.</p><p>Next in the series is Publish &amp; Scale, covering deployment options, access controls, environments, and scaling behavior.</p>]]></content:encoded></item>
+<h2 id="streaming-audit-events">Streaming Audit Events</h2><p>Executions and traces record what a workflow did. Audit events record what people did to it, such as changing a workflow, publishing it, or signing in. Cloud Enterprise adds <strong>Settings &gt; Log Streaming</strong>, where you can send selected events to a syslog server, a webhook, or Sentry. Audit events cover workflow changes such as created, updated, published, and unpublished, user login successes and failures, and credential changes. AI node events cover tool calls, model responses, and model errors.</p><p>Choose the events you need under <strong>Settings &gt; Log Streaming &gt; Events</strong>, inspect their payloads for sensitive data, and verify delivery and retention at the destination. Each destination can strip sensitive payload data from audit events. Log streaming records events as they happen, while the saved execution holds the node data, so keep execution data when you need complete node payloads.</p><h2 id="proving-what-changed">Proving What Changed</h2><p>If an agent behaved differently last month, the workflow itself may have changed. Open <strong>Version history</strong> from the workflow&apos;s three-dot menu to inspect or download earlier definitions. n8n creates a version each time you save or restore a workflow. Changes to workflow settings do not create a version.</p><p>Starter includes the last 24 hours of workflow history, Pro includes five days, and Enterprise includes full history. Pro and Enterprise also support named versions, which n8n does not prune automatically. Name a version each time a workflow goes live so you can show which definition was running on a given date, and export any versions you need to keep longer.</p><p>Cloud Enterprise offers two additional controls. With environments enabled, workflow diffs show changes between the instance and its connected Git repository. Workflow reviews let a reviewer approve a saved version before n8n publishes it. They are available from n8n 2.37.0, an instance admin turns them on in <strong>Settings &gt; Security &amp; policies</strong>, and they are in Preview, so evaluate them before production use. A review covers the workflow&apos;s nodes and connections. Workflow settings, credentials, variables, data tables, and sub-workflows sit outside the review and change the published workflow as soon as you edit them. Enabling reviews still lets you publish directly when no review is open.</p><h2 id="design-decisions">Design Decisions</h2><p>You might have questions about your retention. We suggest choosing retention based on how far back an investigation may need to go. Execution data preserves recorded payloads, traces connect workflow activity across services, and audit events record selected changes. Align their retention and access controls.</p><p>Lower trace sampling reduces stored volume but leaves some executions unrepresented. n8n samples by trace ID, so it keeps a trace in full or drops it entirely. Keep full sampling for these exercises, then decide whether an investigation could tolerate missing traces.</p><p>Traces help investigate individual runs. Use evaluations to assess answer quality, as covered in <a href="https://blog.n8n.io/production-ai-playbook-evaluation-and-monitoring/"><u>Evaluation and Monitoring</u></a>.</p><h2 id="production-best-practices">Production Best Practices</h2><p><strong>Validate before acting: </strong>Check required fields before an agent uses a lookup, and record the structured decision your workflow selected.</p><p><strong>Verify retained evidence: </strong>Cloud execution retention depends on your plan. Starter keeps up to 2,500 executions for 7 days, Pro keeps up to 25,000 for 30 days, and Enterprise keeps up to 50,000 with no time limit; n8n removes the oldest runs once it reaches either limit. In workflow <strong>Settings</strong>, choose which successful and failed production executions to save. Preserve required executions, including their workflow versions and external configuration, before records expire, and verify retention in your trace collector.</p><p><strong>Control access: </strong>Protect saved prompts, tool results, and error details in both n8n and the collector. Approval records should identify an authenticated reviewer.</p><h2 id="tips-and-tricks">Tips and Tricks</h2><p><strong>Restart the listener: </strong>Select <strong>Execute workflow</strong> before every new request, and keep <strong>Track published workflows only</strong> off while testing traces.</p><p><strong>Check the endpoint: </strong>Cloud needs a reachable collector URL. Enter the base URL once and keep /v1/traces in the <strong>Trace path</strong>.</p><p><strong>Find resumed runs: </strong>Search by execution ID after a wait, since the resumed span may belong to another trace.</p><h2 id="whats-next">What&apos;s Next</h2><p>This post is part of a series that explores proven strategies and practical examples for building reliable AI systems. Find out what topics are already available in the Production AI Playbook <a href="https://blog.n8n.io/tag/production-ai-playbook/" rel="noreferrer">here</a>, or be the first to know when new topics are added via&#xa0;<a href="https://blog.n8n.io/tag/production-ai-playbook/rss/" rel="noreferrer">RSS</a>,&#xa0;<a href="https://www.linkedin.com/company/n8n/" rel="noopener">LinkedIn</a>&#xa0;or&#xa0;<a href="https://x.com/n8n_io" rel="noopener">X</a>. </p><p>Next in the series is Publish &amp; Scale, covering deployment options, access controls, environments, and scaling behavior.</p><p><em>This playbook was written by Elvis Saravia, co-founder of DAIR.AI and AI researcher specializing in natural language processing and language models.</em></p>]]></content:encoded></item>
 <item><title><![CDATA[The Monday morning incident: your “Lead Routing” workflow stopped routing]]></title><description><![CDATA[This post covers an incident with a lead routing workflow and how n8n’s access controls help: projects and roles, SSO, and 2FA enforcement. Each one stops the incident at a different point.]]></description><link>https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/</link><guid isPermaLink="false">6b043e16c7287300014cdec5</guid><category><![CDATA[Guide]]></category><dc:creator><![CDATA[Christoffer Noring]]></dc:creator><pubDate>Mon, 23 Nov 2026 14:02:02 GMT</pubDate><media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/blog-header-monday-morning-incident.png" medium="image"/><content:encoded><![CDATA[<img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/blog-header-monday-morning-incident.png" alt="The Monday morning incident: your &#x201c;Lead Routing&#x201d; workflow stopped routing"><p><em>(A hypothetical story, but you may recognise it.)</em></p><p>It&#x2019;s 9:02 on a Monday. Sales pings the channel: new leads aren&#x2019;t reaching reps. Nothing has been assigned since Friday evening.</p><p>You open n8n. &#x201c;Lead Routing&#x201d; is right there, the workflow you built on a Sunday afternoon a year ago, with a Webhook node, a couple of nodes to enrich the lead, and a CRM node to hand it to the right rep. It&#x2019;s been doing its job ever since.</p><p>The executions list is green, <strong>but the leads are going nowhere</strong>. Somebody changed a filter in the middle of the workflow on Saturday night. Nobody on the team claims it.</p><div class="kg-card kg-callout-card kg-callout-card-grey"><div class="kg-callout-emoji">&#x1f4a1;</div><div class="kg-callout-text">This post replays that Monday three times, once per layer of n8n&#x2019;s access controls: projects and roles, SSO, and 2FA enforcement. Each one stops the incident at a different point.</div></div><p>In this post we will cover:</p><ul><li><strong>The incident</strong>, what actually went wrong and why nobody noticed</li><li><strong>Replay 1: projects and custom roles</strong>, so the edit couldn&#x2019;t happen</li><li><strong>Replay 2: SSO</strong>, so offboarding has one source of truth</li><li><strong>Replay 3: 2FA enforcement</strong>, so a leaked password alone wasn&#x2019;t enough</li></ul><h2 id="what-actually-happened">What actually happened</h2><p>After an hour of digging, the story comes together:</p><ul><li>The edit came from the account of a contractor who finished on Friday</li><li>Nobody had removed it, because n8n logins live in their own world, separate from the company directory</li><li>The password for that account had been pasted into a team Slack channel two months ago &#x201c;just so everyone can test&#x201d;</li><li>And the workflow? Any of the <strong>40 people</strong> in the instance could open and edit it</li></ul><p>So we have 40 people with edit access, 1 shared password and 1 leaver. The problem wasn&#x2019;t a bad actor. It was a normal team that grew, with nobody deciding who should have access.</p><h2 id="replay-1-%E2%80%9Censuring-the-edit-couldn%E2%80%99t-happen%E2%80%9D-using-projects-and-custom-roles">Replay 1: &#x201c;ensuring the edit couldn&#x2019;t happen&#x201d; using projects and custom roles</h2><p>Now run Saturday night again, but this time Lead Routing lives in a Revenue Ops project.</p><p>n8n organises workflows and credentials into <a href="https://docs.n8n.io/user-management/rbac/projects/">projects</a>, and <a href="https://docs.n8n.io/user-management/rbac/">role-based access control</a> decides what each person can do inside them. The contractor was never added to Revenue Ops, so when they log in on Saturday, Lead Routing isn&#x2019;t there to edit. Incident over before it starts.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/data-src-image-507941fa-47e9-4ab8-909d-159155785d74.png" class="kg-image" alt="The Monday morning incident: your &#x201c;Lead Routing&#x201d; workflow stopped routing" loading="lazy" width="2000" height="1030" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/11/data-src-image-507941fa-47e9-4ab8-909d-159155785d74.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/11/data-src-image-507941fa-47e9-4ab8-909d-159155785d74.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1600/2026/11/data-src-image-507941fa-47e9-4ab8-909d-159155785d74.png 1600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/data-src-image-507941fa-47e9-4ab8-909d-159155785d74.png 2000w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Fig 1 - project settings</span></figcaption></figure><p>Wait, why not just trust people not to touch things? Because the issue isn&#x2019;t trust, it&#x2019;s reach. With 40 people in the instance, someone eventually clicks the wrong thing. Projects mean fewer people can reach it at all.</p><h2 id="replay-2-%E2%80%9Cclosing-the-door%E2%80%9D-with-sso">Replay 2: &#x201c;closing the door&#x201d; with SSO</h2><p>OK, but what if the contractor <em>was</em> in the project? They finished on Friday, so their access should have ended on Friday.</p><p>Run it again with single sign-on. People log in to n8n through the identity provider the company already uses. n8n supports <a href="https://docs.n8n.io/user-management/saml/">SAML</a> (the usual route for Okta and Azure AD) and <a href="https://docs.n8n.io/user-management/oidc/">OIDC</a>. There&#x2019;s no separate n8n password to paste into Slack, and offboarding starts in the one place IT already manages.</p><p>There is one catch. Disabling the account in the identity provider doesn&#x2019;t remove it from n8n. According to the n8n docs, a user removed from the IdP stays logged in to n8n, so you also have to delete them in n8n yourself. Make that the second line of your offboarding checklist.</p><p>Now run Friday again with both steps done: IT disables the contractor in the identity provider and an admin deletes them in n8n. On Saturday night there is no account left to edit anything.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/data-src-image-b53a8daf-c4a9-49da-af00-24d93e849301.png" class="kg-image" alt="The Monday morning incident: your &#x201c;Lead Routing&#x201d; workflow stopped routing" loading="lazy" width="1544" height="697" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/11/data-src-image-b53a8daf-c4a9-49da-af00-24d93e849301.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/11/data-src-image-b53a8daf-c4a9-49da-af00-24d93e849301.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/data-src-image-b53a8daf-c4a9-49da-af00-24d93e849301.png 1544w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Fig 2 - Single sign on settings page</span></figcaption></figure><h2 id="replay-3-%E2%80%9Cpassword-alone-isn%E2%80%99t-enough%E2%80%9D-handled-by-2fa-enforcement">Replay 3: &#x201c;password alone isn&#x2019;t enough&#x201d; handled by 2FA enforcement</h2><p>One more version. Say SSO isn&#x2019;t set up yet, and the shared password from Slack is the only thing between the outside world and your CRM.</p><p>With <a href="https://docs.n8n.io/user-management/two-factor-auth/">2FA enforcement</a> turned on, the password alone isn&#x2019;t enough. Whoever has it also needs the second factor, which stays with the person it was issued to, not with the Slack channel.</p><p>One thing to know: enforcement applies to people who sign in with email and password. Users who sign in through SSO (SAML or OIDC) aren&#x2019;t affected by this setting.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/data-src-image-a050f247-7d41-480a-91c5-3ee1a7b5c2c0.png" class="kg-image" alt="The Monday morning incident: your &#x201c;Lead Routing&#x201d; workflow stopped routing" loading="lazy" width="1564" height="548" srcset="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w600/2026/11/data-src-image-a050f247-7d41-480a-91c5-3ee1a7b5c2c0.png 600w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1000/2026/11/data-src-image-a050f247-7d41-480a-91c5-3ee1a7b5c2c0.png 1000w, https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/2026/11/data-src-image-a050f247-7d41-480a-91c5-3ee1a7b5c2c0.png 1564w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Fig 3 - 2FA Enforcement setting</span></figcaption></figure><h2 id="let%E2%80%99s-put-it-side-by-side">Let&#x2019;s put it side by side</h2>
 <!--kg-card-begin: html-->
 <table><thead><tr><th></th><th>Without controls</th><th>With them</th></tr></thead><tbody><tr><td>Who can edit Lead Routing</td><td>40 people</td><td>The Revenue Ops project&#x2019;s members</td></tr><tr><td>What happens when a contractor leaves</td><td>Account lingers</td><td>Disabled in the identity provider, then removed from n8n</td></tr><tr><td>What a leaked password gets you</td><td>Full access</td><td>Not enough without the second factor</td></tr></tbody></table>
@@ -968,7 +968,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/perplexity-ai-la-nouvelle-ere-de-la-recherche-intelligente</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 25 Nov 2026 14:51:59 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 08:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d4e514df6df3fb9b59c_6a1961c2ab05067910a69735_6798ca8a516bc9c4180a5f03_comment-utiliser-perplexity.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d4e514df6df3fb9b59c_6a1961c2ab05067910a69735_6798ca8a516bc9c4180a5f03_comment-utiliser-perplexity.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d4e514df6df3fb9b59c_6a1961c2ab05067910a69735_6798ca8a516bc9c4180a5f03_comment-utiliser-perplexity.avif" /> ]]></content:encoded>
@@ -977,7 +977,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/agent-ia-classement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 19 Nov 2026 18:51:59 GMT</pubDate>
+  <pubDate>Mon, 23 Nov 2026 01:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fd12ee5311a5fbe1763_6a195fca490b49214621eb11_69e89ee936f25414bae0e4f1_meilleur%252520agent%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -986,7 +986,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certification-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 22 Nov 2026 06:51:59 GMT</pubDate>
+  <pubDate>Wed, 18 Nov 2026 12:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ad0cb954ff77486e6fb1a7d_certification-ia-comment-obtenir-une-certification.avif" /> ]]></content:encoded>
@@ -995,7 +995,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/jev-ai-guide-complet</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 21 Nov 2026 07:51:59 GMT</pubDate>
+  <pubDate>Sun, 22 Nov 2026 17:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6acccdaa8a003b653c189626_Jev-ai-system-one-model-typesafe-api-prix-limites.avif" /> ]]></content:encoded>
@@ -1004,7 +1004,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meta-muse-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 19 Nov 2026 05:51:59 GMT</pubDate>
+  <pubDate>Tue, 24 Nov 2026 13:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ac4b34662182032a69f60a2_Muse%20AI%20-%20Agent%20IA%20personnel%20de%20Meta.avif" /> ]]></content:encoded>
@@ -1013,7 +1013,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/world-models</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 24 Nov 2026 18:51:59 GMT</pubDate>
+  <pubDate>Wed, 25 Nov 2026 22:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9577fd3d11fcd45a4c02_D%C3%A9couvrez%20tout%20sur%20les%20world%20models%20%20d%C3%A9finition%20usages%20concrets.avif" /> ]]></content:encoded>
@@ -1022,7 +1022,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/humaniser-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 26 Nov 2026 06:51:59 GMT</pubDate>
+  <pubDate>Mon, 23 Nov 2026 04:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aab9ef26896a776a8bee6d7_comment%20rendre%20un%20texte%20g%C3%A9n%C3%A9r%C3%A9%20par%20IA%20plus%20humain.avif" /> ]]></content:encoded>
@@ -1031,7 +1031,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/certifications-marketing-digital</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 18 Nov 2026 12:51:59 GMT</pubDate>
+  <pubDate>Sat, 21 Nov 2026 21:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a9938181b4fae54aaf713dd_Certificat%20marketing%20digital%20%20la%20certification%20e%CC%81ligible%20CPF.png" /> ]]></content:encoded>
@@ -1040,7 +1040,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/ai-act</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 19 Nov 2026 18:51:59 GMT</pubDate>
+  <pubDate>Tue, 17 Nov 2026 02:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a7c2b517d737817c001f274_AI-Act-ce-qui-change-pour-entreprises-salaries-createurs-de-contenus.avif" /> ]]></content:encoded>
@@ -1049,7 +1049,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/geo-generative-engine-optimization</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 20 Nov 2026 08:51:59 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 17:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6abd230ca4ba29084c6a97b5_Blog%20image%20(6).png" /> ]]></content:encoded>
@@ -1058,7 +1058,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/skills-claude</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 19 Nov 2026 09:51:59 GMT</pubDate>
+  <pubDate>Wed, 18 Nov 2026 18:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6ab3d3a080b4731f8cd93e9b_skills-claude.avif" /> ]]></content:encoded>
@@ -1067,7 +1067,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/aeo</link>
   <description><![CDATA[]]></description>
-  <pubDate>Fri, 20 Nov 2026 18:51:59 GMT</pubDate>
+  <pubDate>Wed, 25 Nov 2026 22:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6aaa9058e7318b5aa1fc0332_comment-optimiser-AEO.avif" /> ]]></content:encoded>
@@ -1076,7 +1076,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/sora-ai-le-nouveau-generateur-de-video-d-open-ai</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 16 Nov 2026 17:51:59 GMT</pubDate>
+  <pubDate>Wed, 18 Nov 2026 19:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7fa5bf6f717454221a0a_6a196214ab05067910a6ae2a_67d3ee8f311995427aff5451_Capture-d%2525E2%252580%252599e%2525CC%252581cran-2025-03-14-a%2525CC%252580-09.52.03.avif" /> ]]></content:encoded>
@@ -1085,7 +1085,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/mistral-vs-chatgpt</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 17 Nov 2026 13:51:59 GMT</pubDate>
+  <pubDate>Tue, 17 Nov 2026 20:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a716f1fcd1741e1aa14ff_6a19619ae4361d0f5f02cb26_6814fd3eb9796ab46229064e_mistral%252520vs%252520chatgpt%2525201.avif" /> ]]></content:encoded>
@@ -1094,7 +1094,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/comparateur-dia-choisissez-intelligemment</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 21 Nov 2026 11:51:59 GMT</pubDate>
+  <pubDate>Fri, 20 Nov 2026 22:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7001382d17355361cde4_6a196042296fc11885109ac8_6853920fdb90b766ab3cb308_Comparateur%252520IA.avif" /> ]]></content:encoded>
@@ -1103,7 +1103,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/classement-generation-image-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 22 Nov 2026 07:51:59 GMT</pubDate>
+  <pubDate>Thu, 26 Nov 2026 11:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6ff13639718190c47da3_6a196017e9210a2cb96cae5d_69a56bcc05766d3e61e446d7_ge%2525CC%252581ne%2525CC%252581rateur%252520image%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1112,7 +1112,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/formation-claude-code</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sat, 21 Nov 2026 20:51:59 GMT</pubDate>
+  <pubDate>Sun, 22 Nov 2026 10:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6b0563d41fc07e012fa729f7_IA%20_%20Formation%20Claude%20Code%20(Anthropic).avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6b0563d41fc07e012fa729f7_IA%20_%20Formation%20Claude%20Code%20(Anthropic).avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6b0563d41fc07e012fa729f7_IA%20_%20Formation%20Claude%20Code%20(Anthropic).avif" /> ]]></content:encoded>
@@ -1121,7 +1121,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/quel-outil-en-ligne-creer-site-sans-coder</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 25 Nov 2026 11:51:59 GMT</pubDate>
+  <pubDate>Tue, 24 Nov 2026 09:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f8ac0efdb8646124e24_6a1961e3ba4f07b9b7257ac1_69e898e66e5cee3f0ea41dbd_cre%2525CC%252581er%252520un%252520site%252520sans%252520coder%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1130,7 +1130,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/podcasts-ia</link>
   <description><![CDATA[]]></description>
-  <pubDate>Sun, 22 Nov 2026 16:51:59 GMT</pubDate>
+  <pubDate>Tue, 24 Nov 2026 14:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7d529951390084173077_6a1961ccfc5b9ef8fd181a24_69e89baf688b4484ec38d548_top%25252010%252520meilleurs%252520podcasts%252520ia%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1139,7 +1139,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/notebooklm-des-notes-intelligentes-pour-un-travail-plus-efficace</link>
   <description><![CDATA[]]></description>
-  <pubDate>Tue, 17 Nov 2026 23:51:59 GMT</pubDate>
+  <pubDate>Sun, 22 Nov 2026 19:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7176f40b5dc9a295e46b_6a1961aae4361d0f5f02ce03_69e8a39cd53eb2389d9a22b3_NotebookLM%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1148,7 +1148,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/meilleurs-outils-ia-developpeurs</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 18 Nov 2026 20:51:59 GMT</pubDate>
+  <pubDate>Sun, 22 Nov 2026 16:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a71613ba1b34afc3dce1b_6a196173ba967271e32d4ea1_69e8a151f1d383de93ba6a79_outils%252520IA%252520pour%252520dev%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1157,7 +1157,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/les-meilleurs-outils-no-code-open-source-en-2024</link>
   <description><![CDATA[]]></description>
-  <pubDate>Thu, 26 Nov 2026 02:51:59 GMT</pubDate>
+  <pubDate>Fri, 20 Nov 2026 05:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a705af6c1891f07438b0c_6a19611cba967271e32d3bd8_69e895705e6ec4f431f4e403_outils%252520no%252520code%252520open%252520source%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1166,7 +1166,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/8-outils-dintelligence-artificielle-qui-revolutionnent-la-traduction-2025</link>
   <description><![CDATA[]]></description>
-  <pubDate>Mon, 16 Nov 2026 16:51:59 GMT</pubDate>
+  <pubDate>Sat, 21 Nov 2026 08:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a6fc4e01d8fb35e4d7fa2_6a195fb54fa09bd1d94c22cf_69e8a66d35a6d753f75c944c_outil%252520traduction%252520IA%252520e%2525CC%252581cole%252520cube.avif" /> ]]></content:encoded>
@@ -1175,7 +1175,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/top-5-des-meilleurs-outils-pour-utiliser-lintelligence-artificielle-gratuitement</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 25 Nov 2026 08:51:59 GMT</pubDate>
+  <pubDate>Wed, 25 Nov 2026 12:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6b056b576fde0fb155726bba_IA%20_%20Meilleurs%20outils%20d%27intelligence%20artificielle%20gratuits%20_%20Notre%20top%206.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6b056b576fde0fb155726bba_IA%20_%20Meilleurs%20outils%20d%27intelligence%20artificielle%20gratuits%20_%20Notre%20top%206.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6b056b576fde0fb155726bba_IA%20_%20Meilleurs%20outils%20d%27intelligence%20artificielle%20gratuits%20_%20Notre%20top%206.avif" /> ]]></content:encoded>
@@ -1184,7 +1184,7 @@
   <title><![CDATA[No Title]]></title>
   <link>https://www.ecole.cube.fr/blog/reconversion-ia---bonne-ou-mauvaise-idee</link>
   <description><![CDATA[]]></description>
-  <pubDate>Wed, 18 Nov 2026 11:51:59 GMT</pubDate>
+  <pubDate>Tue, 24 Nov 2026 03:10:58 GMT</pubDate>
   <media:content url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" medium="image" />
   <media:thumbnail url="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" />
   <content:encoded><![CDATA[<img src="https://cdn.prod.website-files.com/69fcac57f136d6a76746d9c1/6a2a7f932ee5311a5fc9ba3f_6a1961f1194a5de466688e53_69e892196e5cee3f0ea247d1_reconversion%252520IA%252520Ecole%252520Cube.avif" /> ]]></content:encoded>
@@ -1532,58 +1532,49 @@
   <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/01/ai-ia-circuit-2025-0001-150x79.jpg" /> <p>Le Club Consulting &amp; Coaching (C3) d’HEC Alumni publie, avec l’aide de plus de 50 dirigeants de cabinets de conseil, « ConseilIA : le nouvel âge du Conseil Augmenté ». Cet ouvrage décrypte la transformation ...</p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[SetRecord.ai ouvre un programme de six mois pour mesurer et corriger ce que les IA affirment sur les entreprises]]></title>
-  <link>https://www.ia-news.fr/setrecord-ai-ouvre-un-programme-de-six-mois-pour-mesurer-et-corriger-ce-que-les-ia-affirment-sur-les-entreprises/</link>
+  <title><![CDATA[DataCore annonce l’acquisition de StarWind]]></title>
+  <link>https://www.ia-news.fr/datacore-annonce-lacquisition-de-starwind/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-12-150x75.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-12-150x75.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/business-man-12-150x75.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/04/green-pdm-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/04/green-pdm-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/04/green-pdm-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Les principaux enseignements sur l’état de l’IA en entreprise en France en 2026]]></title>
-  <link>https://www.ia-news.fr/les-principaux-enseignements-sur-letat-de-lia-en-entreprise-en-france-en-2026/</link>
+  <title><![CDATA[OroCommerce 7.0 : Une plateforme d&rsquo;IA native et prête à l&#8217;emploi pour les entreprises B2B]]></title>
+  <link>https://www.ia-news.fr/orocommerce-7-0-une-plateforme-dia-native-et-prete-a-lemploi-pour-les-entreprises-b2b/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/user-businessman-10-150x75.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/user-businessman-10-150x75.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/user-businessman-10-150x75.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-04-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-04-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/10/e-shopping-04-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[ServiceNow et TDF accélèrent la transformation des opérations réseau grâce à l’IA et à l’automatisation]]></title>
-  <link>https://www.ia-news.fr/servicenow-et-tdf-accelerent-la-transformation-des-operations-reseau-grace-a-lia-et-a-lautomatisation/</link>
+  <title><![CDATA[La conférence CamundaCon 2025 Amsterdam se déroulera les 14 et 15 mai]]></title>
+  <link>https://www.ia-news.fr/la-conference-camundacon-2025-amsterdam-se-deroulera-les-14-et-15-mai/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/reseau-modern-jaune-150x75.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/reseau-modern-jaune-150x75.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/reseau-modern-jaune-150x75.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital-150x75.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital-150x75.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2021/10/ia-user-digital-150x75.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Rocket Software fait progresser l’IA agentique gouvernée sur les mainframes]]></title>
-  <link>https://www.ia-news.fr/rocket-software-fait-progresser-lia-agentique-gouvernee-sur-les-mainframes/</link>
+  <title><![CDATA[Mendo accompagne La Mutuelle Générale pour aider ses collaborateurs à intégrer les IA génératives dans leurs pratiques professionnelles]]></title>
+  <link>https://www.ia-news.fr/mendo-accompagne-la-mutuelle-generale-pour-aider-ses-collaborateurs-a-integrer-les-ia-generatives-dans-leurs-pratiques-professionnelles/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2023/10/technologies-news-actualite-lunette-code-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/11/recrutement-10-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 <item>
-  <title><![CDATA[Les Stratus Awards distinguent l’approche de Keepit fondée sur des données restaurables]]></title>
-  <link>https://www.ia-news.fr/les-stratus-awards-distinguent-lapproche-de-keepit-fondee-sur-des-donnees-restaurables/</link>
+  <title><![CDATA[Asilab remet en question la compréhension actuelle de l’intelligence artificielle]]></title>
+  <link>https://www.ia-news.fr/asilab-remet-en-question-la-comprehension-actuelle-de-lintelligence-artificielle/</link>
   <description><![CDATA[]]></description>
   <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-150x112.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-150x112.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2026/10/keepit-visuel-article-2-150x112.jpg" /> <p></p>]]></content:encoded>
-</item>
-<item>
-  <title><![CDATA[ROK Generativ : Quand l&rsquo;IA réinvente le No Code]]></title>
-  <link>https://www.ia-news.fr/rok-generativ-quand-lia-reinvente-le-no-code/</link>
-  <description><![CDATA[]]></description>
-  <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-  <media:content url="https://www.ia-news.fr/wp-content/uploads/2024/02/Intelligence-artificielle-IA-AI-0-150x79.jpg" medium="image" />
-  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2024/02/Intelligence-artificielle-IA-AI-0-150x79.jpg" />
-  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2024/02/Intelligence-artificielle-IA-AI-0-150x79.jpg" /> <p></p>]]></content:encoded>
+  <media:content url="https://www.ia-news.fr/wp-content/uploads/2025/05/Visualizer-150x79.jpg" medium="image" />
+  <media:thumbnail url="https://www.ia-news.fr/wp-content/uploads/2025/05/Visualizer-150x79.jpg" />
+  <content:encoded><![CDATA[<img src="https://www.ia-news.fr/wp-content/uploads/2025/05/Visualizer-150x79.jpg" /> <p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
